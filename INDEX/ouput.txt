@@ -1,0 +1,477 @@
+{
+  "family": "TODO",
+  "change_sets": [
+    {
+      "from": "Proto-Pai",
+      "to": "Chapai",
+      "or_contr": "Pogostick Man",
+      "src": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
+      "changes": [
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "_{w,i}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_xʷ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "! n_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʷ"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "o"
+          ],
+          "after": [
+            "u"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s"
+          ],
+          "after": [
+            "ʂ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_{ɲ,j}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{w,j}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "a_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V"
+          ],
+          "env": "",
+          "notes": [
+            "?"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Stress lost?",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Pai",
+      "to": "Paipai",
+      "or_contr": "Pogostick Man",
+      "src": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "β"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "xʷ"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "tʃ_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʷ",
+            "xʷ"
+          ],
+          "after": [
+            "k",
+            "x"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʃ",
+            "ɬ"
+          ],
+          "after": [
+            "ʂ",
+            "l"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "unstressed",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_t",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_ɲ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aw",
+            "aj"
+          ],
+          "after": [
+            "o",
+            "e"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Pai",
+      "to": "Tipai",
+      "or_contr": "Pogostick Man",
+      "src": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
+      "changes": [
+        {
+          "before": [
+            "kʷ",
+            "xʷ"
+          ],
+          "after": [
+            "q",
+            "χ"
+          ],
+          "env": "_# (the paper calls these “back velars”)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "unstressed",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "o"
+          ],
+          "env": "_K",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "n_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_xʷ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲj"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "ʔ_",
+          "notes": [
+            "∅"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V"
+          ],
+          "env": "",
+          "notes": [
+            "conditioned?)",
+            "(sporadic?"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Contrastive stress lost?",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    }
+  ]
+}
