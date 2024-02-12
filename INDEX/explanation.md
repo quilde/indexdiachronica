@@ -103,3 +103,8 @@ Replace
                 
             ]
         }
+        
+
+@from("Proto-Afro-Asiatic") + @before("dz")
+
+@chart()

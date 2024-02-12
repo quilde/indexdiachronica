@@ -9,6 +9,8 @@ use serde::{Deserialize, Serialize};
 
 use std::fs::write;
 
+
+
 #[derive(Debug, Serialize, Deserialize,)]
 struct Rule {
     before: Vec<String>,
@@ -24,7 +26,9 @@ struct ChangeSet {
     from: String,
     to: String,
     or_contr: String,
-    src: String,
+    or_src: String,
+    srces: Vec<String>,
+    notes: Vec<String>,
     changes: Vec<Rule>,
 }
 #[derive(Debug, Serialize, Deserialize,)]
@@ -58,6 +62,8 @@ fn main() {
     let change_sets_regex = Regex::new(r"(°)(?<from>.*) to (?<to>.*)\n\r\n(?<or_contr>[^,]*),(?<src>[^/\r\n]*)(?<changes>[^°]*)").unwrap();
     
     let parens = Regex::new(r"(°)(?<from>.*) to (?<to>.*)(?<changes>[^°]*)").unwrap();
+
+    let mut sources = Vec::new();
     
     let change_sets: Vec<_> = change_sets_regex
         .captures_iter(s.as_str())
@@ -65,13 +71,17 @@ fn main() {
             let from = c.name("from").unwrap().as_str().to_string();
             let to = c.name("to").unwrap().as_str().to_string();
             let or_contr = c.name("or_contr").unwrap().as_str().to_string();
-            let src = c.name("src").unwrap().as_str().to_string();
+            let or_src = c.name("src").unwrap().as_str().to_string();
             
             let changes2 = c.name("changes").unwrap().as_str().to_string();
             println!("{changes2}");
             let changes2 = notes.replace_all(changes2.as_str(), "$1 →  /;$note").to_string();
 
             let mut output: Vec<&str> = Vec::new();
+
+            let mut srces = Vec::new();
+            
+            let notes = Vec::new();
 
             let changes: Vec<_> = re
                 .captures_iter(changes2.as_str())
@@ -94,13 +104,23 @@ fn main() {
                    
                    let status = "unchecked".to_string();
                    let tags = vec!["generated".to_string()];
-                   let name_type = Vec::new();                   
+                   let name_type = Vec::new();     
+
+                   
+                   
 
                     Rule { before, after, env, notes, status, tags, name_type }
                 })
                 .collect();
 
-            ChangeSet { from, to, or_contr, src,changes }
+                if ! sources.contains(&or_src) {
+                    sources.push(or_src.clone());
+                    srces.push((sources.len() - 1).to_string());
+                   } else {
+                    srces.push(sources.iter().position(|r| r == &or_src).unwrap().to_string());
+                   }
+
+            ChangeSet { from, to, or_contr, or_src, srces,notes, changes }
         })
         .collect();
     
@@ -126,6 +146,8 @@ fn main() {
     } */
     let final_string = serde_json::to_string_pretty(&family_set).unwrap();
     println!("{}", final_string);
+
+    println!("{:#?}", sources);
     
     finish(final_string).expect("couldn't save file");
     //dbg!(change_sets);

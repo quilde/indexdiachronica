@@ -1,0 +1,1026 @@
+
+6.1 Proto-Afro-Asiatic to Proto-Omotic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+dz ʃ tʃ → ʒ s1 s2
+
+dʒ → tʃ → ʃ
+
+t → ∅ / _s#
+
+ɬ → l
+
+f → p
+
+a(ː) → e(ː) / _{ʕ,q}$
+
+q ʕ → ʔ h
+
+a → o / #Cw_{(d)l,s3}
+
+w → ∅ / #C_V, except _i(ː)
+
+ʃ → s2 / {i,j}_
+
+VNC → VːC[+voiced]
+6.1.1 Proto-Omotic to North Omotic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+u o → i e
+
+e → i / #N_C
+
+e → i / #l_{P,C[+voiced]}
+
+e → i / #b_
+
+e → i / p_r
+
+e → i / #{s,ʃ,tsʼ}_{k(w),ʔ}
+
+e o → i u / #C_P
+
+e o → i u / #(ʔ)_C
+
+e o → i u / #{k(ʼ),x}_{t(ʼ),tsʼ}
+
+e o → i u / #(ʔ)_C$
+
+e o → i u / #P_{tsʼ,tʃʼ}
+
+a → o / #{z,dʒ}_P
+
+e(ː) → i(ː) / #C[+sibilant]_{d,n,r}
+
+Cw → C
+
+Vː → V / #K[-voice]_C
+
+u → uː / #S[+voice]_P[-voice]
+
+Vː → V / #C_C$ + $(V)C$ suffix
+
+N → ∅ / V_{C[+sibilant],p}
+6.1.1.1 North Omotic to Bench
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+x1 → k
+
+x2 → k / #_
+
+x2 s3 → ∅ ʃ / V_V
+
+tʃ → ts
+
+sx → ʃ
+
+{ʔ,hx} → ∅
+
+l → d / #_VC
+
+l → n / #_VN
+
+dʼ → tʼ
+6.1.1.2 North Omotic to Dizin
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+pʼ → b
+
+z → d / Vj_
+
+tsʼ → ʒ / V_
+
+x1 → k
+
+x2 → k / _#
+
+x2 → ∅ / V_V
+
+ʒ → {tʃ,ts}
+
+ts → tʃ / _i
+
+sx → tʃ
+
+s1 → ʃ
+
+ʔ → ∅
+
+{h1,h2} → h
+
+dʼ → tʼ
+6.1.1.3 North Omotic to Kafa
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / _$#
+
+p → f / V_
+
+z zː → j dʒː
+
+s → ʃ / !V_
+
+tsʼ → tʃʼ
+
+x1 → k
+
+x2 → k / #_
+
+x2 → ∅ / V_V
+
+{s3,ʒ} → ʃ / #_
+
+{ts,ʒ} → tʃ / V_
+
+s3 → ʃ / V_V
+
+s3 → s / V_$#
+
+tsʼ → tʃʼ
+
+ɲ → n
+
+h2 → w / #_
+
+l → d / #_VC
+
+l → n / #_Vb
+
+dʼ → tʼ
+6.1.1.4 North Omotic to Maale
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / V_V
+
+p → f / V_
+
+z → d / V_
+
+z → ts / Vj_
+
+x1 → k
+
+x2 → h / #_
+
+x2 → ɡ / V_V
+
+ts tsː → s ts / V_
+
+sx → ʃ
+
+tsʼ → tʃʼ / #_
+
+tsʼ → s / V_
+
+ɲ → n
+
+h2 → w / #_
+6.1.1.5 North Omotic to Shekkacho
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / V_V
+
+pʼ → p / V_
+
+pʼ → b
+
+z → j / {#,V}_
+
+z → dʒː / Vj_
+
+zː → dʒː
+
+s → ʃ / ! V_
+
+tsʼ → tʃʼ
+
+x1 → k
+
+x2 → ∅ / V_V
+
+ʒ → ʃ / #_
+
+{s3,ts,ʒ} → s / _$#
+
+ts → ʃ / V_
+
+s3 → ʃ / #_
+
+s3 → s / V_$#
+
+s2 → ʃ
+
+s2 → {s,tʃː} / V_
+
+h1 → {h,∅} / #_
+
+h2 → w / #_
+
+l → d / #_VC
+
+l → n / #_Vb
+
+dʼ → tʼ
+6.1.1.6 North Omotic to Wolaytta
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / V_V
+
+p → f
+
+x1 → k
+
+x2 → ∅ / V_V
+
+x2 s3 → k ʃ / V_$#
+
+s → s3 / V_(V)
+
+s1 → ʃ
+
+s2 → s / V_
+
+ɲ → n
+
+l → n / #_VN
+
+dʼ → tʼ / #_
+6.1.1.7 North Omotic to Yemsa
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / V_V
+
+p → f
+
+pʼ → b
+
+z → d / V_
+
+x1 → k
+
+x2 → k / #_
+
+x2 → ∅ / V_V
+
+kʼ → k / #
+
+tʃ ʒ → ʔj s
+
+ts → s / #_
+
+sx → ʃ
+
+tʃʼ → tʃ
+
+ɲ → n
+
+h1 → {h,∅} / #_
+
+h2 → w / #_
+
+l → n / #_VC
+
+dʼ → t
+
+r → {r,lː} / V_
+6.1.1.8 North Omotic to Zayse-Zergulla
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → w / V_V
+
+pʼ → ʔp
+
+z → ts / Vj_
+
+tsʼ → sʼ
+
+x1 → k
+
+x2 → h / #_
+
+x2 → ∅ / V_V
+
+x2 → ɡ / n_
+
+x3 → ɡ / V_#
+
+tsː → ts / V_
+
+{s1,s3} → ʃ
+
+s2 → tʃ / V_
+
+tsʼ → {tʃʼ,s}
+
+ɲ → n
+
+l → n / #_VN
+6.1.2 South Omotic
+6.1.2.1 South Omotic to Aari
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+pʼ → {b,p}ʼ
+
+z → {d,z} / V_
+
+{x1,x2} → ɡ
+
+kʼ → q
+
+tʃ → ts
+
+s1 s2 s3 → ʃ z tʃ
+
+h1 → ∅
+6.1.2.2 South Omotic to Dime
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+p → f
+
+z → {d,z} / V_
+
+kʼ → ɡʼ / #_
+
+tʃ → ts
+
+ts → ʃ / _i
+
+s1 → ʃ
+
+s2 s3 → tʃː tʃ / V_
+6.2 Proto-Afro-Asiatic to Proto-Erythrean
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+tʃ dʒ → ts dz
+6.2.1 Proto-Erythrean to Proto-Cushitic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+b → m / #_Vn
+
+ɡ → k / #{d,w}V_
+
+ɣ → ɡ / #_Vx$
+6.2.1.1 Agaw
+6.2.1.1.1 Proto-Agaw to Awngi
+
+Pogostick Man, from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http://www.lingref.com>, document #2182, citing Appleyard, David L. (2006), A comparative dictionary of the Agaw languages. (Cushitic Language studies, 24.) Cologne: Rüdiger Köppe Verlag.
+
+NB: Does not include vowel developments.
+
+{x,ɢ}(ʷ) → ∅ / at word boundaries
+
+z dz ɡ → ɡ {z,dz} ɡ(ʷ)
+
+{x,ɢ}(ʷ) → ɣ(ʷ)
+
+kʼ kʷʼ → {ɣ,q} ɣʷ
+
+ʔ → ∅
+6.2.1.1.2 Proto-Agaw to Blin
+
+Pogostick Man, from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http://www.lingref.com>, document #2182, citing Appleyard, David L. (2006), A comparative dictionary of the Agaw languages. (Cushitic Language studies, 24.) Cologne: Rüdiger Köppe Verlag.
+
+NB: Does not include vowel developments.
+
+{x,ɢ}(ʷ) → ∅ / at word boundaries
+
+ɢ(ʷ) → x(ʷ) / else
+
+{ts,tʃ} z dz → ʃ d dʒ
+
+t → r / medially
+6.2.1.1.3 Proto-Agaw to Kemantney
+
+Pogostick Man, from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http://www.lingref.com>, document #2182, citing Appleyard, David L. (2006), A comparative dictionary of the Agaw languages. (Cushitic Language studies, 24.) Cologne: Rüdiger Köppe Verlag.
+
+NB: Does not include vowel developments.
+
+{x,ɢ}(ʷ) → ∅ / at word boundaries
+
+x → ∅
+
+xʷ ɢʷ → w ɣʷ
+
+{ts,tʃ} dz → ʃ dʒ
+
+t → j / medially
+
+kʼ → χʷ / #_
+
+kʷʼ → χʷ
+
+ʔ → ∅
+6.2.1.1.4 Proto-Agaw to Xamtanga
+
+Pogostick Man, from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http://www.lingref.com>, document #2182, citing Appleyard, David L. (2006), A comparative dictionary of the Agaw languages. (Cushitic Language studies, 24.) Cologne: Rüdiger Köppe Verlag.
+
+NB: Does not include vowel developments.
+
+{x,ɢ} → ∅
+
+{xʷ,ɢʷ} → ∅ / at word boundaries
+
+{xʷ,ɢʷ} → w / else
+
+ts tʃ dz → sʼ tʃʼ z
+
+k → {k(ʼ),q}
+
+kʼ → {χʷ,qʷ} / #_
+
+kʼ → q / else
+
+ʔ → ∅
+6.2.2 Proto-Erythrean to Proto-North Erythrean
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+V{j,w} → Vː / C_C
+
+eː oː → i u
+
+{e,o} {i,u} → a ə
+
+$VC$ → $CV$ “(This last rule turned all VC roots into CV)”
+
+in → ŋ / #_C
+6.2.2.1 Proto-North Erythrean to Proto-Chadic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+aː → a
+
+ħ ʕ → h ʔ
+
+ts dz {t,ts}ʼ tʃʼ → s z sʼ ʃʼ
+
+ŋ → ∅ / V_{ts,q}
+6.2.2.1.1 Proto-North Erythrean to Proto-Boreafrasian
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+sʼ → s
+
+h → ħ / #_Vs
+
+z → d / “when another sibilant is in the word nearby” and (word-finally?) when “noun-stem final”
+
+{ɲ,ŋw} → n
+
+V → ∅ / _# “in nominals”
+
+ŋ → ∅ / #_CV
+6.2.2.1.2 Proto-Boreafrasian to Egypto-Berber
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+ə → i
+
+h → ħ / _Vz
+
+l → ∅ / #{d,tʼ}_VC
+
+ɬ → s / #_VC
+
+{ʃ,ts,z} dz tʃ {tʼ,tʃʼ} dʒ → s z ts tsʼ dʒ
+
+f → p / #_V{Z,C[-voice],r}
+
+pʼ → p
+
+p → b / #dlV_
+
+xw → ɣw → ħ
+
+k → ɡ / _{w,j}
+
+CVʕ → ħʔ / ! C = ɡw
+
+ɡwVq → ʕ
+
+k(w) → tʃ / #_Vt
+
+ɡ(w) → dʒ / #_Vd
+
+xV → k / _h
+
+Kʷ → K
+
+q → ∅ / _i
+
+q → i / #_V{Z,C[+dental]}
+
+ʕ → i / #_VR
+
+qu → w / _{f,s} (sporadic)
+
+ʔ → ʕ / _V{n,r,ɡ}
+
+{h,ħ,q} → ʕ / C[+voice]_V
+
+q → ʔ / _C[+dental]
+
+{h,ħ} → ʔ / KV_
+
+q → ʔ / h_
+
+qh → ʕħ
+
+ɣ → ʕ / ħ_
+
+tlʼ → dl / #_Vħr
+
+O[+lateral] → O[+palatal]
+
+r → l / #_V(V)O[+labial]
+
+r → ʔ / C_{t,w,j}# ! C = {ɡ,m,n,r,w,ʃ,x}
+
+l → j / #_iC ?
+
+l → r / #nV_C
+
+l → n
+6.2.2.1.3 Ancient Egyptian to Coptic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+n → l / #_Vb
+
+n → l / #_(V){s,ʃ,h}V{m,b}#
+
+n → l / #_V{m,b}{s,ʃ,h}
+
+n → l / #_Vk
+
+n → l / mV_C
+
+n → l / CV_m
+
+r → l / #(C)_c(C)# ?
+
+r → l / #o_#
+6.2.2.1.4 Proto-Boreafrasian to Proto-Semitic
+
+Mecislau, from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)
+
+q → ʕ
+
+{i,u} → ə
+
+tlʼ → ɬ / _C[+sibilant]
+
+ɣ → ɡ / #_VCH
+
+ɣ(w) → ɡ / #_Vx
+
+kʼ(w) → k / #dlV_
+
+w → ∅ / _C
+
+ʔ → ʕ / #K_r#
+6.2.2.1.5 Proto-Semitic to Classical Arabic
+
+Khavaragh
+
+p → f
+
+θˤ kˤ → ðˤ q
+
+ɡ → ɡʲ → dʒ
+
+s → {ʃ,h} / in “anaphora and certain derivational prefixes. . .[t]his is common to many other Semitic languages as well”
+
+ʃ → s
+
+ɬ → ʃ
+
+ɬˤ → dɬˤ → dˤ
+
+m → n / “in certain contexts, notably in the nunation”
+
+V{j,w}V → aː / some sequences
+
+“assimilation in some of the longer vowels”
+6.2.2.1.6 Classical Arabic to Cypriot Arabic
+
+Pogostick Man, from Borg, Alexander (1985), Cypriot Arabic
+
+NB: Changes may not be in chronological order.
+
+S[+ voice] → S[- voice]
+
+q → k
+
+S → [+ voice] / {V,R}_V
+
+S → [+ voice] / V_R
+
+{θ,ð} {f,v} {x,ɣ} voicing neutralized “in contact with other fricatives”
+
+S → F / _S
+
+f θ → p t / F_
+
+k x → c ç / _{j,E}
+
+{l,n}j → jː
+
+j → c / {O,r}
+
+j → ∅ / Ck_$
+
+nx → xː
+
+∅ → F / N_{O,r} ! m_f
+
+{ðˤ,dˤ} → ð
+
+tˤ sˤ → s t
+
+ʔ h → ∅ x
+
+∅ → i / #al$_z
+
+dʒ → z
+
+ɣ ħ → ʕ x
+
+w → v / _%
+
+wː → v
+
+j(ː) → ∅ / V_E
+
+uː iː → oː eː / _ʕ
+
+uː iː → oː eː / ʕ_
+
+i → a / Cˤ_{q,ɣ,ʕ}
+
+i → a / {q,ɣ,ʕ}_Cˤ
+
+a → i / _C(C), when stressed
+
+u → o / _{ʕ,ɣ,x,r}
+
+u → o / {ʕ,ɣ,x,r}_
+
+{u,a,i} → ∅ / _%, when stressed (short only)
+
+Epenthesis in medial CCC clusters, often so that the syllable break is between the second and third consonants
+
+uː iː → u i
+
+a → a / _C[+ dorsal]
+
+a → e / _(C)(C)i(ː)
+
+aː → a / ! _#
+
+a → {u,o} / P_
+
+a → {u,o} / _P
+
+a → ∅ / _t, in the feminine ending
+
+aːʔ → e / E(C)(C)_#
+
+aː → a / {Cˤ,w}_#
+6.2.2.1.7 Classical Arabic to Egyptian Arabic
+
+Pogostick Man, from Brustad, Kristen, Mahmoud Al-Batal, and Abbas Al-Tonsi (2010), Alif Baa: Introduction to Letters and Sounds, 3rd. Ed.; http://en.wikipedia.org/wiki/Egyptian_Arabic; At-Tonsi, Abbas, Heba Salem, and Nevenka Korica Sullivan (2013), Umm al-Dunya: Advanced Egyptian Colloquial Arabic; and from correspondence with my own Arabic professor, who is a native speaker of this dialect
+
+θ ð → t d / “usually in numbers or cases where a short vowel has been deleted and it’s in contact with another stop, e.g. CA/MSA kaˈθiːr → EA ktiːr”
+
+θ ð → s z
+
+ðˤ → zˤ, occasionally tˤ
+
+dˤ → zˤ (seems to be a sporadic change only affecting a few words, e.g. CA/MSA ˈdˤaːbitˤ → EA ˈzˤaːbitˤ)
+
+dʒ → ɡ
+
+i u → e o / only when short, ! _#
+
+u → {o,u} / short only, _#
+
+aj aw → eː oː / in U[+closed]
+
+Vː → V / C_C{ː,C}V
+
+V → Vː / C_CV in U[-stress]
+
+V → Vː / _# + suffix
+
+{i,u} → ∅ / VC_CV when unstressed (short only)
+
+Some other short-vowel deletions
+
+∅ → e / CVCC_CVCV (applies across word boundaries)
+
+Resyllabification across word boundaries to prevent vowel-initial syllables
+r gains emphatic status except when next to i, and even then it’s becoming more common in that environment
+
+a(ː) → ɑ(ː) / near emphatics
+
+a(ː) → ɑ(ː) / if ɑ(ː) is elsewhere in the word
+
+a(ː) → æ(ː) / else (sometimes it seems more like ɛ(ː) to me)
+
+q → ʔ / except in several words, two of which are al-Qâhira and musîqâ
+
+Two consecutive consonants assimilate to the voicing of the second (obstruents only?)
+
+{{s,z}(ˤ),ʒ}ʃ → ʃː
+
+ʕ → {ʕ̞,ħ} / _h
+
+Final short vowel loss
+
+h → ∅ / in coda
+6.2.2.1.8 Classical Arabic to Coastal Hadhrami Arabic
+
+Pogostick Man, from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hadhrami_Arabic&oldid=580700095>
+
+dʒ → j, occasionally ɟ or dʒ in educated speech
+
+θ ð ðˤ → t d dˤ
+
+q → ɡ
+
+aː → eː / in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions
+
+aː → æː / when not near emphatics
+
+Epenthesis (it seems i is preferred) breaking up final consonant clusters
+
+V[-long] → ∅ / #C_C, in some words
+6.2.2.1.9 Classical Arabic to Wādı̄ Hadhrami Arabic
+
+Pogostick Man, from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hadhrami_Arabic&oldid=580700095>
+
+dʒ → j, occasionally ɟ or dʒ in educated speech
+
+θ ð ðˤ → t d dˤ
+
+dˤ q → ðˤ ɡ
+
+aː → eː / in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions
+
+aː → æː / when not near emphatics
+
+Epenthesis (it seems i is preferred) breaking up final consonant clusters
+
+V[-long] → ∅ / #C_C (sporadic?)
+6.2.2.1.10 Classical Arabic to Hassāniyya Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Hass%C4%81n%C4%ABya
+
+NB: Words borrowed directly from CA/MSA seem to be immune to these changes. Also, unless otherwise noted, changes also apply to geminate consonants.
+
+dˤ q → ðˤ ɡ
+
+f θ → v z̪ (the article isn’t exactly clear on what this second phone is)
+
+ʔ → {∅,j,w} / depending on the environment; again, the article is unclear
+
+x → χ (conjectured based upon the following but not outright stated in the article)
+
+ɣː → ʁː → qː
+
+ɣ → {ʁ,q}
+
+V[-long] → ∅ / C_{C,#} (except for the feminine marker)
+
+aj aw → eː(ʲ) oː(ʷ) (sometimes, the article is unclear)
+
+The conditioning on these next two changes is conjectured based upon the source:
+
+— j w → i u / #_CV
+
+— j w → iː uː / #_CC
+6.2.2.1.11 Classical Arabic to Iraqi Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Varieties_of_Arabic
+
+k q → tʃ {ɡ,q} (ɡ is more common)
+
+ɡʲ → j / in southern regions
+
+ʕ → ʔˤ
+
+aj aw → eː oː
+6.2.2.1.12 Classical Arabic to Eastern Libyan Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Libyan_Arabic
+
+dˤ dʒ q → ðˤ ʒ ɡ
+
+aj aw → e(ː,j) o(ː,w)
+
+∅ → ə / C_CV(ː,V)CC
+6.2.2.1.13 Classical Arabic to Western Libyan Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Libyan_Arabic
+
+q dʒ → ɡ ʒ
+
+θ ð(ˤ) → t d(ˤ)
+
+aj aw → eː oː
+
+∅ → ə / CCV(ː,V)C_C
+6.2.2.1.14 Classical Arabic to Moroccan Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Moroccan_Arabic
+
+t → t͜s / plain t only, distinguishable from the sequence ts
+
+{a,i} → ə / short only; the change of short a blocked for some speakers before ħ ʕ
+
+u → ə / short only, except near “a labial or velar consonant”
+
+C[+labial/+velar] → ʷ / adjacent to short u
+
+{u,ə} → ∅ / ! C_C(C)#
+
+ə → a / near ħ ʕ
+
+ə → ɐ / near emphatics
+
+ə → ɪ / else
+
+u → ʊ / short only
+
+aː iː uː → ɑː eː oː / near emphatics
+
+aː → æː / else
+
+C1ˤC2 → C1C2ˤ
+
+Cˤ → C / {#,V}_V
+
+q → {q,ɡ}
+
+dʒ → {d,ɡ} / if s or z occur somewhere else in the word
+
+dʒ → ʒ / else
+
+s → ʃ / if ʃ is somewhere in the stem after it
+
+z → ʒ / if ʒ is somewhere in the stem after it
+6.2.2.1.15 Classical Arabic to Sa‘idi Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Sa%27idi_Arabic
+
+NB: This is probably highly incomplete.
+
+q x ɣ → ɡ χ ʁ
+6.2.2.1.16 Classical Arabic to Sudanese Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Sudanese_Arabic
+
+dʒ q → ɡʲ ɢ
+
+u(ː) → {ɵ,o}(ː)
+6.2.2.1.17 Classical Arabic to Tunisian Arabic
+
+Pogostick Man, from http://en.wikipedia.org/wiki/Tunisian_Arabic
+
+a → ɑ / near emphatics
+
+a → ɛ (sometimes)
+
+dˤ q → ðˤ {ɡ,q}
+
+dʒ x ɣ → ʒ χ ʁ
+
+aj aw → {aj,eː,iː aw,oː,uː}
+
+Vː → V[-long] / _# (except as below)
+
+V(ː) → Vː / in accented or stressed monosyllables
+6.2.2.1.18 Proto-Semitic to Biblical Hebrew
+
+Maknas, from http://www.adath-shalom.ca/history_of_hebrew.htm “and other sources”
+
+NB: ə could be realized as an ultrashort [a], [e], or [o] depending on its surroundings.
+
+θ θˤ ð ɬ ɬˤ → ʃ ʃˤ z s sˤ
+
+x ɣ kˤ → ħ ʕ q
+
+Some mergers involving j and w
+Frequent h-dropping
+
+Stressed-vowel correspondences:
+
+— aː → oː / ! _#
+
+— i iː u uː → eə iːə oə uːə / _R
+
+— iː → eː / _#
+
+— a → aː / _$
+
+— a → {a,ɛ} (not common)
+
+— i u → e a / _R{$,#} (in verbs)
+
+— i u → e o / _C{$,#} (in verbs)
+
+— i → eː oː / else
+
+— aw → aːw
+
+— aj → eː / _$
+
+— aj → ɛː / _#
+
+Unstressed-vowel correspondences:
+
+— {o,u}(ː) → iː / _$%oː
+
+— oː → uː
+
+— a → ∅ / _#
+
+— a → _$%%(…)”
+
+— a → ə / _R if ə in an adjacent syllable
+
+— a → ə / R_ if ə in an adjacent syllable
+
+— i → ə / _R if a frontal allophone of ə in an adjacent syllable
+
+— i → ə / R_ if a frontal allophone of ə in an adjacent syllable
+
+— u → ə / _R if a backed allophone of ə in an adjacent syllable
+
+— u → ə / R_ if a backed allophone of ə in an adjacent syllable
+
+— i → a / _R
+
+— i → a / R_
+
+— a i → aː eː / _%”
+
+— u → ɔ / _C{$,#}
+
+— u → ∅ / ! _Cː
+
+— aj aw → eː oː
+
+p b t d k ɡ → b v θ ð x ɣ / non-intial singletons
+
+ʕ → ∅ / _{$,#}
+
+j → ∅ / E_ (not clear whether only short E or long also)
+
+at → aː / _# (in feminine noun endings)
+6.2.2.1.19 Biblical Hebrew to Modern Israeli Hebrew
+
+Maknas, from http://www.adath-shalom.ca/history_of_hebrew.htm “and other sources”
+
+NB: These aren’t all true sound changes per se, since Modern Israeli Hebrew was artificially revived and is an amalgamation of dialects.
+
+{e(ː),ɛ} → ɛ
+
+Vː → V[-long]
+
+ə → a / near gutturals
+
+ə → ɛ / #R_C or when breaking up what would otherwise be a three-consonant cluster; in the case of two schwas, only the first one is dropped
+
+ə → ∅ / else
+
+w θ ð ɣ → v t d ɡ (sometimes)
+
+x ʕ → χ ʔ
+
+sˤ tˤ ħ q → s t χ k
+
+h → ∅ / _#
+
+ʔ → ∅ / ! in onset of U[+stress] (colloquial)
+
+h → ∅ (colloquial)
+
+Cː → C[-long]
+
+r → ʁ 

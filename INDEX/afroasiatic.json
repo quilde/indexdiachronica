@@ -1,0 +1,7389 @@
+{
+  "family": "TODO",
+  "change_sets": [
+    {
+      "from": "Proto-Afro-Asiatic",
+      "to": "Proto-Omotic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "dz",
+            "ʃ",
+            "tʃ"
+          ],
+          "after": [
+            "ʒ",
+            "s1",
+            "s2"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ",
+            "→",
+            "tʃ"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_s#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɬ"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "f"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a(ː)"
+          ],
+          "after": [
+            "e(ː)"
+          ],
+          "env": "_{ʕ,q}$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q",
+            "ʕ"
+          ],
+          "after": [
+            "ʔ",
+            "h"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "o"
+          ],
+          "env": "#Cw_{(d)l,s3}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "w"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "#C_V, except _i(ː)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʃ"
+          ],
+          "after": [
+            "s2"
+          ],
+          "env": "{i,j}_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "VNC"
+          ],
+          "after": [
+            "VːC[+voiced]"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Omotic",
+      "to": "North Omotic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "u",
+            "o"
+          ],
+          "after": [
+            "i",
+            "e"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#N_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#l_{P,C[+voiced]}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#b_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "p_r",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#{s,ʃ,tsʼ}_{k(w),ʔ}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e",
+            "o"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#C_P",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e",
+            "o"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#(ʔ)_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e",
+            "o"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#{k(ʼ),x}_{t(ʼ),tsʼ}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e",
+            "o"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#(ʔ)_C$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e",
+            "o"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#P_{tsʼ,tʃʼ}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "o"
+          ],
+          "env": "#{z,dʒ}_P",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "e(ː)"
+          ],
+          "after": [
+            "i(ː)"
+          ],
+          "env": "#C[+sibilant]_{d,n,r}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Cw"
+          ],
+          "after": [
+            "C"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V"
+          ],
+          "env": "#K[-voice]_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "uː"
+          ],
+          "env": "#S[+voice]_P[-voice]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V"
+          ],
+          "env": "#C_C$ +$(V)C$ suffix",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "N"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_{C[+sibilant],p}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Bench",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2",
+            "s3"
+          ],
+          "after": [
+            "∅",
+            "ʃ"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "sx"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ʔ,hx}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "#_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_VN",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "tʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Dizin",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "b"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "Vj_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "ʒ"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʒ"
+          ],
+          "after": [
+            "{tʃ,ts}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "_i",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "sx"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s1"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{h1,h2}"
+          ],
+          "after": [
+            "h"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "tʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Kafa",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "_$#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "f"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z",
+            "zː"
+          ],
+          "after": [
+            "j",
+            "dʒː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "!V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "tʃʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{s3,ʒ}"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ts,ʒ}"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s3"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s3"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "V_$#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "tʃʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲ"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h2"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "#_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_Vb",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "tʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Maale",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "f"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "Vj_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "h"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts",
+            "tsː"
+          ],
+          "after": [
+            "s",
+            "ts"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "sx"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "tʃʼ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲ"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h2"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Shekkacho",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "b"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "j"
+          ],
+          "env": "{#,V}_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "dʒː"
+          ],
+          "env": "Vj_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "zː"
+          ],
+          "after": [
+            "dʒː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "! V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "tʃʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʒ"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{s3,ts,ʒ}"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "_$#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s3"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s3"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "V_$#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s2"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s2"
+          ],
+          "after": [
+            "{s,tʃː}"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h1"
+          ],
+          "after": [
+            "{h,∅}"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h2"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "#_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_Vb",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "tʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Wolaytta",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "f"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2",
+            "s3"
+          ],
+          "after": [
+            "k",
+            "ʃ"
+          ],
+          "env": "V_$#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s"
+          ],
+          "after": [
+            "s3"
+          ],
+          "env": "V_(V)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s1"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s2"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲ"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_VN",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "tʼ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Yemsa",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "f"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "b"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ",
+            "ʒ"
+          ],
+          "after": [
+            "ʔj",
+            "s"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "sx"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃʼ"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲ"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h1"
+          ],
+          "after": [
+            "{h,∅}"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h2"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʼ"
+          ],
+          "after": [
+            "t"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "{r,lː}"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "North Omotic",
+      "to": "Zayse-Zergulla",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "ʔp"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "Vj_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "sʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x1"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "h"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x2"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "n_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x3"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "V_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsː"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{s1,s3}"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s2"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tsʼ"
+          ],
+          "after": [
+            "{tʃʼ,s}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɲ"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "#_VN",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "South Omotic",
+      "to": "Aari",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "{b,p}ʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "{d,z}"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x1,x2}"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "q"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s1",
+            "s2",
+            "s3"
+          ],
+          "after": [
+            "ʃ",
+            "z",
+            "tʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h1"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "South Omotic",
+      "to": "Dime",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "f"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "{d,z}"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "ɡʼ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tʃ"
+          ],
+          "after": [
+            "ts"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "_i",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s1"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s2",
+            "s3"
+          ],
+          "after": [
+            "tʃː",
+            "tʃ"
+          ],
+          "env": "V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Afro-Asiatic",
+      "to": "Proto-Erythrean",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "tʃ",
+            "dʒ"
+          ],
+          "after": [
+            "ts",
+            "dz"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Erythrean",
+      "to": "Proto-Cushitic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "b"
+          ],
+          "after": [
+            "m"
+          ],
+          "env": "#_Vn",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɡ"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#{d,w}V_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "#_Vx$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Agaw",
+      "to": "Awngi",
+      "or_contr": "Pogostick Man",
+      "src": " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Does not include vowel developments.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x,ɢ}(ʷ)"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "at word boundaries",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z",
+            "dz",
+            "ɡ"
+          ],
+          "after": [
+            "ɡ",
+            "{z,dz}",
+            "ɡ(ʷ)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x,ɢ}(ʷ)"
+          ],
+          "after": [
+            "ɣ(ʷ)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ",
+            "kʷʼ"
+          ],
+          "after": [
+            "{ɣ,q}",
+            "ɣʷ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Agaw",
+      "to": "Blin",
+      "or_contr": "Pogostick Man",
+      "src": " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Does not include vowel developments.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x,ɢ}(ʷ)"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "at word boundaries",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɢ(ʷ)"
+          ],
+          "after": [
+            "x(ʷ)"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ts,tʃ}",
+            "z",
+            "dz"
+          ],
+          "after": [
+            "ʃ",
+            "d",
+            "dʒ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "r"
+          ],
+          "env": "medially",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Agaw",
+      "to": "Kemantney",
+      "or_contr": "Pogostick Man",
+      "src": " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Does not include vowel developments.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x,ɢ}(ʷ)"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "at word boundaries",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "xʷ",
+            "ɢʷ"
+          ],
+          "after": [
+            "w",
+            "ɣʷ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ts,tʃ}",
+            "dz"
+          ],
+          "after": [
+            "ʃ",
+            "dʒ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "j"
+          ],
+          "env": "medially",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "χʷ"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʷʼ"
+          ],
+          "after": [
+            "χʷ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Agaw",
+      "to": "Xamtanga",
+      "or_contr": "Pogostick Man",
+      "src": " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Does not include vowel developments.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{x,ɢ}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{xʷ,ɢʷ}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "at word boundaries",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{xʷ,ɢʷ}"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts",
+            "tʃ",
+            "dz"
+          ],
+          "after": [
+            "sʼ",
+            "tʃʼ",
+            "z"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "k"
+          ],
+          "after": [
+            "{k(ʼ),q}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "{χʷ,qʷ}"
+          ],
+          "env": "#_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ"
+          ],
+          "after": [
+            "q"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Erythrean",
+      "to": "Proto-North Erythrean",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "V{j,w}"
+          ],
+          "after": [
+            "Vː"
+          ],
+          "env": "C_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "eː",
+            "oː"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{e,o}",
+            "{i,u}"
+          ],
+          "after": [
+            "a",
+            "ə"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "$VC$"
+          ],
+          "after": [
+            "$CV$"
+          ],
+          "env": "",
+          "notes": [
+            "CV)”",
+            "into",
+            "roots",
+            "VC",
+            "all",
+            "turned",
+            "rule",
+            "last",
+            "“(This"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "in"
+          ],
+          "after": [
+            "ŋ"
+          ],
+          "env": "#_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-North Erythrean",
+      "to": "Proto-Chadic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ħ",
+            "ʕ"
+          ],
+          "after": [
+            "h",
+            "ʔ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ts",
+            "dz",
+            "{t,ts}ʼ",
+            "tʃʼ"
+          ],
+          "after": [
+            "s",
+            "z",
+            "sʼ",
+            "ʃʼ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ŋ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_{ts,q}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-North Erythrean",
+      "to": "Proto-Boreafrasian",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "sʼ"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h"
+          ],
+          "after": [
+            "ħ"
+          ],
+          "env": "#_Vs",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "d"
+          ],
+          "env": "“when another sibilant is in the word nearby” and (word-finally?) when “noun-stem final”",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ɲ,ŋw}"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_# “in nominals”",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ŋ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "#_CV",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Boreafrasian",
+      "to": "Egypto-Berber",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h"
+          ],
+          "after": [
+            "ħ"
+          ],
+          "env": "_Vz",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "#{d,tʼ}_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɬ"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "#_VC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ʃ,ts,z}",
+            "dz",
+            "tʃ",
+            "{tʼ,tʃʼ}",
+            "dʒ"
+          ],
+          "after": [
+            "s",
+            "z",
+            "ts",
+            "tsʼ",
+            "dʒ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "f"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "#_V{Z,C[-voice],r}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "pʼ"
+          ],
+          "after": [
+            "p"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p"
+          ],
+          "after": [
+            "b"
+          ],
+          "env": "#dlV_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "xw",
+            "→",
+            "ɣw"
+          ],
+          "after": [
+            "ħ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "k"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "_{w,j}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "CVʕ"
+          ],
+          "after": [
+            "ħʔ"
+          ],
+          "env": "! C = ɡw",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɡwVq"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "k(w)"
+          ],
+          "after": [
+            "tʃ"
+          ],
+          "env": "#_Vt",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɡ(w)"
+          ],
+          "after": [
+            "dʒ"
+          ],
+          "env": "#_Vd",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "xV"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "_h",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Kʷ"
+          ],
+          "after": [
+            "K"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_i",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#_V{Z,C[+dental]}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʕ"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#_VR",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "qu"
+          ],
+          "after": [
+            "w"
+          ],
+          "env": "_{f,s} (sporadic)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "_V{n,r,ɡ}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{h,ħ,q}"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "C[+voice]_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "ʔ"
+          ],
+          "env": "_C[+dental]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{h,ħ}"
+          ],
+          "after": [
+            "ʔ"
+          ],
+          "env": "KV_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "ʔ"
+          ],
+          "env": "h_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "qh"
+          ],
+          "after": [
+            "ʕħ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "ħ_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tlʼ"
+          ],
+          "after": [
+            "dl"
+          ],
+          "env": "#_Vħr",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "O[+lateral]"
+          ],
+          "after": [
+            "O[+palatal]"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#_V(V)O[+labial]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "ʔ"
+          ],
+          "env": "C_{t,w,j}# ! C = {ɡ,m,n,r,w,ʃ,x}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "j"
+          ],
+          "env": "#_iC ?",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "r"
+          ],
+          "env": "#nV_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "l"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Ancient Egyptian",
+      "to": "Coptic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#_Vb",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#_(V){s,ʃ,h}V{m,b}#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#_V{m,b}{s,ʃ,h}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#_Vk",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "mV_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "n"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "CV_m",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#(C)_c(C)# ?",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "l"
+          ],
+          "env": "#o_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Boreafrasian",
+      "to": "Proto-Semitic",
+      "or_contr": "Mecislau",
+      "src": " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{i,u}"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tlʼ"
+          ],
+          "after": [
+            "ɬ"
+          ],
+          "env": "_C[+sibilant]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "#_VCH",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ(w)"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "#_Vx",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "kʼ(w)"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "#dlV_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "w"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "ʕ"
+          ],
+          "env": "#K_r#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Semitic",
+      "to": "Classical Arabic",
+      "or_contr": "Khavaragh\r\n\r\np → f\r\n\r\nθˤ kˤ → ðˤ q\r\n\r\nɡ → ɡʲ → dʒ\r\n\r\ns → {ʃ",
+      "src": "h} ",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "ʃ"
+          ],
+          "after": [
+            "s"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɬ"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɬˤ",
+            "→",
+            "dɬˤ"
+          ],
+          "after": [
+            "dˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "m"
+          ],
+          "after": [
+            "n"
+          ],
+          "env": "“in certain contexts, notably in the nunation”",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V{j,w}V"
+          ],
+          "after": [
+            "aː"
+          ],
+          "env": "some sequences",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "“assimilation in some of the longer vowels”",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Cypriot Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from Borg, Alexander (1985), Cypriot Arabic",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Changes may not be in chronological order.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "S[+voice]"
+          ],
+          "after": [
+            "S[-voice]"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "S"
+          ],
+          "after": [
+            "[+voice]"
+          ],
+          "env": "{V,R}_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "S"
+          ],
+          "after": [
+            "[+voice]"
+          ],
+          "env": "V_R",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "{θ,ð} {f,v} {x,ɣ} voicing neutralized “in contact with other fricatives”",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "S"
+          ],
+          "after": [
+            "F"
+          ],
+          "env": "_S",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "f",
+            "θ"
+          ],
+          "after": [
+            "p",
+            "t"
+          ],
+          "env": "F_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "k",
+            "x"
+          ],
+          "after": [
+            "c",
+            "ç"
+          ],
+          "env": "_{j,E}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{l,n}j"
+          ],
+          "after": [
+            "jː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j"
+          ],
+          "after": [
+            "c"
+          ],
+          "env": "{O,r}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "Ck_$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "nx"
+          ],
+          "after": [
+            "xː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "∅"
+          ],
+          "after": [
+            "F"
+          ],
+          "env": "N_{O,r} ! m_f",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{ðˤ,dˤ}"
+          ],
+          "after": [
+            "ð"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "tˤ",
+            "sˤ"
+          ],
+          "after": [
+            "s",
+            "t"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ",
+            "h"
+          ],
+          "after": [
+            "∅",
+            "x"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "∅"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "#al$_z",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "z"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ",
+            "ħ"
+          ],
+          "after": [
+            "ʕ",
+            "x"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "w"
+          ],
+          "after": [
+            "v"
+          ],
+          "env": "_%",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "wː"
+          ],
+          "after": [
+            "v"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j(ː)"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "V_E",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "uː",
+            "iː"
+          ],
+          "after": [
+            "oː",
+            "eː"
+          ],
+          "env": "_ʕ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "uː",
+            "iː"
+          ],
+          "after": [
+            "oː",
+            "eː"
+          ],
+          "env": "ʕ_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "Cˤ_{q,ɣ,ʕ}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "{q,ɣ,ʕ}_Cˤ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "i"
+          ],
+          "env": "_C(C), when stressed",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "o"
+          ],
+          "env": "_{ʕ,ɣ,x,r}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "o"
+          ],
+          "env": "{ʕ,ɣ,x,r}_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{u,a,i}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_%, when stressed (short only)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Epenthesis in medial CCC clusters, often so that the syllable break is between the second and third consonants",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "uː",
+            "iː"
+          ],
+          "after": [
+            "u",
+            "i"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "_C[+dorsal]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "e"
+          ],
+          "env": "_(C)(C)i(ː)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "! _#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "{u,o}"
+          ],
+          "env": "P_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "{u,o}"
+          ],
+          "env": "_P",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_t, in the feminine ending",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aːʔ"
+          ],
+          "after": [
+            "e"
+          ],
+          "env": "E(C)(C)_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "{Cˤ,w}_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Egyptian Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from Brustad, Kristen, Mahmoud Al-Batal, and Abbas Al-Tonsi (2010), Alif Baa: Introduction to Letters and Sounds, 3rd. Ed.; http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "θ",
+            "ð",
+            "→",
+            "t",
+            "d",
+            "/",
+            "“usually",
+            "in",
+            "numbers",
+            "or",
+            "cases",
+            "where",
+            "a",
+            "short",
+            "vowel",
+            "has",
+            "been",
+            "deleted",
+            "and",
+            "it’s",
+            "in",
+            "contact",
+            "with",
+            "another",
+            "stop,",
+            "e.g.",
+            "CA/MSA",
+            "kaˈθiːr"
+          ],
+          "after": [
+            "EA",
+            "ktiːr”"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "θ",
+            "ð"
+          ],
+          "after": [
+            "s",
+            "z"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ðˤ"
+          ],
+          "after": [
+            "zˤ,"
+          ],
+          "env": "",
+          "notes": [
+            "tˤ",
+            "occasionally"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dˤ",
+            "→",
+            "zˤ",
+            "(seems",
+            "to",
+            "be",
+            "a",
+            "sporadic",
+            "change",
+            "only",
+            "affecting",
+            "a",
+            "few",
+            "words,",
+            "e.g.",
+            "CA/MSA",
+            "ˈdˤaːbitˤ"
+          ],
+          "after": [
+            "EA",
+            "ˈzˤaːbitˤ)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i",
+            "u"
+          ],
+          "after": [
+            "e",
+            "o"
+          ],
+          "env": "only when short, ! _#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "{o,u}"
+          ],
+          "env": "short only, _#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "eː",
+            "oː"
+          ],
+          "env": "in U[+closed]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V"
+          ],
+          "env": "C_C{ː,C}V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V"
+          ],
+          "after": [
+            "Vː"
+          ],
+          "env": "C_CV in U[-stress]",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V"
+          ],
+          "after": [
+            "Vː"
+          ],
+          "env": "_# +suffix",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{i,u}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "VC_CV when unstressed (short only)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Some other short-vowel deletions",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "∅"
+          ],
+          "after": [
+            "e"
+          ],
+          "env": "CVCC_CVCV (applies across word boundaries)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Resyllabification across word boundaries to prevent vowel-initial syllablesr gains emphatic status except when next to i, and even then it’s becoming more common in that environment",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a(ː)"
+          ],
+          "after": [
+            "ɑ(ː)"
+          ],
+          "env": "near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a(ː)"
+          ],
+          "after": [
+            "ɑ(ː)"
+          ],
+          "env": "if ɑ(ː) is elsewhere in the word",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a(ː)"
+          ],
+          "after": [
+            "æ(ː)"
+          ],
+          "env": "else (sometimes it seems more like ɛ(ː) to me)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "ʔ"
+          ],
+          "env": "except in several words, two of which are al-Qâhira and musîqâ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Two consecutive consonants assimilate to the voicing of the second (obstruents only?)",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{{s,z}(ˤ),ʒ}ʃ"
+          ],
+          "after": [
+            "ʃː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʕ"
+          ],
+          "after": [
+            "{ʕ̞,ħ}"
+          ],
+          "env": "_h",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Final short vowel loss",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "in coda",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Coastal Hadhrami Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "j,"
+          ],
+          "env": "",
+          "notes": [
+            "speech",
+            "educated",
+            "in",
+            "dʒ",
+            "or",
+            "ɟ",
+            "occasionally"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "θ",
+            "ð",
+            "ðˤ"
+          ],
+          "after": [
+            "t",
+            "d",
+            "dˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "eː"
+          ],
+          "env": "in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "æː"
+          ],
+          "env": "when not near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Epenthesis (it seems i is preferred) breaking up final consonant clusters",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V[-long]"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "#C_C, in some words",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Wādı̄ Hadhrami Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "j,"
+          ],
+          "env": "",
+          "notes": [
+            "speech",
+            "educated",
+            "in",
+            "dʒ",
+            "or",
+            "ɟ",
+            "occasionally"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "θ",
+            "ð",
+            "ðˤ"
+          ],
+          "after": [
+            "t",
+            "d",
+            "dˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dˤ",
+            "q"
+          ],
+          "after": [
+            "ðˤ",
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "eː"
+          ],
+          "env": "in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "æː"
+          ],
+          "env": "when not near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Epenthesis (it seems i is preferred) breaking up final consonant clusters",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V[-long]"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "#C_C (sporadic?)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Hassāniyya Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: Words borrowed directly from CA/MSA seem to be immune to these changes. Also, unless otherwise noted, changes also apply to geminate consonants.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dˤ",
+            "q"
+          ],
+          "after": [
+            "ðˤ",
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "f",
+            "θ"
+          ],
+          "after": [
+            "v",
+            "z̪"
+          ],
+          "env": "",
+          "notes": [
+            "is)",
+            "phone",
+            "second",
+            "this",
+            "what",
+            "on",
+            "clear",
+            "exactly",
+            "isn’t",
+            "article",
+            "(the"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "{∅,j,w}"
+          ],
+          "env": "depending on the environment",
+          "notes": [
+            " again, the article is unclear"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x"
+          ],
+          "after": [
+            "χ"
+          ],
+          "env": "",
+          "notes": [
+            "article)",
+            "the",
+            "in",
+            "stated",
+            "outright",
+            "not",
+            "but",
+            "following",
+            "the",
+            "upon",
+            "based",
+            "(conjectured"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣː",
+            "→",
+            "ʁː"
+          ],
+          "after": [
+            "qː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɣ"
+          ],
+          "after": [
+            "{ʁ,q}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V[-long]"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "C_{C,#} (except for the feminine marker)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "eː(ʲ)",
+            "oː(ʷ)"
+          ],
+          "env": "",
+          "notes": [
+            "unclear)",
+            "is",
+            "article",
+            "the",
+            "(sometimes,"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "The conditioning on these next two changes is conjectured based upon the source:",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j",
+            "w"
+          ],
+          "after": [
+            "i",
+            "u"
+          ],
+          "env": "#_CV",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j",
+            "w"
+          ],
+          "after": [
+            "iː",
+            "uː"
+          ],
+          "env": "#_CC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Iraqi Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "k",
+            "q"
+          ],
+          "after": [
+            "tʃ",
+            "{ɡ,q}"
+          ],
+          "env": "",
+          "notes": [
+            "common)",
+            "more",
+            "is",
+            "(ɡ"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ɡʲ"
+          ],
+          "after": [
+            "j"
+          ],
+          "env": "in southern regions",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʕ"
+          ],
+          "after": [
+            "ʔˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "eː",
+            "oː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Eastern Libyan Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "dˤ",
+            "dʒ",
+            "q"
+          ],
+          "after": [
+            "ðˤ",
+            "ʒ",
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "e(ː,j)",
+            "o(ː,w)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "∅"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "C_CV(ː,V)CC",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Western Libyan Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "q",
+            "dʒ"
+          ],
+          "after": [
+            "ɡ",
+            "ʒ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "θ",
+            "ð(ˤ)"
+          ],
+          "after": [
+            "t",
+            "d(ˤ)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "eː",
+            "oː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "∅"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "CCV(ː,V)C_C",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Moroccan Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "t"
+          ],
+          "after": [
+            "t͜s"
+          ],
+          "env": "plain t only, distinguishable from the sequence ts",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{a,i}"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "short only",
+          "notes": [
+            " the change of short a blocked for some speakers before ħ ʕ"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "short only, except near “a labial or velar consonant”",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "C[+labial/+velar]"
+          ],
+          "after": [
+            "ʷ"
+          ],
+          "env": "adjacent to short u",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{u,ə}"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "! C_C(C)#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "near ħ ʕ",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "ɐ"
+          ],
+          "env": "near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "ɪ"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "ʊ"
+          ],
+          "env": "short only",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː",
+            "iː",
+            "uː"
+          ],
+          "after": [
+            "ɑː",
+            "eː",
+            "oː"
+          ],
+          "env": "near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "æː"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "C1ˤC2"
+          ],
+          "after": [
+            "C1C2ˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Cˤ"
+          ],
+          "after": [
+            "C"
+          ],
+          "env": "{#,V}_V",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q"
+          ],
+          "after": [
+            "{q,ɡ}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "{d,ɡ}"
+          ],
+          "env": "if s or z occur somewhere else in the word",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ"
+          ],
+          "after": [
+            "ʒ"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "s"
+          ],
+          "after": [
+            "ʃ"
+          ],
+          "env": "if ʃ is somewhere in the stem after it",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "z"
+          ],
+          "after": [
+            "ʒ"
+          ],
+          "env": "if ʒ is somewhere in the stem after it",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Sa‘idi Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: This is probably highly incomplete.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "q",
+            "x",
+            "ɣ"
+          ],
+          "after": [
+            "ɡ",
+            "χ",
+            "ʁ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Sudanese Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "dʒ",
+            "q"
+          ],
+          "after": [
+            "ɡʲ",
+            "ɢ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u(ː)"
+          ],
+          "after": [
+            "{ɵ,o}(ː)"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Classical Arabic",
+      "to": "Tunisian Arabic",
+      "or_contr": "Pogostick Man",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "ɑ"
+          ],
+          "env": "near emphatics",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "ɛ"
+          ],
+          "env": "",
+          "notes": [
+            "(sometimes)"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dˤ",
+            "q"
+          ],
+          "after": [
+            "ðˤ",
+            "{ɡ,q}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "dʒ",
+            "x",
+            "ɣ"
+          ],
+          "after": [
+            "ʒ",
+            "χ",
+            "ʁ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "{aj,eː,iː",
+            "aw,oː,uː}"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V[-long]"
+          ],
+          "env": "_# (except as below)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "V(ː)"
+          ],
+          "after": [
+            "Vː"
+          ],
+          "env": "in accented or stressed monosyllables",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Proto-Semitic",
+      "to": "Biblical Hebrew",
+      "or_contr": "Maknas",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: ə could be realized as an ultrashort [a], [e], or [o] depending on its surroundings.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "θ",
+            "θˤ",
+            "ð",
+            "ɬ",
+            "ɬˤ"
+          ],
+          "after": [
+            "ʃ",
+            "ʃˤ",
+            "z",
+            "s",
+            "sˤ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x",
+            "ɣ",
+            "kˤ"
+          ],
+          "after": [
+            "ħ",
+            "ʕ",
+            "q"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Some mergers involving j and wFrequent h-dropping",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Stressed-vowel correspondences:",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aː"
+          ],
+          "after": [
+            "oː"
+          ],
+          "env": "! _#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i",
+            "iː",
+            "u",
+            "uː"
+          ],
+          "after": [
+            "eə",
+            "iːə",
+            "oə",
+            "uːə"
+          ],
+          "env": "_R",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "iː"
+          ],
+          "after": [
+            "eː"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "aː"
+          ],
+          "env": "_$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "{a,ɛ}"
+          ],
+          "env": "",
+          "notes": [
+            "common)",
+            "(not"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i",
+            "u"
+          ],
+          "after": [
+            "e",
+            "a"
+          ],
+          "env": "_R{$,#} (in verbs)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i",
+            "u"
+          ],
+          "after": [
+            "e",
+            "o"
+          ],
+          "env": "_C{$,#} (in verbs)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "eː"
+          ],
+          "env": "else",
+          "notes": [
+            "oː"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aw"
+          ],
+          "after": [
+            "aːw"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj"
+          ],
+          "after": [
+            "eː"
+          ],
+          "env": "_$",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj"
+          ],
+          "after": [
+            "ɛː"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "Unstressed-vowel correspondences:",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{o,u}(ː)"
+          ],
+          "after": [
+            "iː"
+          ],
+          "env": "_$%oː",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "oː"
+          ],
+          "after": [
+            "uː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "_$%%(…)”"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "_R if ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "R_ if ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "_R if a frontal allophone of ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "R_ if a frontal allophone of ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "_R if a backed allophone of ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "ə"
+          ],
+          "env": "R_ if a backed allophone of ə in an adjacent syllable",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "_R",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "i"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "R_",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "a",
+            "i"
+          ],
+          "after": [
+            "aː",
+            "eː"
+          ],
+          "env": "_%”",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "ɔ"
+          ],
+          "env": "_C{$,#}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "u"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "! _Cː",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "aj",
+            "aw"
+          ],
+          "after": [
+            "eː",
+            "oː"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "p",
+            "b",
+            "t",
+            "d",
+            "k",
+            "ɡ"
+          ],
+          "after": [
+            "b",
+            "v",
+            "θ",
+            "ð",
+            "x",
+            "ɣ"
+          ],
+          "env": "non-intial singletons",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʕ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_{$,#}",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "j"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "E_ (not clear whether only short E or long also)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "at"
+          ],
+          "after": [
+            "aː"
+          ],
+          "env": "_# (in feminine noun endings)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    },
+    {
+      "from": "Biblical Hebrew",
+      "to": "Modern Israeli Hebrew",
+      "or_contr": "Maknas",
+      "src": " from http:",
+      "notes": [],
+      "changes": [
+        {
+          "before": [],
+          "after": [],
+          "env": "",
+          "notes": [
+            "NB: These aren’t all true sound changes per se, since Modern Israeli Hebrew was artificially revived and is an amalgamation of dialects.",
+            ""
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "{e(ː),ɛ}"
+          ],
+          "after": [
+            "ɛ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Vː"
+          ],
+          "after": [
+            "V[-long]"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "a"
+          ],
+          "env": "near gutturals",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "ɛ"
+          ],
+          "env": "#R_C or when breaking up what would otherwise be a three-consonant cluster",
+          "notes": [
+            " in the case of two schwas, only the first one is dropped"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ə"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "else",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "w",
+            "θ",
+            "ð",
+            "ɣ"
+          ],
+          "after": [
+            "v",
+            "t",
+            "d",
+            "ɡ"
+          ],
+          "env": "",
+          "notes": [
+            "(sometimes)"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "x",
+            "ʕ"
+          ],
+          "after": [
+            "χ",
+            "ʔ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "sˤ",
+            "tˤ",
+            "ħ",
+            "q"
+          ],
+          "after": [
+            "s",
+            "t",
+            "χ",
+            "k"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_#",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "! in onset of U[+stress] (colloquial)",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "h"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "",
+          "notes": [
+            "(colloquial)"
+          ],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "Cː"
+          ],
+          "after": [
+            "C[-long]"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "r"
+          ],
+          "after": [
+            "ʁ"
+          ],
+          "env": "",
+          "notes": [],
+          "status": "unchecked",
+          "tags": [
+            "generated"
+          ],
+          "name_type": []
+        }
+      ]
+    }
+  ]
+}

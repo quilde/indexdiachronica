@@ -1,0 +1,181 @@
+
+9.1.1 Proto-Vietic to Muong Khen
+
+Pogostick Man, from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974>; Wikipedia contributors (2012), “Vietnamese Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797>; Gage, William W. (1985), “Glottal Stops and Vietnamese Tonogenesis”. Oceanic Linguistics Special Publications 20:21 – 36; and Thompson, Laurence C. (1979?), “More on Viet-Muong Tonal Developments”
+
+Tonogenesis
+Reg 	A 	B 	C 	d
+1 	mid level 	low rising1 	high rising 	high rising
+2 	low falling 	high-mid2 	high-mid2 	high-mid2
+
+1. “Constricted” (laryngealized?)
+2. Terminates in a glottal stop if no final stop
+
+Presyllables don’t seem to have affected Muong much.
+
+Initials:
+
+s → h
+
+cʰ → s
+
+tʰ → h (Only seems to have occurred with first-register tones)
+
+{kʰ,ɡʱ} → x (Presyllables don’t seem to have affected this much)
+
+m n → b d (Only seems to have occurred with first-register tones)
+
+{pj,bj} {tj,dj} {cj,ɟj} → b d j
+
+ɓ ɗ → b d (Only seems to have occurred with first-register tones)
+
+{n̥j,nj,ɲ̊j,ɲj} → ɲ j
+
+N[-voiced] W[-voiced] → N[+voiced] W[+voiced]
+
+(h)ə{p,b} → t / _l
+
+m → ∅ / _l
+
+tɹ → tʰ
+
+Miscellanea:
+
+w → ∅ / tʰV_k (conjectured)
+9.1.2 Proto-Vietic to Middle Vietnamese
+
+Pogostick Man, from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974>; Wikipedia contributors (2012), “Vietnamese Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797>; Gage, William W. (1985), “Glottal Stops and Vietnamese Tonogenesis”. Oceanic Linguistics Special Publications 20:21 – 36; and Thompson, Laurence C. (1979?), “More on Viet-Muong Tonal Developments”
+
+Initials:
+
+bʱ {tʰ,dʱ} {t*ʰ,d*ʱ} {kʰ,ɡʱ} → pʰ t tʰ kʰ (after *kʰ *ɡʱ, only first-register tones may occur)
+
+(h)ə{p,b} (h)ə{t,d} (h)ə{c,ɟ} (h)ə{k,ɡ} → β dʲ ɟ ɡ
+
+{pj,bj} {tj,dj} {cj,ɟj} → {β,w} dʲ ɟ
+
+ɓ ɗ → m n (For some reason it seems that only first-register tones can occur in this environment)
+
+{n̥j,nj,ɲ̊j,ɲj} → ɲ (Thompson appears to me to have hedged a bit on the last one; based on other evidence in the paper I’m sticking this one as a palatal nasal)
+
+tʃ → Ω (This is my own notation. I don’t have a clue what the intermediate form was; became something else in different dialects)
+
+N[-voiced] W[-voiced] → N[+voiced] W[+voiced]
+
+((h)ə)p d → b t / _l
+
+t → ∅ / _ɹ (only first-register tones can occur in this environment)
+
+t*ʰ d ɡ → tʰ t k / _w
+
+s → t(ʰ?)
+
+{əkʰ,əɡɦj} → ɟ (I think Thompson implied this was just a bit of a kludge)
+
+Finals:
+
+l → ∅ / {i,e}_
+
+l → j / else
+
+c ɲ → t n / ! E_ (apparently the precursor to Vietnamese short *a was treated as a short vowel here)
+
+Thompson seems to list some changes as affecting Modern Vietnamese but I was unsure of where to put them so they’ll go here:
+
+a ɔ → ɨə uə
+
+In the original those first vowels were underlined.
+9.1.2.1 Middle Vietnamese to Hanoi Vietnamese
+
+Pogostick Man, from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974>; Wikipedia contributors (2012), “Vietnamese Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797>; Gage, William W. (1985), “Glottal Stops and Vietnamese Tonogenesis”. Oceanic Linguistics Special Publications 20:21 – 36; and Thompson, Laurence C. (1979?), “More on Viet-Muong Tonal Developments”
+
+Tonogenesis
+Reg 	A 	B/D 	C
+1 	mid trailing 	high rising 	dipping
+2 	low trailing 	low dropping1 	high rising2
+
+1. Tense when _S#; laryngealized elsewhere
+2. Laryngealized
+
+Initials:
+
+pʰ → f
+
+kʰ → x (only seems to have occurred with first-register tones)
+
+{β,w} {dʲ,ɟ} → v z
+
+ɹ → z (only seems to have occurred with first-register tones)
+
+bl → z
+
+ml → mɲ → ɲ (Thompson seems to indicate that this may have become [l] as well; only seems to have occurred with second-register tones)
+
+Ω cʰ → s tɕ
+
+Vowels:
+
+ɨ → i / _(ə)w
+
+ɛ → a / _C[+palatal]
+
+Miscellanea:
+
+w → ∅ / tV_wk (conjectured)
+9.1.2.2 Middle Vietnamese to Saigon Vietnamese
+
+Pogostick Man, from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974>; Wikipedia contributors (2012), “Vietnamese Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797>; Gage, William W. (1985), “Glottal Stops and Vietnamese Tonogenesis”. Oceanic Linguistics Special Publications 20:21 – 36; and Thompson, Laurence C. (1979?), “More on Viet-Muong Tonal Developments”
+
+Tonogenesis
+Reg 	A 	B/D 	C
+1 	mid trailing 	high rising 	mid rising
+2 	low trailing 	low1 	high rising2
+
+1. Level when _S#; dipping otherwise
+2. Laryngealized
+
+Initials:
+
+pʰ → f
+
+kʰ → x (only seems to have occurred with first-register tones)
+
+{β,w} → bj~vj~v
+
+{bl,tl} → ʈ (?)
+
+dʲ ɟ → z j
+
+m → ∅ / _l
+
+Ω cʰ → ʂ ʈʂ
+
+ɹ → ʐ (sometimes?)
+
+Finals:
+
+c ɲ t n → t n k ŋ / a_ (short /a/ only)
+
+c ɲ → t n / {i,e}_
+
+{c,ɲ} → ∅ / else
+
+Vowels:
+
+ə → ∅ / {i,ɨ}_{p,m.w}
+
+ə → ∅ / ɨ_j
+
+ə → ∅ / u_{m,j}
+
+The contrast between short /a/ and short /ə/ is neutralized when _w{k,ŋ}
+
+a → aː / _{w,j}
+
+ə(ː) ɛ → ɨ ɛə / _K
+
+ɛ → a / _C[+palatal]
+
+Miscellanea:
+
+w → ∅ / tV_wk (conjectured) 
