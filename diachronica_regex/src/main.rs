@@ -1,3 +1,4 @@
+
 use std::fs::File;
 use std::io::BufReader;
 use std::io::Read;
@@ -147,7 +148,10 @@ fn main() {
     let final_string = serde_json::to_string_pretty(&family_set).unwrap();
     println!("{}", final_string);
 
-    println!("{:#?}", sources);
+    println!("{:#?}", &sources);
+    let final_sources = serde_json::to_string_pretty(&sources).unwrap();
+
+    std::fs::write::<&str, &[u8]>(r"C:/Users\ensel\Documents\nils\Programming\indexdiachronica\INDEX\sources.txt", final_sources.as_ref()).unwrap();
     
     finish(final_string).expect("couldn't save file");
     //dbg!(change_sets);
