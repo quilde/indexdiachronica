@@ -5,7 +5,10 @@
       "from": "Proto-Vietic",
       "to": "Muong Khen",
       "or_contr": "Pogostick Man",
-      "src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "srces": [
+        "s0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -16,9 +19,9 @@
             "TonogenesisReg \tA \tB \tC \td",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -30,9 +33,9 @@
             "1. “Constricted” (laryngealized?)2. Terminates in a glottal stop if no final stop",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -44,9 +47,9 @@
             "Presyllables don’t seem to have affected Muong much.",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -59,9 +62,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -74,9 +77,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -96,11 +99,11 @@
             "have",
             "to",
             "seems",
-            "(Only"
+            "([-sonorant]nly"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -120,11 +123,11 @@
             "to",
             "seem",
             "don’t",
-            "(Presyllables"
+            "([+labial,bilabial]resyllables"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -146,11 +149,11 @@
             "have",
             "to",
             "seems",
-            "(Only"
+            "([-sonorant]nly"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -167,9 +170,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -191,11 +194,11 @@
             "have",
             "to",
             "seems",
-            "(Only"
+            "([-sonorant]nly"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -210,26 +213,26 @@
           "notes": [
             "j"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N[-voiced]",
-            "W[-voiced]"
+            "[+nasal -voiced]",
+            "[+semivowel -voiced]"
           ],
           "after": [
-            "N[+voiced]",
-            "W[+voiced]"
+            "[+nasal +voiced]",
+            "[+semivowel +voiced]"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -242,9 +245,9 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -257,9 +260,9 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -272,9 +275,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -286,9 +289,9 @@
             "Miscellanea:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -299,11 +302,11 @@
           "after": [
             "∅"
           ],
-          "env": "tʰV_k (conjectured)",
+          "env": "tʰ[+vowel]_k (conjectured)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -313,7 +316,10 @@
       "from": "Proto-Vietic",
       "to": "Middle Vietnamese",
       "or_contr": "Pogostick Man",
-      "src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "srces": [
+        "0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -324,9 +330,9 @@
             "Initials:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -354,9 +360,9 @@
             "*kʰ",
             "(after"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -375,9 +381,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -394,9 +400,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -424,11 +430,11 @@
             "it",
             "reason",
             "some",
-            "(For"
+            "([+fricative]or"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -468,11 +474,11 @@
             "me",
             "to",
             "appears",
-            "(Thompson"
+            "([+plosive -voice]hompson"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -505,28 +511,28 @@
             "own",
             "my",
             "is",
-            "(This"
+            "([+plosive -voice]his"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N[-voiced]",
-            "W[-voiced]"
+            "[+nasal -voiced]",
+            "[+semivowel -voiced]"
           ],
           "after": [
-            "N[+voiced]",
-            "W[+voiced]"
+            "[+nasal +voiced]",
+            "[+semivowel +voiced]"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -541,9 +547,9 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -556,9 +562,9 @@
           ],
           "env": "_ɹ (only first-register tones can occur in this environment)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -575,9 +581,9 @@
           ],
           "env": "_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -590,9 +596,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -614,13 +620,13 @@
             "was",
             "this",
             "implied",
-            "Thompson",
+            "[+plosive -voice]hompson",
             "think",
             "(I"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -632,9 +638,9 @@
             "Finals:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -647,9 +653,9 @@
           ],
           "env": "{i,e}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -662,9 +668,9 @@
           ],
           "env": "else",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -677,11 +683,11 @@
             "t",
             "n"
           ],
-          "env": "! E_ (apparently the precursor to Vietnamese short *a was treated as a short vowel here)",
+          "env": "! [+vowel +front]_ (apparently the precursor to [+vowel]ietnamese short *a was treated as a short vowel here)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -693,9 +699,9 @@
             "Thompson seems to list some changes as affecting Modern Vietnamese but I was unsure of where to put them so they’ll go here:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -710,9 +716,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -724,9 +730,9 @@
             "In the original those first vowels were underlined.",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -736,7 +742,10 @@
       "from": "Middle Vietnamese",
       "to": "Hanoi Vietnamese",
       "or_contr": "Pogostick Man",
-      "src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "srces": [
+        "0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -747,9 +756,9 @@
             "TonogenesisReg \tA \tB/D \tC",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -761,9 +770,9 @@
             "1. Tense when _S#; laryngealized elsewhere2. Laryngealized",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -775,9 +784,9 @@
             "Initials:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -790,9 +799,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -814,9 +823,9 @@
             "seems",
             "(only"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -831,9 +840,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -855,9 +864,9 @@
             "seems",
             "(only"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -870,9 +879,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -884,7 +893,7 @@
           ],
           "after": [
             "ɲ",
-            "(Thompson",
+            "([+plosive -voice]hompson",
             "seems"
           ],
           "env": "",
@@ -908,9 +917,9 @@
             "indicate",
             "to"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -925,9 +934,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -939,9 +948,9 @@
             "Vowels:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -954,9 +963,9 @@
           ],
           "env": "_(ə)w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -967,11 +976,11 @@
           "after": [
             "a"
           ],
-          "env": "_C[+palatal]",
+          "env": "_[+consonant +palatal]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -983,9 +992,9 @@
             "Miscellanea:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -996,11 +1005,11 @@
           "after": [
             "∅"
           ],
-          "env": "tV_wk (conjectured)",
+          "env": "t[+vowel]_wk (conjectured)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -1010,7 +1019,10 @@
       "from": "Middle Vietnamese",
       "to": "Saigon Vietnamese",
       "or_contr": "Pogostick Man",
-      "src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "srces": [
+        "0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -1021,9 +1033,9 @@
             "TonogenesisReg \tA \tB/D \tC",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1035,9 +1047,9 @@
             "1. Level when _S#; dipping otherwise2. Laryngealized",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1049,9 +1061,9 @@
             "Initials:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1064,9 +1076,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1088,9 +1100,9 @@
             "seems",
             "(only"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1103,9 +1115,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1120,9 +1132,9 @@
           "notes": [
             "(?)"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1137,9 +1149,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1152,9 +1164,9 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1169,9 +1181,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1186,9 +1198,9 @@
           "notes": [
             "(sometimes?)"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1200,9 +1212,9 @@
             "Finals:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1223,9 +1235,9 @@
           "notes": [
             "/a/ only)"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1240,9 +1252,9 @@
           ],
           "env": "{i,e}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1255,9 +1267,9 @@
           ],
           "env": "else",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1269,9 +1281,9 @@
             "Vowels:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1284,9 +1296,9 @@
           ],
           "env": "{i,ɨ}_{p,m.w}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1299,9 +1311,9 @@
           ],
           "env": "ɨ_j",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1314,9 +1326,9 @@
           ],
           "env": "u_{m,j}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1328,9 +1340,9 @@
             "The contrast between short /a/ and short /ə/ is neutralized when _w{k,ŋ}",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1343,9 +1355,9 @@
           ],
           "env": "_{w,j}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1358,11 +1370,11 @@
             "ɨ",
             "ɛə"
           ],
-          "env": "_K",
+          "env": "_[+velar]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1373,11 +1385,11 @@
           "after": [
             "a"
           ],
-          "env": "_C[+palatal]",
+          "env": "_[+consonant +palatal]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1389,9 +1401,9 @@
             "Miscellanea:",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1402,11 +1414,11 @@
           "after": [
             "∅"
           ],
-          "env": "tV_wk (conjectured) ",
+          "env": "t[+vowel]_wk (conjectured) ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }

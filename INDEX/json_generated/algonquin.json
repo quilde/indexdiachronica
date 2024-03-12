@@ -5,7 +5,10 @@
       "from": "Proto-Algonquian",
       "to": "Kennebec River Abenaki",
       "or_contr": "Pogostick Man with acknowledgment to dhok",
-      "src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "or_src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "srces": [
+        "s0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -17,9 +20,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -32,9 +35,9 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -47,9 +50,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -62,9 +65,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -77,24 +80,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "∅"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -105,11 +108,11 @@
           "after": [
             "a"
           ],
-          "env": "_OO",
+          "env": "_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -120,11 +123,11 @@
           "after": [
             "e"
           ],
-          "env": "#C_OO",
+          "env": "#[+consonant]_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -135,26 +138,26 @@
           "after": [
             "∅"
           ],
-          "env": "#_OO",
+          "env": "#_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V"
+            "[+vowel]"
           ],
           "after": [
             "∅"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -167,9 +170,9 @@
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -182,9 +185,9 @@
           ],
           "env": "_# ! k(ː)_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -195,11 +198,11 @@
           "after": [
             "∅"
           ],
-          "env": "_# ! P_",
+          "env": "_# ! [+labial,bilabial]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -210,11 +213,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_ ! C = K",
+          "env": "[+consonant]_ ! [+consonant] = [+velar]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -225,11 +228,11 @@
           "after": [
             "∅"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -242,9 +245,9 @@
           ],
           "env": "#w_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -257,9 +260,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -272,9 +275,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -287,9 +290,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -304,24 +307,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{x,h}S"
+            "{x,h}[+plosive]"
           ],
           "after": [
-            "Sː"
+            "[+plosive]ː"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -334,9 +337,9 @@
           ],
           "env": "! _a",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -351,9 +354,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -372,9 +375,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -384,7 +387,10 @@
       "from": "Proto-Algonquian",
       "to": "St. Francis Abenaki",
       "or_contr": "Pogostick Man with acknowledgment to dhok",
-      "src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "or_src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "srces": [
+        "0"
+      ],
       "notes": [],
       "changes": [
         {
@@ -398,9 +404,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -413,24 +419,24 @@
           ],
           "env": "_l",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "∅"
           ],
-          "env": "_RO",
+          "env": "_[+sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -441,11 +447,11 @@
           "after": [
             "a"
           ],
-          "env": "_OO",
+          "env": "_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -458,25 +464,25 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-high",
+            "[+vowel -high",
             "-long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "#C_OO",
+          "env": "#[+consonant]_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -487,26 +493,26 @@
           "after": [
             "∅"
           ],
-          "env": "#_OO",
+          "env": "#_[-sonorant][-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V"
+            "[+vowel]"
           ],
           "after": [
             "∅"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -519,9 +525,9 @@
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -534,9 +540,9 @@
           ],
           "env": "_# ! k(ː)_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -549,9 +555,9 @@
           ],
           "env": "_# ! p_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -562,11 +568,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_ ! C = K",
+          "env": "[+consonant]_ ! [+consonant] = [+velar]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -577,26 +583,26 @@
           "after": [
             "∅"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{R,h}"
+            "{[+sonorant],h}"
           ],
           "after": [
             "∅"
           ],
-          "env": "V_V (sporadic?)",
+          "env": "[+vowel]_[+vowel] (sporadic?)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -609,9 +615,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -624,9 +630,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -639,9 +645,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -656,9 +662,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -671,24 +677,24 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{x,h}S"
+            "{x,h}[+plosive]"
           ],
           "after": [
-            "Sː"
+            "[+plosive]ː"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -703,9 +709,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -718,9 +724,9 @@
           ],
           "env": "! _a",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -731,11 +737,11 @@
           "after": [
             "e"
           ],
-          "env": "_R",
+          "env": "_[+sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -752,9 +758,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -764,21 +770,24 @@
       "from": "Proto-Algonquian",
       "to": "Proto-Arapaho-Atsina",
       "or_contr": "Whimemsz",
-      "src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "srces": [
+        "s1"
+      ],
       "notes": [],
       "changes": [
         {
           "before": [
-            "(W)V"
+            "([+semivowel])[+vowel]"
           ],
           "after": [
             "∅"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -791,9 +800,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -806,24 +815,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "W"
+            "[+semivowel]"
           ],
           "after": [
             "∅"
           ],
-          "env": "C_i(ː)",
+          "env": "[+consonant]_i(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -836,9 +845,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -849,11 +858,11 @@
           "after": [
             "ʃ"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -868,11 +877,11 @@
             "∅",
             "ʔ"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -885,39 +894,39 @@
           ],
           "env": "_p",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "W"
+            "[+semivowel]"
           ],
           "after": [
             "j"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "W"
+            "[+semivowel]"
           ],
           "after": [
             "n"
           ],
-          "env": "{#,V}_",
+          "env": "{#,[+vowel]}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -932,9 +941,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -947,9 +956,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -960,11 +969,11 @@
           "after": [
             "h"
           ],
-          "env": "{V,C}_",
+          "env": "{[+vowel],[+consonant]}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -975,11 +984,11 @@
           "after": [
             "n"
           ],
-          "env": "{#,V}_",
+          "env": "{#,[+vowel]}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -990,11 +999,11 @@
           "after": [
             "h"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1007,24 +1016,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
-          "env": "_CC",
+          "env": "_[+consonant][+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1037,9 +1046,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -1049,7 +1058,10 @@
       "from": "Proto-Arapaho-Atsina",
       "to": "Arapaho",
       "or_contr": "Whimemsz",
-      "src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "srces": [
+        "1"
+      ],
       "notes": [],
       "changes": [
         {
@@ -1061,24 +1073,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "({C,#}V)ʔ"
+            "({[+consonant],#}[+vowel])ʔ"
           ],
           "after": [
-            "({C,#}Vː)∅"
+            "({[+consonant],#}[+vowel]ː)∅"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1089,11 +1101,11 @@
           "after": [
             "u(ː)"
           ],
-          "env": "o(ː)(C[-dental])(C[-dental])_",
+          "env": "o(ː)([+consonant -dental])([+consonant -dental])_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1104,11 +1116,11 @@
           "after": [
             "ʔ"
           ],
-          "env": "CV[-long]_#",
+          "env": "[+consonant][+vowel -long]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1121,11 +1133,11 @@
             "x",
             "w"
           ],
-          "env": "_B",
+          "env": "_[+vowel +back]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1138,11 +1150,11 @@
             "x",
             "w"
           ],
-          "env": "B_#",
+          "env": "[+vowel +back]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1157,9 +1169,9 @@
           ],
           "env": "o(ː)_e(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1174,11 +1186,11 @@
             "tʃ",
             "b"
           ],
-          "env": "_{E,j}",
+          "env": "_{[+vowel +front],j}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1193,26 +1205,26 @@
             "tʃ",
             "b"
           ],
-          "env": "E_#",
+          "env": "[+vowel +front]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "(V[-long])N"
+            "([+vowel -long])[+nasal]"
           ],
           "after": [
             "∅"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1223,11 +1235,11 @@
           "after": [
             "h"
           ],
-          "env": "#_V",
+          "env": "#_[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1240,9 +1252,9 @@
           ],
           "env": "j_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1253,11 +1265,11 @@
           "after": [
             "e(ː)"
           ],
-          "env": "Cj_ (sporadic)",
+          "env": "[+consonant]j_ (sporadic)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1270,9 +1282,9 @@
           ],
           "env": "_j",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1283,11 +1295,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1300,9 +1312,9 @@
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -1312,7 +1324,10 @@
       "from": "Proto-Arapaho-Atsina",
       "to": "Gros Ventre",
       "or_contr": "Whimemsz",
-      "src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "srces": [
+        "1"
+      ],
       "notes": [],
       "changes": [
         {
@@ -1324,26 +1339,26 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "({C,#}V[-long])ʔ"
+            "({[+consonant],#}[+vowel -long])ʔ"
           ],
           "after": [
-            "({C,#}Vː[+falling"
+            "({[+consonant],#}[+vowel]ː[+falling"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [
             "tone])∅"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1356,9 +1371,9 @@
           ],
           "env": "{ʃ,θ}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1371,9 +1386,9 @@
           ],
           "env": "o(ː)_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1390,9 +1405,9 @@
           ],
           "env": "_o(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1411,9 +1426,9 @@
           ],
           "env": "_e(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1432,24 +1447,24 @@
           ],
           "env": "_{i(ː),j,#}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "(V[-long])N"
+            "([+vowel -long])[+nasal]"
           ],
           "after": [
             "∅"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1460,11 +1475,11 @@
           "after": [
             "ʔ"
           ],
-          "env": "#_V",
+          "env": "#_[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1477,9 +1492,9 @@
           ],
           "env": "_j",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -1489,7 +1504,10 @@
       "from": "Proto-Algonquian",
       "to": "Blackfoot",
       "or_contr": "Whimemsz",
-      "src": " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82",
+      "or_src": " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82",
+      "srces": [
+        "s2"
+      ],
       "notes": [],
       "changes": [
         {
@@ -1501,9 +1519,9 @@
           ],
           "env": "unless adjacent to another consonant",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1514,11 +1532,11 @@
           "after": [
             "x"
           ],
-          "env": "_s ! _C{C,#}",
+          "env": "_s ! _[+consonant]{[+consonant],#}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1529,11 +1547,11 @@
           "after": [
             "s"
           ],
-          "env": "! C_",
+          "env": "! [+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1544,11 +1562,11 @@
           "after": [
             "∅"
           ],
-          "env": "! _C",
+          "env": "! _[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1561,9 +1579,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1576,9 +1594,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1591,9 +1609,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1606,9 +1624,9 @@
           ],
           "env": "_{p,k}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1621,9 +1639,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1638,9 +1656,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1653,9 +1671,9 @@
           ],
           "env": "_p",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1668,9 +1686,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1683,9 +1701,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1698,9 +1716,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1715,9 +1733,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1734,9 +1752,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1749,9 +1767,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1764,9 +1782,9 @@
           ],
           "env": "{i,#e,ja,ke}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1779,9 +1797,9 @@
           ],
           "env": "e(ː)_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1794,9 +1812,9 @@
           ],
           "env": "{i(ː),#e}_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1809,9 +1827,9 @@
           ],
           "env": "_{i,e(ː),a}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1824,9 +1842,9 @@
           ],
           "env": "k_i(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1839,9 +1857,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1854,9 +1872,9 @@
           ],
           "env": "{#,k}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1869,9 +1887,9 @@
           ],
           "env": "_kʷ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1884,9 +1902,9 @@
           ],
           "env": "{oːw,iːj}_i#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1899,9 +1917,9 @@
           ],
           "env": "{r,k}_i#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1914,9 +1932,9 @@
           ],
           "env": "r_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1927,11 +1945,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1948,11 +1966,11 @@
             "o(ji)",
             "iː"
           ],
-          "env": "C_C",
+          "env": "[+consonant]_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1965,9 +1983,9 @@
           ],
           "env": "aː_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1978,11 +1996,11 @@
           "after": [
             "i"
           ],
-          "env": "#_jC",
+          "env": "#_j[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -1993,11 +2011,11 @@
           "after": [
             "i"
           ],
-          "env": "C_jV#",
+          "env": "[+consonant]_j[+vowel]#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2010,24 +2028,24 @@
           ],
           "env": "_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "eLwi"
+            "e[+liquid]wi"
           ],
           "after": [
             "iː"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2040,9 +2058,9 @@
           ],
           "env": "medially",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2055,9 +2073,9 @@
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2070,9 +2088,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2085,9 +2103,9 @@
           ],
           "env": "_i",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2098,11 +2116,11 @@
           "after": [
             "j"
           ],
-          "env": "C_B",
+          "env": "[+consonant]_[+vowel +back]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2115,9 +2133,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2128,11 +2146,11 @@
           "after": [
             "∅"
           ],
-          "env": "{a,o}_iC",
+          "env": "{a,o}_i[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2143,11 +2161,11 @@
           "after": [
             "u"
           ],
-          "env": "_iC",
+          "env": "_i[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2162,9 +2180,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2180,9 +2198,9 @@
             "sː?)",
             "(→"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2197,9 +2215,9 @@
           "notes": [
             "?"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2212,9 +2230,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2225,11 +2243,11 @@
           "after": [
             "∅"
           ],
-          "env": "O_ in #U (not universal)",
+          "env": "[-sonorant]_ in #σ (not universal)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2240,11 +2258,11 @@
           "after": [
             "∅"
           ],
-          "env": "#_O “(followed by truncation of following x)”",
+          "env": "#_[-sonorant] “(followed by truncation of following x)ˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2257,9 +2275,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2270,13 +2288,13 @@
           "after": [
             "∅"
           ],
-          "env": "$_OO “(before a prefix",
+          "env": "$_[-sonorant][-sonorant] “(before a prefix",
           "notes": [
             " the first obstruent of the follow[ing] cluster then becomes ʔ)"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2287,11 +2305,11 @@
           "after": [
             "aa"
           ],
-          "env": "W_ ! when _{C{C,ː},#}",
+          "env": "[+semivowel]_ ! when _{[+consonant]{[+consonant],ː},#}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2304,9 +2322,9 @@
           ],
           "env": "else",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2319,9 +2337,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2334,9 +2352,9 @@
           ],
           "env": "! at word boundaries",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2349,9 +2367,9 @@
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2364,9 +2382,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -2376,7 +2394,10 @@
       "from": "Proto-Algonquian",
       "to": "Cheyenne",
       "or_contr": "jburke",
-      "src": " from “Bloomfield and Leman”",
+      "or_src": " from “Bloomfield and Leman”",
+      "srces": [
+        "s3"
+      ],
       "notes": [],
       "changes": [
         {
@@ -2390,9 +2411,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2407,9 +2428,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2426,9 +2447,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2441,9 +2462,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2456,9 +2477,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2473,9 +2494,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2490,39 +2511,39 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{kC,Ck}"
+            "{k[+consonant],[+consonant]k}"
           ],
           "after": [
             "ʔ"
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "C[-nasal]"
+            "[+consonant -nasal]"
           ],
           "after": [
             "∅"
           ],
           "env": "near nasals",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2535,9 +2556,9 @@
           ],
           "env": "near nasals",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2550,24 +2571,24 @@
           ],
           "env": "near consonants",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "W"
+            "[+semivowel]"
           ],
           "after": [
             "∅"
           ],
           "env": "near nasals or t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -2577,7 +2598,10 @@
       "from": "Proto-Algonquian",
       "to": "Northern East Cree",
       "or_contr": "Pogostick Man",
-      "src": " from http:",
+      "or_src": " from http:",
+      "srces": [
+        "s4"
+      ],
       "notes": [],
       "changes": [
         {
@@ -2589,9 +2613,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2606,9 +2630,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2619,11 +2643,11 @@
           "after": [
             "aː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2636,9 +2660,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2651,9 +2675,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2664,11 +2688,11 @@
           "after": [
             "o"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2681,9 +2705,9 @@
           ],
           "env": "_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2696,24 +2720,24 @@
           ],
           "env": "_tʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_S",
+          "env": "_[+plosive]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2726,9 +2750,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2741,9 +2765,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2756,9 +2780,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2771,9 +2795,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2788,9 +2812,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2803,9 +2827,9 @@
           ],
           "env": "_i",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2818,9 +2842,9 @@
           ],
           "env": "in some unaccented syllables (short only)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2833,9 +2857,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2848,9 +2872,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -2860,7 +2884,10 @@
       "from": "Proto-Algonquian",
       "to": "Southern East Cree",
       "or_contr": "Pogostick Man",
-      "src": " from http:",
+      "or_src": " from http:",
+      "srces": [
+        "4"
+      ],
       "notes": [],
       "changes": [
         {
@@ -2872,9 +2899,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2890,9 +2917,9 @@
             "only)",
             "(short"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2903,11 +2930,11 @@
           "after": [
             "aː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2920,9 +2947,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2935,9 +2962,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2948,11 +2975,11 @@
           "after": [
             "o"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2965,9 +2992,9 @@
           ],
           "env": "_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -2980,24 +3007,24 @@
           ],
           "env": "_tʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_S",
+          "env": "_[+plosive]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3010,9 +3037,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3025,9 +3052,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3040,9 +3067,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3055,9 +3082,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3072,9 +3099,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3089,9 +3116,9 @@
           "notes": [
             " remains /ʃ/ in coastal varieties"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3104,9 +3131,9 @@
           ],
           "env": "_i",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3119,9 +3146,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3134,9 +3161,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3149,9 +3176,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -3161,7 +3188,10 @@
       "from": "Proto-Algonquian",
       "to": "Plains Cree",
       "or_contr": "Pogostick Man",
-      "src": " from http:",
+      "or_src": " from http:",
+      "srces": [
+        "4"
+      ],
       "notes": [],
       "changes": [
         {
@@ -3173,9 +3203,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3201,9 +3231,9 @@
             "only",
             "(short"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3214,11 +3244,11 @@
           "after": [
             "aː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3231,9 +3261,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3246,9 +3276,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3259,11 +3289,11 @@
           "after": [
             "o"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3276,9 +3306,9 @@
           ],
           "env": "_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3291,24 +3321,24 @@
           ],
           "env": "_tʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_S",
+          "env": "_[+plosive]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3321,9 +3351,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3336,9 +3366,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3351,9 +3381,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3366,9 +3396,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3383,9 +3413,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3400,9 +3430,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3415,9 +3445,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3430,9 +3460,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -3442,7 +3472,10 @@
       "from": "Proto-Algonquian",
       "to": "Swampy Cree",
       "or_contr": "Pogostick Man",
-      "src": " from http:",
+      "or_src": " from http:",
+      "srces": [
+        "4"
+      ],
       "notes": [],
       "changes": [
         {
@@ -3454,9 +3487,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3472,9 +3505,9 @@
             "only)",
             "(short"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3485,11 +3518,11 @@
           "after": [
             "aː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3502,9 +3535,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3517,9 +3550,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3530,11 +3563,11 @@
           "after": [
             "o"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3547,9 +3580,9 @@
           ],
           "env": "_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3562,24 +3595,24 @@
           ],
           "env": "_tʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_S",
+          "env": "_[+plosive]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3592,9 +3625,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3607,9 +3640,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3622,9 +3655,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3637,9 +3670,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3654,9 +3687,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3667,13 +3700,13 @@
           "after": [
             "s"
           ],
-          "env": "in West Swampy Cree (remains ",
+          "env": "in [+semivowel]est [+plosive]wampy [+consonant]ree (remains ",
           "notes": [
             "/ʃ/ in East Swampy Cree)"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3686,9 +3719,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3701,9 +3734,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3716,9 +3749,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -3728,7 +3761,10 @@
       "from": "Proto-Algonquian",
       "to": "Woods Cree",
       "or_contr": "Pogostick Man",
-      "src": " from http:",
+      "or_src": " from http:",
+      "srces": [
+        "4"
+      ],
       "notes": [],
       "changes": [
         {
@@ -3740,9 +3776,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3755,9 +3791,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3768,11 +3804,11 @@
           "after": [
             "aː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3785,9 +3821,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3798,11 +3834,11 @@
           "after": [
             "o"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3815,9 +3851,9 @@
           ],
           "env": "_s",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3830,24 +3866,24 @@
           ],
           "env": "_tʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_S",
+          "env": "_[+plosive]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3860,9 +3896,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3875,9 +3911,9 @@
           ],
           "env": "_t",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3890,9 +3926,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3905,9 +3941,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3922,9 +3958,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3939,9 +3975,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3954,9 +3990,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -3969,9 +4005,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -3981,7 +4017,10 @@
       "from": "Proto-Algonquian",
       "to": "Munsee Delaware",
       "or_contr": "Pogostick Man",
-      "src": " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48",
+      "or_src": " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48",
+      "srces": [
+        "s5"
+      ],
       "notes": [],
       "changes": [
         {
@@ -3993,9 +4032,9 @@
           ],
           "env": "in nouns",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4010,9 +4049,9 @@
           ],
           "env": "in diminutives",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4027,9 +4066,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4042,9 +4081,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4055,11 +4094,11 @@
           "after": [
             "∅"
           ],
-          "env": "m_C",
+          "env": "m_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4072,9 +4111,9 @@
           ],
           "env": "{p,m}_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4087,24 +4126,24 @@
           ],
           "env": "! {k,p,m}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Cʷ"
+            "[+consonant]ʷ"
           ],
           "after": [
-            "C"
+            "[+consonant]"
           ],
-          "env": "_ə{(C){p,kʷ},m,w}",
+          "env": "_ə{([+consonant]){p,kʷ},m,w}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4121,9 +4160,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4138,9 +4177,9 @@
           ],
           "env": "! adjacent to {p,m,k}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4151,11 +4190,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4166,11 +4205,11 @@
           "after": [
             "h"
           ],
-          "env": "_C ! C = l, or when reduplicated",
+          "env": "_[+consonant] ! [+consonant] = l, or when reduplicated",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4183,9 +4222,9 @@
           ],
           "env": "_{s,x}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4198,9 +4237,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4213,9 +4252,9 @@
           ],
           "env": "h_ (sometimes restored via analogy, e.g., in verbs)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4232,9 +4271,9 @@
           ],
           "env": "_{p,k}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4247,9 +4286,9 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4264,39 +4303,39 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
-          "env": "_hC",
+          "env": "_h[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V"
+            "[+vowel]"
           ],
           "after": [
             "∅"
           ],
           "env": "_# ! some monosyllables and analogical developments, in the latter of which long vowels were shortened",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4307,13 +4346,13 @@
           "after": [
             "∅"
           ],
-          "env": "_{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllables”",
+          "env": "_{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllablesˈ",
           "notes": [
             " such vowels are considered “weak”"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4324,11 +4363,11 @@
           "after": [
             "∅"
           ],
-          "env": "#_C",
+          "env": "#_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4339,11 +4378,11 @@
           "after": [
             "∅"
           ],
-          "env": "_C[+voiced] (sporadic)",
+          "env": "_[+consonant +voiced] (sporadic)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4356,11 +4395,11 @@
             "ə",
             "∅"
           ],
-          "env": "a_Z[+voiced]",
+          "env": "a_[+continuant +voiced]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4372,9 +4411,9 @@
             "NC sequences assimilate the nasal to the POA of the following consonant, which is then voiced",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4387,9 +4426,9 @@
           ],
           "env": "_h{p,kʷ,w,m}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4400,11 +4439,11 @@
           "after": [
             "i"
           ],
-          "env": "_hC",
+          "env": "_h[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4415,11 +4454,11 @@
           "after": [
             "o"
           ],
-          "env": "_x{p,kʷ,V[+round]}",
+          "env": "_x{p,kʷ,[+vowel +round]}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4432,9 +4471,9 @@
           ],
           "env": "{p,m}_x",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4445,11 +4484,11 @@
           "after": [
             "χʷ"
           ],
-          "env": "o(ː)_{V,#}",
+          "env": "o(ː)_{[+vowel],#}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4460,11 +4499,11 @@
           "after": [
             "a"
           ],
-          "env": "_x “[i]n a nonrounding environment”",
+          "env": "_x “[i]n a nonrounding environmentˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4477,39 +4516,39 @@
           ],
           "env": "_ŋkʷ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[+high]"
+            "[+vowel +high]"
           ],
           "after": [
             "ə"
           ],
           "env": "_j",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[+high]"
+            "[+vowel +high]"
           ],
           "after": [
             "ə"
           ],
           "env": "_w (sporadic)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -4519,7 +4558,10 @@
       "from": "Proto-Algonquian",
       "to": "Menominee",
       "or_contr": "Whimemsz",
-      "src": " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25.",
+      "or_src": " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25.",
+      "srces": [
+        "s6"
+      ],
       "notes": [],
       "changes": [
         {
@@ -4531,11 +4573,11 @@
             "o",
             "i"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4548,9 +4590,9 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4561,11 +4603,11 @@
           "after": [
             "s"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4578,24 +4620,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "_# “[does not apply in disyllabic words containing two short vowels]”",
+          "env": "_# “[does not apply in disyllabic words containing two short vowels]ˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4606,26 +4648,26 @@
           "after": [
             "h"
           ],
-          "env": "V[-long]_#",
+          "env": "[+vowel -long]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "H"
+            "[+laryngeal]"
           ],
           "after": [
             "∅"
           ],
           "env": "_m",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4636,11 +4678,11 @@
           "after": [
             "h"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4651,11 +4693,11 @@
           "after": [
             "∅"
           ],
-          "env": "h_V",
+          "env": "h_[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4668,27 +4710,27 @@
           ],
           "env": "$am_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V"
+            "[+vowel]"
           ],
           "after": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "env": "",
           "notes": [
-            "words”",
+            "wordsˈ",
             "glottal",
             "in",
             "apply",
             "not",
-            "Does",
+            "[+plosive +voice]oes",
             "syllable.",
             "short-vowel",
             "a",
@@ -4701,12 +4743,12 @@
             "second",
             "the",
             "is",
-            "V",
+            "[+vowel]",
             "“when"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4717,26 +4759,26 @@
           "after": [
             "i"
           ],
-          "env": "Vː%_ ! _H",
+          "env": "[+vowel]ː%_ ! _[+laryngeal]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "h"
           ],
-          "env": "_{O,r}",
+          "env": "_{[-sonorant],r}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4747,11 +4789,11 @@
           "after": [
             "i"
           ],
-          "env": "#(C)_ ! _H",
+          "env": "#([+consonant])_ ! _[+laryngeal]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4762,11 +4804,11 @@
           "after": [
             "i"
           ],
-          "env": "_{k,m} “when in the second syllable of glottal words”",
+          "env": "_{k,m} “when in the second syllable of glottal wordsˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4777,26 +4819,26 @@
           "after": [
             "∅"
           ],
-          "env": "C_#",
+          "env": "[+consonant]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "C"
+            "[+consonant]"
           ],
           "after": [
             "∅"
           ],
-          "env": "C_#",
+          "env": "[+consonant]_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4807,11 +4849,11 @@
           "after": [
             "o(ː)"
           ],
-          "env": "C_w",
+          "env": "[+consonant]_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4826,56 +4868,56 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
-          "env": "CC(G)_C{V,#} “[i.e., when following a cluster but not followed by a cluster. Only applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]”",
+          "env": "[+consonant][+consonant](G)_[+consonant]{[+vowel],#} “[i.e., when following a cluster but not followed by a cluster. [-sonorant]nly applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]ˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V"
+            "[+vowel]"
           ],
           "after": [
-            "Vː"
+            "[+vowel]ː"
           ],
-          "env": "_CC in even syllables",
+          "env": "_[+consonant][+consonant] in even syllables",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
-          "env": "_C{V,#} in even syllables",
+          "env": "_[+consonant]{[+vowel],#} in even syllables",
           "notes": [
             " “does not apply in the second syllable of a non-glottal word”"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4890,9 +4932,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4909,7 +4951,7 @@
           ],
           "env": "",
           "notes": [
-            "C+G]”",
+            "[+consonant]+G]ˈ",
             "or",
             "iː",
             "following",
@@ -4927,16 +4969,16 @@
             "anywhere",
             "follows",
             "sequence",
-            "C+G",
+            "[+consonant]+G",
             "a",
             "or",
             "iː",
             "when",
             "“[blocked"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4949,11 +4991,11 @@
             "iː",
             "i"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4964,11 +5006,11 @@
           "after": [
             "e"
           ],
-          "env": "in odd syllables ! _{w,j,H}",
+          "env": "in odd syllables ! _{w,j,[+laryngeal]}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4981,9 +5023,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -4996,11 +5038,11 @@
             "uə̯",
             "iə̯"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -5010,7 +5052,10 @@
       "from": "Proto-Algonquian",
       "to": "Miami-Illinois",
       "or_contr": "Pogostick Man",
-      "src": " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393",
+      "or_src": " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393",
+      "srces": [
+        "s7"
+      ],
       "notes": [],
       "changes": [
         {
@@ -5022,9 +5067,9 @@
           ],
           "env": "in nominal suffixes",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5037,9 +5082,9 @@
           ],
           "env": "in diminutives",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5052,9 +5097,9 @@
           ],
           "env": "_i (not universal)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5065,11 +5110,11 @@
           "after": [
             "ʃ"
           ],
-          "env": "_iV",
+          "env": "_i[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5082,11 +5127,11 @@
           "after": [
             "l"
           ],
-          "env": "V_V",
+          "env": "[+vowel]_[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5101,9 +5146,9 @@
           ],
           "env": "#_ (and possibly in other places as well)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5118,24 +5163,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "mV[-long]"
+            "m[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "#_{ʰC,s,ʃ} (allophonic, “optional”)",
+          "env": "#_{ʰ[+consonant],s,ʃ} (allophonic, “optionalˈ)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5148,9 +5193,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5163,9 +5208,9 @@
           ],
           "env": "n_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5176,26 +5221,26 @@
           "after": [
             "h"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "C[-nas]"
+            "[+consonant -nas]"
           ],
           "after": [
             "h"
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5208,9 +5253,9 @@
           ],
           "env": "_{s,ʃ}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5223,58 +5268,58 @@
             "sː",
             "ʃː"
           ],
-          "env": "sporadic, usually {#,V[+front]}_",
+          "env": "sporadic, usually {#,[+vowel +front]}_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "C[-voiced]"
+            "[+consonant -voiced]"
           ],
           "after": [
-            "C[+voiced]"
+            "[+consonant +voiced]"
           ],
-          "env": "N_",
+          "env": "[+nasal]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "VNs",
-            "VNʃ"
+            "[+vowel][+nasal]s",
+            "[+vowel][+nasal]ʃ"
           ],
           "after": [
-            "V[+nas]z",
-            "V[+nas]ʒ"
+            "[+vowel +nas]z",
+            "[+vowel +nas]ʒ"
           ],
           "env": "not universal?",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "S"
+            "[+plosive]"
           ],
           "after": [
-            "ⁿS"
+            "ⁿ[+plosive]"
           ],
-          "env": "#NV_ (sporadic)",
+          "env": "#[+nasal][+vowel]_ (sporadic)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5287,11 +5332,11 @@
             "ⁿs",
             "ⁿʃ"
           ],
-          "env": "U[-nas] (highly sporadic)",
+          "env": "σ-nas] (highly sporadic)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5304,9 +5349,9 @@
           ],
           "env": "_m",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -5316,7 +5361,10 @@
       "from": "Proto-Algonquian",
       "to": "Mi’kmaq",
       "or_contr": "Pogostick Man with acknowledgment to dhok and Alex Fink",
-      "src": " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”",
+      "or_src": " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”",
+      "srces": [
+        "s8"
+      ],
       "notes": [],
       "changes": [
         {
@@ -5326,11 +5374,11 @@
           "after": [
             "ʃ"
           ],
-          "env": "! C_",
+          "env": "! [+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5345,24 +5393,24 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{ʔ,h,N}"
+            "{ʔ,h,[+nasal]}"
           ],
           "after": [
             "∅"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5377,9 +5425,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5392,9 +5440,9 @@
           ],
           "env": "_{p,k}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5407,9 +5455,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5422,9 +5470,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5437,9 +5485,9 @@
           ],
           "env": "_(w)a(ː) ! #_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5452,9 +5500,9 @@
           ],
           "env": "a(ː)_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5467,9 +5515,9 @@
           ],
           "env": "_w",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5488,9 +5536,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5503,9 +5551,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5518,9 +5566,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5533,9 +5581,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5548,9 +5596,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5563,9 +5611,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5578,9 +5626,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -5590,7 +5638,10 @@
       "from": "Proto-Algonquian",
       "to": "Ojibwe",
       "or_contr": "Whimemsz",
-      "src": " from his own work; http:",
+      "or_src": " from his own work; http:",
+      "srces": [
+        "s9"
+      ],
       "notes": [],
       "changes": [
         {
@@ -5601,9 +5652,9 @@
             "NB: For this sound-change set, H is “either an */h/ or */ʔ/, but we don’t know which”.",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5618,9 +5669,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5633,9 +5684,9 @@
           ],
           "env": "{t,r}_i",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5648,9 +5699,9 @@
           ],
           "env": "_{p,t,tʃ,k}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5663,9 +5714,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5678,9 +5729,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5693,9 +5744,9 @@
           ],
           "env": "_ʃ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5708,24 +5759,24 @@
           ],
           "env": "_r",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "H"
+            "[+laryngeal]"
           ],
           "after": [
             "∅"
           ],
           "env": "_m",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5738,54 +5789,54 @@
           ],
           "env": "_k",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{j,w}V[-long]"
+            "{j,w}[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "C_# in disyllables with Vː or in tri(-plus-)syllables",
+          "env": "[+consonant]_# in disyllables with [+vowel]ː or in tri(-plus-)syllables",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "{w,j}V[-long]"
+            "{w,j}[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "Vː_# (Whimemsz is unsure if this change is across-the-board or not)",
+          "env": "[+vowel]ː_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "V[-long]{w,j}_# (Whimemsz is unsure if this change is across-the-board or not)",
+          "env": "[+vowel -long]{w,j}_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5796,11 +5847,11 @@
           "after": [
             "iː"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5811,11 +5862,11 @@
           "after": [
             "iː"
           ],
-          "env": "C_C",
+          "env": "[+consonant]_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5826,11 +5877,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5843,9 +5894,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -5855,7 +5906,10 @@
       "from": "Proto-Algonquian",
       "to": "Piscataway",
       "or_contr": "Pogostick Man",
-      "src": " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”",
+      "or_src": " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”",
+      "srces": [
+        "s10"
+      ],
       "notes": [],
       "changes": [
         {
@@ -5866,9 +5920,9 @@
             "NB: This is very incomplete, partially because it seems that the only source we have on Piscataway is a single document in rather poor condition.",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5893,7 +5947,7 @@
             "on",
             "and",
             "source",
-            "Piscataway",
+            "[+labial,bilabial]iscataway",
             "the",
             "in",
             "〈z〉",
@@ -5901,9 +5955,9 @@
             "based",
             "(conjectured"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5916,9 +5970,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5931,9 +5985,9 @@
           ],
           "env": "unclear conditioning",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5944,11 +5998,11 @@
           "after": [
             "h"
           ],
-          "env": "_C",
+          "env": "_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
@@ -5958,7 +6012,10 @@
       "from": "Proto-Algonquian",
       "to": "Shawnee",
       "or_contr": "Whimemsz",
-      "src": " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”",
+      "or_src": " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”",
+      "srces": [
+        "s11"
+      ],
       "notes": [],
       "changes": [
         {
@@ -5970,9 +6027,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5984,9 +6041,9 @@
             "θ r / ! _O",
             ""
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -5997,11 +6054,11 @@
           "after": [
             "s"
           ],
-          "env": "H_",
+          "env": "[+laryngeal]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6014,24 +6071,24 @@
           ],
           "env": "n_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "N"
+            "[+nasal]"
           ],
           "after": [
             "∅"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6042,11 +6099,11 @@
           "after": [
             "ʔ"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6057,11 +6114,11 @@
           "after": [
             "ʃ"
           ],
-          "env": "_O",
+          "env": "_[-sonorant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6072,11 +6129,11 @@
           "after": [
             "i"
           ],
-          "env": "#(C)_ “(but remains e in a few cases?)”",
+          "env": "#([+consonant])_ “(but remains e in a few cases?)ˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6089,9 +6146,9 @@
           ],
           "env": "_j",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6102,11 +6159,11 @@
           "after": [
             "∅"
           ],
-          "env": "C_i(ː)",
+          "env": "[+consonant]_i(ː)",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6117,11 +6174,11 @@
           "after": [
             "i"
           ],
-          "env": "C_",
+          "env": "[+consonant]_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6134,9 +6191,9 @@
           ],
           "env": "{tʃ,ʃ}_eː",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6149,9 +6206,9 @@
           ],
           "env": "{tʃ,ʃ,w}_aː",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6164,9 +6221,9 @@
           ],
           "env": "t_i",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6179,99 +6236,84 @@
           ],
           "env": "#_",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
           "env": "_{ʃp,ʃk}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "C_ʔC",
+          "env": "[+consonant]_ʔ[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "after": [
             "∅"
           ],
-          "env": "_hV",
+          "env": "_h[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
           "env": "_#",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
         {
           "before": [
-            "Vː"
+            "[+vowel]ː"
           ],
           "after": [
-            "V[-long]"
+            "[+vowel -long]"
           ],
-          "env": "_{ʔC,ʃp,ʃk,hV}",
+          "env": "_{ʔ[+consonant],ʃp,ʃk,h[+vowel]}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
-          ],
-          "name_type": []
-        },
-        {
-          "before": [
-            "ʔ"
-          ],
-          "after": [
-            "∅"
-          ],
-          "env": "C{v,l,s}_C",
-          "notes": [],
-          "status": "unchecked",
-          "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6282,11 +6324,26 @@
           "after": [
             "∅"
           ],
-          "env": "_CC",
+          "env": "[+consonant]{v,l,s}_[+consonant]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
+          ],
+          "name_type": []
+        },
+        {
+          "before": [
+            "ʔ"
+          ],
+          "after": [
+            "∅"
+          ],
+          "env": "_[+consonant][+consonant]",
+          "notes": [],
+          "tags": [
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6297,11 +6354,11 @@
           "after": [
             "ʔ"
           ],
-          "env": "C{v,d}_{ʃp,ʃk,hV}",
+          "env": "[+consonant]{v,d}_{ʃp,ʃk,h[+vowel]}",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6312,11 +6369,11 @@
           "after": [
             "h"
           ],
-          "env": "#_V",
+          "env": "#_[+vowel]",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6329,9 +6386,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6344,9 +6401,9 @@
           ],
           "env": "",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6357,11 +6414,11 @@
           "after": [
             "i"
           ],
-          "env": "#C_jVː “(for some speakers)”",
+          "env": "#[+consonant]_j[+vowel]ː “(for some speakers)ˈ",
           "notes": [],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         },
@@ -6374,13 +6431,13 @@
           ],
           "env": "",
           "notes": [
-            "speakers)”",
+            "speakers)ˈ",
             "many",
             "“(for"
           ],
-          "status": "unchecked",
           "tags": [
-            "generated"
+            "generated",
+            "unchecked"
           ],
           "name_type": []
         }
