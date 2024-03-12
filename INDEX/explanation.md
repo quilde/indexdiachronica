@@ -108,3 +108,6 @@ Replace
 @from("Proto-Afro-Asiatic") + @before("dz")
 
 @chart()
+
+
+from:(Proto-Afro-Asiatic) + before:(dz)
