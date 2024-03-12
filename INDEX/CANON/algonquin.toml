@@ -1,0 +1,3426 @@
+family = "Algonquian"
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Kennebec River Abenaki"
+or_contr = "Pogostick Man with acknowledgment to dhok"
+or_src = " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:"
+srces = [ "s0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hl" ]
+  after = [ "sː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "h" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "n" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nr" ]
+  after = [ "rː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "∅" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "a" ]
+  env = "_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "#[+consonant]_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "∅" ]
+  env = "#_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "_# ! k(ː)_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "_# ! [+labial,bilabial]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "[+consonant]_ ! [+consonant] = [+velar]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "∅" ]
+  env = "#w_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "n" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "s", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{x,h}[+plosive]" ]
+  after = [ "[+plosive]ː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "sk" ]
+  after = [ "kː" ]
+  env = "! _a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔs", "ʔts" ]
+  after = [ "sː", "tsː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "oː", "aː", "eː", "iː" ]
+  after = [ "o", "ɔ̃", "a", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "St. Francis Abenaki"
+or_contr = "Pogostick Man with acknowledgment to dhok"
+or_src = " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:"
+srces = [ "0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nθ", "nl" ]
+  after = [ "sː", "{sː,hl}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "h" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "∅" ]
+  env = "_[+sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "a" ]
+  env = "_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "ɔ̃" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -high", "-long]" ]
+  after = [ "∅" ]
+  env = "#[+consonant]_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "∅" ]
+  env = "#_[-sonorant][-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "_# ! k(ː)_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "_# ! p_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "[+consonant]_ ! [+consonant] = [+velar]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{[+sonorant],h}" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel] (sporadic?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "n" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "s", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nj" ]
+  after = [ "i" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{x,h}[+plosive]" ]
+  after = [ "[+plosive]ː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔs", "ʔts" ]
+  after = [ "sː", "tsː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "sk" ]
+  after = [ "kː" ]
+  env = "! _a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "e" ]
+  env = "_[+sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "oː", "eː", "iː" ]
+  after = [ "o", "a", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Proto-Arapaho-Atsina"
+or_contr = "Whimemsz"
+or_src = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
+srces = [ "s1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "([+semivowel])[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o(ː)" ]
+  after = [ "i(ː)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+semivowel]" ]
+  after = [ "∅" ]
+  env = "[+consonant]_i(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "ʃ" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ", "h", "{s,m,n,r}" ]
+  after = [ "ʃ", "∅", "ʔ" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "ʃ" ]
+  env = "_p"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+semivowel]" ]
+  after = [ "j" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+semivowel]" ]
+  after = [ "n" ]
+  env = "{#,[+vowel]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "k" ]
+  after = [ "k", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "n" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = "{[+vowel],[+consonant]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "n" ]
+  env = "{#,[+vowel]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "h" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "θ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "_[+consonant][+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a(ː)" ]
+  after = [ "o(ː)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Arapaho-Atsina"
+to = "Arapaho"
+or_contr = "Whimemsz"
+or_src = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hʔ" ]
+  after = [ "ʔh" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "({[+consonant],#}[+vowel])ʔ" ]
+  after = [ "({[+consonant],#}[+vowel]ː)∅" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i(ː)" ]
+  after = [ "u(ː)" ]
+  env = "o(ː)([+consonant -dental])([+consonant -dental])_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "[+consonant][+vowel -long]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "m" ]
+  after = [ "x", "w" ]
+  env = "_[+vowel +back]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "m" ]
+  after = [ "x", "w" ]
+  env = "[+vowel +back]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "m" ]
+  after = [ "x", "b" ]
+  env = "o(ː)_e(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "k", "m" ]
+  after = [ "s", "tʃ", "b" ]
+  env = "_{[+vowel +front],j}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "k", "m" ]
+  after = [ "s", "tʃ", "b" ]
+  env = "[+vowel +front]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "([+vowel -long])[+nasal]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "h" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "eː" ]
+  after = [ "ei" ]
+  env = "j_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o(ː)" ]
+  after = [ "e(ː)" ]
+  env = "[+consonant]j_ (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "∅" ]
+  env = "_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Arapaho-Atsina"
+to = "Gros Ventre"
+or_contr = "Whimemsz"
+or_src = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hʔ" ]
+  after = [ "ʔh" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "({[+consonant],#}[+vowel -long])ʔ" ]
+  after = [ "({[+consonant],#}[+vowel]ː[+falling" ]
+  env = "_[+consonant]"
+  notes = [ "tone])∅" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "{ʃ,θ}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "u" ]
+  env = "o(ː)_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "θ", "m" ]
+  after = [ "θ", "t", "w" ]
+  env = "_o(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "θ", "m", "k" ]
+  after = [ "θ", "t", "b", "tʃ" ]
+  env = "_e(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "{θ,t}", "m", "k" ]
+  after = [ "s", "ts", "tʲ", "bʲ" ]
+  env = "_{i(ː),j,#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "([+vowel -long])[+nasal]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "∅" ]
+  env = "_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Blackfoot"
+or_contr = "Whimemsz"
+or_src = " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82"
+srces = [ "s2" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,tʃ,ʃ,r}" ]
+  after = [ "t" ]
+  env = "unless adjacent to another consonant"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "x" ]
+  env = "_s ! _[+consonant]{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "s" ]
+  env = "! [+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "! _[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʃ,tʃ}" ]
+  after = [ "s" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔθ,ʔr}" ]
+  after = [ "{ʔ,j,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nr" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "x" ]
+  env = "_{p,k}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hkw" ]
+  after = [ "ʔk" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nθ", "hs" ]
+  after = [ "sːt", "sː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m" ]
+  after = [ "ʔ" ]
+  env = "_p"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nkw" ]
+  after = [ "ʔː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,s}" ]
+  after = [ "x" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ntʃ" ]
+  after = [ "ʔt" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ns", "sk" ]
+  after = [ "{x,s}", "{x,sː}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θp", "tʃp", "ʃp" ]
+  after = [ "{x,sː}", "ʔp", "sːp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ" ]
+  after = [ "x" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "x" ]
+  after = [ "sː" ]
+  env = "{i,#e,ja,ke}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "x" ]
+  after = [ "sː" ]
+  env = "e(ː)_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "s" ]
+  env = "{i(ː),#e}_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "ts" ]
+  env = "_{i,e(ː),a}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "s" ]
+  env = "k_i(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "sːː" ]
+  after = [ "sː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "{#,k}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{a,e,i}" ]
+  after = [ "o" ]
+  env = "_kʷ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "{oːw,iːj}_i#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "j" ]
+  env = "{r,k}_i#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "i" ]
+  env = "r_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "{jiː,ja,ahi}",
+  "{owaː,awa,awe}",
+  "awi",
+  "{iːwa,eːwa,aji,aje,ani}"
+]
+  after = [ "i", "oː", "o(ji)", "iː" ]
+  env = "[+consonant]_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hi" ]
+  after = [ "∅" ]
+  env = "aː_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "i" ]
+  env = "#_j[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "i" ]
+  env = "[+consonant]_j[+vowel]#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e[+liquid]wi" ]
+  after = [ "iː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i(ː)wi" ]
+  after = [ "iː" ]
+  env = "medially"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i(ː)wi" ]
+  after = [ "i" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "j" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{iː,ij,j}" ]
+  after = [ "j" ]
+  env = "[+consonant]_[+vowel +back]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iji" ]
+  after = [ "iː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "{a,o}_i[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "on" ]
+  after = [ "u" ]
+  env = "_i[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tem", "{k,p}en" ]
+  after = [ "mː", "nː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ket" ]
+  after = [ "tː" ]
+  env = ""
+  notes = [ "sː?)", "(→" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ke(h)" ]
+  after = [ "tː" ]
+  env = ""
+  notes = [ "?" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{k(ʷ)es,keθ}" ]
+  after = [ "sː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "∅" ]
+  env = "[-sonorant]_ in #σ (not universal)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{me,ne}" ]
+  after = [ "∅" ]
+  env = "#_[-sonorant] “(followed by truncation of following x)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{we,wiː}" ]
+  after = [ "o" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tsi" ]
+  after = [ "∅" ]
+  env = "$_[-sonorant][-sonorant] “(before a prefix"
+  notes = [
+  " the first obstruent of the follow[ing] cluster then becomes ʔ)"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "aa" ]
+  env = "[+semivowel]_ ! when _{[+consonant]{[+consonant],ː},#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "a" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "oː" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "i" ]
+  env = "! at word boundaries"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "a" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{eː,iː}" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Cheyenne"
+or_contr = "jburke"
+or_src = " from “Bloomfield and Leman”"
+srces = [ "s3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "a" ]
+  after = [ "e", "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e", "i" ]
+  after = [ "a", "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "t", "k" ]
+  after = [ "{hp,∅}", "ht", "{hk,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{(t)l,θ}" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "{ʃ,x}", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w", "j" ]
+  after = [ "{v,o}", "{t,e}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{k[+consonant],[+consonant]k}" ]
+  after = [ "ʔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant -nasal]" ]
+  after = [ "∅" ]
+  env = "near nasals"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m" ]
+  after = [ "∅" ]
+  env = "near nasals"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "{t,∅}" ]
+  env = "near consonants"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+semivowel]" ]
+  after = [ "∅" ]
+  env = "near nasals or t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Northern East Cree"
+or_contr = "Pogostick Man"
+or_src = " from http:"
+srces = [ "s4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e", "eː" ]
+  after = [ "i", "aː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "aː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃjeː" ]
+  after = [ "seː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "lwi" ]
+  after = [ "jo" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi" ]
+  after = [ "o" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}" ]
+  after = [ "∅" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_tʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_[+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(t)ʃp" ]
+  after = [ "sp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,ʃ}" ]
+  after = [ "s" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}ʃ", "{n,q,h}l" ]
+  after = [ "s", "{h,j,hj}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "tʃ" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "i" ]
+  env = "in some unaccented syllables (short only)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Southern East Cree"
+or_contr = "Pogostick Man"
+or_src = " from http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ "only)", "(short" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "aː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃjeː" ]
+  after = [ "ʃeː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "lwi" ]
+  after = [ "jo" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi" ]
+  after = [ "o" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}" ]
+  after = [ "∅" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_tʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_[+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(t)ʃp" ]
+  after = [ "sp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,ʃ}" ]
+  after = [ "s" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}ʃ", "{n,q,h}l" ]
+  after = [ "ʃ", "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ" ]
+  after = [ "{ʃ,s}" ]
+  env = "in inland varieties"
+  notes = [ " remains /ʃ/ in coastal varieties" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "tʃ" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Plains Cree"
+or_contr = "Pogostick Man"
+or_src = " from http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = ""
+  notes = [
+  "dialects)",
+  "northern",
+  "in",
+  "long",
+  "and",
+  "short",
+  "both",
+  "dialects,",
+  "southern",
+  "in",
+  "only",
+  "(short"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "aː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃjeː" ]
+  after = [ "seː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "lwi" ]
+  after = [ "jo" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi" ]
+  after = [ "o" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}" ]
+  after = [ "∅" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_tʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_[+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(t)ʃp" ]
+  after = [ "sp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,ʃ}" ]
+  after = [ "s" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}ʃ", "{n,q,h}l" ]
+  after = [ "s", "{h,j,hj}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "s", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Swampy Cree"
+or_contr = "Pogostick Man"
+or_src = " from http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ "only)", "(short" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "aː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃjeː" ]
+  after = [ "ʃeː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "lwi" ]
+  after = [ "jo" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi" ]
+  after = [ "o" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}" ]
+  after = [ "∅" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_tʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_[+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(t)ʃp" ]
+  after = [ "sp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,ʃ}" ]
+  after = [ "s" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}ʃ", "{n,q,h}l" ]
+  after = [ "ʃ", "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ" ]
+  after = [ "s" ]
+  env = "in [+semivowel]est [+plosive]wampy [+consonant]ree (remains "
+  notes = [ "/ʃ/ in East Swampy Cree)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Woods Cree"
+or_contr = "Pogostick Man"
+or_src = " from http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e(ː)" ]
+  after = [ "i(ː)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "aː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "lwi" ]
+  after = [ "jo" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi" ]
+  after = [ "o" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}" ]
+  after = [ "∅" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_tʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_[+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(t)ʃp" ]
+  after = [ "sp" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,ʃ}" ]
+  after = [ "s" ]
+  env = "_t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,q,h}ʃ", "{n,q,h}l" ]
+  after = [ "s", "{h,j,hj}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "s", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "{r,ð}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Munsee Delaware"
+or_contr = "Pogostick Man"
+or_src = " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48"
+srces = [ "s5" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "t" ]
+  env = "in nouns"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "s" ]
+  after = [ "tʃ", "ʃ" ]
+  env = "in diminutives"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,l}", "→", "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,ʃ}" ]
+  after = [ "{r,l}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "m_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "{p,m}_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "! {k,p,m}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ʷ" ]
+  after = [ "[+consonant]" ]
+  env = "_ə{([+consonant]){p,kʷ},m,w}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kw", "pw", "mw" ]
+  after = [ "kʷ", "pʷ", "mʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we", "→", "wə" ]
+  after = [ "oː" ]
+  env = "! adjacent to {p,m,k}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "h" ]
+  env = "_[+consonant] ! [+consonant] = l, or when reduplicated"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_{s,x}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{nθ,nl}" ]
+  after = [ "hl" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "h_ (sometimes restored via analogy, e.g., in verbs)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ", "ʃ", "x" ]
+  after = [ "x", "s", "h" ]
+  env = "_{p,k}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{tʃ,ç}" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "o" ]
+  after = [ "iː", "oː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "_h[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_# ! some monosyllables and analogical developments, in the latter of which long vowels were shortened"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{a,ə}" ]
+  after = [ "∅" ]
+  env = "_{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllablesˈ"
+  notes = [ " such vowels are considered “weak”" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə[+weak]" ]
+  after = [ "∅" ]
+  env = "#_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə[+weak]" ]
+  after = [ "∅" ]
+  env = "_[+consonant +voiced] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a[+weak]", "ə[+weak]" ]
+  after = [ "ə", "∅" ]
+  env = "a_[+continuant +voiced]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NC sequences assimilate the nasal to the POA of the following consonant, which is then voiced",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "o" ]
+  env = "_h{p,kʷ,w,m}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "i" ]
+  env = "_h[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "o" ]
+  env = "_x{p,kʷ,[+vowel +round]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "o" ]
+  env = "{p,m}_x"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "x" ]
+  after = [ "χʷ" ]
+  env = "o(ː)_{[+vowel],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "_x “[i]n a nonrounding environmentˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "o" ]
+  env = "_ŋkʷ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +high]" ]
+  after = [ "ə" ]
+  env = "_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +high]" ]
+  after = [ "ə" ]
+  env = "_w (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Menominee"
+or_contr = "Whimemsz"
+or_src = " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25."
+srces = [ "s6" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we", "je" ]
+  after = [ "o", "i" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "s" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "_# “[does not apply in disyllabic words containing two short vowels]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "h" ]
+  env = "[+vowel -long]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]" ]
+  after = [ "∅" ]
+  env = "_m"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,r}" ]
+  after = [ "h" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "h_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "$am_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "[+vowel]ː" ]
+  env = ""
+  notes = [
+  "wordsˈ",
+  "glottal",
+  "in",
+  "apply",
+  "not",
+  "[+plosive +voice]oes",
+  "syllable.",
+  "short-vowel",
+  "a",
+  "follows",
+  "and",
+  "word",
+  "a",
+  "of",
+  "vowel",
+  "second",
+  "the",
+  "is",
+  "[+vowel]",
+  "“when"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "[+vowel]ː%_ ! _[+laryngeal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "h" ]
+  env = "_{[-sonorant],r}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "#([+consonant])_ ! _[+laryngeal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "_{k,m} “when in the second syllable of glottal wordsˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{w,j}" ]
+  after = [ "∅" ]
+  env = "[+consonant]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "[+consonant]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wi(ː)" ]
+  after = [ "o(ː)" ]
+  env = "[+consonant]_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ", "tʃ" ]
+  after = [ "s", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "[+consonant][+consonant](G)_[+consonant]{[+vowel],#} “[i.e., when following a cluster but not followed by a cluster. [-sonorant]nly applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "[+vowel]ː" ]
+  env = "_[+consonant][+consonant] in even syllables"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "_[+consonant]{[+vowel],#} in even syllables"
+  notes = [
+  " “does not apply in the second syllable of a non-glottal word”"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e(ː)", "i" ]
+  after = [ "æ(ː)", "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iː", "oː", "oʔ" ]
+  after = [ "eː", "uː", "uʔ" ]
+  env = ""
+  notes = [
+  "[+consonant]+G]ˈ",
+  "or",
+  "iː",
+  "following",
+  "any",
+  "before",
+  "intervenes",
+  "æ(ː)",
+  "if",
+  "apply",
+  "does",
+  "but",
+  "word,",
+  "the",
+  "in",
+  "anywhere",
+  "follows",
+  "sequence",
+  "[+consonant]+G",
+  "a",
+  "or",
+  "iː",
+  "when",
+  "“[blocked"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{wiː,jiː,weː,jeː,wæː,jæː}", "{wi,ji,we,je,wæ,jæ}" ]
+  after = [ "iː", "i" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "æ" ]
+  after = [ "e" ]
+  env = "in odd syllables ! _{w,j,[+laryngeal]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wa", "ja" ]
+  after = [ "uə̯", "iə̯" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Miami-Illinois"
+or_contr = "Pogostick Man"
+or_src = " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393"
+srces = [ "s7" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "t" ]
+  env = "in nominal suffixes"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "tʃ" ]
+  env = "in diminutives"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "ʃ" ]
+  env = "_i (not universal)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "ʃ" ]
+  env = "_i[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,l}", "→", "r" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,l}", "→", "r" ]
+  after = [ "n" ]
+  env = "#_ (and possibly in other places as well)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,l}", "→", "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "#_{ʰ[+consonant],s,ʃ} (allophonic, “optionalˈ)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h}{ɬ,l}" ]
+  after = [ "hs" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,l}" ]
+  after = [ "t" ]
+  env = "n_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,ʃ,tʃ,ç,x,ʔ}" ]
+  after = [ "h" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant -nas]" ]
+  after = [ "h" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "ʔ" ]
+  env = "_{s,ʃ}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "hs", "hʃ" ]
+  after = [ "sː", "ʃː" ]
+  env = "sporadic, usually {#,[+vowel +front]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant -voiced]" ]
+  after = [ "[+consonant +voiced]" ]
+  env = "[+nasal]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel][+nasal]s", "[+vowel][+nasal]ʃ" ]
+  after = [ "[+vowel +nas]z", "[+vowel +nas]ʒ" ]
+  env = "not universal?"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive]" ]
+  after = [ "ⁿ[+plosive]" ]
+  env = "#[+nasal][+vowel]_ (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s", "ʃ" ]
+  after = [ "ⁿs", "ⁿʃ" ]
+  env = "σ-nas] (highly sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{h,ʔ}" ]
+  after = [ "∅" ]
+  env = "_m"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Mi’kmaq"
+or_contr = "Pogostick Man with acknowledgment to dhok and Alex Fink"
+or_src = " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”"
+srces = [ "s8" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "ʃ" ]
+  env = "! [+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n{θ,l}", "h{θ,ʃ}" ]
+  after = [ "∅", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h,[+nasal]}" ]
+  after = [ "∅" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ{θ,ʃ}", "ʔl" ]
+  after = [ "s", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "x" ]
+  after = [ "∅" ]
+  env = "_{p,k}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "χ" ]
+  env = "_(w)a(ː) ! #_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "χ" ]
+  env = "a(ː)_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "eːk" ]
+  after = [ "oχ" ]
+  env = "_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o(ː)", "waː", "eː", "iː" ]
+  after = [ "u", "o", "e", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aː" ]
+  after = [ "a" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(aw)aha" ]
+  after = [ "aː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{awa,iwa,iwi}" ]
+  after = [ "uː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{o,a}wi" ]
+  after = [ "oː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ehi" ]
+  after = [ "eː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{aja,iha,iji,ihi,ija}" ]
+  after = [ "iː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Ojibwe"
+or_contr = "Whimemsz"
+or_src = " from his own work; http:"
+srces = [ "s9" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NB: For this sound-change set, H is “either an */h/ or */ʔ/, but we don’t know which”.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we", "e" ]
+  after = [ "o", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "{t,r}_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,s,h,ʔ}" ]
+  after = [ "∅" ]
+  env = "_{p,t,tʃ,k}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "θ" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h}{s,r}" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h}" ]
+  after = [ "∅" ]
+  env = "_ʃ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,r}" ]
+  after = [ "∅" ]
+  env = "_r"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]" ]
+  after = [ "∅" ]
+  env = "_m"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "s" ]
+  env = "_k"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{j,w}[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "[+consonant]_# in disyllables with [+vowel]ː or in tri(-plus-)syllables"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{w,j}[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "[+vowel]ː_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "[+vowel -long]{w,j}_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jeː" ]
+  after = [ "iː" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ja" ]
+  after = [ "iː" ]
+  env = "[+consonant]_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Piscataway"
+or_contr = "Pogostick Man"
+or_src = " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”"
+srces = [ "s10" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NB: This is very incomplete, partially because it seems that the only source we have on Piscataway is a single document in rather poor condition.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{θ,ʃ}" ]
+  after = [ "ɬ" ]
+  env = ""
+  notes = [
+  "sounds)",
+  "reconstructed",
+  "original",
+  "the",
+  "in",
+  "voicing",
+  "of",
+  "lack",
+  "the",
+  "on",
+  "and",
+  "source",
+  "[+labial,bilabial]iscataway",
+  "the",
+  "in",
+  "〈z〉",
+  "on",
+  "based",
+  "(conjectured"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "x" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "o" ]
+  env = "unclear conditioning"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "h" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Algonquian"
+to = "Shawnee"
+or_contr = "Whimemsz"
+or_src = " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”"
+srces = [ "s11" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "we" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "θ r / ! _O", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "s" ]
+  env = "[+laryngeal]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "∅" ]
+  env = "n_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "∅" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{h,s,tʃ,θ}" ]
+  after = [ "ʔ" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "ʃ" ]
+  env = "_[-sonorant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "#([+consonant])_ “(but remains e in a few cases?)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iː" ]
+  after = [ "i" ]
+  env = "_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_i(ː)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "je" ]
+  after = [ "i" ]
+  env = "[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "{tʃ,ʃ}_eː"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "{tʃ,ʃ,w}_aː"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "t_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wa" ]
+  after = [ "o" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "_{ʃp,ʃk}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "[+consonant]_ʔ[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -long]" ]
+  after = [ "∅" ]
+  env = "_h[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = "_{ʔ[+consonant],ʃp,ʃk,h[+vowel]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "∅" ]
+  env = "[+consonant]{v,l,s}_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "∅" ]
+  env = "_[+consonant][+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "[+consonant]{v,d}_{ʃp,ʃk,h[+vowel]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "h" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "θ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "i" ]
+  env = "#[+consonant]_j[+vowel]ː “(for some speakers)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʃ" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ "speakers)ˈ", "many", "“(for" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]

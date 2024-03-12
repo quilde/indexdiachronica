@@ -1,0 +1,8879 @@
+family = "Austronesian"
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Malayo-Polynesian"
+or_contr = "Pogostick Man"
+or_src = " from Wikipedia contributors (2011), “Proto-Austronesian lanuage”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "s0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "a" ]
+  env = "_s"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s", "ts", "lʲ" ]
+  after = [ "h", "t", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Proto-Bali-Sasak-Sumbawan"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "s1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "{d,t}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j", "z" ]
+  after = [ "d", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "h" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,h}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw", "uj" ]
+  after = [ "{i,?}", "i" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "A:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj", "aw" ]
+  after = [ "ej", "ow" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "B:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj", "aw" ]
+  after = [ "e", "ow" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant +voice]" ]
+  after = [ "[+consonant -voice]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]ə[+plosive]" ]
+  after = [ "(h)ə([+nasal])[+plosive]" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Bali-Sasak-Sumbawan"
+to = "Balinese"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r", "→", "{r,h}" ]
+  after = [ "{∅,h}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "{∅,h}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "b" ]
+  env = "i_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ej", "ow" ]
+  after = [ "i", "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“ə assimilated to the following vowel after the loss of *-r-”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ə" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Bali-Sasak-Sumbawan"
+to = "Sasak"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "q" ]
+  env = "_# (might’ve been a retention?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw", "ow", "ej" ]
+  after = [ "i", "o", "e" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "“*i and *u often become mid-vowels”", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel](h)" ]
+  after = [ "[+vowel](q)" ]
+  env = "_# (again, might’ve been a retention?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = "medial ([+diphtong]eno-mene and [+diphtong]riak-mriku only)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "h" ]
+  env = "_# ([+diphtong]eno-mene and [+diphtong]riak-mriku only)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Bali-Sasak-Sumbawan"
+to = "Sumbawan"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "q" ]
+  env = "_# (might’ve been a retention?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "i_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ej", "ow" ]
+  after = [ "e", "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = "sometimes"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel](h)" ]
+  after = [ "[+vowel](q)" ]
+  env = "_# (again, might’ve been a retention?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive +voice]" ]
+  after = [ "∅" ]
+  env = "_[+nasal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive +voice]" ]
+  after = [ "∅" ]
+  env = "[+nasal]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "i" ]
+  env = "_{s,t,r,n,l} (blocked in [+labial,bilabial]usu)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "“[C]ontraction of adjacent vowels” (not in Besar)", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b" ]
+  after = [ "∅" ]
+  env = "medial (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Polynesian"
+to = "Luangiua"
+or_contr = "thetha"
+or_src = " from Blust, Robert (2013), The Austronesian Languages, Revised Edition"
+srces = [ "s2" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,h}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "t" ]
+  after = [ "ʔ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ŋ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Philippine"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "s3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive -voice]" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+plosive +voice],*[+continuant],z}" ]
+  after = [ "d" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive +voice]" ]
+  after = [ "d" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "{l,ɡ}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Bicol"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j", "{*[+plosive +voice],z}" ]
+  after = [ "r", "d" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "ɡ" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h", "*j" ]
+  after = [ "∅", "d" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Cebuano"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive +voice]", "d" ]
+  after = [ "l", "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "d" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*j,*[+continuant]}", "z" ]
+  after = [ "l", "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h", "*j" ]
+  after = [ "∅", "d" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Hiligaynon"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive +voice]" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "d" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+continuant],*j}", "z" ]
+  after = [ "l", "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "d" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Ibanag"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Something happens to final voiceless stops but it isn’t clear in the paper",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive +voice]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "ɡ" ]
+  env = "possible exception in word-initial position?"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+continuant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "d" ]
+  env = "#_ (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,c}" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,h}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "uj" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Ifugao"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "ɡ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{z,*[+continuant],*[+plosive +voice],*j}" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "*R seems to have had a few different reflexes, mainly one of /l ɡ j/; if /ɡ j/ occurred, /ɡ/ was more probable at word boundaries and /j/ was more probable medially",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,h}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,c}" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "_iw#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ay" ]
+  after = [ "e" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Ilocano"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive +voice]" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{z,*[+continuant],*j}" ]
+  after = [ "d" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "{ɡ,r}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{q,h}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Proto-Kalamian"
+or_contr = "Pogostick Man"
+or_src = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
+srces = [ "s4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{h,ʔ}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{z,j}" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]", "ɲ" ]
+  after = [ "l", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "u" ]
+  env = "_[+consonant]u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "_[+consonant]i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "u" ]
+  env = "u[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "a" ]
+  env = "_[+consonant -voice]#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Contrastive stress lost", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Kalamian"
+to = "Agutaynen"
+or_contr = "Pogostick Man"
+or_src = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[-sonorant -voice]" ]
+  after = [ "ʔ" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{[+vowel],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aɪ", "ai" ]
+  after = [ "ɪɪ", "ii" ]
+  env = ""
+  notes = [
+  "here)",
+  "hiatus",
+  "or",
+  "vowel",
+  "long",
+  "a",
+  "there’s",
+  "if",
+  "sure",
+  "(not"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = "_[+vowel] ! _[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "[+vowel]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Kalamian"
+to = "Karamiananen"
+or_contr = "Pogostick Man"
+or_src = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t,k}", "q" ]
+  after = [ "ʔ", "k" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "ʔ" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{[+vowel],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aɪ", "ai" ]
+  after = [ "ɪɪ", "ii" ]
+  env = ""
+  notes = [
+  "here)",
+  "hiatus",
+  "or",
+  "vowel",
+  "long",
+  "a",
+  "there’s",
+  "if",
+  "sure",
+  "(not"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = "_[+vowel] ! _[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "c&" ]
+  env = ""
+  notes = [
+  "represents)",
+  "this",
+  "what",
+  "explain",
+  "doesn’t",
+  "paper",
+  "(the",
+  "_"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b" ]
+  after = [ "β" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "β" ]
+  after = [ "w" ]
+  env = "[+vowel +high]_a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɡ" ]
+  after = [ "h" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "[+vowel]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Kalamian"
+to = "Kalamian Tagbanwa"
+or_contr = "Pogostick Man"
+or_src = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
+srces = [ "4" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t,k,q,s}" ]
+  after = [ "k" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{[+vowel],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aɪ", "ai" ]
+  after = [ "ɪɪ", "ii" ]
+  env = ""
+  notes = [
+  "here)",
+  "hiatus",
+  "or",
+  "vowel",
+  "long",
+  "a",
+  "there’s",
+  "if",
+  "sure",
+  "(not"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "ɡ" ]
+  after = [ "β", "[+vowel]" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ʔ" ]
+  env = "[+vowel]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Kankanay"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+plosive +voice],*[+continuant]}" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{z,*j}" ]
+  after = [ "d" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "ɡ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "*R seems to have had a few different reflexes, mainly one of /l ɡ j/; if /ɡ j/ occurred, /ɡ/ was more probable at word boundaries and /j/ was more probable medially",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{h,q}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Something seems to have changed to əw finally but the paper may have an error here",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Tagalog"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+plosive +voice],*j}", "{d,z}" ]
+  after = [ "l", "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "d" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h", "*j" ]
+  after = [ "∅", "d" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [
+  "it)",
+  "to",
+  "word-finally",
+  "happens",
+  "what",
+  "sure",
+  "(not"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "uj", "iw" ]
+  after = [ "oj", "uj" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Philippine"
+to = "Waray"
+or_contr = "Pogostick Man"
+or_src = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
+srces = [ "3" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+plosive -voice]" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+plosive +voice],*[+continuant]}" ]
+  after = [ "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+plosive +voice],*[+continuant],z}" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "r" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*j" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "uj" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Batak"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, K.A. (1981), “Reconstruction of Proto-Batak Phonology”. In Blust, Robert (ed.), Historical Linguistics in Indonesia I:1 – 20."
+srces = [ "s5" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "TinyMusic notes that this particular set of sound changes is with respect to the reconstruction of Proto-Austronesian by Dyen (1965), and that he had some trouble with *j.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "i_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{a,e}" ]
+  after = [ "o" ]
+  env = "_w#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_j#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "{ts,ʈ}",
+  "{ɟ͡ʝ,ɖ}",
+  "{lʲ,ɲ}",
+  "{ʔ,x,s,h}",
+  "ʀ",
+  "→",
+  "t",
+  "d",
+  "n",
+  "∅",
+  "r",
+  "(velar",
+  "fricative",
+  "is",
+  "conjectured;",
+  "changes"
+]
+  after = [ "d", "“unsureˈ)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = "#_ (sometimes"
+  notes = [ " “represented by *h in PB”)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ "approximant)", "to", "changes", "(fricative" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Proto-Chamic"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z", "j" ]
+  after = [ "j", "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wa" ]
+  after = [ "u" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]", "q" ]
+  after = [ "r", "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "iw", "u" ]
+  after = [ "ɔj", "?", "ɔw" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]1[+consonant]2" ]
+  after = [ "[+consonant]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Nasal +stop clusters assimilate in POA", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant +voice]" ]
+  after = [ "[+consonant -voice]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l", "n" ]
+  after = [ "r", "l" ]
+  env = "#_ (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d", "j" ]
+  after = [ "r", "ɭ" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "“Sometimes a reduction of [the] penultimate vowel”", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "aː" ]
+  env = "_[+consonant]# (sometimes)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Chamorro"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2000), “Chamorro Historical Phonology”. Oceanic Linguistics 39(1):83 – 122"
+srces = [ "s6" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "[+vowel][+consonant]_[+consonant][+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "[+vowel][+consonant]_[+consonant][+vowel] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "e", "o" ]
+  env = "_[+consonant]{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "e", "o" ]
+  env = "[+consonant][+consonant]# (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "æ" ]
+  env = ""
+  notes = [
+  "unclear)ˈ",
+  "conditioning",
+  "and",
+  "environment",
+  "forms;",
+  "some",
+  "“(in"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "uj" ]
+  after = [ "{i,u}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw" ]
+  after = [ "u" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "c", "q" ]
+  after = [ "f", "s", "ʔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_# (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "h" ]
+  env = "! _#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]0[+vowel]0" ]
+  after = [ "[+vowel]0" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "dz" ]
+  after = [ "p", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɟ" ]
+  after = [ "ʔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "d" ]
+  env = "_{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɾ" ]
+  after = [ "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[-sonorant]" ]
+  after = [ "[-sonorant -voiced]" ]
+  env = "_{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "i_a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "w" ]
+  env = "u_a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "w" ]
+  env = "a_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "w" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j", "w" ]
+  after = [ "dz", "ɡʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɡʷ" ]
+  after = [ "ɡ" ]
+  env = "_[+vowel +round]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Proto-Malayic"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "t" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "ʔ" ]
+  env = "_# (sometimes)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{iw,uj}" ]
+  after = [ "i" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "A:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj", "aw" ]
+  after = [ "i", "u" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "B:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj", "aw" ]
+  after = [ "aj", "aw" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]1[+consonant]2" ]
+  after = [ "[+consonant]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "[+consonant +[+affricate]",
+  "[+labial,bilabial][-sonorant][+affricate]][+consonant +[+vowel +back]",
+  "[+labial,bilabial][-sonorant][+affricate]]"
+]
+  after = [
+  "[+consonant +[+vowel +back]",
+  "[+labial,bilabial][-sonorant][+affricate]][+consonant +[+vowel +back]",
+  "[+labial,bilabial][-sonorant][+affricate]]"
+]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant +voice]" ]
+  after = [ "[+consonant -voice]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]" ]
+  after = [ "{∅,h}" ]
+  env = "_ə[+nasal][+plosive] "
+  notes = [ "/ #_" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayic"
+to = "(Standard) Malay"
+or_contr = "TinyMusic"
+or_src = " from Tryon, Darrell (1995), Comparative Austronesian Dictionary"
+srces = [ "s7" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "ə" ]
+  env = "_([+consonant]…)σσ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "_([+consonant]…)#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ɲ" ]
+  env = "“in the environment of i (sporadic)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "! _# (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Proto-Malayo-Javanic"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "h" ]
+  after = [ "h", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "A:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw", "aj" ]
+  after = [ "əw", "əj" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "B:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw", "aj" ]
+  after = [ "aw", "aj" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Javanic"
+to = "Javanese"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{l,d}", "z" ]
+  after = [ "r", "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b" ]
+  after = [ "w" ]
+  env = "! adjacent to another consonant"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "u" ]
+  env = "_h#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "{o,h,w}" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw", "uj" ]
+  after = [ "ju", "i" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "A:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "əw", "əj" ]
+  after = [ "i", "u" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "B:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw", "aj" ]
+  after = [ "e", "ó" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]1[+consonant]2" ]
+  after = [ "[+consonant]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Nasal +stop clusters “become homorganic”", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]ə[+plosive]" ]
+  after = [ "(h)ə[+nasal][+plosive]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Madurese"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɭ" ]
+  after = [ "lʔ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɭ" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "jʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "w j fortite when non-final", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b" ]
+  after = [ "{w,∅}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "ʔ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "ʔ" ]
+  env = "[+vowel]0[+vowel]0"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“Aspiration of initial and intervocalic voiced stops and *z”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p,t,k}", "b", "d", "ɡ" ]
+  after = [ "ʔ", "p", "t", "k" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ij", "uw" ]
+  after = [ "uj", "{uj,ój}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "[+vowel]ː" ]
+  env = "ə([+consonant]…?)_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant +voice]" ]
+  after = [ "[+consonant -voice]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+laryngeal]ə[+plosive]" ]
+  after = [ "(h)ə[+nasal][+plosive]" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Javanic"
+to = "Sundanese"
+or_contr = "TinyMusic"
+or_src = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
+srces = [ "1" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{l,j}", "z" ]
+  after = [ "r", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "{∅,c}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "{∅,r,j}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iw", "uj" ]
+  after = [ "{ju,i}", "oj" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "A:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "əw", "əj" ]
+  after = [ "o", "e" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "B:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw", "aj" ]
+  after = [ "o", "aj" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Palauan"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2009), “Palauan Historical Phonology: Whence the Intrusive Velar Nasal?”. Oceanic Linguistics 48(2):307 – 336"
+srces = [ "s8" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj", "aw", "uj" ]
+  after = [ "e", "o", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "w" ]
+  env = "u_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "i_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ə" ]
+  env = "[+consonant]_[+consonant] “(for certain consonant combinations, which the paper doesn’t specify)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "{e,o}" ]
+  env = "stressed"
+  notes = [ " “(result of /e/ or /o/ unpredictable)”" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "w" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wa" ]
+  after = [ "o" ]
+  env = "#_ when unstressed"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "ə" ]
+  env = "unstressed"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{aw,əw}" ]
+  after = [ "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "wə" ]
+  after = [ "u" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j", "l" ]
+  after = [ "r", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "∅" ]
+  env = "[+consonant]_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ "“(sporadic)ˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "ð" ]
+  env = "! adjacent to [+plosive]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "r" ]
+  env = "_[+consonant +dental]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɖ" ]
+  after = [ "ɽ" ]
+  env = ""
+  notes = [ "example)ˈ", "one", "“(only" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ "#_)", "when", "n", "to", "possibly", "(except" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n", "dz" ]
+  after = [ "l", "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "rl" ]
+  after = [ "lː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɟ" ]
+  after = [ "k" ]
+  env = "_[+consonant]#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɟ" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "∅" ]
+  env = "[+consonant]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{s,ð}" ]
+  env = "“unpredictably, to eliminate s[+vowel]([+consonant])t and t[+vowel]([+consonant])s sequencesˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ŋ" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "χ" ]
+  env = ""
+  notes = [ "ʕ)", "(→" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayo-Polynesian"
+to = "Proto-North Sarawak"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2002), “Kiput Historical Phonology”. Oceanic Linguistics 41(2):384 – 438; and Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
+srces = [ "s9" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "ʔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h}" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ʔ,h}" ]
+  after = [ "∅" ]
+  env = "[+vowel]1[+high]_[+vowel]2"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "ʔ" ]
+  env = "[+vowel]0_[+vowel]0"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "ʔ" ]
+  env = "a_{i,u}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "adjacent to a vowel"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ə" ]
+  env = "_σσ(σ…)#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ "[+vowel][+consonant]_[+consonant][+vowel]" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Nasal assimilation to following stops in some words; in other words it results in a geminate stopPostvocalic obstruents with different POAs become geminates of the second when “in reduplicated monosyllabic roots” and “in non-reduplicated bases which had undergone the change of schwa syncope in medial syllables”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "[+consonant]ː" ]
+  env = "ə_[+vowel] (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɟ(ː)" ]
+  after = [ "d(ː)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bː", "dː", "dzː", "ɡː" ]
+  after = [ "bʱ", "dʱ", "dzʱ", "ɡʱ" ]
+  env = ""
+  notes = [
+  "clusters)ˈ",
+  "not",
+  "phonemes,",
+  "unit",
+  "as",
+  ".treated",
+  ".",
+  "releases.",
+  "voiceless",
+  "with",
+  "stops",
+  "“voiced",
+  "become",
+  "these",
+  "says",
+  "([+semivowel]himemsz"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "#_σσ(σ…)# “(i.e., in word-initial position in prepenultimate syllables)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "tː", "cː", "kː" ]
+  after = [ "p", "t", "c", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-North Sarawak"
+to = "Kiput"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2002), “Kiput Historical Phonology”. Oceanic Linguistics 41(2):384 – 438"
+srces = [ "s10" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Stress reassignment to the final syllable", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel] “(in some forms)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ai", "au" ]
+  after = [ "ai̯", "au̯" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "_ʔ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ai", "au" ]
+  after = [ "ɛː", "ɔː" ]
+  env = "_…#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "əi̯", "əu̯" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "h" ]
+  env = "a_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]0[+vowel]0" ]
+  after = [ "[+vowel]0" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "adjacent to a vowel"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +stress]" ]
+  after = [ "[+vowel]ː" ]
+  env = "_[+consonant]# ! [+vowel] = ə and"
+  notes = [
+  "/or C = h “(applies to diphthongal nuclei as well a[s] monophthongs)”"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "{l,ɾ}" ]
+  env = "! _# (the latter is more common)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "∅" ]
+  env = "! _# (irregular)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "u",
+  "→",
+  "əw",
+  "/",
+  "_[+vowel]",
+  "“(also",
+  "cases",
+  "of",
+  "([+consonant])u"
+]
+  after = [ "w" ]
+  env = "__[+vowel])ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "i",
+  "→",
+  "əj",
+  "/",
+  "_[+vowel]",
+  "“(also",
+  "cases",
+  "of",
+  "([+consonant])i"
+]
+  after = [ "j" ]
+  env = "__[+vowel])ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w", "j" ]
+  after = [ "v", "ɟ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "iu̯" ]
+  after = [ "ui̯" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "ɛ", "ɔ" ]
+  env = "_[+consonant]# ! _[+labial,bilabial] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "ʔ" ]
+  env = "_# “(in a handful of forms)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "ɾ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "i" ]
+  env = "[-sonorant +voiced]…_([+consonant])# “(blocked if there was an intervening nasal, and sometimes if there was an intervening voiceless stop or liquid)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "əi̯", "əu̯" ]
+  env = "_(ʔ)#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "əi̯", "əu̯" ]
+  after = [ "ai̯", "au̯" ]
+  env = "! [-sonorant +voiced] earlier in the word"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bʱ", "{dʱ,dzʱ}", "ɡʱ" ]
+  after = [ "f", "s", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v", "ɡ", "ɟ" ]
+  after = [ "f", "k", "c" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v", "ɟ" ]
+  after = [ "f", "c" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{i,ɛ}", "{u,ɔ}" ]
+  after = [ "iə̯", "uə̯" ]
+  env = "_{k,ŋ}# “(and also sporadically before final *t and *n and some other consonants)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "ŋ" ]
+  after = [ "ʔ", "∅" ]
+  env = "[+vowel]ə̯_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "{ə,a}" ]
+  env = "_[+consonant]# “(free variants)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal][+plosive -voice]" ]
+  after = [ "[+plosive]ː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“Numerous different possible reflexes of NS[+voice] clusters”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "([+consonant])[+vowel]" ]
+  after = [ "∅" ]
+  env = "#_[+consonant]… “(irregular)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "l" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{l,ɾ}" ]
+  after = [ "n" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dz", "→", "d", "/", "#_", "(though", "sometimes" ]
+  after = [ "{s,ɟ})" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,c}" ]
+  after = [ "t" ]
+  env = "_[+vowel]{s,c}[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d" ]
+  after = [ "p", "t" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-North Sarawak"
+to = "Proto-Kenyah"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
+srces = [ "s11" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "l" ]
+  env = "#_ (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʀ" ]
+  after = [ "h" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɻ" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "e", "o" ]
+  env = "_h#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive]" ]
+  after = [ "[+plosive -voice]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "n" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t" ]
+  env = "_[+vowel]s[+vowel][+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant][+vowel]" ]
+  after = [ "∅" ]
+  env = "_[+nasal][+consonant][+vowel][+consonant] “(in reduplications)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Word-initial nasals assimilate to the POA of a following consonant",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Kenyah"
+to = "Òma Lóngh"
+or_contr = "Whimemsz"
+or_src = " from Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
+srces = [ "11" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bʱ", "dʱ", "dzʱ", "ɡʱ" ]
+  after = [ "p", "t", "c", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "e" ]
+  env = "_k#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "iə" ]
+  env = "_ŋ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "k" ]
+  env = "u_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "o" ]
+  env = "_k#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "o" ]
+  env = "_ŋ# “(sporadically failed to occur)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "ɯ" ]
+  env = "_([+consonant])# ! _ʔ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_# “(not in all forms)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʔ", "→", "∅", "/", "_#", "“(but", "aʔ" ]
+  after = [ "əʔ", "in", "some", "forms)ˈ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "ʔ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ɛ" ]
+  env = "{t,n}_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p,t}", "n" ]
+  after = [ "c̚", "ɲ" ]
+  env = "{i,ɛ}_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m" ]
+  after = [ "ɲ" ]
+  env = "i_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ai̯", "au̯" ]
+  after = [ "ɛ", "ɔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ui̯,iu̯}" ]
+  after = [ "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "e", "o" ]
+  env = "_[+consonant][+vowel +close-mid]([+consonant])# “(iə is treated as close mid for this change)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "ɛ", "ɔ" ]
+  env = "_[+consonant][+vowel +open-mid]([+consonant])#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "e", "o" ]
+  env = "_[+consonant]ɯ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "ŋ̊" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p,t}", "{m,n}" ]
+  after = [ "k", "ŋ" ]
+  env = "ɯ_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i", "u" ]
+  after = [ "əj", "əw" ]
+  env = "_[+vowel]([+consonant])#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j", "w" ]
+  after = [ "z", "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "f" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "k" ]
+  after = [ "f", "ɣ" ]
+  env = "[+vowel]_[+vowel] ! ˈə_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = "[+vowel]_[+vowel] “(irregular)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dz" ]
+  after = [ "ɟ" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "dz", "ɡ" ]
+  after = [ "p", "t", "c", "k" ]
+  env = "[+nasal]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "∅" ]
+  env = "_[+plosive] “(sporadic)ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Malayic"
+to = "Minangkabau"
+or_contr = "TinyMusic"
+or_src = " from Tryon, Darrell (1995), Comparative Austronesian Dictionary"
+srces = [ "7" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ɲ" ]
+  env = "“in the environment of iˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = "! _# (some exceptions)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_([+consonant]…)#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Chronologically-ordered changes:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "_([+consonant]…)# (eventually spread to everywhere)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m", "p" ]
+  after = [ "n", "t" ]
+  env = "{u,i}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a", "u" ]
+  after = [ "e", "uj" ]
+  env = "_{t,s}#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_p#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "uə", "iə" ]
+  env = "_{k,ŋ,h,l,r}#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p,t,k}", "s" ]
+  after = [ "ʔ", "h" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{l,r}" ]
+  after = [ "∅" ]
+  env = "_# (retained across morpheme boundaries)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Oceanic"
+or_contr = "Pogostick Man"
+or_src = " from Wikipedia contributors (2011), “Proto-Austronesian language”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "s12" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mb" ]
+  after = [ "p" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{nts,ns,nz,nɡʲ}", "{ts,z,ɡʲ}" ]
+  after = [ "ɡʲ", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ŋk,ŋɡ}", "ɡ" ]
+  after = [ "ɡ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e", "{uj,iw}" ]
+  after = [ "o", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw" ]
+  after = [ "o" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Hawai’ian"
+or_contr = "Chris Zoller"
+or_src = " from Trask, R.L. (1996), Historical Linguistics"
+srces = [ "s13" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NB: Zoller states that these changes are “[s]implified”.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{h,ʔ}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,f}" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "t" ]
+  after = [ "ʔ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ", "r", "v" ]
+  after = [ "n", "l", "w" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Hiw"
+or_contr = "thetha"
+or_src = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”, and François, Alexander (2010), “Phonotactics and the prestopped velar lateral of Hiw”"
+srces = [ "s14" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pʷ", "{c,*j}", "k", "q" ]
+  after = [ "β", "βʷ", "s", "ɣ", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "β", "b", "m" ]
+  after = [ "βʷ", "bʷ", "mʷ" ]
+  env = "typically near *u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dr", "*r" ]
+  after = [ "d", "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "p", "t", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "βʷ", "bʷ", "mʷ" ]
+  after = [ "w", "kʷ", "ŋʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s", "→", "h" ]
+  after = [ "∅", "(sporadic)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "ɡʟ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ˈ[+vowel +high(er)]" ]
+  after = [ "∅" ]
+  env = "_[+consonant][+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ˈ[+vowel]" ]
+  after = [ "ə" ]
+  env = "_[+consonant][+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "”ə sometimes assimilates to a following vowel", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_[+consonant][+vowel +mid] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_[+consonant]i (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "a([+consonant])[+vowel +high]",
+  "a([+consonant])[+vowel +mid]",
+  "a[+consonant]a"
+]
+  after = [ "ɔ([+consonant])", "a([+consonant])", "{ɔ,a}([+consonant])ə" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e([+consonant]){[+vowel -low]}", "e([+consonant])a" ]
+  after = [ "e([+consonant])", "e([+consonant])ə" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "i([+consonant])[+vowel +high]",
+  "i([+consonant])[+vowel +mid]",
+  "i([+consonant])a"
+]
+  after = [
+  "i([+consonant])",
+  "i([+consonant])ə",
+  "{e,i}([+consonant])ə"
+]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "o([+consonant])[+vowel +high]",
+  "o([+consonant])[+vowel +mid]",
+  "o([+consonant])a"
+]
+  after = [ "ɵ([+consonant])", "o([+consonant])", "ɔ([+consonant])ə" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "u([+consonant])[+vowel +high]",
+  "u([+consonant])e",
+  "u([+consonant])o",
+  "u([+consonant])a"
+]
+  after = [
+  "{u,i}([+consonant])",
+  "u([+consonant])ə",
+  "e([+consonant])ə",
+  "{u,ɵ}([+consonant])ə"
+]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "ʉ" ]
+  env = "! [+consonant]w_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{e,i}" ]
+  after = [ "ɪ" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]0[+vowel]0" ]
+  after = [ "[+vowel]0" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“[W]hen pretonic u was lost, its labialness was usually absorbed onto the previous consonant”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Lemerig"
+or_contr = "thetha"
+or_src = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
+srces = [ "s15" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pʷ", "k", "q" ]
+  after = [ "β", "w", "ɣ", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel][+vowel]" ]
+  after = [ "[+vowel]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ndr", "*[+sonorant]" ]
+  after = [ "d", "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,*j}", "ɲ" ]
+  after = [ "s", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "ʔ" ]
+  env = ""
+  notes = [ "“oftenˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "bʷ", "d", "ɡ" ]
+  after = [ "p", "kpʷ", "t", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ" ]
+  after = [ "ŋmʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "thetha says “intervening consonants sometimes optional in the [following] sound changes”:",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i[+consonant][+vowel -high]" ]
+  after = [ "a[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e[+consonant][+vowel +mid]" ]
+  after = [ "ɛ[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e[+consonant][+vowel +low]" ]
+  after = [ "a[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a[+consonant][+vowel +high]" ]
+  after = [ "{ɛ,œ}[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a[+consonant]a" ]
+  after = [ "{ɘ,a}[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o[+consonant][+vowel +high]" ]
+  after = [ "ø[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o[+consonant]o" ]
+  after = [ "œ[+consonant]" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o[+consonant][+vowel -high]" ]
+  after = [ "ɔ[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u[+consonant][+vowel -high]" ]
+  after = [ "o[+consonant]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "e" ]
+  after = [ "ʊ", "ɪ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ia" ]
+  after = [ "ɪ" ]
+  env = ""
+  notes = [ "somoetimes?)ˈ", "“(only" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "#_[+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "[+consonant][+vowel][+consonant]_[+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant][+vowel]1[+consonant]ˈ[+vowel]2" ]
+  after = [ "[+consonant][+vowel]2[+consonant]ˈ[+vowel]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Mwotlap"
+or_contr = "thetha"
+or_src = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
+srces = [ "15" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]0[+vowel]0" ]
+  after = [ "[+vowel]0" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ndr" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pʷ", "bʷ", "k", "ɡ" ]
+  after = [ "β", "w", "kpʷ", "ɣ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ", "ɲ" ]
+  after = [ "ŋmʷ", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,*j}" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“(often)ˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "e", "i" ]
+  after = [ "ɔ", "ɛ", "ɪ" ]
+  env = "[+consonant]_[+vowel -high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel -high]" ]
+  after = [ "∅" ]
+  env = "{ɔ,ɛ,ɪ}[+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "oCV[+high] / ɪC (sporadic)", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u[+consonant]i" ]
+  after = [ "i[+consonant]" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "a" ]
+  after = [ "ʊ", "ɛ" ]
+  env = "_[+consonant][+vowel +high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "V[+high] / {ʊ,ɛ}C_", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "e" ]
+  after = [ "ʊ", "ɪ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a[+consonant][+vowel +high]" ]
+  after = [ "ɪ" ]
+  env = "when stressed unless primarily stressed"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "([+consonant])[+vowel]1[+consonant]ˈ[+vowel]2" ]
+  after = [ "([+consonant])[+vowel]2[+vowel]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]1" ]
+  after = [ "∅" ]
+  env = "_ˈ[+vowel]2"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "([+consonant])[+vowel]_[+vowel][+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "β", "d" ]
+  after = [ "m", "p", "n" ]
+  env = "_{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kpʷ" ]
+  after = [ "k" ]
+  env = "_[+consonant] (sporadic)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "*u *o “sometimes offload their labialization onto the previous labial consonant” when they change to something else",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Proto-New Caledonia"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "s16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{l,ɲ}" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "ʈ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_[+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal][+plosive]" ]
+  after = [ "ⁿ[+plosive]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant][+consonant]" ]
+  after = [ "[+consonant]ː" ]
+  env = ""
+  notes = [ "(fortis)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Caaàc"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "tː", "ʈː", "qː", "kː" ]
+  after = [ "pʰ", "pwʰ", "cʰ", "tʰ", "h", "jʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "{k,t}", "{s,ʈ}" ]
+  after = [ "k", "c", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{o,a}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "#([+consonant])[+vowel]([+consonant])([+consonant])_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ" ]
+  after = [ "h" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p,pw,k}" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "c" ]
+  after = [ "l", "j" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]n[+vowel]" ]
+  after = [ "ṼlṼ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ⁿ[+plosive]" ]
+  after = [ "[+nasal]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ "(typical)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = ""
+  notes = [ "always)", "(not" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Jawé"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "k", "{ʈ,s}" ]
+  after = [ "k", "c", "t̪" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "t̪ː", "tː", "kː", "cː" ]
+  after = [ "pʰ", "hʷ", "t̪ʰ", "tʰ", "h", "jʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪", "t̪ʰ", "t", "tʰ" ]
+  after = [ "t", "tʰ", "c", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ" ]
+  after = [ "h" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Nemi-Pije-Fwai"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "k", "{ʈ,s}" ]
+  after = [ "k", "c", "t̪" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "tː", "t̪ː", "kː", "cː" ]
+  after = [ "f", "hʷ", "t̪ʰ", "tʰ", "h", "jʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "tʰ" ]
+  after = [ "c", "h" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪", "t̪ʰ" ]
+  after = [ "t", "tʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ" ]
+  after = [ "h" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bw", "mw" ]
+  after = [ "ɡ", "ŋ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n", "n̥" ]
+  after = [ "ɲ", "ɲ̊" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[-sonorant][+nasal][+vowel]" ]
+  after = [ "[+plosive]ʰṼ" ]
+  env = "[+labial,bilabial]ije and [+fricative]wai"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "ɸ" ]
+  env = "[+labial,bilabial]ije and [+fricative]wai"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Proto-Northern"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "qː", "k", "kː", "s", "sː" ]
+  after = [ "k", "kː", "c", "cː", "t̪", "t̪ː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Velars were in the process of palatalizing", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_$(possessive suffix)#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "#_a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Northern"
+to = "Nixumwak-Nêlêmwa"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#, often"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "c" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "c" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{o,a}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "cʰ" ]
+  after = [ "{ʃ,jʰ}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʰ" ]
+  after = [ "h" ]
+  env = "_a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pw", "p", "t", "ʈ", "k", "c" ]
+  after = [ "(v)w", "v", "r", "l", "ɣ", "j" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pw" ]
+  after = [ "w" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʈ" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]n[+vowel]" ]
+  after = [ "ṼlṼ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ⁿ[+plosive]" ]
+  after = [ "[+nasal]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive][+nasal]" ]
+  after = [ "[+nasal -voice]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pwʰ", "pʰ", "tʰ", "kʰ" ]
+  after = [ "fw", "f", "rʰ", "x" ]
+  env = "in [+nasal]elemwa"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u[+consonant]u" ]
+  after = [ "i[+consonant]i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +mid]" ]
+  after = [ "a" ]
+  env = "near nasals?"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = "“in monosyllabic forms almost alwaysˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ˈ[+vowel]" ]
+  after = [ "[+vowel]ː" ]
+  env = ""
+  notes = [ "(usually)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "/ɨ ə/ gained", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Nyelâyu"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "#([+consonant])[+vowel]([+consonant])([+consonant])_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_# “sometimesˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "c" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "t", "s" ]
+  after = [ "j", "c", "t̪" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pw", "t̪", "ʈ", "c" ]
+  after = [ "v", "(v)w", "r", "l", "j" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪", "ʈ" ]
+  after = [ "r", "l" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pw" ]
+  after = [ "w" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t̪,ʈ}" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɴq" ]
+  after = [ "ŋk" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "tː", "qː", "cː" ]
+  after = [ "pʰ", "pwʰ", "tʰ", "h", "cʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ", "j" ]
+  after = [ "h", "∅" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "ɣ" ]
+  env = ""
+  notes = [ "unknown)", "conditioning", "(sporadic," ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ⁿ[+plosive]" ]
+  after = [ "[+nasal]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive][+nasal]" ]
+  after = [ "[+nasal -voice]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]n[+vowel]" ]
+  after = [ "ṼlṼ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "Ṽ" ]
+  env = "_[+nasal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ⁿ[+plosive]" ]
+  after = [ "[+nasal]" ]
+  env = "_Ṽ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ "“oftenˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = ""
+  notes = [ "always)", "(not" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Pwaamei"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_# (sporadic?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "k", "t", "s" ]
+  after = [ "k", "j", "c", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "tː", "ʈ", "kː", "cː" ]
+  after = [ "f", "hʷ", "tʰ", "lʰ", "h", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ʈ" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "c" ]
+  after = [ "∅", "{j,∅}" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ", "j" ]
+  after = [ "s", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bw", "mw" ]
+  after = [ "ɡ", "ŋ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Pwapwâ"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_# (sporadic?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "k", "{ʈ,s}" ]
+  after = [ "k", "c", "t̪" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "t̪ː", "tː", "kː", "cː" ]
+  after = [ "pʰ", "xʷ", "t̪ʰ", "tʰ", "x", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t̪(ʰ)", "t(ʰ)" ]
+  after = [ "cʰ", "tʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pw", "t", "{k,c}" ]
+  after = [ "{v,∅}", "w", "l", "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bw", "mw" ]
+  after = [ "ɡw", "ŋw" ]
+  env = "_[+vowel +rounded])"
+  notes = [ "ŋ", "ɡ", "(→" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-New Caledonia"
+to = "Proto-Yunaga"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "k", "s" ]
+  after = [ "k", "c", "t̪" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pː", "pwː", "t̪ː", "tː", "ʈː", "cː", "kː" ]
+  after = [ "pʰ", "pwʰ", "t̪ʰ", "tʰ", "ʈʰ", "jʰ", "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]ː" ]
+  after = [ "[+consonant]ʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "_{o,a}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t(ʰ)" ]
+  after = [ "k(ʰ)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ" ]
+  after = [ "h" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pw", "t̪", "ʈ", "k", "c" ]
+  after = [ "v", "w", "ð", "l", "∅", "j" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive][+nasal]" ]
+  after = [ "[+nasal -voice]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ⁿ[+plosive]" ]
+  after = [ "[+nasal]" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = "in monosyllables"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "au", "ai" ]
+  after = [ "ɔ", "ɛ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o" ]
+  after = [ "ɔ" ]
+  env = ""
+  notes = [ "“sometimesˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "{ɛ,e}" ]
+  env = ""
+  notes = [ "wordsˈ", "some", "“in" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Yunaga"
+to = "Yunaga 1"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "Ṽ" ]
+  env = "_[+nasal]#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "jʰ" ]
+  after = [ "θ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "j" ]
+  after = [ "{ð,z}" ]
+  env = ""
+  notes = [ "?" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Yunaga"
+to = "Yunaga 2"
+or_contr = "thetha"
+or_src = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
+srces = [ "16" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t̪,ʈ}" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ð" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Proto-Reefs/Santa Cruz"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "s17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "∅" ]
+  env = "_[+vowel +back]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "∅" ]
+  env = "d_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Reefs/Santa Cruz"
+to = "Äiwoo"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t,k}" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{k,∅}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "{k,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Reefs/Santa Cruz"
+to = "Nagu"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ" ]
+  after = [ "m" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{k,∅}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "*[+sonorant]" ]
+  after = [ "∅", "{l,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Reefs/Santa Cruz"
+to = "Natügu"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ" ]
+  after = [ "m" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{t,l}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "l" ]
+  env = "_{u,i}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "k" ]
+  after = [ "l", "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "_{u,#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "*[+sonorant]" ]
+  after = [ "∅", "{l,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Shark Bay"
+or_contr = "thetha"
+or_src = " from Guy, Jacques (1978), “Proto-North New Hebridean Reconstructions”"
+srces = [ "s18" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "{∅,r}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ", "c", "*j" ]
+  after = [ "n", "s", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pʷ", "k" ]
+  after = [ "v", "vʷ", "ɣ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "bʷ", "ɡ" ]
+  after = [ "p", "pʷ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +high]" ]
+  after = [ "∅" ]
+  env = "_# ! {p,z,d(r)}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v", "t", "l", "r" ]
+  after = [ "p", "dr", "n", "w" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "ts" ]
+  env = "_[+vowel +high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ˈa" ]
+  after = [ "i" ]
+  env = "_[+consonant][+vowel -high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ˈa" ]
+  after = [ "e" ]
+  env = "_[+consonant][+vowel +high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "ŋ" ]
+  after = [ "f", "∅" ]
+  env = "ˈ[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ", "s", "d" ]
+  after = [ "∅", "{j", "dr}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ", "s", "d" ]
+  after = [ "∅", "{j", "dr}" ]
+  env = "“before a post-tonic vowelˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "e" ]
+  env = "[+consonant]_# ! [+consonant] = j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "{ˈ[+vowel],j}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "v", "m" ]
+  after = [ "t", "θ", "n" ]
+  env = "_{a,e,i}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "h" ]
+  env = "#_[+vowel] (“it isn’t clear if this happens unconditionallyˈ)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "An /o ɔ/ distinction is gained somehow", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Tolomako"
+or_contr = "thetha"
+or_src = " from Lynch, John (2005), “The Apicolabial Shift in Nese”. Oceanic Linguistics 44(2):389 – 403; and http:"
+srces = [ "s19" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "{∅,r}" ]
+  env = ""
+  notes = [ "common)", "more", "seems", "former", "(the" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ", "c", "*j" ]
+  after = [ "n", "s", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m", "b", "→", "n̼", "t̼" ]
+  after = [ "n", "t" ]
+  env = "_{a,e,i}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p(ʷ)", "k" ]
+  after = [ "v(ʷ)", "ɣ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ", "b(ʷ)", "vʷ" ]
+  after = [ "m", "p", "b" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d", "ɡ" ]
+  after = [ "r", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{z,dr}" ]
+  after = [ "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ "(“sporadicˈ)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = ""
+  notes = [ "(rare?)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Proto-Utupua"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "q" ]
+  after = [ "v", "∅" ]
+  env = ""
+  notes = [
+  "*p?)",
+  "of",
+  "case",
+  "the",
+  "in",
+  "conditioning",
+  "with",
+  "on",
+  "going",
+  "something",
+  "was",
+  "there",
+  "like",
+  "seems",
+  "general,",
+  "(in"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [
+  "determined)",
+  "phonetically",
+  "be",
+  "just",
+  "may",
+  "[w]",
+  "[+plosive -voice]anibili",
+  "(?"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_# (except for *k?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Utupua"
+to = "Asuboa"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "PU *p had occasional reflexes of p or ∅", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "w" ]
+  env = "_[+vowel +back]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ", "mʷ" ]
+  after = [ "w", "m" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dr", "s", "l" ]
+  after = [ "{d,ɟ}", "{∅,s}", "{n,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɲ" ]
+  after = [ "∅", "{ɲ,j}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "r", "l" ]
+  after = [ "{j,s}", "{j,∅}", "j" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{k,∅}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{∅,s}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "{l,n,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "{l,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Utupua"
+to = "Nebao"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "PU *p had occasional h or ∅ reflexes", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ" ]
+  after = [ "vʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "k" ]
+  after = [ "r", "∅" ]
+  env = "#_ (though *t seems to have occasionally survived?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{r,t}" ]
+  env = "_[+vowel +back]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{r,t}" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "{l,∅}" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r", "*[+sonorant]" ]
+  after = [ "l", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ "(occasionally?)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɲ" ]
+  after = [ "∅", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "n" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Utupua"
+to = "Tanibili"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "PU *p seems to have remained; PU *w is listed as having both ∅ and w as reflexes although the latter may just be an epenthetic glide between vowels of unlike rounding",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,*[+sonorant]}" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "t", "{r,l}" ]
+  after = [ "∅", "s", "j" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ", "bw" ]
+  after = [ "p", "b" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{t,r,kʷ}" ]
+  env = "#_ (I’m not kidding. [+plosive -voice]hat’s what’s listed as the reflexes.)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{k,∅}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t", "k" ]
+  after = [ "{t,r,kʷ,∅}", "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "{∅,j}" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dr" ]
+  after = [ "ɟ" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d", "c", "ɲ" ]
+  after = [ "ɟ", "{s,∅}", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{r,l}", "→", "l", "(occasionally" ]
+  after = [ "∅?)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Proto-Vanikoro"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "∅" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "q" ]
+  after = [ "{v,p}", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "∅" ]
+  env = "d_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,*[+sonorant]}" ]
+  after = [ "r" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Vanikoro"
+to = "Buma"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "t" ]
+  after = [ "∅", "{s,k}" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "! _#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ", "bw", "mʷ" ]
+  after = [ "p", "b", "m" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "*[+sonorant]" ]
+  after = [ "∅", "{l,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ŋ" ]
+  after = [ "{ŋ,ɡ}" ]
+  env = ""
+  notes = [ "_i)", "when", "remains", "(ŋ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Vanikoro"
+to = "Tanema"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "v" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ", "w" ]
+  after = [ "b", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "{∅,t}" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "! _#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "*[+sonorant]" ]
+  after = [ "∅", "{l,∅}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "{s,d,c}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Vanikoro"
+to = "Vano"
+or_contr = "Pogostick Man"
+or_src = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
+srces = [ "17" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "{∅,w}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʷ", "mʷ" ]
+  after = [ "p", "m" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "l" ]
+  env = "#_, in nouns"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_{u,i}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "l" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "! _{u,#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "r" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "*[+sonorant]" ]
+  after = [ "{j,∅}", "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Proto-Southern Vanuatu"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "s20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m", "b" ]
+  after = [ "mʷ", "bʷ" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "b(ʷ)" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "vʷ" ]
+  env = "_u (a change thetha reconstructs in order to account for phenomena in later posts about this group of languages)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "*[+sonorant]" ]
+  after = [ "ɣ", "r" ]
+  env = ""
+  notes = [ "“(frequently)ˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+sonorant]" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dr" ]
+  after = [ "{d,r}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɲ" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ŋ" ]
+  env = "q[+vowel -stress]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ŋ" ]
+  env = "_[+vowel -stress]q"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "c" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q", "(→", "kw", "?)" ]
+  after = [ "v", "(rare)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_([+consonant])i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ə" ]
+  env = "_[+consonant]a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Southern Vanuatu"
+to = "Anejom"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant]" ]
+  after = [ "∅" ]
+  env = "_# ! [+consonant] = t"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "s" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v(ʷ)" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = "[+vowel]_[+vowel] (sporadic?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b(ʷ)", "ɡ" ]
+  after = [ "p(ʷ)", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = "“rarelyˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "θ" ]
+  env = "! _i, occasionally"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d", "{c,*j}" ]
+  after = [ "tʃ", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n,ŋ}" ]
+  after = [ "ɲ" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "tʃ" ]
+  env = "_{o,[+vowel +front]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_# (with very few exceptions)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{r,h}" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“a lot of word medial vowels get elided, sometimes even when they should be stressed”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{i,o}" ]
+  after = [ "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "o" ]
+  env = "{u,w}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "e" ]
+  env = "{θ,ɣ}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "e" ]
+  env = "_θ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ai" ]
+  after = [ "i" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ei" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ua" ]
+  after = [ "ou" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "au" ]
+  after = [ "{u,o}" ]
+  env = ""
+  notes = [ "“sometimesˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "[+palatovelar]_ “[tendency]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "i" ]
+  env = "_[+palatovelar] “[tendency]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "[+labial,bilabial]_ “[tendency]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_[+labial,bilabial] “[tendency]ˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Southern Vanuatu"
+to = "Proto-Erromango"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ", "pʷ", "bʷ", "vʷ" ]
+  after = [ "m", "p", "b", "v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v" ]
+  after = [ "p" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v" ]
+  after = [ "f" ]
+  env = "[+consonant +sibilant]%"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v" ]
+  after = [ "f" ]
+  env = "%[+consonant +sibilant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "*[+liquid]" ]
+  env = "occasionally"
+  notes = [ "lateral?)", "of", "sort", "(some" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s", "{c,*j}" ]
+  after = [ "h", "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o" ]
+  after = [ "a" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "i" ]
+  after = [ "o", "e" ]
+  env = ""
+  notes = [ "(sporadic)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "i" ]
+  env = "_[+consonant][+vowel +high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "“many word medial vowels lost”", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Erromango"
+to = "Sye"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+liquid]" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "p", "t", "k" ]
+  env = "{#,[+consonant]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "m", "n", "ŋ" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "mp", "nt", "ŋk" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "p" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "v" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "ɣ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "k" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“oftenˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "∅" ]
+  env = "_[+consonant] (occasionally blocked)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "e" ]
+  env = "[-sonorant +labial]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i" ]
+  after = [ "e" ]
+  env = "_[-sonorant +labial]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "o" ]
+  env = "[+velar]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "o" ]
+  env = "_[+velar]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "{w,m,ŋ}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "{o,e}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Erromango"
+to = "Ura"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "*[+liquid]" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "nr" ]
+  after = [ "d" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "m", "n", "ŋ" ]
+  env = "_[+consonant]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d", "ɡ" ]
+  after = [ "p", "t", "k" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "b" ]
+  env = "[+vowel]_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "e" ]
+  env = "ɣ_# (? this change is a bit unclear)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [
+  "often)",
+  "happens",
+  "but",
+  "happen",
+  "always",
+  "doesn’t",
+  "(perhaps"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,t}" ]
+  after = [ "h" ]
+  env = "_{n,l,r}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "r" ]
+  env = "! at word boundaries"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Southern Vanuatu"
+to = "Proto-Tanna"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{vʷ,w}" ]
+  after = [ "kʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s", "c", "*[+approximant]" ]
+  after = [ "{h,z}", "{s,z}", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɡ", "q" ]
+  after = [ "k", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "e" ]
+  after = [ "{u,ə}", "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "_{[+labial,bilabial],[+consonant]u}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "o" ]
+  env = "[+labial,bilabial]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "e" ]
+  env = "_[+consonant]i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ə" ]
+  env = "_[+consonant]a"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "“vowels tend to lower near h”", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Tanna"
+to = "Kwamera"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b(ʷ)", "d" ]
+  after = [ "p(ʷ)", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“irregularlyˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p(ʷ),v}[+vowel]h" ]
+  after = [ "f[+vowel]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "/fʷ/ gained", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "{e,i}" ]
+  env = "_[+consonant]u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "in σ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "e" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Tanna"
+to = "Lenakel"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "{l,i}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b(ʷ)", "d" ]
+  after = [ "p(ʷ)", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "{w,u}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "[+vowel +front]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "_[+vowel]l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "*j" ]
+  after = [ "s", "{z,s}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“irregularlyˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p(ʷ),v}[+vowel]h" ]
+  after = [ "f[+vowel]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Tanna"
+to = "North Tanna"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "p" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "∅" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "∅" ]
+  env = "_a (rare)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "{w,u}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v" ]
+  after = [ "∅" ]
+  env = "_i"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "v" ]
+  after = [ "{w,u}" ]
+  env = ""
+  notes = [ "(“sporadicallyˈ)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "ŋ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = "_{o,[+vowel +front]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "i" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "t" ]
+  env = ""
+  notes = [ "(often)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "k" ]
+  env = "_ŋ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{s,c}" ]
+  after = [ "{h,s}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Tanna"
+to = "Southwest Tanna"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b(ʷ)", "d" ]
+  after = [ "p(ʷ)", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "#_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,*j}" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“irregularlyˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{p(ʷ),v}[+vowel]h" ]
+  after = [ "f[+vowel]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u" ]
+  after = [ "{e,i}" ]
+  env = "_[+consonant]u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "a" ]
+  env = "in σ#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Tanna"
+to = "Whitesands"
+or_contr = "thetha"
+or_src = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
+srces = [ "20" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "r" ]
+  after = [ "{l,i}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = "_ŋ (occasionally elsewhere as well)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b(ʷ)", "d" ]
+  after = [ "p(ʷ)", "t" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "∅" ]
+  env = "u_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʷ" ]
+  after = [ "∅" ]
+  env = "_u"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "kʷ / {w,u}", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "{#,[+vowel +front]}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "∅" ]
+  env = "_[+vowel +front]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɣ" ]
+  after = [ "ŋ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "*j" ]
+  after = [ "s", "{z,s}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ "“oftenˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Oceanic"
+to = "Vera’a"
+or_contr = "thetha"
+or_src = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
+srces = [ "15" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "pʷ", "k", "q" ]
+  after = [ "β", "w", "ɣ", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel][+vowel]" ]
+  after = [ "[+vowel]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ndr", "*[+sonorant]" ]
+  after = [ "d", "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,*j}", "ɲ" ]
+  after = [ "s", "n" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "ʔ" ]
+  env = ""
+  notes = [ "“oftenˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "β" ]
+  after = [ "f" ]
+  env = "#_ (usually)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "β" ]
+  after = [ "f" ]
+  env = "else (rarely)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bʷ", "ɡ" ]
+  after = [ "kpʷ", "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "mʷ" ]
+  after = [ "ŋmʷ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i([+consonant])[+vowel +high]" ]
+  after = [ "i([+consonant])" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "i([+consonant])[+vowel -high]" ]
+  after = [ "i([+consonant])ɪ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e([+consonant])[+vowel -low]" ]
+  after = [ "e([+consonant])" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e([+consonant])[+vowel +low]" ]
+  after = [ "ɛ[+consonant]ɛ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a([+consonant])i", "a([+consonant])u" ]
+  after = [ "{a,ɛ}([+consonant])", "{ɔ,a,ɛ}([+consonant])" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a([+consonant]){o,e}" ]
+  after = [ "a([+consonant])" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o[+consonant]a" ]
+  after = [ "ɔ[+consonant]ɔ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u[+consonant][+vowel +high]" ]
+  after = [ "i[+consonant]" ]
+  env = ""
+  notes = [ "“sometimesˈ" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u[+consonant][+vowel -high]" ]
+  after = [ "u[+consonant]ʊ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "oa", "{ae,ea}" ]
+  after = [ "uɔ", "iɛ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "o", "e" ]
+  after = [ "ʊ", "ɪ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "#_[+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "[+consonant][+vowel][+consonant]_[+consonant]ˈ[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+consonant][+vowel]1[+consonant]ˈ[+vowel]2" ]
+  after = [ "[+consonant][+vowel]2[+consonant]ˈ[+vowel]2" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d" ]
+  after = [ "m", "n" ]
+  env = "_{[+consonant],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Micronesian"
+to = "Marshallese"
+or_contr = "Ketsuban"
+or_src = " from Hale, Mark, Historical Linguistics: Theory and Method"
+srces = [ "s21" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NB: “. . .the precise contrast between *s and *S, and *t and *T is unknown, as is the precise phonetic nature of *c and *Z.” Blust (v.s.) rejected *T and *D; according to his reconstruction. . .*s and *S were /ç s/, respectively. The substitution of /ts/ for *T is inferred from the Wikipedia article but may be incorrect.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+velar]" ]
+  after = [ "[+velar]ʷ" ]
+  env = "_{[+consonant +round],[+vowel +round]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +high]" ]
+  after = [ "ɘ" ]
+  env = "_[+consonant -high]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel +mid]" ]
+  after = [ "ɘ" ]
+  env = "_[+consonant +high] when stressed"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "ˈ[+vowel][+consonant]_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]" ]
+  after = [ "∅" ]
+  env = "“in [+consonant][+vowel] reduplicationsˈ"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "ɜ" ]
+  env = "_wo"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "∅" ]
+  env = "#_{[+consonant -low],[+vowel -low]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "ɰ" ]
+  env = "#_a[+consonant]o"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "f" ]
+  after = [ "j" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "ɰ" ]
+  env = "#_a[+consonant -low]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "j" ]
+  env = "#_{a[+consonant +low],[+vowel -back],[+consonant -back]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "w" ]
+  env = "#_{[+consonant +round],[+vowel +round]}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{i,u}", "{e,o}" ]
+  after = [ "ɨ", "ɜ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p", "{t,ts}", "c" ]
+  after = [ "pʲ", "tʲ", "rʲ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{ç,s}", "x" ]
+  after = [ "tᵚ", "∅" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m", "ɲ" ]
+  after = [ "mʲ", "nʲ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "“The author does not elaborate on the complex development of vowels without an onset consonant, other than to say that a glide is inserted (*Saa > tᵚaɰ), nor does he go into more detail than to say that l and n generally develop into lʲ and nʲ before Proto-Micronesian front vowels, and l, r, and n turn into lᶬ, rᶬ, and nᶬ before a and lʷ, rʷ, and nʷ before Proto-Micronesian round vowels, but the author does not elaborate.”",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Ongan"
+or_contr = "Pogostick Man"
+or_src = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
+srces = [ "s22" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "NB: Blevins floats the idea that Proto-Ongan was a sister of rather than a daughter of Proto-Austronesian, but for reasons of simplicity in editing this document it is placed here.",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b" ]
+  after = [ "∅" ]
+  env = "#_{u,i}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "∅" ]
+  env = "#_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "q" ]
+  after = [ "k" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [
+  "{qʷ,ku,qu}",
+  "→",
+  "kʷ",
+  "(note",
+  "that",
+  "[+labial,bilabial][+affricate]n",
+  "might",
+  "have",
+  "had",
+  "*qʷ",
+  "*kʷ"
+]
+  after = [
+  "q",
+  "{k,w}",
+  "instead;",
+  "may",
+  "be",
+  "a",
+  "change",
+  "from",
+  "[+labial,bilabial][-sonorant]n-[+labial,bilabial][+affricate]n,",
+  "if",
+  "it"
+]
+  env = ""
+  notes = [ "existed)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,*[+consonant],s,*[+plosive]}" ]
+  after = [ "c" ]
+  env = ""
+  notes = [
+  "existed)",
+  "it",
+  "if",
+  "[+labial,bilabial][-sonorant]n-[+labial,bilabial][+affricate]n,",
+  "from",
+  "change",
+  "a",
+  "possibly",
+  "(again,"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive]" ]
+  after = [ "∅" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "u", "a", "ə" ]
+  after = [ "{u,o}", "{a,e}", "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɟ", "ɡ", "*[+nasal]", "*[+sonorant]" ]
+  after = [ "{ɟ,j}", "{ɟ,ɡ}", "{l,j}", "{l,r}" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "z" ]
+  after = [ "c" ]
+  env = ""
+  notes = [
+  "existed)",
+  "it",
+  "if",
+  "[+labial,bilabial][-sonorant]n-[+labial,bilabial][+affricate]n,",
+  "from",
+  "change",
+  "a",
+  "of",
+  "evidence",
+  "possibly",
+  "(again,"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "h" ]
+  after = [ "{h,j,∅}" ]
+  env = ""
+  notes = [
+  "error)",
+  "an",
+  "it’s",
+  "assuming",
+  "I’m",
+  "but",
+  "*ɟ",
+  "is",
+  "apparently",
+  "what",
+  "marked",
+  "has",
+  "([+vowel +back]levins"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "ə" ]
+  env = "_[+nasal] when unstressed ! [+palatovelar]_ (?"
+  notes = [
+  " included here based on a comment earlier in the paper, but not listed on the correspondence list)"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{m,ɲ}", "n" ]
+  after = [ "{ɲ,∅}", "{ŋ,∅}" ]
+  env = "_# (first change marked “in progress?ˈ)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aj" ]
+  after = [ "e" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Ongan"
+to = "Jarawa"
+or_contr = "Pogostick Man"
+or_src = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
+srces = [ "22" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "ə" ]
+  env = "_[+nasal], when unstressed (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ŋ" ]
+  env = "_# (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k(ʷ)" ]
+  after = [ "h(ʷ)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "a" ]
+  env = "h#_ (that’s not a typo"
+  notes = [ " this happens across the word boundary)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɡ" ]
+  after = [ "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "{e,ə,o}" ]
+  env = "_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "∅" ]
+  env = "_# (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "b" ]
+  env = "#_ (change seems to be ongoing)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "/a e/ reduce when unstressed (change seems to be ongoing?)",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Ongan"
+to = "Onge"
+or_contr = "Pogostick Man"
+or_src = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
+srces = [ "22" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "ə" ]
+  env = "_[+nasal], when unstressed (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "n" ]
+  after = [ "ŋ" ]
+  env = "_# (?)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "d" ]
+  after = [ "r" ]
+  env = "[+vowel]_{[+vowel],#}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{w,r}" ]
+  after = [ "∅" ]
+  env = "{a,e}_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "∅" ]
+  after = [ "e" ]
+  env = "[+consonant]_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "p" ]
+  after = [ "b" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "aw" ]
+  after = [ "o" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "e" ]
+  after = [ "{e,ə,o}" ]
+  env = "_[+vowel]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal]" ]
+  after = [ "n" ]
+  env = "_{d,l}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɡd", "ɡl" ]
+  after = [ "dː", "lː" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Paiwan"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "s23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t1", "d1", "d3", "[+continuant]" ]
+  after = [ "t", "d", "ɖ", "ɟ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l", "*[+liquid]" ]
+  after = [ "ɭ", "ʎ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "b", "d2" ]
+  after = [ "{v,b}", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive]1", "s", "c" ]
+  after = [ "s", "t", "ts" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+vowel]ː" ]
+  after = [ "[+vowel -long]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Paiwan"
+to = "Northern Paiwan"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɟ", "q", "ɭ" ]
+  after = [ "t", "d", "ʔ", "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Something about final stress and preceding /ə/", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Paiwan"
+to = "Central Paiwan"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "v" ]
+  env = "_#"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Something about final stress and preceding /ə/", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Paiwan"
+to = "Southern Paiwan"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "k", "r" ]
+  after = [ "ʔ", "ɣ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Something about final stress and preceding /ə/", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Rukai"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{t1,c}", "{d1,z}", "d3" ]
+  after = [ "t", "d", "ɖ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+sonorant]", "l", "[+liquid]" ]
+  after = [ "{r,ʔ}", "ɭ", "l" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+plosive]1", "s", "d2", "*[+consonant]" ]
+  after = [ "s", "θ", "ð", "ts" ]
+  env = ""
+  notes = [
+  "here)",
+  "for",
+  "stands",
+  "*[+consonant]",
+  "what",
+  "sure",
+  "(not"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Something about echo-vowel epenthesis and stress that isn’t really clear from skimming it",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Rukai"
+to = "Budai Rukai"
+or_contr = "Pogostick Man"
+or_src = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+srces = [ "23" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{v,ʔ}", "ð" ]
+  after = [ "∅", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Long vowels acquire a high-low contour, but it looks like this is more prosodic than anything",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Austronesian"
+to = "Proto-Tsouic"
+or_contr = "Pogostick Man"
+or_src = " from Wikipedia contributors (2016), “Tsouic languages”. Wikipedia, the Free Encyclopedia. <https:"
+srces = [ "s24" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{*[+consonant],d}", "j", "*[+sonorant]" ]
+  after = [ "c", "z", "r" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]

@@ -1,0 +1,831 @@
+family = "Austroasiatic"
+
+[[change_sets]]
+from = "Proto-Vietic"
+to = "Muong Khen"
+or_contr = "Pogostick Man"
+or_src = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "s0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "TonogenesisReg \tA \tB \tC \td", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "1. “Constricted” (laryngealized?)2. Terminates in a glottal stop if no final stop",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Presyllables don’t seem to have affected Muong much.", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "h" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "cʰ" ]
+  after = [ "s" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʰ" ]
+  after = [ "h" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "([-sonorant]nly"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{kʰ,ɡʱ}" ]
+  after = [ "x" ]
+  env = ""
+  notes = [
+  "much)",
+  "this",
+  "affected",
+  "have",
+  "to",
+  "seem",
+  "don’t",
+  "([+labial,bilabial]resyllables"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m", "n" ]
+  after = [ "b", "d" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "([-sonorant]nly"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{pj,bj}", "{tj,dj}", "{cj,ɟj}" ]
+  after = [ "b", "d", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɓ", "ɗ" ]
+  after = [ "b", "d" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "([-sonorant]nly"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n̥j,nj,ɲ̊j,ɲj}" ]
+  after = [ "ɲ" ]
+  env = ""
+  notes = [ "j" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal -voiced]", "[+semivowel -voiced]" ]
+  after = [ "[+nasal +voiced]", "[+semivowel +voiced]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(h)ə{p,b}" ]
+  after = [ "t" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m" ]
+  after = [ "∅" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tɹ" ]
+  after = [ "tʰ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Miscellanea:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "tʰ[+vowel]_k (conjectured)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Proto-Vietic"
+to = "Middle Vietnamese"
+or_contr = "Pogostick Man"
+or_src = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Initials:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bʱ", "{tʰ,dʱ}", "{t*ʰ,d*ʱ}", "{kʰ,ɡʱ}" ]
+  after = [ "pʰ", "t", "tʰ", "kʰ" ]
+  env = ""
+  notes = [
+  "occur)",
+  "may",
+  "tones",
+  "first-register",
+  "only",
+  "*ɡʱ,",
+  "*kʰ",
+  "(after"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "(h)ə{p,b}", "(h)ə{t,d}", "(h)ə{c,ɟ}", "(h)ə{k,ɡ}" ]
+  after = [ "β", "dʲ", "ɟ", "ɡ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{pj,bj}", "{tj,dj}", "{cj,ɟj}" ]
+  after = [ "{β,w}", "dʲ", "ɟ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɓ", "ɗ" ]
+  after = [ "m", "n" ]
+  env = ""
+  notes = [
+  "environment)",
+  "this",
+  "in",
+  "occur",
+  "can",
+  "tones",
+  "first-register",
+  "only",
+  "that",
+  "seems",
+  "it",
+  "reason",
+  "some",
+  "([+fricative]or"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{n̥j,nj,ɲ̊j,ɲj}" ]
+  after = [ "ɲ" ]
+  env = ""
+  notes = [
+  "nasal)",
+  "palatal",
+  "a",
+  "as",
+  "one",
+  "this",
+  "sticking",
+  "I’m",
+  "paper",
+  "the",
+  "in",
+  "evidence",
+  "other",
+  "on",
+  "based",
+  "one;",
+  "last",
+  "the",
+  "on",
+  "bit",
+  "a",
+  "hedged",
+  "have",
+  "to",
+  "me",
+  "to",
+  "appears",
+  "([+plosive -voice]hompson"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "tʃ" ]
+  after = [ "Ω" ]
+  env = ""
+  notes = [
+  "dialects)",
+  "different",
+  "in",
+  "else",
+  "something",
+  "became",
+  "was;",
+  "form",
+  "intermediate",
+  "the",
+  "what",
+  "clue",
+  "a",
+  "have",
+  "don’t",
+  "I",
+  "notation.",
+  "own",
+  "my",
+  "is",
+  "([+plosive -voice]his"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "[+nasal -voiced]", "[+semivowel -voiced]" ]
+  after = [ "[+nasal +voiced]", "[+semivowel +voiced]" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "((h)ə)p", "d" ]
+  after = [ "b", "t" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t" ]
+  after = [ "∅" ]
+  env = "_ɹ (only first-register tones can occur in this environment)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "t*ʰ", "d", "ɡ" ]
+  after = [ "tʰ", "t", "k" ]
+  env = "_w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "s" ]
+  after = [ "t(ʰ?)" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{əkʰ,əɡɦj}" ]
+  after = [ "ɟ" ]
+  env = ""
+  notes = [
+  "kludge)",
+  "a",
+  "of",
+  "bit",
+  "a",
+  "just",
+  "was",
+  "this",
+  "implied",
+  "[+plosive -voice]hompson",
+  "think",
+  "(I"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Finals:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "∅" ]
+  env = "{i,e}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "l" ]
+  after = [ "j" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɲ" ]
+  after = [ "t", "n" ]
+  env = "! [+vowel +front]_ (apparently the precursor to [+vowel]ietnamese short *a was treated as a short vowel here)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "Thompson seems to list some changes as affecting Modern Vietnamese but I was unsure of where to put them so they’ll go here:",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a", "ɔ" ]
+  after = [ "ɨə", "uə" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "In the original those first vowels were underlined.", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Middle Vietnamese"
+to = "Hanoi Vietnamese"
+or_contr = "Pogostick Man"
+or_src = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "TonogenesisReg \tA \tB/D \tC", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "1. Tense when _S#; laryngealized elsewhere2. Laryngealized",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Initials:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʰ" ]
+  after = [ "f" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʰ" ]
+  after = [ "x" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "(only"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{β,w}", "{dʲ,ɟ}" ]
+  after = [ "v", "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɹ" ]
+  after = [ "z" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "(only"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "bl" ]
+  after = [ "z" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ml", "→", "mɲ" ]
+  after = [ "ɲ", "([+plosive -voice]hompson", "seems" ]
+  env = ""
+  notes = [
+  "tones)",
+  "second-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "only",
+  "well;",
+  "as",
+  "[l]",
+  "become",
+  "have",
+  "may",
+  "this",
+  "that",
+  "indicate",
+  "to"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "Ω", "cʰ" ]
+  after = [ "s", "tɕ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Vowels:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɨ" ]
+  after = [ "i" ]
+  env = "_(ə)w"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɛ" ]
+  after = [ "a" ]
+  env = "_[+consonant +palatal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Miscellanea:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "t[+vowel]_wk (conjectured)"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+[[change_sets]]
+from = "Middle Vietnamese"
+to = "Saigon Vietnamese"
+or_contr = "Pogostick Man"
+or_src = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
+srces = [ "0" ]
+notes = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "TonogenesisReg \tA \tB/D \tC", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "1. Level when _S#; dipping otherwise2. Laryngealized", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Initials:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "pʰ" ]
+  after = [ "f" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "kʰ" ]
+  after = [ "x" ]
+  env = ""
+  notes = [
+  "tones)",
+  "first-register",
+  "with",
+  "occurred",
+  "have",
+  "to",
+  "seems",
+  "(only"
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{β,w}" ]
+  after = [ "bj~vj~v" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{bl,tl}" ]
+  after = [ "ʈ" ]
+  env = ""
+  notes = [ "(?)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "dʲ", "ɟ" ]
+  after = [ "z", "j" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "m" ]
+  after = [ "∅" ]
+  env = "_l"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "Ω", "cʰ" ]
+  after = [ "ʂ", "ʈʂ" ]
+  env = ""
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɹ" ]
+  after = [ "ʐ" ]
+  env = ""
+  notes = [ "(sometimes?)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Finals:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɲ", "t", "n" ]
+  after = [ "t", "n", "k", "ŋ" ]
+  env = "a_ (short "
+  notes = [ "/a/ only)" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "c", "ɲ" ]
+  after = [ "t", "n" ]
+  env = "{i,e}_"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "{c,ɲ}" ]
+  after = [ "∅" ]
+  env = "else"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Vowels:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "{i,ɨ}_{p,m.w}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "ɨ_j"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə" ]
+  after = [ "∅" ]
+  env = "u_{m,j}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [
+  "The contrast between short /a/ and short /ə/ is neutralized when _w{k,ŋ}",
+  ""
+]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "a" ]
+  after = [ "aː" ]
+  env = "_{w,j}"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ə(ː)", "ɛ" ]
+  after = [ "ɨ", "ɛə" ]
+  env = "_[+velar]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "ɛ" ]
+  after = [ "a" ]
+  env = "_[+consonant +palatal]"
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ ]
+  after = [ ]
+  env = ""
+  notes = [ "Miscellanea:", "" ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
+
+  [[change_sets.changes]]
+  before = [ "w" ]
+  after = [ "∅" ]
+  env = "t[+vowel]_wk (conjectured) "
+  notes = [ ]
+  tags = [ "generated", "unchecked" ]
+  name_type = [ ]
