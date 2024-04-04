@@ -1,0 +1,55 @@
+
+31 Nyulnyulan
+
+The following phonemic inventory for Proto-Nyulnyulan is adapted from Bowern (2004).
+	Labial 	Alveolar 	Retroflex 	Palatal 	Velar
+Nasal 	m 	n 	ɳ 	ɲ 	ŋ
+Stop 	b 	d 	ɖ 	ɟ 	ɡ
+Rhotic 		r 	ɽ
+Lateral 		l 	ɭ 	ʎ
+Glide 	w 			j
+	Front 	Central 	Back
+High 	i iː 		u uː
+Low 		a aː
+
+(From Bowern, Claire Louise (2004), “Bardi Verb Morphology in Historical Perspective”)
+31.1 Proto-Nyulnyulan to Bardi
+
+Pogostick Man, from Bowern, Claire Louise (2004), “Bardi Verb Morphology in Historical Perspective”
+
+{w,j} → ∅ / #_
+
+{w,j} → ∅ / V0_V0
+
+awu → o
+
+aji → iː / when unstressed
+
+i{w,j} → ∅ / _a, when unstressed
+
+i → u / _ju
+
+u → i / _j
+
+j → ∅ / i_
+
+ɟ → j / V_V
+
+ɲ → ∅ / _#
+
+ubu aba → uː aː / when stressed
+
+ib → ∅ / _i, when unstressed
+
+b → w / a_u
+
+aɡu → o
+
+i(ː)b ik → iw ij / _a
+
+V0 → ∅ / V(C)(C)V0(C)(C)_# (with some exceptions)
+
+Some vowel deletions, the conditioning of which the author does not elaborate upon
+
+V → Vː / when stressed ? 
+

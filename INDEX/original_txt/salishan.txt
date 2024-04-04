@@ -1,0 +1,602 @@
+
+35 Salishan
+
+Kuipers (1981) gives the following reconstruction for the Proto-Salish phoneme inventory (converted into IPA):
+	Labial 	Coronal 	Palatal 	Velar 	Postvelar 	Glottal
+Nasal 	m mˀ 	n nˀ
+Stop 	p pʼ 	t tʼ 		k kʷ kʼ kʷʼ 	q qʷ qʼ qʷʼ 	ʔ
+Fricative 		s ɬ 		x xʷ 	χ χʷ 	h
+Affricate 		ts tsʼ tɬʼ
+Resonant 		r rˀ l lˀ 	j jˀ 	ɰ ɰˀ w wˀ 	ʕ ʕʷ ʕˀ ʕʷˀ
+	Front 	Central 	Back
+High 	i 		u
+Mid 		ə
+Low 		a
+
+For the following changes, the superscript numerals 1, 2, and 3 refer to low, mid, and high tones, respectively. Not all Salishan languages have all three tones; for most, there is no tone 2 (mid). Vowel pairs in between curly braces 〈{ }〉 and with a tilde between are pairs which apparently existed in some sort of ablaut-like alternation.
+
+(From Kuipers, Aert H. (1981), “On Reconstructing the Proto-Salish Sound System”. International Journal of American Linguistics 47(4):323 – 335; and Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages)
+35.1 Central Salish
+35.1.1 Proto-Central Salish to Comox
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+ts(ʼ) → θ(ʼ)
+
+l(ʲ) → w / _u
+
+l(ʲ) → w / u_
+
+l(ʲ) → j / else
+
+s → ∅ / #_C
+
+s → ∅ / #_{wa,wi}
+
+w j → ɡ dʒ / _V
+
+V3ʔ → V3(ː)ʔ / _#
+
+ʔ → ∅ V3_RV
+
+ʔ → ∅ V3R_V
+
+{a3~ə3} → {ə3,a3}
+
+{a3~i3} → i3
+
+{a1~i1} → {a1,ə1}
+
+{i3~ə3} → ə3
+
+{i3~ə1} → {ə1,i1,i3}
+
+{i1~ə1} → i1
+35.1.2 Proto-Central Salish to Chilliwack Halkomelem
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+n → l
+
+ʔn → ∅ / m_
+
+ts(ʼ) tʃ(ʼ) → θ(ʼ) ts(ʼ)
+
+lʲ → l
+
+V3h → V3ː / _C
+
+V3ʔ → V3(ː) / _#
+
+ʔ → ∅ / V1_#
+
+V3ʔ → V3ː / _O
+
+∅ → V0 / ”V03_
+
+V3ʔR → V3ːR
+
+ʔ → ∅ / VR_V3
+
+lʔn → lː / V3_V
+
+ʔ → ∅ / V1_#
+
+u3 {u1,a1} a3 i1 → a3 ə1 ɛ3 {i1,ə1}
+
+{u3~ə3} → {o3,ə3,a3}
+
+{a3~ə3} → {ɛ3,ə3}
+
+{a3~i3} → ɛ3
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.3 Proto-Central Salish to Cowichan Halkomelem
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+ts(ʼ) tʃ(ʼ) → θ(ʼ) ts(ʼ)
+
+s → ʃ / _xʷ
+
+xʲ → ʃ
+
+V3h → V3ː / _C
+
+V03ʔ(V0) → {V03ː,V03ʔV0}
+
+V3ʔR → {V3ʔR,V3ːRʔ} / _V
+
+a3 u3 {a1,u1} i1 → ɛ3 a3 ə1 {i1,ə1}
+
+{a3~ə3} → ə3
+
+{a3~i3} → a3
+
+{a1~i1} → ə1
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.4 Proto-Central Salish to Musqueam Halkomelem
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+ʔn → ∅ / m_
+
+ts(ʼ) tʃ(ʼ) → θ(ʼ) ts(ʼ)
+
+lʲ → l
+
+V3h → V3ː / _C
+
+V3ʔ → V3{ː,ʔ} / _O
+
+V03ʔV0 → {V3ː,V03ʔV0}
+
+V3ʔR → {V3ʔR,V3ːRʔ} / _V
+
+u3 {u1,a1} a3 i1 → a3 ə1 ɛ3 {i1,ə1}
+
+{u3~ə3} → ə3
+
+{a3~ə3} → {ɛ3,ə3}
+
+{a3~i3} → {a3,ɛ3}
+
+{a1~i1} → {ə1,ɛ1}
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.5 Proto-Central Salish to Klallam
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+mʔn → nʔ
+
+p(ʼ) m → ts(ʼ) ŋ / ! _u
+
+l(ʲ) → j
+
+xʲ → {s,ʃ} (the latter mainly from borrowings?)
+
+tʃ → ts
+
+tʃʼ → tsʼ / medially
+
+w j → kʷ tʃ / _V
+
+V03ʔ(V0) → V03ʔV0
+
+u1 → ə1
+
+a3 → u3 / {Cʷ[+uvular],Kʷ,w}
+
+a3 → u3 / _{Cu,Cʷ[+uvular],w}
+
+a1 → ə1
+
+{u3~ə3} → ə3
+
+{a3~ə3} → ə3
+
+{a3~i3} → ə3
+
+{a1~i1} → ə1
+
+{i3~ə3} → ə3
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.6 Proto-Central Salish to Lushootseed
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+mʔn → d
+
+m n → b d
+
+lʲ → l
+
+s → {ʃ,s} / _xʷ
+
+xʲ → ʃ
+
+w j → ɡʷ dz / _V
+
+V3h → V3{ː,ʔ} / _C
+
+V3ʔ → V3(ʔ) / _O
+
+Rʔ → ʔR / V3C
+
+i1 → {i1,ə1}
+
+{u3~ə3} → a3
+
+{a3~ə3} → {ə3,a3}
+
+{a1~i1} → i1
+
+{i3~ə3} → {i1,ə1}
+
+{i3~ə1} → {i3,i1}
+
+{i1~ə1} → {ə1,i1}
+35.1.7 Proto-Central Salish to Nooksack
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+n → ∅ / mʔ_
+
+lʲ → l
+
+s → {s,ʃ} / _xʷ
+
+s → ʃ / #_{xʲ,w{i,a},qʷa}
+
+xʲ → ʃ
+
+∅ → V0 / ”V03ʔ_
+
+ʔR → {ʔS,R} / V3_V
+
+ʔ → ∅ / VR_V3
+
+ʔ → ∅ / V3R_{C,#}
+
+ʔ → ∅ / V1R_#
+
+ʔ → ∅ / V1_#
+
+a1 u3 u1 i1 → æ2 o3 o1 i2
+
+ə1 → æ2 / a3C(C)_
+
+ə1 → æ2 / _C(C)a3
+
+ə1 → æ2 / in some other unspecified circumstances
+
+{u3~ə3} → o3
+
+{a3~ə3} → æ3
+
+{a3~i3} → æ3
+
+{a1~i1} → æ2
+
+{i3~e3} → {i3.ə3}
+
+{i3~ə1} → i3
+
+{i1~ə1} → {i2,ə1}
+35.1.8 Proto-Central Salish to Lummi Northern Straits
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+p(’) m → tʃ(’) ŋ / ! _u
+
+mʔ → ∅ / _n
+
+ts → s
+
+lʲ → l
+
+s → ʃ / _xʷ
+
+tʃ → s
+
+tʃ’ → ts’ / medially
+
+j → tʃ / _V
+
+ʔ → ∅ / V3l_nV
+
+ʔ → {∅,ʔ} / V3R_{C,#}
+
+u3 u1 → o3 ə1
+
+a3 → o3 / {{C[+ uvular],K}ʷ,w}_
+
+a3 → o3 / _{Cu,C[+ uvular]ʷ,w}
+
+a3 → e3 / else
+
+a1 → ə1
+
+{u3~ə3} → ə1
+
+{a3~ə3} → ə3
+
+{a3~i3} → ə3
+
+{a1~i1} → ə1
+
+{i3~e3} → ə3
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.9 Proto-Central Salish to Saanich Northern Straits
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+p(’) m → tʃ(’) ŋ / ! _u
+
+mʔn → nʔ
+
+ts ts’ → {θ,s} θ’
+
+lʲ → l
+
+s → {ʃ,s} / _xʷ
+
+xʲ → s
+
+tʃ → s
+
+tʃ’ → θ’ / medially
+
+j w → tʃ kʷ / _V
+
+V3h → V3(ː) / _C
+
+ʔR → Rʔ / V3_V
+
+u3 u1 → a3 ə1
+
+a3 → e3 / ! {{C[+ uvular],K}ʷ,w}_ or when _{Cu,C[+ uvular]ʷ,w}
+
+a1 → ə1
+
+{a3~ə3} → {ə3,e3}
+
+{a3~i3} → ə3
+
+{a1~i1} → ə1
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → ə1
+
+{i1~ə1} → {ə1,i1}
+35.1.10 Proto-Central Salish to Songish Northern Straits
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+p(’) m → tʃ(’) ŋ / ! _u
+
+mʔn → nʔ
+
+ts → s
+
+lʲ → l
+
+s → {ʃ,s} / _xʷ
+
+xʲ → {s,ʃ} (the latter mainly from borrowings?)
+
+tʃ’ → ts’ / medially
+
+j w → tʃ kʷ / _V
+
+V3h → V3ː / _C
+
+u3 u1 → a3 ə1
+
+a3 → a3 / {{C[+ uvular],K}ʷ,w}_
+
+a3 → a3 / _{Cu,C[+ uvular]ʷ,w}
+
+a1 → ə1
+
+{u3~ə3} → ə3
+
+{a3~ə3} → ə3
+
+{a3~i3} → ə3
+
+{a1~i1} → {ə1,e1}
+
+{i3~e3} → ə3
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.11 Proto-Central Salish to Sooke Northern Straits
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+p(’) m → tʃ(’) ŋ / ! _u
+
+mʔn → nʔ
+
+ts → s
+
+l(ʲ) → j
+
+xʲ → {s,ʃ} (the latter mainly from borrowings?)
+
+tʃ → s
+
+tʃ’ → ts’ / medially
+
+j w → tʃ kʷ / _V
+
+u3 u1 → a3 ə1
+
+a3 → {a3,o3} / {{C[+ uvular],K}ʷ,w}_
+
+a3 → e3
+
+a1 → ə1
+
+{u3~ə3} → ə3
+
+{a3~ə3} → ə3
+
+{a3~i3} → ə3
+
+{a1~i1} → ə1
+
+{i3~e3} → ə3
+
+{i3~ə1} → ə1
+
+{i1~ə1} → ə1
+35.1.12 Proto-Central Salish to Pentlatch
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+ts ts’ → s ts’
+
+lʲ → l
+
+xʲ → ʃ
+
+ʔ → ∅ / V3_O
+
+ʔ → ∅ / V3R_{V,#}
+
+i1 → ə1
+
+{a3~ə3} → ə3
+
+{a1~i1} → {i1,ə1}
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → i3
+
+{i1~ə1} → {i1,∅}
+35.1.13 Proto-Central Salish to Sechelt
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+ʔ → ∅ / m_n
+
+lʲ → l
+
+xʲ → ʃ
+
+ʔ → ∅ / V_V3
+
+ʔ → ∅ / V1_#
+
+i1 → {i1,ə1j}
+
+{u3~ə3} → u3
+
+{a3~ə3} → ə3
+
+{a3~i3} → i3
+
+{a1~i1} → {i1,ə1}
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → i3
+
+{i1~ə1} → {i1,∅}
+35.1.14 Proto-Central Salish to Sqamish
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+n → ∅ / mʔ_
+
+lʲ → j
+
+xʲ → ʃ
+
+ʔR → Rʔ / V3_V
+
+u1 → {u1,ə1}
+
+{u3~ə3} → ə3
+
+{a3~ə3} → {a3,ə3}
+
+{a3~i3} → i3
+
+{a1~i1} → i1
+
+{i3~e3} → {ə3,i3}
+
+{i3~ə1} → i3
+
+{i1~ə1} → {i1,∅}
+35.1.15 Proto-Central Salish to Twana
+
+Pogostick Man, from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages
+
+m n → b d
+
+lʲ → l
+
+s → {ʃ,s} / _xʷ
+
+xʲ → ʃ
+
+ʔR → ʔ{R,b} / V3_V
+
+Rʔ → ʔR / V3_#
+
+ʔ → ∅ / V1R_#
+
+ʔ → ∅ / V3R_C
+
+u3 u1 → o3 ə1
+
+{a3~ə3} → {ə3,a3}
+
+{a3~i3} → a3
+
+{a1~i1} → {i1,ə1}
+
+{i3~e3} → {i3,ə3}
+
+{i3~ə1} → {i3,i1}
+
+{i1~ə1} → i1
+35.2 Interior Salish
+35.2.1 Proto-Interior Salish to Columbian and Okanagan Nasal-to-Vowel Shifts
+
+Pogostick Man, from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”
+
+nˀ → aʔ / _# (all other Interior Salishan languages have /eʔ/ in this position)
+35.2.2 Proto-Interior Salish to Thompson Nasal-to-Vowel Shifts
+
+Pogostick Man, from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”
+
+N[- glottalized] → e / _O[+ same POA] “‘in primary forms’”
+
+n̩ → e / n_ (this is admittedly a bit conjectural; the paper is not being very clear here)
+35.3 Shuswap to Eastern Shuswap Nasal-to-Vowel Shifts
+
+Pogostick Man, from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”
+
+em emˀ → u uʔ / w_ in U[- stressed]
+
+em emˀ → a aʔ / in U[- stressed] ! {p(’),m(ˀ)}_
+
+en enˀ → i iʔ / {ts(’),s,j(ˀ)}_ in U[- stressed]
+
+en enˀ → a ʔ / in U[- stressed] ! {t(’),lʲ,{n,l}(ˀ)}_
+35.4 Shuswap to Spokane-Kalispel Shuswap Nasal-to-Vowel Shifts
+
+Pogostick Man, from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”
+
+n nˀ → i iʔ / C_s
+
+n nˀ → i iʔ / _{i,ʃ} (sporadic) 
+

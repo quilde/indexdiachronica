@@ -1,0 +1,515 @@
+
+18 Je-Tupı́-Carib
+18.1 Cariban
+18.1.1 Pre-Bakairi to Eastern Bakairi
+
+Pogostick Man, from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291
+
+VNV → ṼṼ / ! _(C)#
+
+ʔ → ∅ / _C[+ fricative - voiced]
+
+ɾ → ∅ / V_V, when neither vowel is stressed
+18.1.2 Pre-Bakairi to Western Bakairi
+
+Pogostick Man, from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291
+
+V[- stress]NV → ṼṼ
+
+z → h / V_a
+
+z → ∅ / V_V
+
+C[+ fricative - voiced] → ∅ / ʔ_
+
+ɨ → ə / P_
+
+ɨ → i
+
+ʒ → ∅
+
+ɾ → ∅ / V_V, where at least one of the vowels is nasalized
+18.2 Ofaié-Jê
+18.2.1 Proto-Ofaié-Jê to Proto-Jê
+
+Pogostick Man, from Gudschinsky, Sarah C. (1971), “Ofai?-Xavante, a J? Language”
+
+Vm → Ṽ / _#
+
+VS → r / C_V
+
+c → {c,z}
+
+ŋʷ {kʷ,hʷ} → m p
+
+ə → ∅ / C_CV (not sure if this happened all the time or not)
+18.2.2 Proto-Ofaié-Jê to Ofaié-Xavante
+
+Pogostick Man, from Gudschinsky, Sarah C. (1971), “OfaiÃ©-Xavante, a JÃª Language”
+
+m → w / _#
+
+m → {w,p}
+
+ɲV → jṼ
+
+k(ʷ) → ʔ / _#
+
+kʷ → k
+
+ŋ → n / V_V
+
+ŋ → j̃ / #_ (not sure if this nasalizes the following vowel or not)
+
+ŋʷ hʷ → j̃ h
+18.3 Tuparí
+
+As pertains to this section, the vowels given in the form 〈{V1/V2}〉 herein may have apparently been some sort of alternation in vowel grade or quality. Also, the names of these languages were researched on the Wikipedia; they are in many cases different from the names cited within the source papers proper.
+
+Moore and Galucio (1994) give the following inventory for Proto-Tuparí:
+	Bilabial 	Alveolar 	Palatal 	Velar 	Labiovelar 	Glottal
+Stop 	p 	t 		k 	kʷ 	ʔ
+Nasal 	m 	n 		ŋ 	ŋʷ
+Fricative 	β 					h
+Affricate 		ts (n)dz
+Liquid 		r~D 	j~j̃~ɲ
+	Front 	Central 	Back
+High 	i ı̃ 	ɨ ɨ̃ 	u ũ
+Mid 	e ẽ
+Low 		a ã
+
+*u *ũ may have actually been *o *õ, respectively. Additionally, the following ablaut pairs have been reconstructed:
+
+*a~*e
+*e~*a
+*ı̃~*ẽ
+
+(From Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137)
+18.3.1 Proto-Tuparí to Makuráp
+
+Pogostick Man, from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.
+
+t → r / _”V
+
+t → l / _V
+
+t → ∅ / else
+
+k → ∅ / _#
+
+kʷ → ∅
+
+b → β / V_V
+
+ɡʷ → β / _V[-nas]
+
+ts (n)dz → t nd
+
+β → ∅ / _i
+
+h → ∅ / V_C
+
+ʔ → ∅
+
+r → l / V[+nas]_V[+nas]
+
+ð nŋʷ → c β / #_V[-nas]
+
+ð → {∅,c} / else
+
+j ŋʷ m n → ɲ m {m,p} {∅,t} / _V[+nas]
+
+ⁿd ŋ → t {ɡ,k} / _V[-nas]
+
+u → o / _{p,b}i
+
+ɨ → ∅ / ! #_{p,β}e
+
+{a/e} {e/a} {ı̃,ẽ} → e a ẽ
+18.3.2 Proto-Tuparí to Mekens
+
+Pogostick Man, from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.
+
+t → r / _”V
+
+ɡ → k
+
+k → ɡ / in U[+stress]
+
+ɡʷ → k / _o
+
+ɡʷ ŋɡ → kʷ k / _V[-nas]
+
+ɡʷ → kʷ / #_V[+nas]
+
+ts (n)dz → {s,ts} s
+
+β → ∅ / i_
+
+h → ∅ / V_C
+
+ʔ → ∅
+
+{ᵐb,ⁿd,ð} → t / _V[+nas]
+
+ð → s / _i
+
+ð → h / else
+
+ŋ ŋʷ → k m / _V[+nas]
+
+ŋʷ → kʷ / #_V[-nas]
+
+ɨ → i / #_{p,βe}
+
+ɨ → ∅ / else
+
+{{a/e},{e/a}} {ı̃,ẽ} → a ẽ
+18.3.3 Proto-Tuparí to Tuparí
+
+Pogostick Man, from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.
+
+t → r / _V
+
+kʷ ɡ → ∅ k
+
+ɡʷ → ∅ / _o
+
+ɡʷ ŋɡ → β k / _V[-nas]
+
+{(n)dz,ts} → s / _i
+
+{(n)dz,ts} → t / else
+
+β ð → ∅ {s,h} / _i
+
+ð → h
+
+ᵐb ŋʷ → p β / #_V[-nas]
+
+n → ∅ / ! #_V[-nas]
+
+ŋ → k / #_V[+nas]
+
+ŋʷ → m / V[+nas]_V[+nas]
+
+u → o / _{p,b}i
+
+{a/e} → e
+18.3.4 Proto-Tuparí to Wayoró
+
+Pogostick Man, from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.
+
+p → β / V_
+
+t → r / _”V
+
+p t → ∅ l / _V
+
+k → ɡ / in U[+stress]
+
+b → ∅ / V_V
+
+ɡʷ → ɡ / _o
+
+bʷ → β / #_V[+nas]
+
+ts (n)dz → t nd
+
+h → ∅ / V_C
+
+ʔ → ∅
+
+r ŋʷ → n β / V[+nas]_V[+nas]
+
+ð → (n)d
+
+ŋɡ → k / ! _V[-nas]
+
+u → ɨ / _{p,b}i
+
+{a/e} {e/a} {ı̃,ẽ} → a e ı̃
+18.4 Tupí-Guaraní
+18.4.1 Proto-Tupí-Guaraní to Akwára
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+p → k / _w
+
+t → tʃ / _{i,ı̃}
+
+k b r → {ŋ,∅} {w,m} {n,r,t} / _#
+
+b → w
+
+ts → {h,∅}
+
+a → {ɨ,o} / _N#
+
+o → a / ! o(C…)_(C…)#
+
+u → ∅ / k_w
+
+a → o / ! Cw_
+
+ã → a / Cw_
+
+ã → õ
+
+{ẽ,ı̃} ɨ̃ {u,ũ,õ} → i ɨ o
+18.4.2 Proto-Tupí-Guaraní to Cocama
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+p → k / _w
+
+t → tʃ / _{i,ı̃}
+
+ʔ ts ŋ → ∅ {ts,tʃ} n
+
+∅ → i / j_#, in monosyllables
+
+j → i / _#, in polysyllables
+
+b → ∅ / _#
+
+b → w / else
+
+w → ∅ / k_w
+
+w → u / k_
+
+a → ∅ / _j#
+
+eN → y / _#
+
+e → ɨ / {k,j}_
+
+o → u(a) / ! o(C…)_(C…)#
+
+ã {ẽ,ı̃} ɨ̃ → a i ∅
+
+u → ũ (? possibly backwards?)
+
+iʔ uʔ → j w / C_V
+
+V0ʔV0 → V0ː
+18.4.3 Proto-Tupí-Guaraní to Guajajara
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+t → ts / _{i,ı̃}
+
+ts → {h,∅}
+
+b → ∅ / u_#
+
+b → w / else
+
+u → ∅ / k_w
+
+a → ə / _N#
+
+a → ə / if N in U#
+
+o → u / ! o(C…)_(C…)#
+
+ã ẽ ı̃ ɨ̃ {õ,ũ} → ə e i ɨ o
+18.4.4 Proto-Tupí-Guaraní to Guaraní
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+m p → ŋ k / _w
+
+t → tʃ / _{i,ı̃}
+
+k → ∅
+
+ts → {tʃ,∅}
+
+{b,r} → ∅ / _#
+
+u → ∅ / k_w
+
+V{m,n} → V[+nas] / _#
+
+Vŋ → V[+nas]
+18.4.5 Proto-Tupí-Guaraní to Guarayo
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+m p → ŋ k / _w
+
+t → tʃ / _{i,ı̃}
+
+{b,k} r → ∅ {r,∅} / _#
+
+ʔ ts → {ʔ,∅} {ts,tʃ}
+
+{Vm,Vŋ} Vn → V[+nas] {Vr,V[+nas]} / _#
+
+aN eN iN ɨN uN → ã ẽ ı̃ ɨ̃ ũ / _#
+
+õ → o
+18.4.6 Proto-Tupí-Guaraní to Kamayurá
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+p → h / _{o,u,w}
+
+t → tʃ / _{i,ı̃}
+
+ts → {h,j,∅}
+
+b r → p t / _#
+
+b → w / else
+
+ã → a / Cw_
+
+ẽ ı̃ õ lost nasalization sometimes, kept it in others
+
+u → õ (? possibly backwards?)
+18.4.7 Proto-Tupí-Guaraní to Parintintín
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+k → {ŋ,∅} / _#
+
+ts → {h,∅}
+
+Vn → V[+nas] (sometimes)
+
+∅ → ŋ / {#,V}_w
+
+b r → {b,∅} {r,t} / _#
+
+u → ∅ / k_w
+
+eN → ı̃ / _#
+
+ẽ ı̃ ũ → {ẽ,e} {ı̃,i} {ũ,õ}
+18.4.8 Proto-Tupí-Guaraní to Sirionó
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+p → {h,∅} / _{u,o}
+
+p → {k,∅} / _w
+
+p → h / else
+
+t → {ts,tʃ} / _{i,ı̃}
+
+k → ∅ / _#
+
+ʔ ts → ∅ {s,ʃ}
+
+u → ∅ / k_w
+
+V{m,n} → V[+nas] / _#
+
+Vŋ → V[+nas]
+
+j → {j,i} / _#
+
+j → {ɲ,tʃ} / else
+
+w → {ɡ,k} / {#,V}_
+
+{b,r} → ∅ / _#
+
+a → {∅,o,e} / _j#
+
+o u → {u,o} {u,o,i}
+
+aN eN iN ɨN uN → ã ẽ ı̃ {ɨ̃,ĩ} õ / _#
+
+{ɨ̃,õ} ũ → {õ,ẽ} õ
+18.4.9 Proto-Tupí-Guaraní to Classical Tupi
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+t → tʃ / _{i,ı̃}
+
+ts → {s,ʃ}
+
+i → ı̃ / ʔ_# (sporadic)
+18.4.9.1 Tupian
+18.4.9.1.1 Proto-Monde to Gavião
+
+Pogostick Man, from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31
+
+p → v / _#
+
+h → ∅ / V_ (sporadic, likely an areal feature)
+18.4.9.1.2 Proto-Monde to Proto-Cinta Larga-Suruí-Zoró
+
+Pogostick Man, from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31
+
+V → Ṽ / _h
+
+h → ∅ / V_
+
+v → w / #_
+
+tʃ → ʃ
+18.4.9.1.3 Proto-Cinta Larga-Suruí-Zoró to Cinta Larga
+
+Pogostick Man, from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31
+
+o → u
+
+Vh → Vː
+
+V → Vː / _#
+18.4.9.1.4 Proto-Cinta Larga-Suruí-Zoró to Suruí
+
+Pogostick Man, from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31
+
+h → ∅ / V_
+
+ᵑɡ → ɡ / #_ (possibly all prenasalized consonants?)
+
+b → m / #_
+18.4.9.1.5 Proto-Cinta Larga-Suruí-Zoró to Zoró
+
+Pogostick Man, from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31
+
+h → ∅ / V_
+
+∅ → ʔ / V_#
+
+ᵑɡ → ɡ / #_ (possibly all prenasalized consonants?)
+
+ʃ → tʃ (sporadic, areal feature from Gavião influence)
+18.4.10 Proto-Tupí-Guaraní to Urubu
+
+Pogostick Man, from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.
+
+p k → k ∅ / _w
+
+t → ʃ / _{i,ı̃}
+
+k → {k,∅} / _#
+
+k → {k,ʃ} / else
+
+ts → {s,h}
+
+Vn → V[+nas] / _# (sometimes)
+
+Vŋ → V[+nas]
+
+j b → {j,i} ∅ / _#
+
+b → w / else
+
+u → ∅ / k_w
+
+u → o / ! o(C…)_(C…)#
+
+aN iN uN → {aN,ã} ı̃ {uN,ũ} / _#
+
+ɨ̃ ẽ õ → ∅ {ẽ,e} {o,õ,u,ũ} 
+

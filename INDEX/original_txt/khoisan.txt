@@ -1,0 +1,244 @@
+
+20 Khoisan
+
+For the following section, all clicks change regardless of secondary articulation or associated articulations with the exception of when such is specifically noted.
+20.1 Khoe
+20.1.1 Proto-Khoe to Ç̬Ana
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃n
+
+! → !~k
+
+!x → x
+
+!̬ → ɡ
+
+!̃(n) → ŋ
+
+ts → {ts~tsʰ,ts,s}
+
+h → j / _E
+20.1.2 Proto-Khoe to ÇAni
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃n
+
+! !̬ !̃ → !~k !̬~ɡ !̃(n)~ŋɡ
+
+!x → !x~x
+
+ts → {ts,s}
+
+h → j~ʔ / _E
+
+h → h~ʔ
+20.1.3 Proto-Khoe to Buga
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃
+
+! !ˀ !̬ !̃ → k ∅ ɡ ŋɡ
+
+!x → x
+
+!̃n → ŋɡj~!̃
+
+ts → {ts~tsʰ,ts,s}
+
+h → j
+20.1.4 Proto-Khoe to Kxoe
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+!̃(n) → ǂ̃
+
+! !ˀ ! !̃ → k ∅ ɡ ŋɡ
+
+!x !̃n → x ŋɡj~!̃
+
+ts dz → {ç,tç} dʒ
+
+kʰ → kx
+
+h → j
+20.1.5 Proto-Khoe to Nama
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+k → ɡ
+
+{ǀˀ,ǀxʼ} → ǀ
+
+ǀ̃(n) → {ǂ̃,ǂ}
+
+! !ˀ !̃n → !ɡ ~ !̃
+
+ǂ {ǂ̃n,ǂˀ,ǂxʼ} → ǂɡ ǂ
+
+{ǁˀ,ǁxʼ} → ǁ
+
+ts dz kxʼ → {ts,s} d ∅
+20.1.6 Proto-Khoe to Naro
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃
+
+ts dz → {ts~tsʰ,ts,s} dz~ts
+
+kʰ → {kx,k}
+20.1.7 Proto-Khoe to !Ora
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃
+
+! !̃n → ! !̃
+
+ǂ̃n → ǂ
+
+ǁˀ → {ǁˀ,ǁ}
+
+ts → {ts,s}
+20.1.8 Proto-Khoe to Teti
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → j
+
+! !ˀ !̬ !̃(n) !x → k ∅ ɡ ŋ x
+
+ǂ ǂ̃n ǂˀ → c ɲ ʔj
+
+ǁˀ ǁxʼ → {ǁˀ,∅} ǁˀ
+
+ts dz kxʼ → {ts~tsʰ,ts,s} z kʼ
+
+h → j~ʔj / _E
+
+h → h~ʔj
+20.1.9 Proto-Khoe to TsÊixa
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) ǀxʼ → j ǀˀ
+
+! !ˀ !̬ !̃(n) !x → k ∅ ɡ ŋɡ x
+
+ǂ̃n ǂxʼ → ɲ ǂˀ
+
+ǁxʼ → ǁˀ
+
+ts dz kxʼ → {ts~tsʰ,ts,s} z kʼ
+
+h → j~ʔj / _E
+
+h → h~j
+20.1.10 Proto-Khoe to Ç̬Ui
+
+Pogostick Man, from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.
+
+ǀ̃(n) → ǂ̃n
+
+!̃ !x → !̃(n) !x~x
+
+ts → {ts~tsɦ,s}
+
+h → j / _E
+
+h → ɦ
+20.2 Kx’a
+20.2.1 Proto-Kx’a to ÇHoan
+
+Pogostick Man, from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”
+
+“Something about word-initial glottal stops”
+
+∅ → a / o_m
+
+a → ∅ / _e (sporadic)
+
+o → ∅ / u_
+
+u → ∅ / o_
+
+iaɔ → iu
+
+o → ∅ / a(C)_
+
+Vn ŋ → V[+nas] ∅ / _#
+
+t d s → {c,tʃ} ɟ ʃ
+
+!! → ǁ
+
+ⁿQʰ Q͡ɢ → Qʰ Q
+20.2.2 Proto-Kx’a to Northwestern !Xun
+
+Pogostick Man, from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”
+
+a → ∅ / #_m
+
+ui → o (?)
+
+i → ∅ / V_
+
+a → ∅ / _e (sporadic)
+
+u → ∅ / _o
+
+o → ∅ / _u
+
+o → a / _Ca
+
+a → ∅ / _(C)o
+
+“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”
+
+ʕ → ʔ / _m
+
+n → ∅ / _#
+
+ts(ʼ) s → tʃ(ʼ) ʃ
+
+!! ʘ → ǁ ǀ
+
+ǂ → !! (dialectal)
+20.2.3 Proto-Kx’a to Southeastern !Xun
+
+Pogostick Man, from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”
+
+a → ∅ / #_m
+
+ui → o (?)
+
+i → ∅ / V_
+
+ɛ ɔ → i u
+
+u → ∅ / _o
+
+o → ∅ / _u
+
+o → a / _Ca
+
+a → ∅ / _(C)o
+
+“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”
+
+ʕm → {b,ɓ}
+
+n → ∅ / _#
+
+ts(ʼ) s → tʃ(ʼ) ʃ
+
+!! ʘ → ǁ ǀ
+
+ʔ → ∅ / _nQ
+
+ⁿQʰ {ǀʰ͜q,ǀʰ͜ɢ} Q͡q → ⁿQ(ʰ) ⁿǀʰ Q[+voiced] 
+

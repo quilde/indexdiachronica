@@ -1,0 +1,171 @@
+
+28 Muskogean
+
+The following Proto-Muskogean phonemic inventory is adapted from Wikipedia contributors (2016), citing Booker (2005).
+	Labial 	Alveolar 	Palatal 	Velar 	Rounded Velar
+Nasal 	m 	n
+Stop 	p 	t 		k 	kʷ
+Affricate 		ts 	tʃ
+Fricative 		s 	ʃ 	x 	xʷ
+Lateral Fricative 		ɬ
+Approximant 		l 	j 		w
+Unknown 		θ
+
+In addition, Booker (2005) posits two phonemes of unknown value. These phonemes dropped out in all positions in Eastern Muskogean, and only survived in the final syllable in Western Muskogean, where they yielded a glottal stop (/ʔ/) and a glottal fricative (/h/) before developing further in the respective languages. I have termed the progenitor phonemes “weak” (namely C1[+ weak] and C2[+ weak]). (I tentatively hypothesize that these were *ʔ *h, respectively, but am not sure.)
+
+I would like to take the unusual step of asking for help. I had to go to the library to find Booker’s paper, and in my notes I failed to write down the languages for which the following sound changes occurred:
+
+l → j / a_i
+
+k → ∅ / V_C ! penult
+
+V → V̂ː / _Cko, ko lost?
+
+If anyone has a copy of Booker’s paper and can double-check, please contact me via one of the methods listed in the appropriate section.
+
+(From Wikipedia contributors (2016), “Muskogean languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Muskogean_languages&oldid=704652062>, citing Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298; and Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298)
+28.1 Proto-Muskogean to Proto-Eastern Muskogean
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+θ → ɬ
+
+xʷ → f
+
+VC[+ weak] → ∅ / _V#
+28.1.1 Proto-Eastern Muskogean to Alabama
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ʃ → ts
+
+kV → ∅ / V_#
+
+k → ∅
+
+ts x → s h / _C
+28.1.2 Proto-Eastern Muskogean to Creek
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+V1kV2 → V2ː / #((C)V(C))(C)_#
+
+V1k → ∅ / _#
+
+ʃ → ts
+
+kʷ → k / #_
+
+kʷ → b
+
+S → S[+ voice] / V_V
+
+h → x / _%
+
+V0xV0 → V0ː
+
+Initial vowels lost?
+
+x → w / a_o
+
+x → h
+
+m → ŋ / _k
+
+ts and t alternate before k
+
+kl → kː
+
+Cː → C[- long]
+28.1.3 Proto-Eastern Muskogean to Hitchiti
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ʃ → ts
+
+V → ∅ / Vk_#
+
+x → j / V0_V0
+
+x → h
+28.1.4 Proto-Eastern Muskogean to Korasati
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ʃ → ts
+
+VkV → ”V / _#
+
+k → ∅
+
+ts → s / _C
+
+nt → tː
+
+x → h
+28.1.5 Proto-Eastern Muskogean to Mikasuri
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+V → ∅ / Vk_#
+
+x → j / V0_V0
+
+tʃ → s / _C ! _k
+
+ʃ x → ts h
+28.1.6 Proto-Eastern Muskogean to Seminole
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ʃ x → ts h
+
+tl → tː
+28.2 Proto-Muskogean to Proto-Western Muskogean
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ts tʃ → s ts
+
+θ → n
+
+s → ʃ
+
+x → h
+
+C1[+ weak] C2[+ weak] → ʔ h / V_V#
+
+V → ∅ / V{k,ʔ,h}_#
+
+xʷ → h / %_{o,i}(C)#
+
+a → o / xʷ_#
+
+oj aj → iː {aː,iː}
+
+i → ∅ / #(C)V(C)(C)V(C)(C)_# (sporadic in the case of other vowels)
+
+tl st → lː tː
+28.2.1 Proto-Western Muskogean to Chickasaw
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+h → ∅ / _#
+
+aw → o
+
+xʷɬ → ɬː
+28.2.2 Proto-Western Muskogean to Choctaw
+
+Pogostick Man, from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298
+
+ʔ → ∅/ _#
+
+xʷ → h / V_V
+
+ɬh → ɬː
+
+a → o / _w
+
+p → k / _C
+

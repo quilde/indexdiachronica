@@ -1,0 +1,285 @@
+
+11.1 Proto-Northeast Caucasian to Proto-Avar-Andic
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+l → {l,r}
+
+*b is “[p]rone to change to *m”
+11.1.1 Proto-Avar-Andic to Akhvakh
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+p → h
+
+dz dʒ → {tsːʼ,z} {tsːʼ,dʒ}
+
+{ts,st} → tʃ
+
+tɬː dɮ → tɬ(ː) tɬː
+
+kː ɢ → xʲ {qːʼ,ɣ}
+
+{l,r} → ∅ (sometimes, only from original *l)
+11.1.2 Proto-Avar-Andic to Andi
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+{ts,st} dz → s {tsːʼ,z}
+
+stː → sː
+
+dʒ → {tʃːʼ,dʒ}
+
+tɬ tɬ(ː) tɬ(ː)(ʼ) dʒ → ɬ tɬ(ː) tɬ(ː)(ʼ) tɬː
+
+q ɢ → x {qːʼ,ɣ}
+11.1.3 Proto-Avar-Andic to Avar
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+ts tsː tsʼ tsːʼ dz → sh ts tʃʼ ts(ː)ʼ tsʼ
+
+st(ː) → ts
+
+tʃ tʃː tʃːʼ dʒ → ts(?) tʃ tʃ(ː)ʼ tsʼ
+
+tɬ tɬʼ tɬː tɬːʼ → ɬ tʼ tɬ tɬ(ː)ʼ
+
+q qːʼ ɢ → x {q(ː)ʼ,ɡh} qʼ (not sure if that last 〈gh〉 should be ɣ)
+
+s sː ɬː x xː → {s,ʃ} x ɬ {x,h} x
+
+m → {m,n}
+11.2 Proto-Northeast Caucasian to Dargi
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+*b is “[p]rone to change to *m”
+
+{tsː,st} tsːʼ dz stː → ts z tsː s
+
+tʃ tʃː dʒ → {tsʼ,tʃʼ} ʒ ts
+
+tɬ tɬː tɬʼ tɬːʼ → k {xʲː,kː} kʰ {ɡ,q}(?)
+
+qːʼ → ʕ
+
+ʃ ʃː ɬ ɬː → {s,ʃ} ʃ xʲ {xʲ,ʃ}
+11.3 Proto-Northeast Caucasian to Khinalug
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {b,v} z
+
+The development of *tsʼ is unclear; in the user page there’s a slash but it might be a typo for an apostrophe
+
+{tsː,st} {tsːʼ,dz} → ts tsʼ
+
+{tʃ(ː),dʒ} → tʃʼ
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → k {k,xʲ} {kʼ,ɡ} {kʼ,kː} kʼ
+
+kː kʼ ɡ → k {kʼ,ɡ} {kʼ,kː}
+
+{qːʼ,ɢ} → qʼ
+
+sː ɬ(ː) xː → h xʲ x
+
+r → n / _C
+
+r → {r,∅}
+11.4 Proto-Northeast Caucasian to Lak
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {pː,b} {tː,d} (but *b is “[p]rone to change to *m”)
+
+{tsː,stː} dz st → sː {tsː,z} ts
+
+tʃ tʃː dʒ → {ts,tʃ} {tsʼ,tʃʼ} tʃ(ː)ʼ
+
+tɬ tɬː tɬ(ː)ʼ dɮ → xʲ xː kʼ {kː,l}
+
+ɡ → kː
+
+qʼ qʼː ɡ → {qʼ,j} qʼ {qː,ɣ}
+
+ʃ ɬ ɬː → s {xʲ,ʃ} xː
+
+m l → {m,n} {l,∅}
+11.5 Proto-Northeast Caucasian to Proto-Lezgic
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+NB: These changes here probably aren’t “proper” sound changes, whatever that’s supposed to mean, but there doesn’t seem to be any particular sound change or set of sound changes that defines this family, so I’ve elected to go with something that seems to nearly work and note the exceptions.
+
+q ɢ → {x,q} ɣ
+11.5.1 Proto-Lezgic to Agul
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {b,w} {d,z}
+
+{ts,st} tsː tsːʼ stː dz → {s,ts} {ts,tʃ} tː s z
+
+tʃːʼ → tʃː
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ x kʼ kː {,j,xʲ}
+
+qːʼ → qː
+
+ɬ(ː) xː → xʲ x
+
+m → {m,b}
+11.5.2 Proto-Lezgic to Archi
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+d → r / _#
+
+d → {d,tː}
+
+{ts,st} tsː tsːʼ stː dz → s {s,ʃ} tsʼ sː ts
+
+tʃ(ː) dʒ → ʃ tʃ
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → ɬ ɬ(ː) kʼ tɬʼ tɬː
+
+kː ɡ → x {kː,ɡ}
+
+ɣ → q (more likely, *ɢ → q instead of → ɣ)
+
+q qːʼ → x q(ː)ʼ
+
+sː xː → {sː,h} x
+11.5.3 Proto-Lezgic to Lezghi
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {pː,b} {tː,d}
+
+{ts,st} tsː tsːʼ dz → {ʃ,tʃ} tʃ(ʼ) {tʃː,dʒ}
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ {ɣʲ,ɡ} qʼ k(ʼ) {kː,ɣʲ}
+
+kː ɡ → ɣ kː
+
+ɣ → {qː,ɣ} (again, probably a difference in the development of *ɢ than this strict sound change)
+
+qːʼ → q(ʼ)
+
+ʃː ɬ ɬː x xː → ɣʲ j ʃ ɣ x
+11.5.4 Proto-Lezgic to Rutul
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {b,w} {d,z}
+
+{ts,st} tsːʼ dz → {s,ts} {d,t} z
+
+tʃ tʃː tʃːʼ → {ʃ,tʃ} ʃ tʃ
+
+tɬː tɬʼ tɬːʼ dɮ → xʲ qʼ q(ʼ) {w,xʲ,j}
+
+kː → x
+
+qːʼ → q(ʼ)
+
+sː ɬ(ː) xː → {ħ,xʲ} {sː,h} x
+
+m → {m,b}
+11.5.5 Proto-Lezgic to Tabassaran
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+b d → {b,w} {d,z}
+
+{ts,st} tsː tsːʼ → {s,ts} {ts,tʃ} tsː
+
+tʃ tʃː tʃːʼ → {ʃ,tʃ} {tʃ,dʒ} {tʃː,tʃʼ}(?)
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ {ɣʲ,ɡ} k kː ɣʲ
+
+kː → q
+
+ɬ {ʃː,ɬː} xː → xʲ ʃ x
+
+m → {m,b}
+11.5.6 Proto-Lezgic to Udi
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+ts tsː tsʼ tsːʼ dz → {∅,s} tʃ {∅,tsʼ} {tsʼ,tʃʼ} z
+
+t → ∅ / s_
+
+tʃ tʃː tʃʼ tʃːʼ dʒ → {∅,ʃ} tʃ ∅ tʃʼ {dʒ,tʃ}
+
+tɬ tɬː tɬʼ tɬːʼ dɮ → {∅,x} q {∅,qʼ} qʼ {ɣ,l}
+
+kː → q
+
+q qʼ qːʼ ɢ → ∅(?) ∅ qʼ ɣ
+
+{ɬ(ː),xː} → x
+11.6 Proto-Northeast Caucasian to Nakh
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+st stː → st(ʼ) st
+
+tsː tʃː → ts tʃ / #_
+
+tsːʼ → tsː
+
+{tsː,tʃː,dz,dʒ} → tː / _#
+
+tɬ(ː) tɬʼ tɬːʼ → x qʼ ʕ
+
+kː qːʼ → xk(?) qʼ
+
+ʃː ɬː xː → ʃ ɬ x
+
+l → r / _#
+
+r → d / #_
+11.7 Proto-Northeast Caucasian to Proto-Tsezic
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+*b is “[p]rone to change to *m”
+
+{ts,st} {tsːʼ,dz} → s ts
+
+tʃ {tʃː,dʒ} → ʃ tʃ (the change of *tʃːʼ is conjectured for Bezhta, as the change is only listed in Tsez, but given the development of *tsːʼ I don’t find it unreasonable to put it here)
+
+tɬ tɬːʼ → ɬ tɬ
+
+ɢ → q
+
+s xː → z x
+
+l → {l,r}
+11.7.1 Proto-Tsezic to Bezhta
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+*ɬ may have remained ɬ
+*r remained when intervocalic
+11.7.2 Proto-Tsezic to Tsez
+
+Pogostick Man, from User:Petusek (2010), “User:Petusek/Drafts/Northeast Caucasian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=User:Petusek/Drafts/Northeast_Caucasian&oldid=351133322>, apparently citing Nichols, Johanna (2003), “The Nakh-Daghestanian Consonant Correspondences”, in Tuite, Kevin, and Dee Ann Holisky, Current Trends in Caucasian, East European, and Inner Asian Linguistics: Papers in Honor of Howard I. Aronson 207 – 251
+
+tsː tɬː → z l / V_V
+
+tsː tɬː → s ɬ
+
+kːʼ ɡ → k kʼ
+
+q qːʼ → x(?) q
+
+sː ʃ ʃː ɬ ɬː x → s ʒ ʃ l ɬ ɣ
+
+r → {r,l,∅} 
+

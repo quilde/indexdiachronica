@@ -2235,3 +2235,4 @@ Long vowels acquire a high-low contour, but it looks like this is more prosodic 
 Pogostick Man, from Wikipedia contributors (2016), “Tsouic languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Tsouic_languages&oldid=602917078>
 
 {*C,d} j *R → c z r 
+

@@ -1,0 +1,150 @@
+
+27 Mayan
+
+Wikipedia gives the following for the Proto-Mayan phonology:
+	Bilabial 	Alveolar 	Palatal 	Velar 	Uvular 	Glottal
+Nasal 	m 	n 		ŋ
+Plosive 	p ɓ 	t tʼ 	tʲ tʲʼ 	k kʼ 	q qʼ 	ʔ
+Fricative 		s 	ʃ 		χ 	h
+Affricate 		ts tsʼ 	tʃ tʃʼ
+Liquid 		l r
+Glide 			j 	w
+	Front 	Central 	Back
+High 	i iː 		u uː
+Mid 	e eː 		o oː
+Low 		a aː
+
+(From Wikipedia contributors (2013), “Mayan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Mayan_languages&oldid=583331877>)
+27.1 Proto-Mayan to Ch’olan
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+q(ʼ) → k(ʼ)
+
+ŋ → n
+
+aː eː oː → ɨ i u
+
+tʲ(ʼ) → t(ʼ)
+
+r → j
+
+Vː → V[-long]
+27.2 Proto-Mayan to Chujean
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+ŋ → n
+
+tʲ(ʼ) → t(ʼ)
+
+r → j
+
+Vː → V[-long]
+27.3 Proto-Mayan to Huastecan
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+w → b
+
+h → w / _{o,u}
+
+q(ʼ) → k(ʼ)
+
+ŋ → h
+
+kV[+round]C[+glide] → kʷ
+27.4 Proto-Mayan to Ixilean
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+ŋ → x
+
+t → tʃ
+
+CVʔVC → CVʔC
+
+r → {t,j}
+
+tʃ → ʈʂ
+27.5 Proto-Mayan to Kaqchikel-Tz’utujil
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+ŋ → x
+
+h → j / _#
+
+CVʔVC → CVʔC
+
+ɓ w → ʔ j / VCV_#
+
+tʲ(ʼ) → tʃ(ʼ)
+
+Vː → V[-long]
+
+“Kaqchikel retains a centralized lax schwa-like vowel as a reflex of Proto-Mayan [a]”
+27.6 Proto-Mayan to Core K’iche’
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+ŋ → x
+
+CVʔVC → CVʔC
+
+tʲ(ʼ) → tʃ(ʼ)
+27.7 Proto-Mayan to Mamean
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+ŋ → x
+
+t → tʃ
+
+CVʔVC → CVʔC
+
+r → {t,j}
+
+tʃ → ʈʂ
+
+tʲ(ʼ) → t(ʼ)
+
+tʲ(ʼ) → ts(ʼ)
+
+r t tʃ ʃ → t tʃ ʈʂ ʂ
+27.8 Proto-Mayan to Q’anjob’alan
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+q(ʼ) → k(ʼ)
+
+ŋ → n
+
+r → j
+
+Vː → V[-long]
+27.9 Proto-Mayan to Tzeltalan
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+q(ʼ) → k(ʼ)
+
+ŋ → n
+
+aː eː oː → ɨ i u
+27.10 Proto-Mayan to Yucatecan
+
+Pogostick Man, from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Mayan_language&oldid=571518268>
+
+q(ʼ) → k(ʼ)
+
+ŋ → n
+
+aː → ɨ
+
+t → tʃ / _#
+
+tʲ(ʼ) → tʃ(ʼ)
+
+“[V]owel length and [h] and [ʔ]” have converted into a tone distinction 
+

@@ -1,0 +1,721 @@
+
+29 Na-Dene
+
+Note that the changes from Proto-Na-Dene and Proto-Athabaskan-Eyak deal only with obstruents.
+29.1 Proto-Na-Dene to Proto-Athabaskan-Eyak
+
+Pogostick Man, from Wikipedia contributors (2015), “Na-Dene languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Na-Dene_languages&oldid=666126262>
+
+kʲ kʲʼ ɡʲ xʲ → ts tsʼ dz s
+
+{s,ʃ} → ∅ / _x
+29.1.1 Proto-Athabaskan-Eyak to Proto-Athabaskan
+
+Pogostick Man, from Wikipedia contributors (2015), “Na-Dene languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Na-Dene_languages&oldid=666126262>
+
+ɬ → {ɬ,l}
+
+ʃ → {ʂ,ʐ}
+
+{s,dz} → {s,z}
+
+k kʼ kʷ kʷʼ ɡ ɡʷ → kʲ kʲʼ tʂ tʂʼ ɡʲ ɖʐ
+
+x xʷ → {xʲ,j} {ʂ,ʐ}
+
+Qʷ → Qʷ → Q ?
+
+χ(ʷ) → {χ,ʁ}
+29.1.1.1 Athabaskan
+
+Wikipedia gives the following reconstructions, adapted from Cook (1981), Krauss & Golla (1981), Krauss & Leer (1981), and Cook & Rice (1981) for the consonants and from Leer (2005:284) for the vowels; the vowel phonemes in parentheses are reduced.
+	Bilabial 	Alveolar 	Postalveolar 	Velar 	Uvular 	Glottal
+Nasal 	m 	n 	ɲ 			
+Plosive 		t tʰ tʼ 		k kʰ kʼ 	q qʷ qʰ qʷʰ qʼ qʷʼ 	ʔ
+Fricative 		s z 	ʃ ʃʷ ʒ ʒʷ 	x ɣ 	χ χʷ ʁ ʁʷ 	h
+Lat. Fric. 		ɬ ɮ~l 				
+Affricate 		t͜s t͜sʰ t͜sʼ 	t͜ʃ t͜ʃʷ t͜ʃʰ t͜ʃʷʰ t͜ʃʼ t͜ʃʷʼ 			
+Lat. Aff. 		t͜ɬ t͜ɬʰ t͜ɬ’ 				
+Approximant 			j 		w 	
+	Front 	Back
+High 	iː 	uː
+Mid 	(ə) 	(ʊ)
+Low 	eː 	(ɑ) ɑː
+
+In addition, though it is not encountered in these changes, there is a phoneme that crops up in forms of the first-person singular pronoun which has various reflexes in many Athabaskan languages; Krauss (1976b) represents it as *$. Leer transcribed it as *šʸ in 2005:284 but in 2008 opted to use the *$ transcription.
+
+The great majority of changes in this section are for the respective series of consonants, not for individual ones; therefore, changes specific to single consonants are marked so, and the reader should assume that unless explicitly stated, all of the following changes apply to the entire consonantal series. At the recommendation of Jan Strasser, the following conventions will be used to refer to the series; these are based on the abbreviations Whimemsz gave on the original Correspondence Library page, derived from the voiceless members of each series:
+
+    T, dental stops
+    TŁ, laterals
+    TS, dental affricates and fricatives
+    TŠ, palatals
+    TŠʷ, labialized palatals
+    K, front (palatalized) velars
+    Q, uvulars
+    Qʷ, labialized uvulars 
+
+Whimemsz was unsure of the abbreviation of the glottal series. In addition, there also exist a series of (inter-?)dentals, abbreviated TH, and one of retroflexes, abbreviated TṢ. Changes marked with an asterisk, *, apply to the individual phone(me)s.
+
+(From Whimemsz’s statements from the TCL thread and Wiki, and from Wikipedia contributors (2011), “Athabaskan languages”. Wikipedia, The Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Athabaskan_languages&oldid=454112398>)
+29.1.1.1.1 Proto-Athabaskan to Ahtna
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} → TS
+
+K → TŠ / in Mentasta Ahtna
+
+{ʃ(ʷ),x} → s
+
+ɑ ə ʊ → a e o
+
+Vˀ → V[-glottalized]
+29.1.1.1.2 Proto-Athabaskan to Babine
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} → TS
+
+u ɑ ʊ → {o,u} ə u
+
+Vˀ → V[-glottalized]
+29.1.1.1.3 Proto-Athabaskan to Beaver
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS → TH (most often back to 3, however)
+
+{TŠ,TŠʷ} → TS
+
+K Q → TŠ K
+
+T → TŠ / _{i,e,u}, in the British Columbian dialect
+
+{n,ɲ} → d / $_V[-nas] (→ dʒ in the British Columbian dialect)
+
+ɑ → ə
+
+Vˀ → V[+high tone]
+29.1.1.1.4 Proto-Athabaskan to Chilcotin
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS series desibilantizes
+
+V → {Vˀ,V[+RTR]}
+
+{TŠ,TŠʷ} K → TS TŠ
+
+The Q series incompletely moves to the K series, the latter being more common
+
+e {ɑ,ə} → i {e,ɪ}
+
+Vˀ → V[+high tone]
+29.1.1.1.5 Proto-Athabaskan to Chipewyan
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS {TŠ,TŠʷ} K Q → TH TS TŠ K
+
+t → k (not for all speakers)
+
+{A,O’} → F / _$
+
+ɑ ʊ → a o
+
+Vˀ → V[+high tone]
+29.1.1.1.6 Proto-Athabaskan to Dakelh
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+
+u {ɑ,ʊ} → {o,u} ə
+
+Vˀ → V[-glottalized]
+29.1.1.1.7 Proto-Athabaskan to Deg Hit’an
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS TŠ → TH TS
+
+TŠʷ → TṢ (→ TS in Kuskokwim dialect)
+
+K → {K,TŠ}
+
+w → v (→ w in Shageluk dialect)
+
+ɲ → ŋ
+
+R F → R[-voiced] F[-voiced] / _# in suffixes
+
+e u a {ɑ,ʊ} → a i u ə
+
+C’ → C / _$
+
+Vˀ → V[-glottalized]
+29.1.1.1.8 Proto-Athabaskan to Dena’ina
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} → TŠ (→ TS in Upper Inlet dialect)
+
+e a u {ə,ʊ} → a u i ə
+
+{ʃ(ʷ),x {z,ʒ(ʷ),ɣ} → s j
+
+Vˀ → V[-glottalized]
+29.1.1.1.9 Proto-Athabaskan to Dogrib
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+C → h / _$
+
+ɑ ə ʊ u → a e o i
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+
+ts tsʰ tsʼ s z → kʷ kʷʰ kʷʼ ʍ w
+29.1.1.1.10 Proto-Athabaskan to Easter Gwich’in
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+NB: Here, 〈TS〉 represents a sound that Whimemsz says “is between” the TH and TS series POA-wise.
+
+TS K → TŠ TS / _E
+
+TS K → TH TŠ / else
+
+TŠ TŠʷ Q → TS TṢ K
+
+j w → ʒ v
+
+{n,ɲ} → ⁿdʒ / _E[-nas]
+
+{n,ɲ} → ⁿd / _V[-nas]
+
+{i,e} → {i,ja} (this latter due to the loss of final consonants within the stem)
+
+a u {ɑ,ə} ʊ → {i,e} ju a o
+
+Vˀ → V[+low tone]
+
+“An ‘extensive reduction’ of stem-final consonants; however, reflexes of final *-ɲ and *-n after PA *a and *e are kept distinct”
+29.1.1.1.11 Proto-Athabaskan to Han
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS TŠ TŠʷ K Q → TH TS TṢ TŠ K
+
+Occasional palatalization in front of high vowels
+
+n → (ⁿ)d / $_V[-nas]
+
+j → ʒ / $_
+
+a ɑ ə ʊ → æ a {ə,ë} o
+
+Acquisition of vowel length, but how this occurs is not described
+
+Vˀ → V[+low tone]
+
+Majority of stem-final consonants lost; the only stem-finals permitted in comtemporary Han are /t k w j r n h ʔ/, with the addition of /l/ in Dawson Han
+29.1.1.1.12 Proto-Athabaskan to Holikachuk
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS → TH
+
+e → a / in prefixes
+
+i e a u {ɑ,ʊ} → e a ɔ o ŭ
+
+TS {TŠ,TŠʷ} → TŁ TS
+
+C’ → C / _$
+
+Vˀ → V[+low tone]
+
+w (→ b?) → m
+
+ə → ∅ / {R,F}_#
+29.1.1.1.13 Proto-Athabaskan to Hupa
+
+Pogostick Man, from Sapir, Edward (1936), ”Reflexes of Proto-Athabaskan in Several Languages (Hupa, Navaho, Chipewyan, Sarcee)”
+
+NB: First, part of the list of correspondences was cut off; second, it is sometimes difficult to read Sapir’s handwriting; and third, I’m hoping I made the correct inferences about his notation.
+
+h → {h,∅}
+
+q ʀ → x w
+
+{qʷ,xʷ} qʷʼ ɢʷ ɣʷ → x(ʷ) q(ʷ)ʼ ɢ(ʷ) w
+
+z → s
+
+{ʃ,ʒ} → w
+
+xʲ → w
+29.1.1.1.14 Proto-Athabaskan to Lower Koyukon
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+e a ɑ ʊ → a o ŏ ŭ
+
+TS {TŠ,TŠʷ} → TŁ TS
+
+C’ → C / _$
+
+Vˀ → V[+low tone]
+
+w (→ b?) → m
+
+ə → ∅ / {R,F}_#
+29.1.1.1.15 Proto-Athabaskan to Upper Koyukon
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+e a ɑ ʊ → a o ŏ ŭ
+
+TS {TŠ,TŠʷ} → TŁ TS
+
+Stem-final/suffixal consonant clusters lost in Minchumina-Bearpaw Upper Koyukon
+
+K → TŠ
+
+C’ → C / _$
+
+Vˀ → V[+low tone] → V[-tone]
+
+w → m / _Vn (sporadic)
+
+w → b
+29.1.1.1.16 Proto-Athabaskan to Upper Kuskokwim Kolchan
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TŠ TŠʷ K Q → TS TṢ TŠ K
+
+e a {ɑ,ʊ} → a o ŭ
+
+Vˀ → V[-glottalized]
+29.1.1.1.17 Proto-Athabaskan to Sarcee
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+
+ɑ́ ə́ ʊ́ → ɑ̄ ə̄ ʊ̄
+
+{e,ə} ʊ → ɑ u
+
+Vˀ → V[+low tone]
+29.1.1.1.18 Proto-Athabaskan to Sekani
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS → TH (→ TS again in some areas)
+
+{TŠ,TŠʷ} K Q → TS TŠ Q
+
+T → TŠ / _{i,e,u} ! in Ware Sekani
+
+ʊ → o
+
+Vˀ → V[+high tone]
+29.1.1.1.19 Proto-Athabaskan to Proto-Southern Athabaskan
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+K → TS
+
+m → {m,b} (→ b seems more common)
+
+ɣ → h / in prefixes relating to word derivation
+
+VnC → V[+ nas]C / _#, unless C = ʔ
+
+t n x → d n h / in prefixes relating to word derivation
+29.1.1.1.20 Proto-Southern Athabaskan to Proto-Eastern Southern Athabaskan
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+t → k
+
+{s,z}(ʔ) {ʃ,ʒ}(ʔ) {ɬ,ɮ}(ʔ) → s ʃ ɬ / _#
+29.1.1.1.21 Proto-Eastern Southern Athabaskan to Kiowa Apache
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+n → d
+
+d → ∅ / _#
+
+k → tʃ / _E
+
+{xʲ,j}ʔ {x,ɣ}ʔ → ∅ h(ʔ) / _#
+
+Vnʔ VnC → V[+ nas] V[+ nas]C / _#
+
+x ɣ → h ∅ / _#
+
+{d,j} → j / ∅ / _#
+
+xʲ j → ʃ ʒ
+29.1.1.1.22 Proto-Eastern Southern Athabaskan to Jicarilla
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+d → ʔ / _#
+
+xʲ xʔ j ɣʔ → h ʔ ∅ ʔ / E_#
+
+xʲ xʔ j ɡʔ → ih iʔ i iʔ / _#
+
+xʲʔ jʔ → h ʔ / _#
+
+x ɣ / h ∅ / _#
+
+n → ⁿd
+
+xʲ → s
+
+j → ɣ / _E
+
+Vnʔ VnC → V[+ nas] V[+ nas]C / _#
+29.1.1.1.23 Proto-Eastern Southern Athabaskan to Lipan
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+d → ∅ / _#
+
+xʲ j → ʃ ∅ / _#
+
+{xʲ,j}ʔ → ∅ / _#
+
+{x,ɣ} → ∅ / _(ʔ)#
+
+Vnʔ VnC → V[+ nas] V[+ nas] / _#
+
+n → ⁿd
+
+xʲ → s
+
+j → ɣ / _E
+29.1.1.1.24 Proto-Southern Athabaskan to Proto-Western Southern Athabaskan
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+j → ɣ / _E
+29.1.1.1.25 Proto-Western Southern Athabaskan to Chiricahua
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+d → ∅ / _#
+
+xʲ j → ʃ ∅ / _#
+
+{xʲ,j}ʔ → ∅ / _#
+
+{x,ɣ} → ∅ / _(ʔ)#
+
+Vnʔ → V[+ nas] / _#
+
+n → ⁿd
+
+{s,z}(ʔ) {ʃ,ʒ}(ʔ) {ɬ,ɮ}(ʔ) → s ʃ ɬ / _#
+29.1.1.1.26 Proto-Western Southern Athabaskan to Mescalero
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+d → ∅
+
+xʲ j → ʃ ∅ / _#
+
+{xʲ,j}ʔ → ∅ / _#
+
+{x,ɣ} → ∅ / _(ʔ)#
+
+Vnʔ → V[+ nas] / _#
+
+n → ⁿd
+
+ʔ → ∅ / {s,ʃ,ɬ}_#
+
+z(ʔ) ʒ(ʔ) ɮ(ʔ) → dz dʒ dɮ / _#
+29.1.1.1.27 Proto-Western Southern Athabaskan to Navajo
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+{ɣ,h} → j / in prefixes related to word derivation
+
+xʲ(ʔ) j(ʔ) → h ʔ / _#
+
+x ɣ → h ʔ / _#
+
+{x,ɣ}ʔ → {ʔ,ɡ} (Hoijer notes a reflex “-g-”)
+
+xʲ → s
+
+j → ɣ / _E
+
+{s,z}(ʔ) {ʃ,ʒ}(ʔ) {ɬ,ɮ}(ʔ) → s ʃ ɬ / _#
+29.1.1.1.28 Proto-Western Southern Athabaskan to San Carlos
+
+Pogostick Man, from Hoijer, Harry (1938), “The Southern Athapaskan Languages”. American Anthropologist 40:75 – 87
+
+x(ʲ) {j,ɣ} → h ∅ / _#
+
+xʲʔ jʔ → h ʔ / _#
+
+{x,ɣ}ʔ → ɡ
+
+Vnˀ → V[+ nas] / _#
+
+n → ⁿd
+
+{s,z}(ʔ) {ʃ,ʒ}(ʔ) {ɬ,ɮ}(ʔ) → s ʃ ɬ / _#
+29.1.1.1.29 Proto-Athabaskan to Bearlake Slavey-Hare
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+C → {h,ʔ} / _#
+
+ɑ ə ʊ → a ɛ o
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+
+ts tsʰ tsʼ s z → kʷ kʷʰ kʷʼ ʍ w
+29.1.1.1.30 Proto-Athabaskan to Hare Slavey-Hare
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+tɬʰ tʃ(ʷ)ʰ kʰ → ɬ s ʃ
+
+{TŠ,TŠʷ} K → TS TŠ (with exceptions)
+
+Q → K
+
+∅ → j / _e
+
+ɬ → l
+
+ts tsʰ tsʼ {s,z} → {kʷ,p} f wˀ w
+29.1.1.1.31 Proto-Athabaskan to Mountain Slavey-Hare
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+C → {h,ʔ} / _#
+
+ɑ ə ʊ → a e o
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+
+ts tsʰ tsʼ s z → p pʰ pʼ f v
+29.1.1.1.32 Proto-Athabaskan to Slavey Slavey-Hare
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+C → {h,ʔ} / _#
+
+ɑ ə ʊ → a e o
+
+{TŠ,TŠʷ} K Q → TS TŠ K
+29.1.1.1.33 Proto-Athabaskan to Tahltan-Kaska-Tagish
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+ɑ ə ʊ → a {i,e} u
+
+C’ → C / _$
+
+Q → K
+29.1.1.1.34 Tahltan-Kaska-Tagish to Kaska
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+Vˀ → V[+high tone]
+
+TS {TŠ,TŠʷ} → TH TS
+
+K → TŠ (although /xʲ/ stays as such in a few dialects)
+29.1.1.1.35 Tahltan-Kaska-Tagish to Tagish
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠ,TŠʷ} TS → TS TSʲ
+29.1.1.1.36 Tahltan-Kaska-Tagish to Tahltan
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+{TŠʷ,K} → TŠ (although /xʲ/ stays as such in a few dialects)
+29.1.1.1.37 Proto-Athabaskan to Tanacross
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+K → TŠ / ! _$
+
+TS TŠ TŠʷ Q → TH TS TṢ K
+
+S’ → S / _$
+
+Vˀ → V[+high tone]
+
+Acquisition of phonemic length in some unreduced vowels, though exactly how is not explored
+
+Vɲ → V[+nas]
+
+{n,ɲ} → ⁿd
+
+F[+voiced] → F[-voiced] / _$
+
+ʃ → h / in the “1sg subject prefix”
+
+ɬ → h / in the grammatical classifier
+
+ɑ ə ʊ → {æ̆,ă} æ̆ ŏ
+29.1.1.1.38 Proto-Athabaskan to Lower Tanana
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+K → TŠ / ! _$
+
+TS TŠ TŠᵚ Q → TH TS TṢ K
+
+S’ → S / _$
+
+Vˀ → V[+low tone] (“since then partially neutralized in noun and verb stems, but ‘still clear in verbal prefixes’”)
+
+e a {ɑ,ʊ} → æ ɔ ŭ
+29.1.1.1.39 Proto-Athabaskan to Upper Tanana
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+K → TŠ / ! _$
+
+TS TŠ TŠʷ Q → TH TS TṢ K
+
+S’ → S / _$
+
+Acquisition of phonemic length in some unreduced vowels, but this is not explored
+
+Vɲ → V[+nas]
+
+{n,ɲ} → ⁿd
+
+{A,F} → ∅ / _$; diphthongs sometimes lengthen in comparison
+
+ʃ → h / in the “1sg subject prefix”
+
+ɬ → h / in the grammatical classifier
+
+{a,ɑ} e i u ʊ → e(a) {i,ea} ju {a,ɨ} o
+
+ə → {a,ɨ} (→ ø in the Northway dialect)
+
+Vˀ → V[+low tone] (→ V[-tone] in “young speakers by 1980”)
+29.1.1.1.40 Proto-Athabaskan to Tsetsaut
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+NB: Whimemsz indicates that the following are to be taken with a grain of salt, as not all of the correspondences are clear due to a lack of detailed sources.
+
+TŠ → TS
+
+Series TŠʷ apparently moved its POA to the labiodental or bilabial position
+
+K Q → TŠ K
+
+C → ∅ / _$ in many cases
+
+ʊ → o
+29.1.1.1.41 Proto-Athabaskan to Northern Tutchone
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS {TŠ,TŠʷ} → TH TS
+
+K → TŠ (although /xʲ/ remained as such in a few dialects)
+
+Q → K
+
+{ɑ,ə,ʊ} → {a,o}
+
+Most stem-final consonants lost, though some plain and labialized palatal reflexes have developed differently
+
+Vˀ → V[+high tone]
+
+Acquisition of nasalized vowels and diphthongs
+/o/ somehow develops
+29.1.1.1.42 Proto-Athabaskan to Southern Tutchone
+
+Whimemsz, from Krauss, Michael and Victor Golla (1981), “Northern Athapaskan Languages”. Handbook of North American Indians, Vol. 6 (Subarctic), 67 – 85
+
+TS {TŠ,TŠʷ} → TH TS
+
+K → TŠ (although /xʲ/ remained as such in a few dialects)
+
+Q → K
+
+e a → i e
+
+{ɑ,ə,ʊ} → {a,o}
+
+Most stem-final consonants lost, though some plain and labialized palatal reflexes have developed differently
+
+Vˀ → V[+low tone]
+
+Acquisition of nasalized vowels and diphthongs
+/ɨ/ somehow develops
+
+A → F (some slight POA changes; alveolars become dentals, for instance)
+29.1.2 Proto-Athabaskan-Eyak to Eyak
+
+Pogostick Man, from Wikipedia contributors (2015), “Na-Dene languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Na-Dene_languages&oldid=666126262>
+
+kʲ kʲʼ ɡʲ xʲ → ts tsʼ dz {s,ʃ}
+
+Kʷ → K
+
+qʷ qʷʼ ɢʷ → q qʼ ɢ
+
+s → ∅ / _x
+
+x → ∅ / ʃ_
+
+$ → xʷ → {x,s}
+29.2 Proto-Na-Dene to Tlingit
+
+Pogostick Man, from Wikipedia contributors (2015), “Na-Dene languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Na-Dene_languages&oldid=666126262>
+
+NB: Where a colon appears, forms to the left are the typical forms and forms to the right are “l-assimilated”.
+
+s → s : ɬ
+
+ts → ts : tɬ
+
+tsʼ → {sʼ,tsʼ} : {ɬ,tɬʼ}
+
+ʃ → {ʃ,s} : ɬ
+
+tʃ → {tʃ,ts} : tɬ
+
+tʃʼ → {sʼ,tʃʼ} : tɬʼ
+
+Somethings going on with the velars and uvulars; apparently, both the rounded and unrounded consonants have reflexes that may or may not be rounded
+
+kʲ kʲʼ → {k,ʃ} kʼ
+
+xʲ → x
+
+k(ʷ)ʼ → {x,k}(ʷ)ʼ
+
+x(ʷ) → x
+
+qʼ qʷʼ → χ(ʷ)ʼ {χʼ,q(ʷ)ʼ}
+
+x → ∅ / {s,ʃ}_
+
+$ → χ 
+

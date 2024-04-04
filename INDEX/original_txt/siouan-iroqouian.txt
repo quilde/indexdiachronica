@@ -1,0 +1,1311 @@
+
+37 Siouan-Iroquoian
+
+Based upon Julian and Chafe, Proto-Siouan-Iroquoian, if it existed, appears to have had the following phonetic inventory:
+	Bilabial 	Dental 	Alveolar 	Postalveolar 	Palatal 	Velar 	Glottal
+Nasal 	m 		n
+Plosive 	p pʰ 		t tʰ 			k kʰ 	ʔ
+Fricative 		θ 	s 	ʃ 		x 	h
+Liquid 			r 		j 	w
+	Front 	Central 	Back
+High 	i ı̃ 		u ũ
+Mid 	e ẽ 		o õ
+Low 		a ã
+
+For this following section, the sound transcribed here as 〈r〉 may in actuality represent something akin to /ɹ/.
+
+Siouan-Iroquoian, and for that matter the inclusion of Yuchian and Caddoan within the former and the latter, respectively, is far from universally accepted; their inclusion here is in large part due to the available sources giving correspondences for each. It was unknown whether Proto-Caddoan was the same as the Proto-Iroquois-Caddoan indicated in Cafe’s paper, so the Caddoan changes have been presented after the main Iroquoian changes.
+
+Per KneeQuickie, Whimemsz wishes to “[n]ote that Siouan-Iroquoian is a proposed, rather than firmly-demonstrated, language grouping”.
+
+(From Chafe, Wallace L. (1964), “Another Look at Siouan and Iroquoian”. American Anthropologist New Series, 66:852 – 862; Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg; and from cedh aumdmanh’s Iroquoian changes)
+37.1 Proto-Siouan-Iroquoian to Proto-Iroquoian
+
+Pogostick Man, from Chafe, Wallace L. (1964), “Another Look at Siouan and Iroquoian”. American Anthropologist New Series, 66:852 – 862; and from cedh aumdmanh’s Iroquoian changes
+
+w → ∅ / _{o,õ,ı̃}
+
+m → w / _ã
+
+t → ts / _{i,ı̃}
+
+tʰ → ts / _i
+
+tʰ → n / else
+
+ã → ẽ
+
+e → i / r_ʔ
+
+r → ts / _i
+
+ı̃ → i
+
+k → ∅ / t_
+
+kʰ → r
+
+m → n
+
+p → ∅ / C_ ! s_
+
+p → kʷ / else
+
+pʰ → ʍ (this is a bit of a guess; the paper proper has 〈hw〉 here)
+
+ʃ θ → s t
+
+The paper is unclear about what happened to /u/.
+
+x → ∅ / _k
+
+x → h / _C ! C_C
+
+x → k
+
+ʔ → ∅ / C_
+37.1.1 Proto-Iroquoian to Cherokee
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+k kʷ → ts k / _i
+
+w → ∅ / h_i
+
+w → ∅ / t(h)_
+
+{wV,jV} → Vː[+low falling tone]
+
+V → ∅ / C_hC
+
+Vʔ → Vː[+low falling tone] / _C
+
+{Vh,Vʔ} → Vː / _#
+
+a(ː)wẽ(ː) → a(ː)ma(ː)
+
+V[+nas] → aː[+high rising tone]
+
+∅ → Vː[+high rising tone] / C_# (“usually one of [/aː iː ʌ̃ː/ with this tone], the conditions are unclear”)
+
+iji → iː
+
+tsn → hst
+
+n → h / _st
+
+{n,r} → ∅ / _j
+
+t → ∅ / _{k,n}
+
+t → ∅ / n_
+
+j → ∅ / ts_
+
+∅ → i / C_R
+
+s → ∅ / #h_V
+
+ts → s / h_
+
+ks → ts / _V
+
+nh → hn
+
+ẽ(ː) õ(ː) → o(ː) ʌ̃(ː)
+
+r → l
+
+“Some additional changes seem to have taken place in one or more Cherokee dialects, affecting consonant clusters whose reconstructed identity is in most cases uncertain. Example correspondences include /hs ~ lh ~ thl/ (probably < */hsɹ/) or /ts ~ tl ~ thl/ (maybe < */tsɹ/?)”
+“[A] synchronic allophonic rule:”
+
+t ts k kʷ → d dz ɡ ɡʷ / _V
+37.1.2 Proto-Iroquoian to Proto-Northern Iroquoian
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+o(ː) u(ː) → a(ː) o(ː)
+
+iji(ː) → hi(ː) / {k,s}_ “(possibly after all non-glottal obstruents)”
+
+i → e / ! _hCC (“short only”)
+
+∅ → i(ː) / #_(C)(C)CVC(C)(C)#
+
+V → ”V / “in antepenultimate syllables, if the vowel of the penultimate syllable was short */a/ followed by a single non-glottal consonant”
+
+V → ”V / “in penultimate syllables not preceded by an accented antepenult”
+
+Vː → V[-long] / ! in U#
+
+”V → ”Vː / “in open penultimate syllables followed by a non-glottal consonant”
+
+h → ∅ / #_s
+
+n → ∅ / _ti
+
+t → ∅ / n_V
+37.1.2.1 Proto-Northern Iroquoian to Cayuga
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+∅ → a / w_j
+
+”V(C)(C)CaCV → V(C)”(C)CaCV / _#
+
+h → ∅ / _nh
+
+ʔ → ∅ / _nk(ʷ)
+
+n → t / _k(ʷ)
+
+ts → hs / V_ ! _{h,i,j,r}
+
+ts → s / ! _{h,i,j,r}
+
+ns → ts / _k(ʷ)
+
+V → Vː / _C[-glottal] “in even-numbered syllables when accented or immediately before the accent”
+
+“[A]ccented short vowels in odd-numbered penults lose their accent”
+“[W]ords with no accent acquire a new accent on the vowel of the last non-final even syllable of the word”
+
+Vʔ → ʔV / “in odd-numbered unaccented non-final syllables;” ! {ʔ,h}_
+
+j → ∅ / ts_
+
+h → ∅ / s_w
+
+r → n / _(h)j
+
+r → w / {o(ː),õ(ː)}_{a(ː),e(ː),ẽ(ː),i(ː)}
+
+r → j / {e(ː),ẽ(ː),i(ː)}_{a(ː),o(ː),õ(ː)}
+
+r → ∅ / VH_
+
+r → ∅ / _H
+
+r → ∅ / w_
+
+r → ∅ / V_V
+
+V1”V2 ”V1ːV2 → ”V1V2 ”V1[-long]V2
+
+e(ː) → ẽ / _ẽ(ː)
+
+o(ː) → õ / _õ(ː)
+
+”V0V0 → V0ː[-accent]
+
+R → ∅ / ʔ_#
+
+C → ∅ / {s,k}_#
+
+Ch → ∅ / _s#
+
+h → ∅ / Vː_#
+
+t → h / _t
+
+ths → tsh
+
+∅ → h / {t,k}_n
+37.1.2.1.1 Cayuga to Upper Cayuga
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+s → f / h_r
+
+ts → s / _(h)r
+
+“Allophonic changes:”
+
+s → ʃ / _{r,j}
+
+t k kʷ → d ɡ ɡʷ / _{V,R}
+37.1.2.1.2 Cayuga to Lower Cayuga
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+ts → t / _(h)r
+
+t → k / _j
+
+V → V[-voiced] / _h “(odd syllables only)”
+
+tʔ tsʔ kʔ kʷʔ → tʼ tsʼ kʼ kʷʼ
+
+“Allophonic changes:”
+
+s → ʃ / _{r,j}
+
+t k kʷ → d ɡ ɡʷ / _{V,R} ! _V[-voiced]
+37.1.2.2 Proto-Northern Iroquoian to Huron
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+s → ʃ / ! _{n,t,k(ʷ),w} “or when part of the affricate /ts/”
+
+ts → ʃ / _r
+
+ts → s / ! _{i,j}
+
+n → ∅ / t(h)_
+
+n → ∅ / _s
+
+n → ∅ / _i “(in pronominal prefixes only)”
+
+k → i / #_n
+
+k → ∅ / _n
+
+n hn sC → t th Ch / s_
+
+k → h / _{t,ts,s,ʃ}
+
+k → x / {#,R,ʔ,V}_{V,ʔ,R,#}
+
+kʷ → xʷ / V_V
+
+t → k / _(h)w
+
+t → ∅ / _k(ʷ)
+
+j → ∅ / ts_
+
+j → ∅ / #_V
+
+j → ∅ / V_{V,#}
+
+{r,w} → ∅ / _j
+
+w → ∅ / #_
+
+w → ∅ / _{r,#}
+
+h → ∅ / #_w
+
+∅ → k / s_(h)w
+
+∅ → a / CC_ʔ
+
+“Some known changes in dialects other than pre-Wyandot:”
+
+r → h / ʃ_
+
+t → k / _r
+37.1.2.2.1 Huron to Wyandot
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+Vː → ”V / in U#; “this change may have been present in Huron already”
+
+t → k / _j
+
+xʷ → w
+
+{ʔ,h} → ∅ / _nh
+
+n → t / _h
+
+h → ∅ / {t,ts,s,k}_
+
+Vh → Vː / _R
+
+∅ → w / {o(ː),õ(ː)}_V
+
+∅ → j / {e(ː),ẽ(ː),i(ː)}_V
+
+x → ∅ / _{i,j}
+
+x → e / #_r
+
+w j → m ɲ / between two vowels of unlike nasality
+
+j → ʒ / {#,ʔ,V}_V
+
+x → j / _V
+
+x → ∅
+
+k → ∅ / _#
+
+ẽ(ː) õ(ː) o(ː) → ɛ̃(ː) ɔ̃(ː) u(ː)
+
+n → ⁿd / _{V[-nas],r}
+
+n → ŋ / _{j,w}
+
+ɛ̃(ː) → ã(ː) / w_
+37.1.2.3 Proto-Northern Iroquoian to Onondaga
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+s → ʃ / ! n_ “or when part of the unit affricate /ts/”
+
+ts → hs / V_V ! _i
+
+ts → s / ! _{h,i,j}
+
+ns → ts / _k(ʷ)
+
+n → ∅ / _s
+
+”V(ː)(C)(C)Vː → V[-long](C)”(C)CV[-long] / _#
+
+ara → aː / “unaccented syllables only”
+
+jh → hj
+
+n → t / _k(ʷ)
+
+”V(C)(C)CaCV → V(C)”(C)CaCV / _#
+
+ʃ → s
+
+n → ∅ / h_r
+
+h → ∅ / w_j
+
+Vw → Vː / _{r,j}
+
+”V → ”Vː / _C(R)V
+
+hs → sh / C_
+
+hts → tsh / C_V
+
+V → Vː / _”C[-glottal](R)V{ː,H} in “even numbered syllables only”
+
+V → Vː / _KRV “in the second syllable of a word”
+
+V → V[+high tone] / _$”V
+
+a(ː) o(ː) õ(ː) → æ(ː) e(ː) ẽ(ː) / r_
+
+Vr → Vː / _C
+
+rV → Vː / C_
+
+r → j / {e(ː),ẽ(ː),i(ː)}_V
+
+r → w / {o(ː),õ(ː)}_V
+
+r → ∅
+
+h → ∅ / _sn
+
+h → ∅ / _{k,t,ts,s}#
+
+k → h / _k
+
+õ(ː) → ũ(ː)
+
+“Allophonic changes:”
+
+ts → tʃ / _{(h)i,(h)j}
+
+s → ʃ / _{hi,hj}
+
+t tʃ k(ʷ) → d dʒ ɡ(ʷ) / _{V,R}
+37.1.2.4 Proto-Northern Iroquoian to Proto-Mohawk-Oneida
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+ẽ(ː) õ(ː) → ʌ̃(ː) ũ(ː)
+
+ts → hs / V_{t,k(ʷ)}
+
+ts → s / ! _{h,i,j}
+
+ns → ts / _{t,k(ʷ)}
+
+n → ∅ / _s
+
+”V → ”Vː[+falling tone] / _{ʔ,hR}
+
+ʔ → ∅ / ”Vː[+falling tone]_C
+
+h → ∅ / ”Vː[+falling tone]_R
+
+h → ∅ / _#
+
+h → ∅ / #_w
+
+Vː → V / _(C)(C)(C)#
+
+CʔV0 → CV0ʔV0
+
+∅ → e / w_r (and “probably. . .in other environments”)
+37.1.2.4.1 Proto-Mohawk-Oneida to Mohawk
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+V0 → ∅ / ”VC(C)(C)V0ʔ_C(C)(C)#
+
+∅ → e / {tsh,s,n}_r
+
+w → ∅ / _jh
+
+h → ∅ / w_j
+
+jh → hj
+
+∅ → e / w_j
+
+∅ → e / n_k(ʷ)
+
+∅ → e / {t,k}_{r,n}
+
+∅ → e / {#,V}s_n
+
+∅ → e / t_w
+
+∅ → e / {#,V}s_w
+
+“Dialectal changes include:”
+
+— r → l
+
+— t → k / _j
+
+— k → t / _j
+
+— wə̃ → ũ / {h,s}_
+
+— j → ∅ / ts_
+
+— t → tʃ / _(h)j
+
+— wh → f
+
+“Allophonic changes:”
+
+— ts → tʃ / _{(h)i,(h)j}
+
+— t tʃ k(ʷ) → d dʒ ɡ(ʷ) / _{V,R}
+
+— s → ʃ / _(h)j
+
+— s → z / {#,V}_{V,R} ! R = j
+37.1.2.4.2 Proto-Mohawk-Oneida to Oneida
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+”Vː[-falling tone]CV → Vː”CV
+
+”V → ”Vː / _ʔ
+
+ʔ → ∅ / ”Vː_
+
+∅ → i / {V,t}n_k(ʷ)V
+
+ths → tsh
+
+hs → sh / _{n,w}
+
+h → ∅ / _Ch
+
+h → ∅ / k_{s,ts}
+
+h → ∅ / _{sk,st}
+
+h → ∅ / {st,tst}_
+
+h → ∅ / ts_r ! “in pre-pausal forms, see also below”
+
+{h,ʔ} → ∅ / _R “in post-tonic syllables”
+
+ʔ → h / _C “in post-tonic syllables”
+
+r → l
+
+”Vː[+falling tone] → ”V[-long -falling tone]
+
+Vː → V[-long] _”C(C)(C)V (“this change happens only in the Ontario dialect”)
+
+“In addition, a number of sound changes have applied to words only in the pre-pausal position. Most of these changes are characterized by the devoicing of one or more segments at the end of a word”
+
+— ∅ → e / C_{n,l}V(H)#
+
+— ∅ → o / C_wV(H)#
+
+— ∅ → i / C_jV(H)#
+
+— Vː[+falling tone]C(C)V(H) → V̊ː[+falling tone]C̊(C̊)V̊(H̊) / _#
+
+— CVː[+falling tone] → C̊V̊ː[+falling tone] / _#
+
+— CVʔ → C̊V̊ʔ̊ / _#
+
+— V[-long] → V̊ / R_#
+
+— OV[-long] → O̊V̊ / _#
+
+— jV → ∅ / Ci_(H)#
+
+— ʔ → h / _C#
+
+— R → R̊ / _#
+
+“Allophonic changes:”
+
+ts → tʃ / _{(h)i,(h)j}
+
+t tʃ k(ʷ) → d dʒ ɡ(ʷ) / _{V,R}
+
+s → ʃ / _(h)j
+
+s → z / {#,V}_{V,R}
+37.1.2.5 Proto-Northern Iroquoian to Seneca
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+ts → s / ! _{i,j}
+
+n → ∅ / _s
+
+j → ∅ / _ts
+
+V → Vː / _{t,k(ʷ),s,n,r,j,w} “in even penultimate syllables”
+
+“The inherited accent system is replaced by a new one, by which...
+— “the accent falls on the last nonfinal even short syllable of a word if this vowel is followed directly
+—— “by a single glottal consonant,
+—— “by /sn/ or /sw/,
+—— “by any two-consonant cluster that does not end in a resonant,
+—— “or by any three consonant cluster;
+— “failing that, the accent falls on the last non-final even short syllable that is followed by a non-final syllable such as that just described;
+— “failing that, a word has no accent.”
+
+a → æ / _ra(ː)
+
+a → e / _ro(ː)
+
+ã → ẽ / _rõː
+
+a(ː) → æ(ː) / r_
+
+h → ∅ / _{tk,nh,sC,C#}
+
+h → ∅ / #_w
+
+h → ∅ / w_j
+
+hw → ∅ / õ_
+
+w → ∅ / _{r,j}
+
+r → n / _(h)j
+
+r → ∅ / Vh_
+
+Vh → Vː / _{n,w,j}
+
+h → ∅ / V_V
+
+r → j / C[-glottal](h)_{o(ː),õ(ː)
+
+r → h / s_
+
+r → j / i(ː)_V
+
+r → w / {o(ː),õ(ː)}_V
+
+r → ∅
+
+o → oː / _{aː,æː}
+
+Vː → V / V_
+
+V1”V2 → ”V1V2
+
+a(ː) → ẽ(ː) / adjacent to a nasal vowel
+
+ẽ(ː) → e(ː) / _{e(ː),o(ː)
+
+ʔ → ∅ / _nk(ʷ)
+
+n → t / _k(ʷ)
+
+n → t / ʔ_#
+
+R → ∅ / _h
+
+C → ∅ / s_#
+
+C[-glottal] → ∅ / _s#
+
+k → ∅ / _hts
+
+t → h / _{n,t}
+
+t → ∅ / k_#
+
+{ths,tts} → tsh
+
+a(ː) æ(ː) → õ(ː) ẽ(ː) / n_
+
+a(ː) → õ(ː) / V[+nas]H_
+
+a(ː) → õ(ː) / V[+nas]({ʔ,s})w_
+
+ẽ(ː) õ(ː) → ɛ̃(ː) ɔ̃(ː)
+
+∅ → h / k_n
+
+“Allophonic changes:”
+
+— t k(ʷ) → d ɡ(ʷ) / _{V,R}
+
+— s → ʃ / _j
+
+— a e o → ə ɪ ʊ / C_{C,i[-long]}
+37.1.2.6 Proto-Northern Iroquoian to Tuscarora
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+ts → tʃ / _{h,i,j}
+
+ths → tʃ
+
+j → ∅ / tʃ_
+
+t → ˀt
+
+”V → ”Vː / _n in “penultimate syllables only”
+
+n → t / ! _{h,kʷ,V[+nas]}
+
+”V → ”Vː / _{k(ʷ),(ˀ)t}{s,R,H} (“penultimate syllables only”)
+
+”V → ”Vː / _RR
+
+{ẽ(ː),õ(ː)} → ə̃(ː)
+
+ts → θ
+
+ˀt → tʔ / _ˀt
+
+ˀt → ∅ / _t
+
+ˀt → ʔ / _r
+
+ˀt → ʔn / V_{V,w,j}
+
+ˀt → n / {#,C}_{V,w,j}
+
+ˀt → t
+
+h → ∅ / _nh
+
+h → ∅ / #_w
+
+h → ∅ / k_{s,ts,tʃ}
+
+h → ∅ / Vː_#
+
+w → ∅ / _jh
+
+n → t / _kʷ
+
+∅ → t / hs_r
+
+∅ → j / k_e(ː)
+
+r becomes a trill
+
+e(ː) → ɛ(ː)
+
+ə̃(ː) → ɨ̃(ː) / ! “when both short and stressed”
+
+a(ː) o(ː) → ɔ(ː) u(ː) / ! “when both short and unstressed”
+
+t k(ʷ) → d ɡ(ʷ) / _{V,R}
+
+n r w j → n̥ r̥ w̥ j̊ / _{#,O}
+37.1.2.6.1 Tuscarora to Western Tuscarora
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+θ → s
+
+w → ∅ / _j
+
+jʔ → ʔj
+
+r̥ w̥ j̊ → s f ʃ
+37.1.2.6.2 Tuscarora to Eastern Tuscarora
+
+cedh audmanh, from Julian, Charles (2010), “A History of the Iroquoian Languages”, University of Manitoba, Winnipeg
+
+r → ∅ / st_
+
+ə̃(ː) a(ː) o(ː) → ɨ̃(ː) ɔ(ː) u(ː) (“in all positions”)
+37.2 Proto-Siouan-Iroquoian to Proto-Siouan
+
+Pogostick Man, from Chafe, Wallace L. (1964), “Another Look at Siouan and Iroquoian”. American Anthropologist New Series, 66:852 – 862; and from cedh aumdmanh’s Iroquoian changes
+
+ẽ õ → ı̃ ũ
+
+{t,h} → ∅ / s_
+
+h → ∅ / V_C
+
+s → ∅ / h_
+
+θ → r
+
+ʔ → ∅ / V_
+
+x → ç / _{i,u}
+
+Also, apparently /tʲ/ got picked up and added to the phonology somewhere along the line, but the circumstances are unclear
+37.2.1 Proto-Siouan to Catawba
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text. Changes appended with an asterisk are putative; there was a seeming lack of material for this language, so I’ve attempted to do some tracking work from the examples given in the text.
+
+ç x → x ʃ
+
+p → {p,b,m,w} / _C
+
+p → b / V_V (*)
+
+tʲ → ʃ / in ”U
+
+tʲ → ʒ / else
+
+t → ∅ / _k, when medial
+
+”V[+nas] → Vn (*)
+
+∅ → ʔ / C_# (only sometimes?) (*)
+37.2.2 Proto-Siouan to Dakota
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+ç x → x {ʃ,ʒ}
+
+p → {p,b,m,w}
+
+tʲ → ʃ / in ”U
+
+tʲ → ʒ / else
+
+s → z / in U[-stress]
+
+s → z / V_V
+
+r → d / s_
+
+tʲr → {st,ʃt}
+
+r → d / x_
+
+mn → mV0nV0 / #_
+
+km → kV0mV0
+
+w → p / _t
+
+t → ∅ / _k, when medial
+
+hk →tʃ
+
+k → ∅ / _x”V
+
+x → ʔ / ”Vk_
+37.2.2.1 Dakota to Santee Dakota
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels.
+
+{pr,mt} → md
+
+kr → hd / #_
+
+kr → ɡj / medial
+37.2.2.2 Dakota to Teton Dakota
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels.
+
+{pr,mt} kr → bl ɡl
+37.2.2.3 Dakota to Yankton Dakota
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels.
+
+r → d / k_
+37.2.3 Proto-Siouan to Mandan
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/.
+
+s → ʃ
+
+t → ∅ / _s
+
+ç → x
+
+w → m
+
+Lʲ → n / _V[+nas]
+
+L → r / _V[-nas]
+
+ã → a / in ”U (sporadic)
+
+“Phonemic vowel length was gained somehow.”
+
+tʲ → s / _ʔV
+
+CʔV0 → CV0ʔV0
+
+tʲr → sV0rV0
+
+r → ∅ / k_
+
+mn → mV0nV0 / #_
+
+mn → mV0nV0 / {C,V}_{C,V}
+
+sn → {ʃV0nV0,sV0rV0}
+
+km → kV0pV0
+
+t → ∅ / _k, when medial
+
+sk → ʃ / _”V
+37.2.4 Proto-Siouan to Proto-Čiwere-Winnebago
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+ç x → x {ʃ,ʒ}
+
+p → {p,b,m,w}
+
+w → ∅ / _t
+
+t → tʃ / _”E
+
+t → dʒ / _E[-stress]
+
+tʲ → ʃ / in ”U
+
+tʲ s → ʒ z / in U[-stress]
+
+k → ɡ / V[+nas]_ ! _#
+
+k → ɡ / _ʔ
+
+kr → kV0rV0
+
+m → ∅ / _n ! _n#
+37.2.4.1 Proto-Čiwere-Winnebago to Čiwere
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+p → w / V_V
+
+ɡ → ŋ
+
+k → ɡ / ”V_
+
+s z → θ ð (sporadic)
+
+L → l
+
+Lʲ → n / _V[+nas]
+
+Lʲ → r / _V[-nas]
+
+t → tʃ / _ʔ
+
+pr → bl
+
+sr → {θl,ʃl}
+
+tʲr → ʃV0rV0
+
+kr → ɡl
+
+r → l / x_
+
+k → h / _m
+
+k → ∅ / #t_
+
+tk → ɡ / when medial
+
+x → ∅ / _k
+
+x → ∅ / k_”V
+37.2.4.2 Proto-Čiwere-Winnebago to Winnebago
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+V → ∅ / _#
+
+p → b / V_V
+
+t → {tʃ,dʒ}
+
+Wolff says that “Winnebago preserved the intermediate stages of *k reflexes”
+
+L → r
+
+Lʲ → n / _V[+nas]
+
+Lʲ → r / _V[-nas]
+
+tʲ → x / _ʔ
+
+pr {sr,xr} sn km → pV0rV0 ʃV0rV0 sV0nV0 kV0wV0
+
+mt → r
+
+tk → {tʃk,tʃɡ} / #_
+
+t → ∅ / _k, when medial
+
+xk → ɡ
+37.2.5 Proto-Siouan to Proto-Crow-Hidatsa
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/.
+
+s ç {tʲ,x} → ts x ʃ
+
+m → w (Crow seems to have gained a phonemic /m/ after this, however)
+
+L(ʲ) → r
+
+ã ı̃ ũ → a i u
+
+Phonemic vowel length was gained somehow.
+
+wt → wV0tV0
+
+t → ∅ / _k, when medial
+37.2.5.1 Proto-Crow-Hidatsa to Crow
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels.
+
+t → ʃ / _E
+
+t → s / _V
+
+k → ts / _i
+
+n → r / ! at word boundaries
+
+t → ʃ / _ʔ
+
+ʔ → ∅ / _C
+
+sk → tsk / _”V
+
+x → ∅ / k_”V
+37.2.5.2 Proto-Crow-Hidatsa to Hidatsa
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels.
+
+n → r
+
+ʔ → ∅ / C_
+
+kr → kV0rV0 / #_
+
+r → ∅ / {C,V}k_{C,V}
+
+mn → w / {C,V}_{C,V}
+
+sn → tsV0rV0
+
+km → hp
+
+sk → tsuk / _”u
+
+sk kx → tsk hk / _”V
+
+sk → hts / ”V_
+
+∅ → V / x_k
+37.2.6 Proto-Siouan to Proto-Dhegiha
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+w → ∅ / _t
+
+t tʲ s → d ʒ z / in U[-stress]
+
+tʲ → ʃ / in ”U
+
+k → ɡ / ”V_
+
+s → z / V_V
+
+L Lʲ → {ð,j} ʒ / _”V
+
+L → d / ”V_
+
+w → β (sporadic, allophonic)
+
+u → i / in ”U (sporadic)
+
+k → ∅ #t_ (in morphemes)
+
+tk → ɡ / when medial
+37.2.6.1 Proto-Dhegiha to Kansa
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text. Changes appended with an asterisk are putative; there was a seeming lack of material for this language, so I’ve attempted to do some tracking work from the examples given in the text.
+
+V[+nas] → V[-nas]n
+
+p → {p,b,m,w} / _C
+
+w → b / #_
+
+r L(ʲ) → d j / #_ (*)
+
+L → bl / #_e (*)
+
+V → V[+nas] / N_
+
+N → S / V_V
+
+ũ → aN / stressed
+
+t → ts / _ʔ
+
+tʲr kr → ʃt l
+
+mn → bl / {C,V}_{C,V}
+
+mt → d
+37.2.6.2 Proto-Dhegiha to Omaha-Ponca
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/.
+
+p → b / V_V
+
+n → θ / _{ã,ẽ,õ}
+
+w → m / #_
+
+L → θ / _”V
+
+d → n / ”V_
+
+Lʲ → {θ,n} / _V[+nas -stress]
+
+ũ → ã / stressed
+
+k → ∅ / _ʔ
+
+pr sr tʲr kr → bθ sn ʃn ɡθ
+
+mn → mV0nV0 / #_
+
+mn → bθ / {C,V}_{C,V}
+
+mt → n
+37.2.6.3 Proto-Dhegiha to Osage
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/.
+
+p → {p,b,m,w} / _C
+
+t → ts / _E
+
+s → θ
+
+{ç,x} → z (sporadic)
+
+n → ð / _{ã,ẽ,õ}
+
+w → b / #_
+
+Lʲ → ð / _V[+nas -stress]
+
+ʔ → ∅ / p_
+
+t → ts / _ʔ
+
+pr sr tʲr kr → bð sts ʃd ɡð
+
+r → ð / x_
+
+m → ∅ / #_n
+
+mn → bð / {C,V}_{C,V}
+
+sn mt → hn d
+
+ʃ → s / ”V_k
+
+xk → (ʃ)k / _”V
+
+xk → ɡ / ”V_
+
+x → ʔ / k_”V
+37.2.6.4 Proto-Dhegiha to Quapaw
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text. Changes appended with an asterisk are putative; there was a seeming lack of material for this language, so I’ve attempted to do some tracking work from the examples given in the text.
+
+p → {p,b,m,w} / _C
+
+tʲ → ʃ
+
+L → d / #_
+
+x → ʒ (*)
+
+Lʲ → j / #_õ (*)
+
+Lʲ → t / #_ã (*)
+
+ã → õ (*)
+
+ũ → ã / stressed (*)
+
+m → ∅ / #_n (in morphemes) (*)
+37.2.7 Proto-Siouan to Proto-Ohio-Valley
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+tʲ Lʲ → tʃ j
+
+m → ∅ / {C,V}_n{C,V}
+
+{w,m} → ∅ / _t
+37.2.7.1 Proto-Ohio-Valley to Biloxi
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+p → w / V_V, apparently as a result of some dissimilation, as this appears to be an allophone of /p/ here, IIUC
+
+w → ∅ / #_ (sporadic)
+
+m → w / #_
+
+L → d
+
+ã → an (sporadic)
+
+ʔ → ∅ / C_
+
+r → {d,n}
+
+m → ∅ / #_n
+
+k → ∅ / #t_
+
+k → ∅ / ”Vs_
+
+k → ∅ / _x”V
+
+kx → xk / ”V_
+37.2.7.2 Proto-Ohio-Valley to Ofo
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text.
+
+p → {p,b,m,w} / _C
+
+s {ç,x} → f s
+
+w → ∅ / #_ (sporadic)
+
+m → w / #_
+
+L j → t tʃ
+
+ã → {an,õ}
+
+ʔ → ∅ / C_
+
+sr kr → ft kV0lV0
+
+m → ∅ / #_n
+
+∅ → V / k_m
+
+k → ∅ / #t_
+
+sk → f / ”V_
+
+x → s / _k
+
+kx → sk / ”V_
+
+kx → s
+37.2.7.3 Proto-Ohio-Valley to Tutelo
+
+Pogostick Man, from Wolff, Hans (1950), “Comparative Siouan I”. International Journal of American Linguistics 16(2):61 – 66; Wolff, Hans (1950), “Comparative Siouan II” International Journal of American Linguistics 16(3):113 – 121; Wolff, Hans (1950), “Comparative Siouan III”. International Journal of American Linguistics 16(4):168 – 178; and cedh audmanh’s changes above, which assisted me in deciphering the vintage phonetic transcription scheme
+
+NB: Does not include developments in unstressed non-nasal vowels. L was apparently either /ɹ/ or /l/; Lʲ (Lʸ in the text) was apparently /j/, or maybe /ʎ/. Also, the changes of /p/ before a consonant are unclear, as described within the text. Changes appended with an asterisk are putative; there was a seeming lack of material for this language, so I’ve attempted to do some tracking work from the examples given in the text.
+
+p → {p,b,m,w} / _C
+
+L → l
+
+k → ᵑk / _ʔ
+
+ʔ → ∅ / C_
+
+mn → mV0nV0 / #_ (in morphemes)
+
+sn → sV0nV0
+
+∅ → V / k_m
+
+s → ʃ / ”V_k 
+

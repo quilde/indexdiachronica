@@ -1,0 +1,49 @@
+
+19.1 Proto-Kartvelian to Georgian
+
+Pogostick Man, from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Kartvelian_languages&oldid=580201868>
+
+q → x
+
+{ɬ,ʂ} → s
+
+ʈʂ {ʈʂʼ,tɬʼ} → ts tsʼ
+
+ɖʐ → dz
+
+ʐ → z
+
+w → v
+19.2 Proto-Kartvellian to Svan
+
+Pogostick Man, from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Kartvelian_languages&oldid=580201868>
+
+k kʼ → {k,tʃ} {kʼ,tʃʼ}
+
+ɡ → {ɡ,dʒ}
+
+ɬ ʃ ʂ → l {sɡ,ʃɡ} ʃ
+
+tʃ ʈʂ tɬʼ tʃʼ ʈʂʼ → {tʃk,ʃɡ} tʃ h {ʃkʼ,tʃʼkʼ} tʃʼ
+
+dz dʒ ɖʐ → {dz,z} {dʒɡ,sɡ} {dʒ,ʒ}
+
+ʐ → ʒ
+19.3 Proto-Kartvelian to Zan
+
+Pogostick Man, from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Kartvelian_languages&oldid=580201868>
+
+ɛ ɑ → ɑ ɔ
+
+q qʼ → x {kʼ,qʼ,ʔ}
+
+ɬ ʃ ʂ → ∅ {sk,ʃk} ʃ
+
+tʃ ʈʂ {tɬʼ,ʈʂʼ} tʃʼʼ → tʃk tʃ tʃʼ {tsʼkʼ,tʃʼkʼ}
+
+dʒ ɖʐ → {dʒɡ,dzɡ} dʒ
+
+ʐ → ʒ
+
+w → v 
+

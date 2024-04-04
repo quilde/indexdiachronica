@@ -1,0 +1,73 @@
+
+47 Most-Wanted Sound Changes
+
+This section replicates the “Most wanted sound changes” article from Knee Quickie. It is presented mostly as it was found with the following modifications:
+
+    The formatting rules are not adhered to any longer due to the format, and the preamble (and table of contents) are omitted.
+    Some liberty has been taken with the presentation of the *f → p change in Afro-Asiatic.
+    Bullets are no longer present.
+    Some corrections have been made (e.g., to the conditioning of the Ōkami change of *t → k).
+    Instead of footnotes, sources (where cited) are listed next to the relevant entries.
+    Some URLs have been shortened using http://is.gd due to potential conflict with the way LaTeX handles the 〈%〉 character.
+    Subsection 4 is specifically listed as being “empty as of yet” for aesthetic purposes.
+    Wikipedia URLs have been changed to https://. 
+
+47.1 List 1: Simple Consonant Changes
+
+w → p (Navajo, some Polynesian languages)
+
+kʲ ɡʲ → k ɡ (Danish)
+
+ś → k (Possibly unconditional; some Samoyedic langs)
+
+pʲ → kʲ (some Romanian dialects, Tsakonian)
+
+ts → t (unconditional; some Samoyedic langs)
+
+t → k (general Polynesian)
+
+n → ŋ (Samoan, but only in colloquial speech)
+
+j → p (some Polynesian languages, such as Levei and Drehet) (https://en.wikipedia.org/wiki/Proto-Austronesian_language)
+
+b → #c, -nc- (Sundanese)
+
+ŋ → {x,h} (various Mayan languages)
+
+h → ŋ (Nyole)
+
+ʕ → ŋ (allegedly in European Hebrew, both Sephardic and Ashkenazi, but possibly not a sound change so much as a substitution) (https://en.wikipedia.org/wiki/Hebrew_language#Varieties_of_ayin, http://sites.google.com/site/londonsephardiminhag/pronunciation, http://www.forward.com/articles/105938/)
+
+f → p (? claimed to have occurred independently in Proto-Semitic and Proto-Omotic, and to a limited extent in Egyptian (but this may be related to the Semitic change); note that the Wikipedia article is cited to a single source and that source is admittedly theoretical, and acknowledges on page 77 another reconstruction that doesn’t believe Proto-Afro-Asiatic had /f/ at all) (Page 77 of http://is.gd/WNyXdn, https://en.wikipedia.org/wiki/Proto-Afro-Asiatic_language)
+
+tš → t (general Baltic-Finnic; may not be unconditional but was certainly the most common outcome)
+
+r → ɡʟ → ɣ (Hiw) (http://is.gd/jCDLO1)
+
+mb nd → ʙ dr (Nias)
+47.2 List 2: Conditional or complex consonant changes
+
+Western and Eastern Armenian often have swapped voicing in stop consonants: e.g. vardapet vs. vartabed. This is a result of changes related to aspiration.
+
+w → f (Common Celtic; I’m not sure of the conditions)
+
+m → n / _i (Tsakonian)
+
+{t,k} → ∅ / V_V (Marathi) probably with voiced stops as intermediates, since they also became silent
+
+p → w / V_V (Marathi)
+
+b d ɡ → bː dː ɡː / V_V (some dialects of Italian; there may be more to it than this, since words like “repubblica” are in standard Italian and not just dialects)
+
+t → k / _s̩ (Ōgami) (NB: The article doesn’t have an underscore indicating whether this occurs before or after the /s̩/, but the linked page indicates where this change occurred) (http://amritas.com/101023.htm#10192359)
+
+n → i / _s and sometimes other fricatives (Montana Salish)
+47.3 List 3: Vowels
+
+y → u (some mainland Greek dialects, and Tsakonian; this particular sound change has been said in some places to be impossible) (https://en.wikipedia.org/wiki/Tsakonian_language#Consonants)
+
+i u → s̩ f̩ (Ōgami) (http://amritas.com/101023.htm#10192359)
+47.4 List 4: Other
+
+This section is empty as of yet. 
+

@@ -1,0 +1,71 @@
+
+45 Yuman-Cochimı́
+45.1 Pai
+45.1.1 Proto-Pai to Chapai
+
+Pogostick Man, from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials
+
+tʃ → ʃ / _{w,i}
+
+tʃ → ∅ / _xʷ
+
+tʃ → s
+
+t → tʃ / ! n_
+
+kʷ → k / _#
+
+b → p
+
+o → u
+
+s → ʂ
+
+ʔ → ∅ / _{ɲ,j}
+
+{w,j} → ∅ / a_
+
+Vː → V ?
+
+Stress lost?
+45.1.2 Proto-Pai to Paipai
+
+Pogostick Man, from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials
+
+b → β
+
+xʷ → w / tʃ_
+
+kʷ xʷ → k x / _#
+
+ʃ ɬ → ʂ l
+
+i → ə / unstressed
+
+n → ∅ / _t
+
+ʔ → ∅ / _ɲ
+
+aw aj → o e
+45.1.3 Proto-Pai to Tipai
+
+Pogostick Man, from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials
+
+kʷ xʷ → q χ / _# (the paper calls these “back velars”)
+
+b → p
+
+i → ə / unstressed
+
+u → o / _K
+
+t → ∅ / n_
+
+tʃ → ∅ / _xʷ
+
+ɲj → n ∅ / ʔ_
+
+Vː → V (sporadic? conditioned?)
+
+Contrastive stress lost? 
+

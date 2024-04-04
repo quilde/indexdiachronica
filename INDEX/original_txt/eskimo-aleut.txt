@@ -1,0 +1,422 @@
+
+15.1 Proto-Eskimo-Aleut to Proto-Aleut
+
+Pogostick Man, from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216
+
+a → i / i_
+
+u → a / a_
+
+p → h / #_
+
+v → m / medial
+
+v → w / a_a (in eastern dialects)
+
+{t,ð} → n / _#
+
+ð → t / else
+
+∅ → t / #_s
+
+z → s / #_
+
+z → ð / medial
+
+l̥ → l
+
+m → w / #_
+
+n → t / #_ (except, maybe, “in exclamations”)
+
+dʒ → ð / i_ (in eastern and central dialects)
+
+dʒ → ð / u_a (in eastern dialects)
+
+i →∅ / #_{z,dʒ}
+
+ə → ∅ / #_, “under certain conditions not yet discovered”
+
+Deletion of medial vowels as per stress rules, “mostly affecting vowels before the accented syllable”
+
+nV1nV2 → nV2nV2
+15.2 Proto-Eskimo-Aleut to Proto-Eskimo
+
+Pogostick Man, from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216
+
+ð z → t s
+
+ɣ ʁ → k q / #_
+
+ə → ∅ / t_, “in certain positions”
+15.2.1 Proto-Eskimo to Barrow Iñupiaq
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+l̥ → l / medial
+
+t → s / i_
+
+ə → i / at word boundaries
+
+ə → u / u_
+
+ə → a / a_
+
+ə → ∅ / else
+
+ɣ ʁ → k q / _#
+
+C0VC0 → C0ː
+
+Regressive MOA assimilation and progressive voicing assimilation in consonant clusters (at least, when C2 is either /l/ or /l̥/)
+
+m n ŋ → v t ɣ / _C[-nasal]
+
+l̥ → t / _C
+
+v → p / _s
+
+v ʁ → p q / S_
+
+v ɣ ʁ → p k q / _C (unless C = one of /l dʒ m n ŋ)
+
+{p,v} t {k,ɣ} → m n ŋ / _N
+
+v → ∅ / u_i
+
+dʒ → ʁ / i_u
+
+ədʒ → i / _{a,u} (except in #U)
+
+adʒ → i / _a (except in #U?)
+15.2.2 Proto-Eskimo to Greenlandic Iñupiaq
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+ə → u / u_
+
+ə → a / a_
+
+Cː → C / except when CV_V in U1U2
+
+t → s / i_
+
+ə → i / else
+
+dʒ → tʃ → s / “in certain positions” (except for Thule Greenlandic, where dʒ → tʃ and stayed there, apparently)
+
+m n ŋ t {{ɣ,ʁ} → {k,q}} → p t k n ŋ / _#
+
+m n ŋ → v t ɣ / _C[-nasal]
+
+l̥ → ʁ / _C
+
+v ʁ → p q / S_
+
+v ɣ ʁ → p k q / _C (except where C = /l dʒ m n ŋ/)
+
+{p,v} t {k,ɣ} → m n ŋ / _N
+
+S1S2 → F1F2
+
+Some metathesis in consonant clusters, the conditions of which are not elaborated upon; the given example cited within the text is lʁ → ʁl
+
+v → ∅ / u_a
+
+iv → uj / _u
+
+dʒ → tʃ / i_{u,i}
+
+ədʒ → i / _{a,u} (except in #U)
+
+adʒ → i / _a (except in #U?)
+15.2.3 Proto-Eskimo to Mackenzie Iñupiaq
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+ə → u / u_
+
+ə → a / a_
+
+ə → i / else
+
+ɣ ʁ → k q / _#
+
+C0VC0 → Cː
+
+Regressive MOA assimilation and progressive voicing assimilation in consonant clusters, at least when C2 is either /l/ or /l̥/
+
+m n ŋ → v t ɣ / _C[-nasal]
+
+l̥ → t / _C
+
+v → p / _s
+
+v ʁ → p q / S_
+
+{p,v} t {k,ɣ} → m n ŋ / _N
+
+v → ∅ / u_i
+
+ədʒ → i / _{a,u} (except in #U)
+
+adʒ → i / _a (except in #U?)
+15.2.4 Proto-Eskimo to Wales Iñupiaq
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+ə → u / u_
+
+ə → a / a_
+
+ə → i / else
+
+v → u
+
+ɣ → u / “in some positions”
+
+p k q s → v ɣ ʁ z / V_V
+
+ɣ ʁ → k q / _#
+
+Regressive MOA assimilation and progressive voicing assimilation in consonant clusters, at least where C2 is either /l/ or /l̥/
+
+m n ŋ → v t ɣ / _C[+nasal]
+
+l̥ → t / C_
+
+v → p / _s
+
+v ʁ → p q / S_
+
+v ɣ ʁ → p k q / _C (except if C = /l dʒ m n ŋ/)
+
+{p,v} t {k,ɣ} → m n ŋ / _N
+
+v → u / V_V
+
+v → ∅ / u_V
+
+v → ∅ / V_u
+
+dʒ → ʁ / i_u
+
+ədʒ → i / _{a,u} (except in #U)
+
+adʒ → i / _a (except in #U?)
+
+ɣ → ∅ / V_u
+
+ɣ → ∅ / u_V
+
+ɣ → u / {i,ə}_V
+15.2.5 Proto-Eskimo to Kuskokwim Yup’ik
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+Cː → C
+
+C → Cː / _V(…V) except in #U
+
+S → ∅ / #_F
+
+s → ts / in certain situations?
+
+C[+voice] → C[-voice] / adjacent to {S,s,l̥}
+
+ɣ ʁ → k q / _#
+
+ə → a / _#
+
+ə → ∅
+
+i → ∅ / #C[+dental]_C[+dental]V
+
+F[+voice] → F[-voice] / adjacent to {S,ts}
+
+F[+voice] → S[+same POA] / l̥_
+
+t → s / _{k,q}
+
+i a u → ii aa uu / C_ in U[+open -initial -final] such that U[+open]_
+
+ə → i / u_
+
+v → ∅ / u[+short]_V[+short]
+
+v → ∅ / V[+short]_u[+short]
+
+u → ∅ / #_vV
+
+iv → j / #_u
+
+s → dʒ / {i,u}_V
+
+dʒ → ∅ / i_i
+
+ə → ∅ / _dʒ{a,u}, except in #U
+
+a → ∅ / _dʒa, except in #U
+
+in → dʒ / _u (possibly only word-initially?)
+15.2.6 Proto-Eskimo to Nunivak Yup’ik
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+Cː → C
+
+C → Cː / _V(…V) except in #U
+
+S → ∅ / #_F
+
+s → ts / in certain situations?
+
+C[+voice] → C[-voice] / adjacent to {S,s,l̥}
+
+ɣ ʁ → x χ / _#
+
+ə → a / _#
+
+ə → ∅
+
+i → ∅ / #C[+dental]_C[+dental]V
+
+a → ∅ / C[+velar]_C[+velar]
+
+Regressive MOA and voicing assimilation in consonant clusters, at least when C2 is either /l/ or /l̥/
+
+v ʁ → f χ / S_
+
+F[+voice] → F[-voice] / adjacent to {S,ts}
+
+F[+voice] → S / l̥_
+
+t → s / _{k,q}
+
+i a u → ii aa uu / C_ in U[+open -initial -final] such that U[+open]_
+
+ə → i / {u,a}_ (though aə seems to have become i in some circumstances)
+
+v → ∅ / u[+short]_V[+short]
+
+v → ∅ / V[+short]_u[+short]
+
+u → ∅ / #_vV
+
+iv → j / #_u
+
+s → dʒ / {i,u}_V
+
+dʒ → ∅ / i_i
+
+ə → ∅ / _dʒ{a,u} except in #U
+
+a → ∅ / _dʒa (except in #U?)
+
+in → dʒ / _u (possibly only word-initially?)
+15.2.7 Proto-Eskimo to Siberian Yup’ik
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+Cː → C
+
+S → ∅ / #_F
+
+s → ts → tʃ / in some dialects?
+
+C[+voice] → C[-voice] / next to {S,s,l̥}
+
+ɣ ʁ → k q / _#
+
+ə → a /
+
+ə → ∅ / #_
+
+i → ∅ / #C[+dental]_C[+dental]V
+
+a → ∅ / C[+velar]_C[+velar]
+
+F[+voice] → F[-voice] / adjacent to {S,ts}
+
+F[+voice] → S / l̥_
+
+∅→ n / #_iN (This one is sort of a guess, given a singular example in the text that isn’t really commented upon)
+
+t → s / _{k,q}
+
+u → a / a_
+
+ə → i / {u,a}_
+
+v → ∅ / u[+short]_V[+short]
+
+v → ∅ / V[+short]_u[+short]
+
+u → ∅ / #_vV
+
+iv → j / #_u
+
+s → dʒ / {i,u}_V
+
+dʒ → ∅ / i_i
+
+ə → ∅ / _dʒ{a,u} except in #U
+
+a → ∅ / _dʒa (except in #U?)
+
+in → dʒ / _u (possibly only word-initially?)
+15.2.8 Proto-Eskimo to Unaaliq Yup’ik
+
+Pogostick Man, from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171
+
+Cː → C
+
+C → Cː / _V(…V), after #U
+
+S → ∅ / #_F
+
+s → ts / in certain situations?
+
+C[+voice] → C[-voice] / next to {S,s,l̥}
+
+ɣ ʁ → k q / _#
+
+ə → a / _#
+
+ə → ∅ / #_
+
+i → ∅ / #C[+dental]_C[+dental]V
+
+a → ∅ / C[+velar]_C[+velar]
+
+v → ft / _s
+
+F[+voice] → F[-voice] / adjacent to {S,ts}
+
+F[+voice] → S / l̥_
+
+t → s / _{k,q}
+
+i a u → ii aa uu / C_ in U[+open -initial -final] such that U[+open]_
+
+ə → i / {u,a}_ (though aə seems to have become i in some circumstances)
+
+v → ∅ / u[+short]_V[+short]
+
+v → ∅ / V[+short]_u[+short]
+
+u → ∅ / #_vV
+
+iv → j / #_u
+
+dʒ → ∅ / i_i
+
+ə → ∅ / _dʒ{a,u} except in #U
+
+a → ∅ / _dʒa (except in #U?)
+
+s → dʒ / {i,u}_V
+
+in → dʒ / _u (possibly only word-initially?) 
+

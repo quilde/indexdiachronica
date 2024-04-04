@@ -1,0 +1,507 @@
+
+12.1 Proto-Northwest Caucasian to Proto-Abazgi
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Proto-Northwest_Caucasian_language&oldid=596995618>, presumably citing Starostin, Sergei A. and Sergei L. Nikolayev (1994), A North Caucasian Etymological Dictionary
+
+{pʷ,pʲ} {p(ʲ)ː,bˤ} bʷ pʷʲ bʷʲ → p b f tsʲ dzʲ
+
+mˤ → m
+
+rʲ → r
+
+tʷː tʷʲ(ʼ) → d(w) tʷ(ʼ)
+
+tsʲː → dzʲ (marked as dubious in the source)
+
+sʷʲ zʲ → sʲ z
+
+tsʷː tsʷʲ → tsʷ (tʃ)
+
+zʷʲ tsʷʲʼ dzʷʲ → dzʲ~zʲ tʃʼ dʒ~ʒ
+
+tʃ(ʼ) dʒ → tsʲ(ʼ) dzʲ
+
+ʃ(~ʃː) ʒ → sʲ sʲ
+
+tɕː → dzʲ(~tɕ)
+
+ɕ(ː) ʑ → ʃ ʒ (the change of singleton *ɕ to ʃ is marked as dubious)
+
+tʃʷ(ʼ) tʃʷː dʒʷ → tʃ(ʼ) zʷ dzʷ~zʷ
+
+ʃʷ ʃʷː ʒʷ → sʷ ʃ zʲ (this final change is marked as dubious)
+
+tɕʷ(ʼ) tɕʷː → tʃ(ʼ) dʒ~ʒ
+
+ɕʷ ɕʷː ʑʷ → ʃʷ ʃ ʒʷ
+
+tɬ tɬː tɬʼ dɮ → x ts {x,tsʼ} l
+
+ɬː → x
+
+tɬʲ tɬʲʼ dɮʲ → xʲ ɕ ɣʲ
+
+ɬʲ(~ɬʲʷː) ɮʲ → ɕ ʑ
+
+lʲ → r / #_
+
+lʲ → l~ɣʲ
+
+tɬʷ(ː) tɬʼ dɮʷ → tsʷ tsʼ(ʷ) l
+
+ɬʷ(ː) → ʃ
+
+tɬʷʲ tɬʷʲː tɬʷʲʼ dɮʷʲ → tʃʷ ʒʷ tʃʷʼ dʒʷ
+
+ɬʷʲ(~ɬʷː) → ʃ
+
+ɮʷʲ → ʒ
+
+kʷː → ɡʷ
+
+kʷʲʼ → kʷʼ
+
+xʷʲ ɣʷʲ → sʷ zʷ (*ɣʷʲ is marked as dubious)
+
+q qː ɢ → (ħ) q ɣ (*ɢ is marked as *G in the document)
+
+χ(ʲ) ʁ(ʲ) → ħ ʕ
+
+qʲː ɢʲ → q ɣʲ
+
+qʷ qʷː ɢʷ → ħʷ qʷ ɣʷ
+
+χʷ ʁʷ → ħʷ ʕʷ
+
+qʷʲ ɢʷʰ → ħ(ʷ) ɣ(ʷ)
+
+qʷʲʼ → ʕʷ (qʷʼ?)
+
+χʷʲ ʁʷʲ → ħ(ʷ) ʕ(ʷ)
+
+qˤː qˤʼ → ʕ ħ (this latter is marked as dubious)
+
+ʁʕ → ʕ
+
+qˤʲ qˤʲː qˤʲʼ → q ʔ ħ(?)
+
+χˤʲ ʁˤʲ → ħ ʕ
+
+qˤʷ qˤʷː qˤʷʼ χˤʷ ʁˤʷ → ħʷ ʕʷ qʷ(ʼ) ħʷ (ħʷ?)
+
+qˤʷʲ qˤʷʲ qˤʷʲʼ ʁˤʷʲ → qʷ ʕʷ ħʷ ʕʷ
+12.1.1 Proto-Abazgi to Ashkharywa Abaza
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ(ʼ) tɕ(ʼ) dʒʷ dʑ → f(ʼ) ts(ʼ) v dz
+
+ɕ ʑ → s z
+
+”Vʕ ʕ”V → ”aa a”a (but stays /ʕ/ sometimes?)
+
+ʕʷ → ɥ
+
+tʷ(ʼ) dʷ → {tʷ(ʼ),p(ʼ)} {dʷ,b}
+12.1.2 Proto-Abazgi to Tapanta Abaza
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+{tʃʷ(ʼ),tɕ} {dʒʷ,dʑ} → ts(ʼ) dz
+
+tɕʷ(ʼ) dʑʷ → {tɕ(ʷ)(ʼ),tʃʷ(ʼ)} {dʑ(ʷ),dʒʷ}
+
+ɕ ʑ → s z
+
+ʃʷ ʒʷ ɕʷ ʑʷ → {ɕ(ʷ),ʃ(ʷ)} {ʑ(ʷ),ʒ(ʷ)} {ɕ(ʷ),ʃʷ} {ʑ(ʷ),ʒʷ}
+
+{tʷ(ʼ),dʷ} → {tɕ(ʷ)(ʼ),tʃ(ʷ)(ʼ)} {dʒ(ʷ),dʑ(ʷ)}
+12.1.3 Proto-Abazgi to Ahchypsy Abkhaz
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ tʃʷʼ dʒʷ tɕ(ʼ) dʑ → f pʼ ts(ʼ) v dz
+
+ɕ ʑ → s z
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕ ʕʷ → aː ɥ
+
+q qʷ → χˤ χˤʷ
+12.1.4 Proto-Abazgi to Bzyp Abkhaz
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ tʃʷʼ dʒʷ → pʼ f v
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕʷ → ɥ
+
+q qʷ → χˤ χˤʷ
+12.1.5 Proto-Abazgi to Abzhywa Proper
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ(ʼ) tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f(ʼ) ts(ʼ) tɕʷ(ʼ) v dz dʑ
+
+ɕ ɕʷ ʑ ʑʷ → s ʃʷ z ʒʷ
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕ ʕʷ → aː ɥ
+
+q qʷ → χ χʷ
+12.1.6 Proto-Abazgi to Tsabal Abzhywa
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ tʃʷʼ tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f pʼ ts(ʼ) tɕʷ(ʼ) v dz dʑ
+
+ɕ ɕʷ ʑ ʑʷ → s ʃʷ z ʒʷ
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕ ʕʷ → aː ɥ
+
+q qʷ → χˤ χˤʷ
+12.1.7 Proto-Abazgi to Khaltsys Sadz
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ(ʼ) tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f(ʼ) ts(ʼ) tɕʷ(ʼ) v dz dʑʷ
+
+ɕ ɕʷ ʑ ʑʷ → s {ʃʷ,ɕʷ} z {ʒʷ,ʑʷ}
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕʷ → ɥ
+
+q qʷ → χ χʷ
+12.1.8 Proto-Abazgi to Tswydzhy Sadz
+
+Nortaneous, from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World/Materials 119.
+
+tʃʷ(ʼ) tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f(ʼ) ts(ʼ) tɕʷ(ʼ) v dz dʑʷ
+
+ɕ ʑ → s z
+
+”Vʕ ʕ”V → ”aa a”a
+
+ʕʷ → ɥ
+
+q qʷ → χˤ χʷ
+12.2 Proto-Northwest Caucasian to Proto-Circassian
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Proto-Northwest_Caucasian_language&oldid=596995618>, presumably citing Starostin, Sergei A. and Sergei L. Nikolayev (1994), A North Caucasian Etymological Dictionary
+
+f → xʷ
+
+pʲ(ː) pʲʼ bʲ → t(ː) tʼ d
+
+pʷ pʷʲ pʷʲʼ bʷ bʷʲ → p tʷ tʷʼ b d
+
+pˤ(ː) pˤ bˤ → p(ː) pʼ b
+
+mˤ → m
+
+r l → tː tħ / #_
+
+l → ɮ
+
+tʷ(ː) tʷʼ dʷ → t(ː) tʼ d
+
+tʷʲ tʷʲʼ → ts tsʼ
+
+ts tsː dz → {s,c} tsː dz~z
+
+tsʲ tsʲː tsʲʼ dzʲ → (s) tsː tsʼ dz~z
+
+sʲ zʲ → s z
+
+tsʷ lʲ {qʲʷ,qˤʷ} → sʷ d qʷ / #_ (data not given for non-initial forms)
+
+tsʲʷ tsʲʷ dzʲʷ → tsʲ tsʲʼ dzʲ
+
+sʲʷ zʲʷ → sʲ zʲ
+
+tʃ tʃʼ dʒ dʑ → s tsʲʼ(?) dz~z dʑ~ʑ
+
+ʃ(~ʃː) → s
+
+ɕ(ː) ʑ → ʃ(ː) ʒ
+
+tʃʷ(ː) tʃʷʼ dʒʷ → tɕ(ː) tɕʼ dʑ~ʑ
+
+ʃʷ(ː) ʒʷ → ʃ(ː) ʒ
+
+tcʷ(ː) tɕʷʼ → tʃ(ː) tʃʼ
+
+ɕʷ ɕʷ ʑʷ → sʲ ʃː zʲ
+
+ɬ(ː) tɬ(ː) tɬʼ dɮ → ɕ(ː) tɕ(ː) tɕʼ tħ
+
+tɬʲ tɬʲʼ dɮʲ → tɕ tɬʼ ɣ
+
+tɬʷ(ː) tɬʷʼ dɮʷ → tʃ(ː) tʃʼ ħ
+
+ɬʷ ɬʷː → x(ʷ) ɕː
+
+tɬʲʷ tɬʲʷ tɬʲʷ dɮʲʷ → x tɕː tɕʼ ɮ
+
+ɬʲʷ(~ɬʷː) ɮʲʷ → x(ʷ) ɣʲ
+
+k kʼ ɡ → kʲ kʲʼ ɡʲ
+
+xʲ ɣʲ → ɕ ʑ
+
+xʷ → x(ʷ)
+
+ɡʲʷ xʲʷ ɣʲʷ(?) → ɡʷ xʷ ʁʷ
+
+ɢ → ʁ
+
+qʲʼ ʁʲ → ʔ ʁ
+
+qʷ → qʷː / !_
+
+qʷʼ ɢʷ → qʷː ʁʷ
+
+qʲʷː qʲʷ ɢʲʷ,ʁʲʷ} χʲʷ → qʷː ʔʷ ʁʷ χʷ
+
+{qˤː,qˤʼ} χˤ ʁˤ → qː χ ʁ
+
+{qˤʲ,χˤʲ} qˤʲ ʁˤʲ {qˤʲː qˤʲʼ} → ħ ʔ j
+
+{qˤʷː,qˤʷʼ} χˤʷ ʁˤʷ → qʷː χʷ ʁʷ
+
+qˤʲʷ {qˤʲʷː,qˤʲʷ} ʁˤʲʷ → ħ ʔʷ w~ʁʷ
+12.2.1 Proto-Circassian to Adyghe
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>; and Wikipedia contributors (2014), “Adyghe language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Adyghe_language&oldid=593857358>
+
+— Stress changes:
+”Ca.Ca	→	CaːC
+”Ca.Cə	→	CaC
+”Cə.Ca	→	CəC
+”Cə.Cə	→	CəC
+Ca.”Ca	→	Caː.Ca
+Ca.”Cə	→	Ca.Cə
+Cə.”Ca	→	Cə.Ca
+Cə.”Cə	→	Cə.Cə
+
+— Consonant correspondences:
+
+tsʲ → tɕ
+
+tsʷ → tsʲʷ
+
+tʃ tɕ → ʃ ʂ
+
+ʔ(ʷ)~qʼ(ʷ) → ʔ(ʷ)
+
+dɮ → ɣ
+
+dzʲ dzʷ → dʑ ʑʷ
+
+tsʲʼ → ɕʼ~ʃʼ
+
+sʷ ɕ → ɕʷ~ʃʷ ɕ~ʃ
+
+xʷ χʲ → f~ɸ? ħ
+
+ɮ → l
+
+zʷ → ʑʷ~ʒʷ
+12.2.1.1 Adyghe to Abadzekh Adyghe
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>; and Wikipedia contributors (2014), “Adyghe language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Adyghe_language&oldid=593857358>
+
+tsʲ(ː) → tɕ
+
+tsʷ → tʃʷ
+
+pː tː tsː tsʷ ʃː tʃː tɕː kʲː kʷː qː~qχ qʷː~qχʷ → p t ts tʃʷ ʃ ɕ tɕ tʃ kʷ qː qʷ
+
+tʃʼ tɬʼ → ʔaj~ʔ ɬʼ
+
+tʃʷʼ~ʃʷʼ → ɕʷʼ~ʃʷʼ
+
+kʲʼ → tʃʼ
+
+ʂː ʃː → ʂ ʃ
+
+sʼ ʃʼ~ɕʼ → tsʼ ʃʼ
+12.2.1.2 Adyghe to Bzhedug Adyghe
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>; and Wikipedia contributors (2014), “Adyghe language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Adyghe_language&oldid=593857358>
+
+tsʲ tsʲː → tɕ tɕː
+
+kʲ(ː) kʲʼ ɡʲ → tʃ(ː) tʃʼ dʑ
+
+tsʷː → tsʲʷː
+
+qː~χ qʷː~qχʷ → qː qʷː
+
+tsʷʼ~ʃʷʼ → ɕʷʼ~ʃʷʼ
+
+tɬʼ → ɬʼ
+
+sʼ ʃʼ~ɕʼ → tsʼ ʃʼ
+12.2.1.3 Adyghe to Shapsug Adyghe
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>; and Wikipedia contributors (2014), “Adyghe language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Adyghe_language&oldid=593857358>
+
+tsʲ(ː) tsʷ tʃ tɕ → tɕ tʃʷ ʃ ʂ
+
+pː tː tsː tsʷː ʃː tsː tcː kʲː kʷː qː~qχ qʷː~qχʷ → p t ts tʃʷ ʃ tʃ tɕ kʲ kʷ χ~q χʷ~qʷ
+
+p(ʷ)ʼ t(ʷ)ʼ tsʼ tsʷʼ~ʃʷʼ → pˤ tˤ tsˤ ʂʷ
+
+tɬʼ → ɬˤ
+
+ʂː ʃː → ʂ ʃ
+
+sʼ ʃʼ~ɕʼ → sˤ ʂ
+12.2.1.4 Adyghe to Temirgoy Adyghe
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>; and Wikipedia contributors (2014), “Adyghe language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Adyghe_language&oldid=593857358>
+
+tsʲ(ː) tsʷ → tɕ tsʲʷ
+
+kʲ(ː) kʲʼ kʷː ɡʲ → tʃ tʃʼ kʷ dʑ
+
+q qʷ → qː qʷː / ! #_
+
+pː tː tsː tsʷː ʃː tʃː tɕː → p t ts tsʷʲ ʃ tʃ tɕ
+
+qː~qχ qʷː~qχʷ → qː qʷː
+
+tsʲʼ tsʷʼ~ʃʷʼ → ɕʼ~ʃʼ ɕʷʼ~ʃʷʼ
+
+tɬʼ → ɬʼ
+
+ʂː ʃː → ʂ ʃ
+
+ɣ → ɣ~ɡ
+
+sʼ ʃʼ~ɕʼ → tsʼ ʃʼ
+12.2.2 Proto-Circassian to Kabardian
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=Proto-Circassian_language&oldid=591849172>
+
+— Stress changes:
+”Ca.Ca	→	Caː.Ca
+”Ca.Cə	→	CaC
+”Cə.Ca	→	Cə.Ca
+”Cə.Cə	→	CəC
+Ca.”Ca	→	Caː.Ca
+Ca.”Cə	→	CaC
+Cə.”Ca	→	Cə.Ca
+Cə.”Cə	→	CəC
+
+— Consonant correspondences:
+
+tsʲ(ː) tsʷ {tʃ,tɕ} → ɕ f ʃ
+
+kʲ → tʃ
+
+ʔ~qʼ → ʔʷ
+
+pː tː tsː tsʷː ʃː {tʃː,tɕː} kʷː qː~qχ qʷː~qχʷ → b d dz v ɕ ʒ dʒ ɡʷ qʼ~qχ qʷʼ~qχʷ
+
+dɮ dzʲ dzʷ dʑ ɡʲ → ʒ ʑ {v,w} ʒ dʒ
+
+tsʲʼ tʃʷʼ~ʃʷʼ tʃʼ tɕʼ tɬʼ kʲʼ → ɕʼ fʼ ɕʼ {ɕʼ,cçʼ} ɬʼ tʃʼ
+
+sʷ zʷ {ʃ,ʂ} {ʑ,ʐ,ɣʲ} ʑ χʲ → f v ɕ ʑ ʑ~ʒ χ
+
+ʂː ʃː → ɕ ʒ
+
+sʼ(?) ʃʼ~ɕʼ → tsʼ ɕʼ
+12.3 Proto-Northwest Caucasian to Ubykh
+
+Pogostick Man, from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Proto-Northwest_Caucasian_language&oldid=596995618>, presumably citing Starostin, Sergei A. and Sergei L. Nikolayev (1994), A North Caucasian Etymological Dictionary
+
+pʲ(ː) bʲ → t(ː) d
+
+pʲʼ → tʷʼ
+
+{pʷ,bʷ} → f
+
+pʲː → tʷ~dʷ
+
+pʷʲ bʷʲ → tʷ dʷ
+
+pʷʲʼ pˤ pˤː pˤʼ bˤ → tʷʼ vˤ bˤ pˤʼ bˤ
+
+t(ʷ)ː tʷʲʼ → t(ʷ) tʷʼ
+
+{r,l} lʲ → d r / #_
+
+l lʲ → ∅~j l~ɣʲ
+
+r rʲ → r~ʁ ɮ
+
+ts(ʲ)ː tsʷː dzʲ → ts tsʷ dz
+
+z(ʲ) zʷ → dz(ʲ)~z(ʲ) dzʷ~zʷ
+
+sʷʲ zʷʲ tsʷʲʼ dzʷʲ → tʃʷ ʒʷ tʃʲʼ dʒʲ
+
+tʃ(ʼ) dʒ → ts(ʼ) dz
+
+ʃ(~ʃː) ʒ → s z
+
+ɕː tɕː → ɕ tɕ
+
+ʃʷ(ː) ʒʷ tʃʷ(ʼ) dʒ → ʃ ʒ tʃ(ʼ) dʒ
+
+tɕʷ(ː) tɕʷʼ → tɕ tɕʼ
+
+ɕʷ ɕʷː ʑʷ → ʃʷ sʷ ʒʷ
+
+tɬ tɬː tɬʼ dɮ → ɕ (sʲ) tsʲʼ ɮ
+
+ɬ(ː) → sʲ
+
+tɬʲ tɬʲʼ dɮʲ → ɕ tɬʼ ɕ ʁ(~zʲ)
+
+ɬʲ(~ɬʲʼː) → ɬ
+
+ɮ → ʑ
+
+tɬʼ → tsʲʼ
+
+{ɮʲ,lʲ} → ɮ
+
+tɬʷ(ː) tɬʷʼ dɮʷ → tsʷ ts(ʷ)ʼ w
+
+ɬʷ ɬʷː → sʷ s(ʷ)
+
+tɬʷʲ tɬʷʲː tɬʷʲʼ dɮʷʲ → f dʑ tsʼ dʒ
+
+ɬʷʲ(~ɬʷː) ɮʷʲ → ʃʷ ʒʷ
+
+k kʼ ɡ x ɣ → kʲ kʲʼ ɡʲ ɕ ɣ~ʁ
+
+xʲ ɣʲ → sʲ zʲ
+
+kʷː xʷ → ɡʷ x
+
+kʲʷː xʲʷ ɣʲʷ(?) → ɡʲ kʲʼ xʲ ʁʲ
+
+ɣ → ʁ
+
+qʲː(ʼ) ɢʲ χʲ → qʲ(ʼ) ʁʲ xʲ
+
+qʷː ɢʷ → qʷ ʁʷ
+
+qʲʷ qʲʷː qʲʷʼ ɢʲʷ χʲʷ ʁʲʷ → xʲ qʲ qʲʼ ʁʲ χʲ ʁʲ
+
+qˤʲ → q(ˤ)
+
+qˤʲʷ {qˤʲʷː,qˤʲʷ} ʁˤʲʷ → χʷ qʷʼ w 
+

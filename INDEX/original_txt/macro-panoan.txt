@@ -1,0 +1,92 @@
+
+25 Macro-Panoan
+25.1 Tacanan
+
+Ritchie (1968) gives the following phonology for Proto-Tacanan. The alveolopalatal series is inferred from the notation and may be incorrect.
+	Bilabial 	Alveolar 	Alveolopalatal 	Palatal 	Velar 	Glottal
+Nasal 	m 	n
+Stop 	p b 	t d 			k 	ʔ
+Affricate 		ts 	tɕ 	tʃ
+Fricative 		s 	ɕ 	ʃ
+Approximant 	w 	r 	*ŕ 	j
+	Front 	Central 	Back
+High 	i
+Mid 	e 		o
+Low 		a
+
+(From Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship)
+25.1.1 Proto-Tacanan to Cavineña
+
+Pogostick Man, from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship
+
+k → kʷ
+
+{ɕ,tɕ} → h
+
+x → k
+
+*ŕ → r
+25.1.2 Proto-Tacanan to Chama
+
+Pogostick Man, from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship
+
+b d → ɓ ɗ
+
+ɗ → {ʔ,∅} / ! #_
+
+t k → k kʷ
+
+tʃ → s / _i
+
+tɕ → ʃ
+
+s ɕ → ð h
+
+n → ɲ / i_{o,a} (the former is conjectured)
+
+{r,*ŕ} → {∅,w,j}
+25.1.3 Proto-Tacanan to Reyesano
+
+Pogostick Man, from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship
+
+k → kʷ
+
+b d → ᵐb ⁿdz
+
+ts → tʃ / #_
+
+tʃ ɕ → ts ʃ
+
+ɕ x → ð h
+
+w → β / _E ?
+
+*ŕ → ∅
+
+j → tʃ / V_V
+25.1.4 Proto-Tacanan to Tacana
+
+Pogostick Man, from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship
+
+k → kʷ / _a
+
+k → kʷ / #_i
+
+∅ → j / k_e
+
+tɕ → dʑ
+
+tʃ → ts / _E
+
+ɕ → s
+
+x → h / #_
+
+x → {h,∅}
+
+w → β / _E
+
+j → tʃ / V_V
+
+*ŕ → ∅ 
+

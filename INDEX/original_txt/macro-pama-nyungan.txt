@@ -1,0 +1,114 @@
+
+24 Macro-Pama-Nyungan
+
+Wikipedia gives the following reconstruction for the phonological inventory of Proto-Pama-Nyungan, citing Alpher (2004). The particulars of the presentation have been modified somewhat from that presented in the article.
+	Bilabial 	Alveolar 	Retroflex 	Palatal 	Velar
+Plosive 	p 	t 	ʈ 	c (cʲ?) 	k
+Nasal 	m 	n 	ɳ 	ɲ 	ŋ
+Rhotic 		r 	ɽ
+Lateral 		l 	ɭ 	ʎ
+Semivowel 	w 			j
+	Front 	Central 	Back
+High 	i iː 		u uː
+Low 		a aː
+
+(From Wikipedia contributors (2014), “Pama–Nyungan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Pama%E2%80%93Nyungan_languages&oldid=605755580>, presumably citing Alpher, Barry (2004), “Proto-Pama-Nyungan etyma”. In Bowern, Claire, and Harold Koch (eds.), Australian Languages: Classification and the Comparative Method)
+24.1 Paman
+
+NB: These changes are most likely largely incomplete, especially for languages with fewer changes shown.
+24.1.1 Proto-Paman to AritinÅitiÉ£
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+C → ∅ / #_
+
+i[-long]C → Cj / #_ ! _i
+
+u[-long]C → Cw / #_
+
+a[-long]C → Ca / #_ (! _a?)
+
+u i → w j / a_ when this a is a result of metathesis (?)
+
+Vː → V[-long] / in #U
+24.1.2 Proto-Paman to AwÅtim
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+iC aC uC → Cj Ca Cw / #_ ! before an identical vowel
+
+u i → w j / a_ when this a is a result of the preceding metathesis
+
+(N)S → F / #(C)V_
+
+∅ → j / #(C)iː(C)_V ! _i
+
+∅ → w / #(C)uː(C)_V ! _u
+
+∅ → a / #(C)aː(C)_V ! _a
+
+C → ∅ / #_
+
+Vː → ə / in #U
+24.1.3 Proto-Paman to LinÅitiÉ£
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+(N)S → F / #(C)V_
+
+N → ∅ / #NV_SV
+
+C → ∅ / #_
+
+Vː V[-long] → V[-long] ∅ / in #U
+24.1.4 Proto-Paman to Mbiywom
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+C → ∅ / #_
+
+i[-long]C → Cj / #_ ! _i
+
+u[-long]C → Cw / #_
+
+a[-long]C → Ca / #_ (! _a?)
+
+u i → w j / a_ when this a is a result of metathesis (?)
+
+Vː → V[-long] / in #U
+24.1.5 Proto-Paman to Mpalican
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+NVS → VⁿS / #_
+
+C → ∅ / #_
+
+Vː → V[-long] / in #U
+24.1.6 Proto-Paman to UraÃ°i
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+(N)S → F / #(C)V_
+
+Vː → V[-long] / in #U
+24.1.7 Proto-Paman to Yinwum
+
+Pogostick Man, from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265
+
+a → i / #C[+palatal]V[-long]C_
+
+i → e / #(C)aC[-palatal]_
+
+#”UU → #U”U
+
+NVS → VⁿS / #_
+
+C → ∅ / #_
+
+∅ → j / #iː(C)_a
+
+∅ → w / #uː(C)_a
+
+Vː → V[-long] / in #U 
+

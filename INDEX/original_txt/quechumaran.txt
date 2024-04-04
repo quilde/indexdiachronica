@@ -1,0 +1,358 @@
+
+34 Quechumaran
+
+Orr and Longacre (1968) reconstruct Proto-Quechumaran as having the following inventory:
+	Bilabial 	Alveolar 	Postalveolar 	Retroflex 	Palatal 	Velar 	Uvular 	Glottal
+Nasal 	m 	n 			ɲ
+Plosive 	p 	t 				k 	q 	ʔ
+Fricative 	ɸ 	s 	ʃ 	ʂ 			χ 	h
+Affricate 		ts 	tʃ 	ʈʂ
+Liquid 		r l 	ʎ
+Semivowel 					j 	w
+	Front 	Central 	Back
+High 	i 		u
+Low 		a
+
+(From Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555)
+34.1 Proto-Quechumaran to Ayachuco
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+pʼ tʼ tʃʼ kʼ qʼ → p t tʃ k q
+
+h → ∅ / {p,t,k,q}_
+
+q → χ
+
+χ → q / n_
+
+ts(h) tʃh → tʃ s
+
+ʈʂ → s / _K
+
+ʈʂ → tʃ / _V
+
+ʈʂʼ → tʃʼ
+
+ɸ(ʼ,ʰ) → p
+
+ʃ ʂ → s h
+34.2 Proto-Quechumaran to Bolivia
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+qh → h / _r
+
+ph th kh qh → pʰ tʰ kʰ qʰ
+
+{k,q} → h / _{C,#}
+
+ts {tsh,tʃh} → tʃ tʃʰ
+
+tʃ → ʃ / _q
+
+tʃʼ → tʃ
+
+ʈʂ → s / _K
+
+ʈʂ → tʃ / _V
+
+ʈʂʼ → tʃʼ
+
+ɸ(ʼ) ɸh → p(ʼ) pʰ
+
+ʃ → s
+
+ʂ → h / _{a,i}
+
+ʂ → ∅ / _u
+
+χ → qʰ / #_
+
+j → ∅ / i_{a,u}
+
+j → ∅ / u_ʎ
+34.3 Proto-Quechumaran to Cuzco
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+h → ∅ / nq_
+
+h → ∅ / #q_{i,u}
+
+ph → p / #_VA
+
+ph → p / #_aC[+sibilant]
+
+pʼ → p/ #_C[+sibilant]
+
+ph → p / a_ (?)
+
+ph → pʰ
+
+kh → k / r_
+
+kh → k / #_a
+
+kh → k / #_ “in a word with two back vowels”
+
+kh qh → kʰ qʰ
+
+ts tsh → tʃ tʃʰ
+
+tʃ → s / _q
+
+tʃh → s / _E
+
+{tʃh,tʃʼ} → tʃ
+
+ʈʂ → s / _K
+
+ʈʂ → tʃ / _V
+
+ʈʂʼ → tʃ / n_
+
+ʈʂʼ → tʃʼ
+
+ɸ(ʼ) ɸh → p(ʼ) pʰ
+
+ʃ ʂ → s h
+
+χ → qʰ / #_
+34.4 Proto-Quechumaran to Huarás
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+pʼ tʼ tʃʼ kʼ qʼ → p t ts k q
+
+h → ∅ / p_
+
+tʰ → t
+
+q → q͡χ
+
+ts(h) tʃ → tʃ ts
+
+tʃ → ts / _q
+
+ʈʂ → s / _K
+
+ʈʂ → tʃ / _V
+
+ɸ(ʼ,ʰ) → p
+
+ʂ → ʃ / _a
+
+ʂ → h / _{i,u}
+
+ɲ → n
+
+aw aj {uj,ij} → uː eː iː
+34.5 Proto-Quechumaran to Putamayo
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+pʼ tʼ kʼ qʼ → p t k q
+
+p → b / m_
+
+t(ʰ) → d / n_
+
+tʰ → t
+
+k → ɡ / n_
+
+k → ɡ / _{L,j}
+
+h → ∅ / ts_
+
+tʃʼ → tʃ
+
+ʈʂ → tʃ / _V
+
+ɸ(ʼ,ʰ) → p
+
+ʂ → s
+
+h → ∅ / #_
+34.6 Proto-Quechumaran to Quito
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+q → h / {r,s}_
+
+pʼ kʼ qʼ → p k q
+
+p → b / m_
+
+t(ʰ) → d / n_
+
+tʼ → tʰ / #_i
+
+tʼ → t
+
+k → ɡ / _#
+
+k → ɡ / n_
+
+k → ɡ / _{L,j}
+
+kʼ → h / j_
+
+ts → dz / ! #_
+
+h → ∅ / ts_
+
+tʃ → ʃ / _q
+
+tʃh → ʃ
+
+tʃʼ → tʃ
+
+ʈʂ → ʃ / _K
+
+ʈʂ → tʃ / _V
+
+ɸ → p / r_
+
+{ɸʼ,ɸh} → ɸ
+
+ʂ → ʃ
+
+χ → h #_
+34.7 Proto-Quechumaran to Riobamba
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+q → k
+
+qh → kʰ / _i ! _i{ʃ,tʃ}
+
+qh → k
+
+pʼ tʼ kʼ qʼ → p t k q
+
+p → b / m_
+
+t(ʰ) → d / n_
+
+tʼ → tʰ / #_i
+
+k → h / _#
+
+k → ɡ / _{L,j}
+
+kh → kʰ / #_{i,u}
+
+kh → k
+
+k ts → ɡ dz / n_
+
+h → ∅ / ts_
+
+tʃh → ʃ
+
+tʃʼ → tʃ
+
+ʈʂ → s / _K
+
+ʈʂ → tʃ / _V
+
+ʈʂʼ → ts
+
+ɸ → pʰ / _V
+
+ɸ → b / _j
+
+s → ʃ / _C[+alveolar]
+
+ʂ → ʃ
+
+χ → kʰ #_
+
+ɲ → n / ! h_i
+
+ʎ → ʒ / _{a,u}
+34.8 Proto-Quechumaran to Santiago
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+pʼ tʼ tʃʼ kʼ qʼ → p t tʃ k q
+
+h → ∅ / {p,t,k}_
+
+{k,q} → h / _{C,#}
+
+k → c / j_ (?)
+
+ts(h) → tʃ
+
+tʃ → ʃ / _q
+
+ʈʂ → ʃ / _K
+
+ʈʂ → tʃ / _V
+
+ɸ(ʼ,ʰ) → p
+
+ʃ → s / ! i_i or _S
+
+ʂ → ∅ / _{a,i}
+
+ʂ → h / _u
+
+h → ∅ / #_
+
+ʎ → ʒ / _{a,u}
+
+w → ∅ / V_V
+
+w → m / _%N
+
+j → ∅ / i_{a,u}
+
+j → ∅ / u_ʎ
+34.9 Proto-Quechumaran to Tena
+
+Pogostick Man, from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555
+
+q(h) → k
+
+pʼ tʼ kʼ qʼ → p t k q
+
+p → b / m_
+
+t(ʰ) → d / n_
+
+tʰ → t
+
+k → ɡ / n_
+
+k → ɡ / _{L,j}
+
+h → ∅ / ts_
+
+tʃ → ʃ / _C
+
+tʃh → ʃ
+
+tʃʼ → tʃ
+
+ʈʂ → ʃ / _K
+
+ʈʂ → tʃ / _V
+
+ʈʂʼ → tʃ
+
+ɸ(ʼ,ʰ) → p
+
+ʂ → ʃ
+
+h → ∅ / #_
+
+χ → k / #_
+
+ɲ → n / _i
+
+w → ∅ / #_i 
+

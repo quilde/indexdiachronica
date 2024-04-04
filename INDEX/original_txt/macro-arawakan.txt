@@ -1,0 +1,155 @@
+
+22 Macro-Arawakan
+
+Dixon (2004) gives the following reconstruction for Proto-Arawá:
+	Bilabial 	Coronal 	Postalveolar 	Velar 	Glottal
+Nasal 	m 	n
+Plosive 	p pʰ b ɓ 	t tʰ d ɗ 		k kʰ ɡ ɠ 	ʔ
+Fricative 		s 			h
+Affricate 		ts tsʰ dz 	tʃ
+Liquid 		r
+	Front 	Central 	Back
+High 	i
+Mid 	e 		o
+Low 		a
+
+Dixon states “[i]t is likely that, as in modern languages, *o ranged over [u] and [o]”. Further, he notes that “*w could have been a voiced bilabial fricative [β], or a labial-velar semivowel [w] (or could have had both as allophones), and *j could have been a voiced alveolar affricate [dz], a voiced postalveolar affricate [dʒ], or a voiced palatal stop [ɟ]”.
+
+Dixon also hypothesizes that there was an Arawán language that eventually died out after gaining substrate status; he has attempted to identify sound changes from Proto-Arawá to this hypothetical language. While most likely incomplete his findings are presented below along with those of the other languages.
+
+(From Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83)
+22.1 Proto-Arawá to Arawá
+
+Pogostick Man, from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+p → f
+
+pʰ → p / #_
+
+pʰ → ɸ / else
+
+ɗ → t / #_
+
+dz → s / medially
+
+tsʰ → s
+22.2 Proto-Arawá to Banawá-Jamamadi
+
+chris_notts & Pogostick Man, the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+ɓ → b / #_
+
+ɓ → ɸ / medially
+
+p(ʰ) → ɸ
+
+{tʰ,ɗ} → t
+
+kʰ ɡ → k w
+
+{ts(ʰ),tʃ} dz → s ɟ
+
+ʔ → ∅
+22.3 Proto-Arawá to Hypothetical Arawán Substrate
+
+Pogostick Man, from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+e → a / medially
+
+e → i / #_
+
+p → ʔ
+
+pʰ → h / medially
+
+dz → s
+22.4 Proto-Arawá to Jarawara
+
+chris_notts & Pogostick Man, the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+ɓ → b / #_
+
+ɓ → f / medially
+
+ɗ → t
+
+p(ʰ) {tʰ,d} → ɸ t
+
+kʰ ɡ → k w
+
+dz → ɟ
+
+{ts(ʰ),tʃ} → s
+
+ʔ → ∅
+22.5 Proto-Arawá to Kulína-Dení
+
+Pogostick Man, from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+ɓ → b / #_
+
+ɓ → p / medially
+
+ɗ → t
+
+ɡ → w
+
+tʃ → ʃ (?)
+
+ʔ → ∅ / #_
+22.6 Proto-Arawá to Sorowahá
+
+Pogostick Man, from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+e → ɨ / _#
+
+e → a / else
+
+{p(ʰ),ɓ} → h
+
+ɗ → d / #_
+
+{tʰ,ɗ → t
+
+kʰ → k
+
+ts(ʰ) → s
+
+ʔ → ∅ / #_, possibly everywhere?
+22.7 Proto-Arawá to Paumarí
+
+Pogostick Man, from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83
+
+e → a / medially
+
+e → {a,i} / #_
+
+pʰ → p / #_
+
+pʰ t → ɸ ʔ / medial
+
+ts(ʰ) → s
+23 Macro-Chibchan
+23.1 Lenmichian
+
+The following inventory for Proto-Lenmichian is posited by Constenla (2005).
+	Bilabial 	Alveolar 	Velar 	Glottal
+Stop 	b 	d t 	k 	ʔ
+Affricate 		ts
+Fricative 		s 		h
+Approximant 	w 	ɾ
+Lateral 		l
+	Front 	Central 	Back
+High 	i 		u
+Mid 	e 		o
+Low 		a
+
+(From Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85)
+23.1.1 Proto-Lenmichian to Proto-Chibchan
+
+Pogostick Man, from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85
+
+l → ɾ
+
+w → ∅ 
+

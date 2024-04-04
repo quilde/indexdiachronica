@@ -1,0 +1,311 @@
+
+46 Vowel Shifts
+
+A miscellaneous collection of vowel shifts.
+46.1 7-to-5 Vowel Merger (Bantu)
+
+Pogostick Man, from Schadeberg, Theo C. (1995), “Spirantization and the 7-to-5 Vowel Merger in Bantu”. In Sound Change, M. Dominicy and D. Demolin (Eds.), Amsterdam: John Benjamins, 1995.
+
+S → F / _{i,u} (Do not necessarily have to be fricatives at the same POA; in some cases, the phones go to null or to /l/)
+
+ɪ ʊ → i u
+46.2 California Vowel Shift (English)
+
+Pogostick Man, from Wikipedia contributors (2013), “California English”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=California_English&oldid=584388388>; and Eckert, Penelope, “Vowel Shifts in Northern California and the Detroit Suburbs”. <http://www.stanford.edu/~eckert/vowels.html>
+
+æ ɪ → e i / _ŋ; some speakers (esp. in southern regions) may also have pin-pen and “a single phoneme in contrast to the nasal diphthong [ãɪ̃] of the U.S. Northeast” (though the article doesn’t specify what this is; maybe it’s just plain ã)
+
+/ɪ/ otherwise has a highly variable pronunciation
+
+æ → {eə̯,ɪə̯} / _N
+
+{æ,e} → ɛ / _ɹ
+
+æ → a
+
+ʊ ʌ ɛ → ʌ ɛ æ
+
+ɑ → ɔ (does not occur in Sacramento)
+
+u → {iʊ̯,ʉ,ɯ}
+
+oʊ̯ → eʊ̯ (“common only within certain social groups”)
+46.3 Belgian and Netherlandish Dutch Monophthongization
+
+Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>
+
+ɛi œy ɔu → ɛː œː ɔː
+46.4 Polder Dutch Vowel Shift
+
+Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>
+
+ɛi œy ʌu → ai ay au
+
+eː øː oː → ɛi œy ɔu
+46.5 Old English-to-Scots Vowel Shifts
+
+Pogostick Man, from Wikipedia contributors (2014), “Phonological history of Scots”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Phonological_history_of_Scots&oldid=582962563>; and Wikipedia contributors (2014), “Scottish Vowel Length Rule”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Scottish_vowel_length_rule&oldid=589349104>
+
+ai → ɛi → əi / when stem-final
+
+uː → ʌu / when-stem final, in northern varieties
+
+øː → wi / {k,ɡ}_ (in Mid Northern dialects)
+
+øː → i (in northern dialects)
+
+øː → (j){u,ʌ} / _{k,x} (outcome varies depending upon dialect)
+
+a → i / _n (in northern varieties)
+
+a → e / _n (otherwise)
+
+a → {ɛ,e} / _rC
+
+ai oi ui ei au ou iu ɛ(o)u → eː oe əi iː {ɑː,ɔː} ʌu ju j(ʌ)u
+
+ɛː → ɛi (→ əi?) / in some northern varieties
+
+iː eː ɛː aː oː uː {øː,yː} → əi i {i,e} e o u ø
+
+æ → ɛ / _C[+alveolar]
+
+a ɔ u → {a,ɑ} ɔ ʌ
+
+Application of the Scottish vowel-length rule:
+
+— V → Vː / _{r,F[+voiced],$,#}
+
+— əi → aɪ / _{r,F[+voiced],$,#} (pursuant to the above)
+46.6 Great Ngamo Tone Shift
+
+Pogostick Man, from Schuh, Russel (2005), “The Great Ngamo Tone Shift”
+
+In the Gudi dialect, the tone on a given domain (which can be more than one syllable/mora, as long as said syllables/morae are consecutive and share the same tone) shift to the following domain, with a low tone cropping up on the first domain. The original tone of the word-final domain floats or tacks itself onto the next domain, depending upon the surrounding conditions. When utterance-final, these tones remain on that domain. This can cause a falling tone, but not a rising tone, which Ngamo does not permit; where such would occur, tone goes to high.
+46.7 Great Vowel Shift (English)
+
+Jaaaaaa and Ran, citing http://www.peak.org/~jeremy/dictionary/chapters/history.php
+
+iː uː → əj əw → ɑj ɑw
+
+eː oː → iː uː
+
+ɛː → eː → iː
+
+aː ɔː → ɛː oː → eː ow → ej (əw)
+46.8 Greek Vowel Shift
+
+Chris Zoller, from Trask, R.L. (1996), Historical Linguistics
+
+u(ː) → y(ː)
+
+oː → uː
+
+eː ɛː → iː eː
+
+ai ɔi → ɛ yː
+
+eː → iː
+
+y(ː) ɔː → i(ː) ɔ
+
+ɛu au → ɛv av
+46.9 Kikuyu Tone Shift
+
+Pogostick Man, from Schuh, Russel (2007), “The Great Ngamo Tone Shift (GNTS)”
+
+Tones move to the following vowel with the initial syllable acquiring a low tone. Original final tones are lost.
+46.10 Late Proto-Finnic to Savonian Vowel Shift
+
+PM_Vanhanen
+
+“Long close-mid vowels have become diphthongs:”
+
+eː øː oː → ie yø uo
+
+“In some dialects, they have shifted further to /uɑ/, /yæ/ and /iæ/ or /iɑ/ depending on front-back vowel harmony: /tieto/ to /tiɑto/ but /tietæ/ to /tiætæ/.”
+
+“These shifts have occurred in some eastern dialects.”
+
+ɑː æː ɑi æi → uɑ iæ ɑe æe
+
+ei oi øi → eː oe øe
+
+ɑu ou → ɑː oː
+
+æy øy → æː øː
+
+eu → eo
+
+li ni ri si → lʲi nʲi rʲi sʲi
+46.11 Middle Chinese to Cantonese Vowel Shift (“The Inner-Outer Flip”)
+
+LoneWolf, from Newman, J. (1983). Cahiers de Linguistique Asie Orentale XII.1:65 – 79.
+
+Relevant changes occurring before the shift:
+
+a → ɔ / _{ŋ,k}
+
+uə yə → ɔ œ / _{n,t}
+
+ə → ∅ / i_{ŋ,k}
+
+∅ → ə / C[+ labiovelar]_i
+
+∅ → ə / _u
+
+V → Vː / _#
+
+The actual vowel shift:
+
+ə → a
+
+a → {aː,ə} “(the environments for these respective changes are somewhat unclear)”
+
+ə → a / _{i,u}
+
+iəu → au
+
+a → aː / _{i,u}
+
+a → ə → ∅ / i_u
+
+Other relevant changes occurring at the same time:
+
+ə → ∅ / W_
+
+W → ∅ / C_
+
+(Apparently, /i u/ either were or became glides in the appropriate positions)
+46.12 Northern Cities Vowel Shift (English)
+
+Pogostick Man, from Wikipedia contributors (2013), “Northern Cities Vowel Shift”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Northern_Cities_Vowel_Shift&oldid=581062574>
+
+æ raises and diphthongizes, typically becoming one of {ɛə eə ɪə}
+
+ɑ ɔ → a ɑ
+
+ɛ → ɐ
+
+ʌ → ɔ
+
+ɪ → ɪ̞
+46.13 Old Norse to Faroese Vowel Shift
+
+johanpeturdam
+
+NB: “The reflexes of the vowels are given in the order of their reflex when stressed/long, and unstressed/short”
+
+{a,æː} → ɛa / a
+
+aː → ɔa “(except NE of the Faroes → aː)” / ɔ
+
+e → eː / ɛ
+
+eː → ɛa “(except Suðuroy → eː)” / a “(except Suðuroy → ɛ)”
+
+{i,y} → iː / ɪ
+
+{iː,yː} → ʊi / ʊ(i)
+
+o → oː / ɔ
+
+oː → {ɔu,ɛu,œu} / œ “(except Suðuroy → ɔ)”
+
+u → uː / short: ʊ / unstressed: {o,ɔ}
+
+uː → ʉu / ʏ
+
+{œ,ɔ} → øː/œ “(except Suðuroy → ʏ)”
+46.14 Pre-Slavic Vowel Changes
+
+Macska
+
+“PIE *a and *o with their variants have merged in the Balto-Slavic period; below they’re written both as *a.”
+
+eː → æ
+
+en an → ẽ ã
+
+ej → i
+
+ew → ju
+
+i → ı̆ [ə?] → {e,a} (strong)/∅ (weak) “in modern languages”
+
+iː → i
+
+a aː → o a
+
+aj → {æ2,i2} “(reduced)”
+
+aw → u
+
+u → ŭ [ɤ?] → {e,o,ɤ,a} (strong)/∅ (weak) “in modern languages”
+
+uː → ɨ
+46.15 Proto-Japanese to Old Japanese Vowel Shift
+
+Pogostick Man, from Frellesvig, Bjarke and John Witman (2005), “The Japanese-Korean vowel correspondences”
+
+e o → je wo / _#
+
+e o → i u / else
+
+{ɨ,ə} → o
+
+{u,ɨ}i {,a,i {ɨi,i{a,ə}} u{ɨ,a,ə} → wi e je wo
+46.16 Development of Proto-Lolo-Burmese -i(C)# and -u(C)# to Lahu
+
+Pogostick Man, from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498; citing Matisoff 2003:186, 248 – 249, 314
+
+-i -i{p,k} -it -i{m,ŋ} -in → -i -ɨʔ -iʔ -ɛ -ɨ
+
+-u -up -ut -uk -um -un -uŋ → -u -ɔʔ -əʔ -uʔ -ɔ -ə -ɛ
+46.17 Proto-Maidun to Nisenian Vowel Shift
+
+Pogostick Man, from Ultan, Russell (1964), “Proto-Maidun Phonology”. International Journal of American Linguistics, Vol. 30, No. 4 (Oct., 1964), 355 – 370.
+
+u i e a → y e a o
+46.18 South African Chain Shift (English)
+
+Pogostick Man, from Mesthrie, Rajend (2002), Language in South Africa
+
+NB: The author gives ı̆ as the shifted vowel but calls it “centralized”; based on this description, I’m calling it /ɨ/.
+
+æ ɛ ɪ → ɛ e ɨ
+46.19 Southern [United States] Shift (English)
+
+Pogostick Man, from Wikipedia contributors (2012), “Southern American English”.
+
+ɛ → ɪ / _N
+
+“Lax and tense vowels often neutralize before /l/”
+
+aɪ → aː / _#
+
+aɪ → aː / _C[+ voiced]
+
+aɪ → ɑeː / else (only for some speakers)
+
+aɪ → aː / else (only for some speakers)
+
+æ ɛ ɪ → æj(ə) ɛj(ə) ɪj(ə)
+
+ɛj(ə) ɪj(ə) i eɪ → ej(ə) ij(ə) ɪi ɛi
+
+uʊ oʊ → ʉʊ̈ əʊ̈ (a bit of a guesstimate based upon the prose description in the article and the mean-formant-value chart cited from Labov, Ash & Bobert (2006))
+
+ɔ → ɑɒ (for some speakers)
+
+ɑɹ → ɒɹ (“often”)
+
+z → d / _n (not strictly a vowel shift but included here anyway because it’s cool, and also because it doesn’t occur in 〈hasn’t〉 because of the influence of 〈hadn’t〉)
+
+Stress reassignment to the initial syllable (again, not strictly a vowel shift)
+Merger of ɔɹ and ɑɹ (“in some regions”)
+Loss of distinction between ɪɹ and ɪəɹ, and between ʊəɹ and ɔɹ
+Pronunciation of the 〈l〉 in words like 〈walk〉 and 〈talk〉 (again, not really a vowel development)
+
+æ/ɑː → æɪ 
+

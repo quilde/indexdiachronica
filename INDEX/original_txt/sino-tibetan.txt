@@ -1,0 +1,1013 @@
+
+36 Sino-Tibetan
+36.1 Proto-Sino-Tibetan to Middle Chinese
+
+Ran & thedukeofnuke, from Handel, Z. (1998), The Medial Systems of Old Chinese and Proto-Sino-Tibetan
+
+NB: “P T Ṭ K represent labial, dental, retroflex, and velar obstruents respectively. *r is reconstructed as being an approximant ɹ. . . .PST and OC lacked any initial/medial clusters of the form Tr- and Tl-. . . .The initials and medials for Old Chinese are the same as those for PST. Note that initial consonants separated by a hyphen (e.g., C-r-) are derived from prefixes and are not true consonant clusters.
+
+(C-)r- → l-
+
+s(-)r → ʂ-
+
+r → ∅ / C_-
+
+r-T- → Ṭ
+
+(C-)l- → {d,ji}-
+
+s-l- → {tʰ,z}-
+
+l → ∅ / s_-
+
+{m,ŋ}l- → dʑ-
+
+Cl- → T(ʑ)-
+
+Kw → Kʷ- / _a-
+
+Kwə- → Kʷɨ-
+
+w → r → ∅ / P_-
+36.1.1 Late Middle Chinese to Old Mandarin
+
+Ran, from Hsueh, F.S. (1975), Phonology of Old Mandarin
+
+NB: Ran says, “The author uses V1, V2, V3, V4, Vn, Vch, and Vta to represent Late Middle Chinese vowels. I am going to very tentatively assign the values of o, a, ia, e,?, a(ch) and a(ta) to these vowels [emphasis added]. These should be taken as orthographical convenience rather than actual speculation.” It should be noted that the vowel represented by <?> could be palatalized. Ran adds, “I am also going to number tones according to their traditional order, i.e. F1, F2, F3, F4, F5. Since tones change rapidly, it is impossible to accurately reconstruct their values; we can only know how many there were, and agree on an order to renumerate them. Middle Chinese starts out with no F2.” For the purposes of this list of sound changes, tones are superscript numbers following vowel markers.
+
+∅ → w / P_V
+
+xɦ → ∅ / _j(w){?,ia,a(ta)}
+
+Cʲ → C {Ạ,F̣}_
+
+Cʲ → C̣
+
+ɳ → ɽ
+
+V1 → V2 / in syllables with /ɦ/, a nasal, or a liquid
+
+V3 → V4 / in syllables with /ɦ/
+
+? → ∅
+
+V5 → V2 / in syllables with /ɦ/
+
+V5 → V4 / in syllables with a nasal or liquid
+
+V5 → V3 / else
+
+ɦ → h / S_V2
+
+ɦ → ∅ / else
+
+Cʲ → C / {f,v}_
+
+w → o / Cʲ_?w
+
+i → ∅ / C(w)_a
+
+ia → e / else
+
+C → Cʲ / {K,C[+pharyngeal]}_{a,a(ch)}
+
+o → a / C_w ! C = {K,C[+pharyngeal]}
+
+ŋ → n / n_Cʲa(ta)
+
+ŋ → ∅ / #_ ! #_o(w)
+
+k → j / {e,a,o}_
+
+k → w / V_
+
+{o,a} {a(ta),a(ch)} → e a / _ŋ
+
+{a(ta),a(ch)} → o / else
+
+? → o / _ŋ
+
+{Aʲ,Fʲ}[+alveolar] →{A,F} / _?ʲ
+
+ʈ → ʈʂ / _r
+
+C → Cʲ / ?ʲ{p,t}_
+
+{p,t} → ∅ / V_
+
+o → a / Cʲ_w
+
+∅ → w / C_o# ! C = {K,C[+pharyngeal]}
+
+w → ∅ / C̣Cʲ_?w (“optional”)
+
+w → ∅ / w?_
+
+? → a / Cw_Cʲ
+
+{o,e} → ? / _Cʲ
+
+wʲ → w / _?Cʲ
+
+∅ → w / C̣_aŋ
+
+e → o / w_ŋ
+
+wʲ → w / _aŋ
+
+wʲ → w / C̣_oŋ
+36.1.1.1 Old Mandarin to Modern Pekingese
+
+Ran, from Hsueh, F.S. (1975), Phonology of Old Mandarin
+
+ŋ → ∅ / #_
+
+{e,o} → a / _w
+
+m → n / V_
+
+o → e / _ŋ
+
+i → e / C_ʔ
+
+ʔ → ∅
+
+j → ∅ / jî_
+
+#r…î# → #î…r
+
+v → ∅
+
+j → ∅ / C̣_
+
+o → e / _#
+
+î → e / _C# ! C = r
+
+j → ∅ / C_weŋ
+
+k(ʰ) h → ɕ͡(ʰ) ɕ / _j
+36.2 Sin Sukchu to Guānhuà
+
+Pogostick Man, from Coblin, W. South (2000), “A Diachronic Study of Míng Guānhuà Phonology”. Monumenta Serica 48:267 – 335
+
+Initials:
+
+b d dz ɡ → {p,pʼ} {t,tʼ} {ts,tsʼ} {k,kʼ}
+
+ŋ → ∅ / _{i,j,w,y}
+
+ŋ → ∅ / _u / _V
+
+w → u / _V
+
+v ʋ → f v
+
+z → {s,tsʼ} (the former “without exception” “in oblique tone words”)
+
+ɖʐ →ʈʂ / “[i]n oblique tone syllables”
+
+ɖʐ → ʈʂʼ / “in píng-tone syllables”
+
+ʐ → ʂ
+
+r → ʐ (Apparently there was some situation where this went to ∅, and then something happened with the output syllable being [ɚ])
+
+ʔ → ŋ / _V[-high]
+
+ʔ → ∅ / _{j,i,y}
+
+ʔ → ∅ / _u (not always? Perhaps some variation with [ɣ] here?)
+
+ɣ → x
+
+j → i
+
+There seems to ahve been some stuff going on with palatalized [ŋ] → {ɲ,n} but it seems highly dialectal and I’m not entirely sure just what exactly was going on here
+
+w → {v,u}
+
+uj → (ɣ)u
+
+Finals:
+
+m → n
+
+long-tail vowel thing → i (or [truncated vowel-thing] “where GH sibilant initial variants occur”)
+
+{long-tail vowel thingʔ,əʔ} → ɛʔ
+
+i → [long-tail vowel thing] / C̣_ (“sometimes”, in “variant readings”); when following /ʂ ʐ/, sometimes yields [ʂi], other times [s truncated vowel-thing]
+
+iʔ iw → eʔ ew / C̣_ (the latter with variant iɛu?)
+
+iʔ → ieʔ (→ i[truncated vowel-thing]ʔ?)
+
+uʔ → oʔ (occasionally → uɛʔ?)
+
+uj → u(ɛ)i / m_
+
+uj → uɛi / {P,C[+guttural],∅}_
+
+uj → ui / {C[+dental],C[+sibilant]}_
+
+ujʔ → uɛʔ (dialectally → uɔʔ?)
+
+un → uɛn / ! {C[+dental],C[+sibilant]}_
+
+uɛn → ɛn / ʋ_
+
+uŋ → oŋ (in one source?)
+
+juŋ → iuŋ / _{∅,x,ʋ,ʔ}
+
+juŋ → iuŋ / _ɡ[+píng tone]
+
+juŋ → uŋ (→ oŋ dialectally?)
+
+jujŋ ujŋ → iuŋ uŋ
+
+y → ɥ (→ y~u dialectally?) / C̣_
+
+yʔ → yɛʔ / {l,C[+dental +sibilant]}_ in “QYS -juət-type” finals, dialectally?
+
+yʔ → oʔ (eventually → {ʊʔ,(i)uʔ?) / {l,C[+dental +sibilant]}_, in “QYS -k-types”
+
+yʔ → yʔ(~yɛʔ?) / {∅,C[+guttural]}, in -juət-types
+
+yʔ → ioʔ (→ iʊʔ dialectally?) / {∅,C[+guttural]}_, in -k-types
+
+yʔ → {ɥʔ,yʔ,uʔ} / C̣, in -juət-types
+
+yʔ → oʔ (→ ʊʔ?) / C̣_, in -k-types
+
+yjʔ → yʔ
+
+yn → un / C̣_ (may have stayed yn or → ɥn in at least one area?)
+
+je jeʔ yeʔ → ɛ ɛʔ uɛʔ / C̣_
+
+je jeʔ → iɛ iɛʔ
+
+yeʔ → yɛʔ (→ {uɔʔ,yɔʔ} in southern speech?)
+
+ye jej → yɛ i
+
+jew → au / C̣(C?)_
+
+jew → iau / else
+
+{jem,jen} → iɛn / sometimes after C̣_ (but ! ʐ_) (only in one variety?)
+
+yen → uɛn / C̣_
+
+yen → yɛn
+
+ɔ → a / in two cases cited; extremely rare change
+
+wɔ → ɔ (occasionally → uɔ after a guttural?)
+
+wɔʔ → uɔʔ / C[+guttural]_
+
+wɔʔ → ɔʔ / else
+
+ɔn → an; “[t]his final occurs exclusively after SR gutturals”
+
+wɔn ja wa → uɔn ia ua
+
+aʔ → ɔʔ / C[+guttural]_
+
+jaʔ → iaʔ
+
+waʔ → aʔ / C[+labiodental]_
+
+waʔ → uaʔ
+
+aj jaj waj aw jaw → ai iai uai au iau
+
+awʔ → ɔʔ (“Trigault gives a variant in -ɛʔ, which becomes general in the later GH varieties”)
+
+{jawʔ,wawʔ} → ɔʔ / C̣_
+
+jawʔ wawʔ → iɔʔ uɔʔ
+
+am → an
+
+{jam,jan} → iɛn
+
+wan → an / C[+labiodental]_
+
+wan → uan / else
+
+aŋ jaŋ → uaŋ aŋ / C̣_
+
+waŋ → uaŋ
+
+əjʔ əw {əm,ən} → eʔ ɛu ɛn
+
+əjŋ → ɛn (varies with ɛn?)
+
+Tones:
+
+qı̄ng píng → yı̄n píng
+
+zhuó píng → yáng píng
+
+qı̄ng shăng → shăng
+
+zhuó shăng → qù
+
+(There seems to be some conflict between shăng tones and qù tones, the latter noted as being the spoken forms)
+36.3 Tibeto-Burman
+36.3.1 Qiangic
+36.3.1.1 Proto-Naish to Laze
+
+Pogostick Man, from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498
+
+a u i iN → e y ɯ i / T_%
+
+a → i / {ŋ,w}_%
+
+a → wɤ / {K,ŋ}w_%
+
+{a,i} → ɯ / R_%
+
+a → ie / ! K_%
+
+a aS → ɑ {ɑ,u}
+
+iN → æ / {P,C}r_%
+
+i → v̩ / m_%
+
+u o → v̩ u
+
+B → o / {qʰ,(N)q}_
+
+V% → low tone
+
+{Np,mb} → b / _V (the paper implies similar developments occurred at other POAs)
+
+{r,s}p(ʰ) {r,s}{Np,(m)b} → f v / _V (the paper implies similar developments occurred at other POAs)
+
+{r,s}k {r,s}Nk → f w / _V
+
+S{b,ɡ} Sk → v h / _V
+
+{r,s}l {r,s}n → l̥ N̥ / %_V
+
+n̥ → l̥ / %_V
+
+N̥V → hṼ
+
+l̥ → ɬ / %_V
+36.3.1.2 Proto-Naish to Mosuo (Na)
+
+Pogostick Man, from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498
+
+a → e / {R,T}_%
+
+a → wɤ / {K,ŋ}w_%
+
+a → i / ! K_%
+
+iN → æ / {P,C}r_
+
+{iN,u} i → i ɯ / T_
+
+i → ɯ / {R,Kr}_
+
+i → v̩ / m_
+
+u o → v̩ u
+
+B → ɔ / {qʰ,(N)q}_
+
+V% → high rising
+
+{Np,mb} → b / _V
+
+{r,s}pʰ {r,s}{(N)p,(m)b} → pʰ p b / _V (the paper implies similar developments occurred with stops at other POAs)
+
+{r,s}k {r,s}Nk → k ʁ / _V
+
+S{b,ɡ} Sk → ∅ h
+
+n̥ → l̥ / %_V
+
+N̥V → hṼ
+
+l̥ → ɬ / %_V
+36.3.1.3 Proto-Naish to Naxi
+
+Pogostick Man, from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498
+
+a iN {i,u} → e ɚɯ / T_%
+
+a → i / ŋ_%
+
+a → ɯ / {R,w}_%
+
+a → wa / {K,ŋ}w_%
+
+a → e / ! K_%
+
+a aS → ɑ {ɑ,o} / _%
+
+iN → ɚ / {P,C}r_%
+
+i → ɯ / {R,kr}_%
+
+u → ɚ / Pr_%
+
+u o → v̩ u
+
+B → v̩ / {qʰ,(ŋ)q}_
+
+V% → mid tone / C_ru
+
+V% → high tone / else
+
+N → ∅ / _pV
+
+{r,s}pʰ {r,s}(N)p {r,s}b {r,s}mb → pʰ p b mb / _V (the paper implies similar developments occurred with stops at other POAs)
+
+{r,s}(N)k → k / _V
+
+Sb Sk Sɡ → b ? ɡ / _V
+
+n̥ → l̥ → h / %_V
+
+{r,s} → ∅ / %_V
+
+{r,s}N → N̥ → hṼ → hV
+36.3.2 rGyalrongic
+36.3.2.1 Proto-rGyalrongic to bTshan La
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+p b çp çb sP rP Np Nb pr {br,pj} bj → pʰ p ʝb çp sp rpʰ mpʰ mb br pʰj pj
+
+P → p / l_
+
+t d Nt Nd st sd çT tr (ç)dr KT → tʰ t Ntʰ md zd st çtj trh (ç)tr kt
+
+k sk kr ɡ Pɡ sɡ Nɡ (s)ɡr çK rK Kç → kʰ zɡw dr Nɡ pk sk mk (s)kr çk rɡj ɡçkr
+
+(ʔ)kj (s)ɡj Nkj → (k)tç (s)kj Ndʒ
+
+çr Nç → dr mkʰj
+
+K → ʔ / _s
+
+K → k / _ç
+
+C[+ sibilant] → s / _w
+
+Pç → mʃ
+
+TS → dʒ / l_
+
+NTS PTS KTS sTS çTS → {Ndz,mts} kts(ʰ) ptsʰ sts {sts,rj}
+
+(r)ts (r)dz → (r)tsʰ (r)ts
+
+∅ → j / çm_
+
+N → m / _{ŋ.nj}
+
+rnj → rɲ ?
+
+w → ʔ / something to do with either back vowels or prefixes
+
+Rhymes:
+
+n → ∅ / a_
+
+ŋ → ∅ / i_
+
+u → a / _k
+
+u → i / _{r,s}
+
+o → e / _s
+
+a → e / _m
+
+aj → i
+
+ew iw → im ju
+
+i → e / _s
+36.3.2.1.1 Proto-rGyalrongic to Chos Kia
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+b → m / _j
+
+p çp (ç)b rP Np Nb pr {br,pj} → p. ç.w (ç)p rp. kj m.p n.br p.j
+
+P → p / l_
+
+t st tr d sd (ç)dr Nt çT KT → t. s.d tr. t s.t (ç.)tr m.t. n.dr ɡ.t
+
+r → ∅ / _t
+
+çK → ç.k
+
+N → ∅ / _ɡ
+
+sk rK → j sɡ
+
+kj Nkj ʔkj ɡj sɡj → kj. nj ɡ.tsʰ kj skj.
+
+kr (s)ɡr → n.br (s)kr
+
+C[+ sibilant] → s / _w
+
+K → ɡ. / _ç
+
+Nç → n.pj.
+
+çl → sj
+
+Kts → ɡ.tsʰ.
+
+lTS → l.dz
+
+ts (r)dz dʒ PTS KTS sTS çTS → {tsʰ,s} (r)ts tsʰ ɡ.ts s.{ts,pj} {s.ts,br}
+
+rm rn → mj rw
+
+çm çnj → ç.n
+
+N → m. / _ŋ
+
+Nn → m / _j
+
+w → ∅ / ŋ_
+
+rnj → r.mj
+
+j → ∅ / n_
+
+Rhymes:
+
+ut uk → ud oɡ
+
+s → ∅ / u_
+
+uj → ui
+
+ok → iɡ
+
+o → e / _l
+
+oj → oi
+
+a ap at ar am aj → e eb e(d) er om e.i
+
+{k,j} → ∅ / i_
+
+e → i / _#
+
+et ej → o e.i
+
+iw → jo
+
+i → e / _m
+
+ip it → ib o
+36.3.2.1.2 Proto-rGyalrongic to Hanniu
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+NB: These changes are likely very incomplete. The source did not have much to say about this language.
+
+Initials:
+
+p k ts → p. k. tʃ.
+
+NTS → mnj
+
+m → mt.
+
+C[+ sibilant]w → s
+
+çl → rts
+
+Finals:
+
+k → ∅ / {u,a}_
+
+or → ro
+
+an {at.is} → o ie
+
+t → ∅ / i_
+36.3.2.2 Proto-rGyalrongic to Japhug
+
+Pogostick Man, from Jacques, Guillaume (2004), “Phonologie et Morphologie du Japhug (rGyalrong)”. UniversitÃ© Paris-Diderot - Paris VII <tel-00138568>. <https://tel.archives-ouvertes.fr/file/index/docid/138568/filename/these-japhug.pdf>
+
+NB: This source is in French and looks to at least sometimes use a transcription that isn’t IPA.
+
+u o → ɯ u / _#
+
+aŋ → o / _#
+
+ɔk → ɤɣ / _#
+
+ɔ → ɤ / _{t,r}# (possibly also _s# dialectally)
+
+a → o / _m#
+
+ʑ j → ndʑ ʑ
+
+b → w / #{z,r}_
+
+ŋ → m / #_kʰ
+36.3.2.2.1 Proto-rGyalrongic to Kham To
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+p b pr br çp → p.j p br pj ʃb
+
+d(r) → t
+
+çT → ʃt
+
+r → s / _k
+
+k (N)ɡ → k. (m)k
+
+Nkj ɡj sɡj → mj ts stʃj
+
+sɡr → skr
+
+C[+ sibilant]w ç Pç Nç çl → s ʂ ʃ mʃ ʃl
+
+ts {dz,KTS} NTS rdz dzl dʒ → s ts {dz,mtʃ.} rts tsl tʃ.
+
+ç → ʃ / _N
+
+ŋ(w) N{ŋ,nj} → ȵ mɳ
+
+j → ∅ / {ʃ,r}n_
+
+Rhymes:
+
+u → o / _k
+
+uj → os
+
+op → u
+
+at → {at,ɛ,ed}
+
+an → ia
+
+ŋ → ɳ / {o,a}_
+
+aj → oi
+
+e → i / _{s,#}
+
+et → o
+
+ej → ai
+
+i → o / _m
+
+{ŋ,j} → ∅ / i_
+36.3.2.2.2 Proto-rGyalrongic to lCog Rtse
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+(N)p Nb sP çp çb pr br {p,b}j → (m)pʰ (m)p sp ʝb çp br pʰj pʰj
+
+(N)t (N)d st sd KT çT tr dr çtr → (N)tʰ mt zd st kt çt(j) trh tr çtr
+
+(P)ɡ sɡ çK Nɡ k sk rk (s)ɡj (ʔ)kj → (p)k sk çk mk kʰ zɡ Nɡ (s)kj (ʔ)kʰj
+
+Nkj (s)ɡr Kç kr skr ɡr → mɡj (s)kr ɡçkr kʰr zɡr Nɡr
+
+K → ʔ / _s
+
+C[+ sibilant] → s / _w
+
+N P K → m p k / _ç
+
+l → ∅ / #ç_
+
+ts (r)dz dzl dʒ NTS PTS Kts KTS sTS çTS → tsʰ (r)ts Ndz tsl ts ptç ktç kts sts {s,ç}ts
+
+LTS → ldʒ
+
+N → m / _{ŋ,ɲ}
+
+*w → ʔ / something to do either with back vowels or prefixes
+
+Rhymes:
+
+uŋ → ak
+
+om → {o,a}m
+
+ew iw → i jo
+36.3.2.2.3 Proto-rGyalrongic to Pati
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+NB: These changes are likely very incomplete. The source did not have much to say about this language.
+
+Initials:
+
+d → l
+
+ts dʒ NTS → {s,tʃ.} tʃ. m
+
+s → ʃ / _n
+
+Rhymes:
+
+n → ∅ / a_
+
+im it ik is ij → em u e es e
+
+uk → o
+36.3.2.2.4 Proto-rGyalrongic to Suo Mo
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+{p,b} Np pr {s,r}P çb Nb → p mp mbr sp ʃp p.s
+
+Nt tr d KT çT → mt. tʂ t kt ʃt
+
+kr rk {rK,Pɡ} ɡ Pɡ sɡ → k.r rk. pk k sk
+
+ɡj → cç ? (might be → tsç?)
+
+ʔkj → ktʃ.
+
+ç → zɡ / _r
+
+ɡ → ∅ / #_r
+
+rs → sr
+
+C[+ sibilant] → s / _#
+
+lts rts NTS PTS STS → lɖʐ rts. {mdzr,mtʃ} nt. sts
+
+ts dʒ → tʃ. tʃ
+
+ŋ → ȵ
+
+nj → ɲ / #(r)_
+
+j → dz / #_
+
+Rhymes:
+
+u → o / _p
+
+a → o / _r
+
+es er → or ər
+
+e → iɛ
+
+i → a / _t
+
+i → iɛ / _s
+
+i → ɐ / _m
+36.3.2.2.5 Proto-rGyalrongic to Trung
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+NB: These changes are likely very incomplete. The source did not have much to say about this language.
+
+Initials:
+
+kr → dz
+
+z → k
+
+C[+ sibilant]w → s
+
+dʒ → tsh
+
+Rhymes:
+
+un → ial
+
+an → a(i)
+
+i → əi / _#
+
+i → iə / _m
+
+it → u
+36.3.2.2.6 Proto-rGyalrongic to Tsa Ku Nao
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+∅ → n / _pr
+
+P → p / r_
+
+çb → ʂp
+
+Nb → p.
+
+d(r) çT → t ʃt
+
+k {sɡ,çK} Nɡ rK → k. sk mɡ nk
+
+kj → tʃ.
+
+z → ts / r_
+
+C[+ sibilant]w → sj
+
+(P)ç Nç çl → (b)ɕ np.j ʂl
+
+ts dz NTS KTS sTS → tʃ ts {ts,m} ɡts sp
+
+s → ʂ / _n
+
+Nnj → mɲ
+
+nj rnj → nj rɲ
+
+∅ → dz / #_j
+
+Finals:
+
+ut u{k,n} ur → ud uo uɛ
+
+uj → ue
+
+om → {on,am}
+
+a(t) → ɛ / _#
+
+ap → ɛk
+
+an → ɿɛ
+
+ew e ej → ə i ei
+
+i → e / _m
+
+i i{t,k} → {ə,iɛ} ə
+
+iŋ → ʅ
+
+j → ∅ / i_
+36.3.2.2.7 Proto-rGyalrongic to Tzu Ta
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+P → p / s_
+
+P t → pdz tʃ / r_
+
+Np Nb Nt Nɡ Nç → sts mp mtʰ mk ntsʰdz
+
+p → b / _r
+
+{d,KT} st → tʃ zdʒ
+
+dr çdr → ʈ ʂʈdz
+
+çK → ʂk
+
+k rk kr kj Nkj ɡr → kʰdz nɡ kʰr tʃh dʒ nkʰr
+
+ɡ → ∅ / _r
+
+Pç → b.ç
+
+çl → sɬ
+
+C[+ sibilant]w ç → swdz sdz
+
+NTS KTS lTS → mʈʂ {kts,ʈʂʰ} bɖʐ
+
+ts dz rdz dʒ → {ʈʂ,ʒ} tsj rtsʰ ʈʂ
+
+∅ → j / rN_
+
+ç → ʂ / _m
+
+ŋ(w) → ȵ(wj)
+
+Nnj → mɲ ?
+
+j → s / #_
+
+Rhymes:
+
+uk uŋ → {u,o} e
+
+o → e / _s
+
+s → ∅ / u_
+
+a → e / _(p)
+
+t → ŋ / a_
+
+aw aj → au ai
+
+e i → i a / _m
+
+it ik → o ek
+
+iw ij → iu ei
+36.3.2.2.8 Proto-rGyalrongic to Wassu
+
+Pogostick Man, from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47
+
+Initials:
+
+pr b → br p
+
+d KT → l kt
+
+k kr kj ɡ → k. k.r ts. ɡ
+
+ɡ ç → ∅ zɡ / _r
+
+Pç çl → ʃ ʃn
+
+ts dzl NTS → {tʃ.,j} tsl m
+
+s → ʃ / _n
+
+ŋ → j
+
+Nnj çnj → mn ʃn
+
+Rhymes:
+
+uk → o
+
+o → ə / _n
+
+t → ∅ / a_
+
+an ap → ai ie
+
+aj → ui
+
+ew → i
+
+it ik → o i
+
+is → eu
+
+im iŋ → wa ie
+
+ij → e
+36.3.3 Tibetic
+36.3.3.1 Old Tibetan to Amdo dialects
+
+Pogostick Man, from Jacques, Guillaume (2004), “Phonologie et Morphologie du Japhug (rGyalrong)”. Université Paris-Diderot – Paris VII <tel-00138568>. <https://tel.archives-ouvertes.fr/file/index/docid/138568/filename/these-japhug.pdf>
+
+NB: This source is in French and looks to at least sometimes use a transcription that isn’t IPA.
+
+{d,ɡ,s,l,r} → {h,r} / #_
+
+ʃ → x / #_ (some dialects, never when following preinitials)
+
+k(ʰ){r,j} ɡ{r,j} → tɕ(ʰ) dʑ
+
+pʰ b → h w
+
+i → ə / _#
+
+sr → ʂ / #_
+
+s → either i or a diphthong ending in i? / _#
+
+d → l / _# (some dialects)
+
+t → l / _# (further development in bLa-brang) 
+

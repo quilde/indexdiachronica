@@ -1,0 +1,349 @@
+
+21 Lakes Plain
+
+Clouse (1993) reconstructs the following phonological inventory for Proto-Lakes Plain:
+	Bilabial 	Alveolar 	Velar
+Stop 	p b 	t d 	k
+	Front 	Central 	Back
+High 	i 		u
+Mid 	e 		o
+Low 		a
+
+Additionally, *ɾ is of uncertain reconstruction and is most likely an allophone of *d.
+
+For the following sound changes, a circumflexed vowel refers to an “extra-high” or “fricativized” vowel. There are a few cases where I may have either missed, misread, or put in an extraneous sound change to extra-high vowels; many of these were due to my perception of changes involving extra-high vowels being listed without a change creating them.
+
+(From Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17)
+21.1 Proto-Lakes Plain to Proto-Far West
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+ɾ → ∅
+
+ku →∅ / #_
+
+d → ɾ / V_V
+
+∅ → echo vowel / C_CV
+
+CV → ∅ / _# (possibly only when CV_#, possibly sporadic)
+
+e o → ɛ ɔ (?)
+21.1.1 Proto-Far West to Awera
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+k → ɣ / V_V
+
+b → β~m / #_V[-high]
+
+b d ɡ → β~w ɾ~∅ ɣ / V_V
+
+ti → s / #_V
+
+t d → t~ɾ~n n / #_
+
+iiɛ Vdiɛ → ijɛ βe
+21.1.2 Proto-Far West to Saponi
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p d → p~f n / #_
+
+ti → s / #_V
+
+b → β~m / #_V[+ low]
+
+p b d k → p~f w ɾ ɡ~ɣ / V_V
+
+iiɛ Vdiɛ → dzɛ ɾɛ
+21.1.3 Proto-Far West to Rasawa
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p b d k → ɸ β ɾ x~k / V_V
+
+ti → s / #_V
+
+b → β~m / #_V[+ low]
+
+iiɛ Vdiɛ → ijɛ βie
+21.2 Proto-Lakes Plain to Proto-Tariku
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p d → ɸ ɾ / V_V
+21.2.1 Proto-Tariku to Proto-Central Tariku
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+∅ → echo vowel / C_CV
+
+ku → b
+
+p k → ɸ ∅~k
+
+ti → s~ti / _V
+
+d → ɾ~d / V_V
+
+iC uC → î û / _{C,#}
+
+a → e (?)
+
+e o → ɛ ɔ
+21.2.1.1 Proto-Central Tariku to Edopi
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+C → ∅ / _#
+
+ɸ → h
+
+b k → m~b ∅ / #_
+
+d → d~n~l / #_a
+
+d → dz / _i
+
+s → s~t
+
+∅ → dz / _î
+
+ɛ → e
+21.2.1.2 Proto-Central Tariku to Iau
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+CV → ∅ / _#
+
+ɸ → ɸ~h
+
+b k → m~b ∅ / #_
+
+d → d~l~n / #_a
+
+ɾ → ∅ / V_V
+
+“Some vowel coalescence takes place following the above; the author notes that the vowels often take on the tonal characteristics of the absorbed vowel”
+
+au → ɔ
+21.2.2 Proto-Tariku to Proto-East Tariku
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+ti → s~ti / _V
+
+ɾ → ɾ~∅ / V_V
+
+a → e (?)
+
+e → ɛ
+21.2.2.1 Proto-East Tariku to Biritai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → h~ɸ
+
+C → ∅ / _#
+
+V → ∅ / di_
+
+iC uC → î û / _{C,#}
+
+∅ → dz / î_V
+
+ku → b
+
+k → ∅ / _V̂
+21.2.2.2 Proto-East Tariku to Doutai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → p~ɸ
+
+C → ∅ / _#
+
+di → dz / _V
+
+iC uC → î û / _{C,#}
+
+V → dz / _V̂
+
+ɾ → ∅ / ! _C
+21.2.2.3 Proto-East Tariku to Eritai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → p~h
+
+b C → ∅ d / _#
+
+diV → dz
+
+iC uC → î û / _{C,#}
+
+∅ → dz → î_V
+
+iC → iC~i / _{C,#} (not sure how this plays in with the change mentioned earlier about extra-high vowels; I must have misread something)
+21.2.2.4 Proto-East Tariku to Kai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ
+
+C → ∅ / _#
+
+V → ∅ / di_
+
+iC uC → î û / _{C,#}
+
+∅ → dz / î_V
+21.2.2.5 Proto-East Tariku to Obokuitai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b C → b̚ ɡ̚ / _#
+
+V → ∅ / di_
+
+iC uC → î û / _{C,#}
+
+∅ → dz / îV
+21.2.2.6 Proto-East Tariku to Sikaritai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → p~h
+
+b C → b~∅ {d,ɡ} / _#
+
+diV → dz
+
+iC uC → î û / _{C,#}
+
+∅ → dz / î_V
+
+ik → ɡ / {s,k,p}_ ?
+21.2.2.7 Proto-East Tariku to Waritai
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p d → p~ɸs d~t
+
+V → ∅ / di_
+
+C → ∅ / _#
+
+iC uC → î û / _{C,#}
+
+ɾ → ∅ / ! C_
+
+k → ∅ / _V̂
+
+∅ → dz / î_V
+
+ik → ɡ / {s,p}_ ?
+21.2.3 Proto-Tariku to Proto-West Tariku
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ
+
+ɾ → ɾ~∅ / V_V
+
+k → k~∅
+
+iC uC → î û / _{C,#}
+21.2.3.1 Proto-West Tariku to Deirate
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~l~∅ k~x~ɡ~ɣ / V_V
+
+b → m / #_a
+
+b → b~ᵐb
+
+ti di → s dz / _V
+21.2.3.2 Proto-West Tariku to Faia
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~∅ k~x~ɡ~ɣ / V_V
+
+b d → m n / #_a
+
+ti → s / _V
+21.2.3.3 Proto-West Tariku to Fayu
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~∅ k~x~ɡ~ɣ / V_V
+
+b d → m n / #_a
+
+b d → b~ᵐb d~ⁿd
+
+ti di → s dz / _V
+21.2.3.4 Proto-West Tariku to Kirikiri
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~l~∅ k~x~ɡ~ɣ / V_V
+
+b d → m n / #_a
+
+b d → b~ᵐb d~ⁿd
+
+ti → s / _V
+21.2.3.5 Proto-West Tariku to Sehudate
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~∅ k~x~ɡ~ɣ / V_V
+
+b → m / #_a
+
+b → b~ᵐb
+
+ti di → s dz / _V
+21.2.3.6 Proto-West Tariku to Tause
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~∅ k~x~ɡ~ɣ / V_V
+
+b → m / #_a
+
+b d → b~ᵐb d~ⁿd
+
+ti di → s j / _V
+21.2.3.7 Proto-West Tariku to Weirate
+
+Pogostick Man, from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17
+
+p → ɸ~h
+
+b d k → b~β ɾ~l~∅ k~x~ɡ~ɣ / V_V
+
+b d → m n / #_a
+
+b d → b~ᵐb d~ⁿd
+
+ti di → s dz / _V 
+

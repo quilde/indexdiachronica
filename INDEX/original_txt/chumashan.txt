@@ -1,0 +1,50 @@
+
+13.1 Proto-Chumash to Barbareño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+R[- glottalized]VˀR → ˀRVR[- glottalized] / _$
+
+R[- glottalized]VOʼ → ˀRVO[- ejective] / _$
+13.2 Proto-Chumash to Cruzeño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+k → tʃ “(‘in certain cases’)”
+13.3 Proto-Chumash to Inseño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+tʼ qʼ → t q
+
+ˀN ˀw → N w
+13.4 Proto-Chumash to Obispeño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+Sʼ → ʔ
+
+q k → {q,k} {k(ʃ),tʲ} (allophonic)
+
+{ˀm,ˀn} → {∅,ʔ} (the former is more likely)
+
+ˀw → w (may have remained glottalized)
+
+ˀj → ∅
+13.5 Proto-Chumash to Purisimeño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+ˀj → ∅
+
+qʼ → q
+13.6 Proto-Chumash to Ventureño
+
+CatDoom, from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http://linguistics.berkeley.edu/~survey/documents/dissertations/klar-1977.pdf>
+
+ʔ → ∅ / _#
+
+pʼ kʼ qʼ → p k q
+
+ˀm ˀn ˀl ˀj → m n l j 
+

@@ -1,0 +1,155 @@
+
+16 Extended West Papuan
+16.1 Tabla-Sentani
+
+Proto-Tabla-Sentani is reconstructed by Gregerson and Hartzler (1987) as having had the following phonology:
+	Bilabial 	Alveolar 	Palatal 	Velar
+Nasal 	m 	n 		
+Plosive 	p b 	t d 		k
+Approximant 			j 	w
+	Front 	Central 	Back
+Close 	i 		u
+Mid 	e 	ə 	o
+Open 		a 	
+
+(From Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.)
+16.1.1 Proto-Tabla-Sentani to Nafri
+
+Pogostick Man, from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.
+
+p k → b ɡ / V_V
+
+p t → f {s,h} / #_
+
+N → ŋ / _#
+
+e → i / _(C)i
+
+e → æ / {P,K}_
+
+e → æ / _P
+
+e → ə / _C{a,ə,u} (seems to have become a in a few instances)
+
+ə → o / _(C)o
+
+ə → e / _{C[+palatal],E}
+
+ə → æ / ! _{B,K,H}
+
+a → æ / _(C)e
+
+a → æ / i(C)_
+
+o → e (sporadic, highly unusual)
+16.1.2 Proto-Tabla-Sentani to Central Sentani
+
+Pogostick Man, from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.
+
+p k → b ɡ / V_V
+
+p b t → f p {s,h} / #_
+
+d → l / medially
+
+N → m / _#
+
+e → i / _(C)i
+
+e → æ / {P,K}_
+
+e → æ / _P
+
+e → ə / _C{a,ə,u} (seems to have become a in a few instances)
+
+ə → o / _(C)o
+
+ə → e / _{C[+palatal],E}
+
+ə → æ / ! _{B,K,H}
+
+a → æ / _(C)e
+
+a → æ / i(C)_
+
+o → e (sporadic, highly unusual)
+16.1.3 Proto-Tabla-Sentani to Eastern Sentani
+
+Pogostick Man, from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.
+
+p k → b ɡ / V_V
+
+p t → f {s,h} / #_
+
+d → l / medially
+
+N → m / _#
+
+e → i / _(C)i
+
+e → æ / {P,K}_
+
+e → æ / _P
+
+e → ə / _C{a,ə,u} (seems to have become a in a few instances)
+
+ə → o / _(C)o
+
+ə → e / _{C[+palatal],E}
+
+ə → æ / ! _{B,K,H}
+
+a → æ / _(C)e
+
+a → æ / i(C)_
+
+o → e (sporadic, highly unusual)
+16.1.4 Proto-Tabla-Sentani to Western Sentani
+
+Pogostick Man, from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.
+
+p k → b ɡ / V_V
+
+s → t / #_
+
+N → ŋ / _#
+
+e → i / _(C)i
+
+e → æ / {P,K}_
+
+e → æ / _P
+
+e → ə / _C{a,ə,u} (seems to have become a in a few instances)
+
+ə → o / _(C)o
+
+ə → e / _{C[+palatal],E}
+
+ə → æ / ! _{B,K,H}
+
+a → æ / _(C)e
+
+a → æ / i(C)_
+
+o → e (sporadic, highly unusual)
+16.1.5 Proto-Tabla-Sentani to Tabla
+
+Pogostick Man, from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1/2 (Summer – Winter, 1987), 1 – 29.
+
+d → r / medially
+
+N → ŋ / _#
+
+i → ∅ / V_ (with a few exceptions)
+
+Some allophony triggered where p~ɸ, and probably some others
+
+e → ə / unstressed (possibly only in disyllables?)
+
+oi → oe
+
+Some vowel assimilations, mostly dealing with central vowels
+
+o → e (sporadic, highly unusual) 
+

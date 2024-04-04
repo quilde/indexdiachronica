@@ -1,0 +1,225 @@
+
+23.1.1.1 Chibchan
+
+The following phonemic inventory is adapted from Wheeler (1972).
+	Labial 	Alveolar 	Palatal 	Velar 	Glottal
+Nasal 	m 	n
+Stop 	p b 	t d 		k kʷ ɡ ɡʷ
+Affricate 		ts 	tʃ
+Fricative 		s 		x 	h
+Glide 	w 			j
+	Front 	Central 	Back
+High 	i 		u
+Mid 	e 		o
+Low 		a
+
+Information in this section may be missing or incomplete, as I found the source document using Google Books and several pages were not available in the preview.
+
+(From Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108)
+23.1.1.1.1 Proto-Chibchan to Arhuaco
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+s → kh / _(V)k
+
+s d → z r / _(V)j
+
+ts h → s ∅
+
+∅ → u / w_V
+
+j → ∅ / i_V
+
+j → {j,∅}
+
+e → a
+
+i → ∅ / a_
+
+ia → ə (“unspecified”)
+
+i → ∅ / C”V(C)_
+
+i → ∅ / _(C)”V
+23.1.1.1.2 Proto-Chibchan to Chibcha
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+b → p / _Vkʷ
+
+Vs → h / n_
+
+V → ∅ / s_j (sometimes)
+
+s → h / V_V
+
+ts → {s,z}
+
+w → {w,∅}
+
+j → ∅
+
+n → {n,∅}
+
+a → ∅ / _i, when unstressed
+
+a → i / _Ci
+
+a → ∅ / _u
+
+u → o / _Ca
+
+u → ∅ / _a
+
+i → u / _(C)u
+
+i → a / _(C)a
+
+i → e / _(C)e
+
+a {e,i} → i ∅ / C”V(C)_
+
+i → ∅ / _(C)”V
+
+a → ∅ / _”V
+23.1.1.1.3 Proto-Chibchan to Kogi
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+s → ∅ / #_
+
+s → {ʃ,tʃ} / _i
+
+s → h / _Vn
+
+nVs dVs → n(V(s)) ʒ(Vʒ)
+
+s h → {s,tʃ} {h,∅}
+
+j → i / C(V)_
+
+n j → {n,∅} {j,∅}
+
+e → a
+
+i → ∅ / a_ (sometimes)
+
+u → w / _a
+23.1.1.1.4 Proto-Chibchan to Marocacero
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+s → {ts,ʃ} / _i
+
+s → {s,ts}
+
+d(V)j s(V)j → lʲ dʒ
+
+d → l
+
+a → ∅ / _i
+
+e → a
+
+i → ə / oC_
+
+i → ∅ / C”V(C)_
+
+i → ∅ / _(C)”V
+23.1.1.1.5 Proto-Chibchan to Motilón
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+ɡ → ∅
+
+s → {s,x,tʃ~ʃ}
+
+s → {ʃ,tʃ} / _i
+
+s → x / i_
+
+h → ∅
+
+{w,m} → b
+
+s(V)d → dʲ
+
+d → ∅ / V_s
+
+e → a
+
+i → ∅ / a_ (usually; sometimes the diphthong is retained or → aj)
+
+a → i / iC_
+
+u → ∅ / a_
+
+u → ∅ / _a
+
+{ue,aja} → ə
+
+{u,i} → ∅ / C”V(C)_
+
+i → ∅ / _(C)”V
+
+e → u / uC_
+
+e → ∅ / u_C
+23.1.1.1.6 Proto-Chibchan to Tunebo
+
+Pogostick Man, from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108
+
+ɡ ɡʷ → ∅ b
+
+{d(V)s,n(V)j} n(V)s → r {VsV,r}
+
+d(V)j → r(V)
+
+d → r
+
+s → h / _(V)C
+
+ts tʃ → tʃ s
+
+m n h j → b {n,r,∅} {h,∅} {j,∅}
+
+e → a
+
+ai → e / if the *a is not stressed
+
+a → ∅ / _u
+
+i → a / _Ca
+
+{a,i} → ∅ / C”V(C)_
+
+i → ∅ / _(C)”V
+
+e → ∅ / u_C
+
+e → i / “conditioning undetermined”
+23.1.2 Proto-Lenmichian to Proto-Lencan
+
+Pogostick Man, from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85
+
+b d → m n / _V[+ nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowels”)
+
+b d → p l
+
+{ʔ,h} → ∅
+
+{s,ts} → tsʼ
+
+o a → {u,o} {a,e}
+23.1.3 Proto-Lenmichian to Proto-Misumalpan
+
+Pogostick Man, from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85
+
+b d → m n / _V[+ nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowels”)
+
+b d → {b,p} l
+
+{ʔ,h} → ∅
+
+ts → s 
+

@@ -1,0 +1,70 @@
+
+39 Tanoan
+
+Proto-Tanoan is reconstructed as having had the following consonantal phonology, at least for phones in initial position:
+	Bilabial 	Alveolar 	Velar 	Glottal
+Nasal 	m 	n 		
+Stop 	p pʰ pʼ b 	t ts tʰ tsʰ tʼ tsʼ d dz 	k kʷ kʰ kʷʰ kʼ kʷʼ ɡ ɡʷ 	ʔ
+Fricative 		s 		h
+Glide 	w 			
+
+Only initials are reconstructed here. Vowels are believed to have had nasality and possibly length, though no correspondences are given here for sure. The affricates, as per Hale (1967), appear to have patterned as stops.
+
+(From Hale, Kenneth (1967), “Toward a Reconstruction of Kiowa-Tanoan Phonology”. International Journal of American Linguistics, 33.2:112 – 120; and Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Tanoan_languages&oldid=496916321>)
+39.1 Proto-Tanoan to Jimez
+
+Pogostick Man, from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Tanoan_languages&oldid=496916321>, citing Hale, Kenneth (1967), “Toward a Reconstruction of Kiowa-Tanoan Phonology”. International Journal of American Linguistics, 33.2:112 – 120
+
+h → ∅
+
+p b → ɸ ɱ
+
+ts dz → s z
+
+{tʰ,tsʰ} → ʃ
+
+s → c
+
+tsʼ → tʼ
+
+d → n / _V[+nas]
+
+k(ʷ)ʰ kʷ(ʼ) ɡ ɡʷ → h ɡ k kʷ
+39.2 Proto-Tanoan to Kiowa
+
+Pogostick Man, from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Tanoan_languages&oldid=496916321>, citing Hale, Kenneth (1967), “Toward a Reconstruction of Kiowa-Tanoan Phonology”. International Journal of American Linguistics, 33.2:112 – 120
+
+ʔ → ∅
+
+ts tsʰ tsʼ dz → t tʰ tʼ d
+
+w → j
+
+kʷ kʷʰ kʷʼ ɡʷ → k kʰ kʼ ɡ
+39.3 Proto-Tanoan to Taos
+
+Pogostick Man, from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Tanoan_languages&oldid=496916321>, citing Hale, Kenneth (1967), “Toward a Reconstruction of Kiowa-Tanoan Phonology”. International Journal of American Linguistics, 33.2:112 – 120
+
+b → m
+
+s → ɬ
+
+ts tsʰ tsʼ dz → tʃ s tʃʼ j
+
+d → l / _V[-nas]
+
+d → n / _V[+nas]
+
+kʰ kʰʷ ɡ ɡʷ → x xʷ k w
+39.4 Proto-Tanoan to Tewa
+
+Pogostick Man, from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Tanoan_languages&oldid=496916321>, citing Hale, Kenneth (1967), “Toward a Reconstruction of Kiowa-Tanoan Phonology”. International Journal of American Linguistics, 33.2:112 – 120
+
+pʰ tʰ tsʰ → f θ s
+
+b → m
+
+dz → {j,dʒ}
+
+kʰ kʷʰ ɡʷ → x xʷ w 
+

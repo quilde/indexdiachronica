@@ -1,0 +1,187 @@
+
+43 Uto-Aztecan
+
+The Wikipedia provides the following reconstruction for the phonology of Proto-Uto-Aztecan, which here is adapted with slight modifications as to the layout:
+	Bilabial 	Coronal 	Palatal 	Velar 	Glottal
+Nasal 	m 	n 		ŋ 	
+Plosive 	p 	t 		k kʷ 	ʔ
+Fricative 		s 			
+Affricate 		ts 			
+Rhotic 		r 			
+Approximant 			j 	w 	
+	Front 	Central 	Back
+Close 	i 	ɨ 	u
+Mid 			o
+Open 		a 	
+
+Quoth the Wiki, “*n and *ŋ may have actually been *l and *n, respectively.” It should be noted that there exists some discrepancy between this given reconstruction and in that set up for the studies deriving the reconstructions below. Radius Solis includes *h and *l as distinct phonemes as per the source he cited.
+
+For the following Uto-Aztecan changes, Vu, Vs, and Vn refer to normal (“unaffecting”), “suspending”, and “nasalizing” vowels, respectively. According to Radius Solis, “Reconstructed PUA had three sets of vowels; this book calls them ‘suspending’, ‘unaltering’, and ‘nasalizing’. The nasalizing vowels likely were actually nasal, but it’s uncertain; their existence was deduced only by the sound changes that revolved around them. There’s few good guesses yet about the nature of the ‘suspending’ vowels, but their existence is likewise deducible from the sound changes that have been affected by them across a majority of the UA family - more changes than from the nasalizing series, occurring in all UA branches, enough to be pretty certain that it was a reality in PUA.”
+
+(From Wikipedia contributors (2011), “Proto-Uto-Aztecan language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Proto-Uto-Aztecan_language&oldid=406159488>; and from Radius Solis’ changes listed on KneeQuickie and in the TCL thread proper)
+43.1 Proto-Uto-Aztecan to Comanche
+
+Radius Solis, from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17
+
+p t ts s → v r ∅ h
+
+∅ → h / Vu_k
+
+s → ∅ / Vn_
+
+{ŋ,l} → n
+
+{w,j} → ∅ / medial
+43.2 Proto-Uto-Aztecan to Hopi
+
+Radius Solis, from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17
+
+p → v / Vn_
+
+k → q / _V[+low]
+
+i → j / h_ ! _#
+
+l h → n ∅ / medially
+
+w → l / {#,V[+low]}_V[+low]
+
+w → ŋʷ / ɨn_
+
+o → ø
+43.3 Proto-Uto-Aztecan to Luiseño
+
+Radius Solis, from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17
+
+p → v / {Vn,ɨ}_ (the latter “sometimes”)
+
+p → v / “other conditions not known”
+
+t → l / medially
+
+ts → tʃ
+
+k → q / #_V[+low]
+
+k → q / an_
+
+“[I]solated other instances of k → q occur with uncertain conditions”
+
+k → x / a_
+
+ʔ → ∅ / #_
+
+s → ʃ
+
+l → n / medially
+
+o ɨ → e o
+
+V → ∅ / “in some final syllables (conditions are unknown and it varies by dialect)”
+43.4 Proto-Uto-Aztecan to Nahuatl
+
+Radius Solis, from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17
+
+t → tɬ / _{a,u}
+
+p → ∅ / {#,Vs}_
+
+s ts → ʃ tʃ / _i
+
+{ʔ,h} → ∅
+
+ŋ → n
+
+m → n / _#
+
+l → n / #_
+
+w → ∅ / _o
+
+ɨ u → e {i,e} “(all */u/ affected, but conditions for when it became /i/ or /e/ are not known)”
+
+“(What happened to PUA */r/ is not known. Nahuatl has no cognates that would have a reflex.)”
+43.5 Numic
+43.5.1 Mono-Kawaiisu
+43.5.1.1 Proto-Mono-Kawaiisu to Kawaiisu
+
+Pogostick Man, from Klein, Sheldon (1959), “Comparative Mono-Kawaiisu”. International Journal of American Linguistics 25(4):233 – 238
+
+Possible development of vowel harmony
+
+hkʷ hʔ (h)S Sː → w ʔ S[+ voiced] S[- voiced - long] / V_V
+
+ts → z / V_V
+
+hts → z / V_i
+
+h → ∅ / V_tsV
+
+h → ∅ / _{n,s,ʔ}
+
+p → b / m_
+
+*nː became “an apical nasal with devoiced release”
+
+jː → j
+
+a → o / P_
+
+uV Vː → uː Vː (not sure if this occurs before or after the previous change)
+
+k → ∅ / V_wV
+43.5.1.2 Proto-Mono-Kawaiisu to Mono
+
+Pogostick Man, from Klein, Sheldon (1959), “Comparative Mono-Kawaiisu”. International Journal of American Linguistics 25(4):233 – 238
+
+(h)k → (h)q / _{o,a} ! ɨ_
+
+kw → q / _a
+
+(h)kʷ → hq(ʷ) / _{o,a}
+
+m → h / _p
+
+nː → h
+
+ɨ → i / _h
+
+uV → u(i)
+43.6 Proto-Uto-Aztecan to Tohono O’odham
+
+Radius Solis, from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17
+
+p → w / {#,Vs}_
+
+t → tʃ / _V[+high]
+
+ts → s / _i
+
+kʷ → b
+
+h → ʔ / #_
+
+s ŋ → h n
+
+n → ɲ / _V[+high]
+
+l → ɲ / #_ “(in doubt; initial *l occurs in too few cognates to be sure. Apparently PUA initial *l was rare and is of questionable certainty whether it existed at all.)”
+
+l → ɭ
+
+ɭ → ɖ / _a
+
+w → ɡ
+
+j → dʒ / _V[+high]
+
+j → d / _V[+low]
+
+V → ∅ / “when in the first syllable of a bisyllabic morpheme, if after a morpheme boundary in the word (all other first-syllable vowels have non-zero reflexes)”
+
+i → ∅ / ts_#
+
+l → i / {p,m,k(ʷ),w}_# “in all dialects, and varies by dialect after other consonants”
+
+“What happened to PUA */r/ in O’odham is difficult to say. There are only two known cognates, each showing a different reflex: /ɭ/ and /ɖ/” 
+

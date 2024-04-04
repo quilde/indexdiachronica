@@ -1,0 +1,6232 @@
+
+17.1 Albanian
+17.1.1 Proto-Indo-European to Gheg Albanian
+
+Pogostick Man, from Wikipedia contributors (2013), “Albanian language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Albanian_language&oldid=582390175>
+
+d dʱ → ð / V_V
+
+d dʱ → ð / r_
+
+ḱ → s / _{u̯,u,i̯,i}
+
+ḱ → k / _R
+
+ḱ → {ts,tʃ} (“[a]rchaic relic”)
+
+ḱ → θ
+
+kʷ → s / _”E?
+
+kʷ → c / _B?
+
+kʷ → k / else?
+
+ɡ́(ʱ) → d / %_C[+sibilant]
+
+ɡʷ(ʱ) → {ɡ,z}
+
+bʱ dʱ ɡ́(ʱ) → b d dh
+
+s → ɟ / #_
+
+s → ʃ / V{i̯,u̯,r,k}_V
+
+sd → θ / medial
+
+sḱ → h / medial
+
+sp → f / medial
+
+st → ʃt / medial
+
+s → θ / sometimes, involving “[d]issimilation with following vowel”
+
+s → h / V_V
+
+i̯ → ɟ / {a,e,i}_
+
+i̯ → j / _B
+
+i̯ → ∅ / E_
+
+i̯ → h / V_
+
+u̯ → v
+
+Vn → V[+nasal] / _C?
+
+n → ɲ (sometimes?)
+
+l r → l(ː) r(ː)
+
+{m̩,n̩} l̩ r̩ → e uj {ri,ir}
+
+Loss of laryngeals, with the possible exception of h4, if it existed; h3 and h4 seem to have possibly fronted a following back vowel
+
+eː iː oː uː → o i e {y,i}
+
+a e i o → {a,e} (j)e {e,i} a
+
+Gheg seems to have maintained or innovated vowel length whereas Tosk has not
+
+ə → ∅ / _#
+
+c ɟ → tʃ dʒ (for most speakers)
+17.1.2 Proto-Indo-European to Tosk Albanian
+
+Pogostick Man, from Wikipedia contributors (2013), “Albanian language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Albanian_language&oldid=582390175>
+
+d dʱ → ð / V_V
+
+d dʱ → ð / r_
+
+ḱ → s / _{u̯,u,i̯,i}
+
+ḱ → k / _R
+
+ḱ → {ts,tʃ} (“[a]rchaic relic”)
+
+ḱ → θ
+
+kʷ → s / _”E?
+
+kʷ → c / _B?
+
+kʷ → k / else?
+
+ɡ́(ʱ) → d / %_C[+sibilant]
+
+ɡʷ(ʱ) → {ɡ,z}
+
+bʱ dʱ ɡ́(ʱ) → b d dh
+
+s → ɟ / #_
+
+s → ʃ / V{i̯,u̯,r,k}_V
+
+sd → θ / medial
+
+sḱ → h / medial
+
+sp → f / medial
+
+st → ʃt / medial
+
+s → θ / sometimes, involving “[d]issimilation with following vowel”
+
+s → h / V_V
+
+i̯ → ɟ / {a,e,i}_
+
+i̯ → j / _B
+
+i̯ → ∅ / E_
+
+i̯ → h / V_
+
+u̯ → v
+
+n → ∅ / V_C?
+
+n → ɲ (sometimes?)
+
+n → ɾ
+
+l r → {l,ɫ} {ɾ,r}
+
+{m̩,n̩} l̩ r̩ → e uj {ri,ir}
+
+Loss of laryngeals, with the possible exception of h4, if it existed; h3 and h4 seem to have possibly fronted a following back vowel
+
+eː iː oː uː → o i e {y,i}
+
+a e i o → {a,e} (j)e {e,i} a
+
+c ɟ → tʃ dʒ (much less widespread than in Gheg)
+17.2 Proto-Indo-European to Common Anatolian
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+eh2 → æː / “tautosyllabic”
+
+ei eu → ɛː uː
+
+Dʱ → D
+
+H → R / VR_V
+
+h1 → ∅
+
+h3 → ∅ / “medially”
+
+T h2 → D h3 / _#
+
+T h2 → D h3 / V[-stress]_V[-stress]
+
+T h2 → D h3 / ”Vː
+
+T h2 → D h3 / ”W
+
+t → z / j “(allophonic)”
+
+r → ∅ / #_ (unclear)
+
+j → ∅ / #_e (not widely attested)
+
+{{h1,h3}s,s{h1,h3}} → sː (contested)
+17.2.1 Common Anatolian to Hittite
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+D T → T T[+lenis] / #_
+
+T D → T[+fortis] T[+lenis]
+
+h2 h3 → hh h
+
+Ḱ → K
+
+V → Vː / in ”U[+open]
+
+e o → eː oː / in ”U[+stress]
+
+o(ː) æː → a(ː) eː
+
+e → i / _{m,ŋ} when posttonic in U[+closed] or when pretonic
+
+e → a / _n in U[+open +posttonic]
+
+e → a / _{r,l} (sporadic)
+
+t → ts / _i ! s_
+
+d → s / #_{i,j}
+
+w → m / _u
+
+w → m / u_
+
+j → ∅ / V_V
+
+aj aw → ɛː uː / !_{s,n,r,l}
+17.2.2 Common Anatolian to Luwian
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+D T → T T[+lenis] / #_
+
+T D → T[+fortis] T[+lenis]
+
+h2 h3 → hh h
+
+ḱː → z
+
+kʷ → w
+
+{ḱ,k} → j / _e(ː)
+
+{ḱ,k} → ∅ / _i(ː)
+
+k → ∅ / V_V
+
+k → ∅ / _N
+
+ɡ → dʒ (sporadic)
+
+e → i / j_
+
+e → a
+
+V → Vː / in ”U[+open]
+
+V → Vː / in #”U
+
+o(ː) → a(ː)
+
+{d,l} → r “in Hieroglyphic Luwian, occasionally”
+
+j → ∅ / z_
+
+hh h → h ∅ / ”Vː_u
+
+hh h → h ∅ / u_”Vː
+
+h → ∅ / _w ! at word boundaries
+
+hh → ∅ / _{w,m,n,r,l} “medially, and sporadically”
+
+D R → Dː Rː / ”e_ in U[+open]
+
+{ɛ,e}ː æː → iː aː
+17.2.3 Common Anatolian to Lycian
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+D → T / #_
+
+D → F[+voice]
+
+N{F[+voice],T} → nD
+
+d → k / _w
+
+kʷ → t / _E
+
+kʷ → k / _E, in Milyan
+
+{ɡ́,ɡ} → j / _e(ː)
+
+{ɡ́,ɡ} → ∅ / _i(ː)
+
+ɡ → ∅ / V_V
+
+j → ∅ / ts_
+
+s → z / _{R,j,w} “(in Milyan, this happened after the change of ḱ to s)”
+
+s → h
+
+ḱ → s
+
+h3 → ɡ / _B
+
+h2 → k / E_E (probably a palatal stop)
+
+h2 → q / _E (possibly plain velar stop)
+
+h2 → x / else (possibly a uvular stop)
+
+w → b / C_
+
+ɡ → dʒ (sporadic)
+
+e → i / j_
+
+{ɛ,e}ː o æː → iː e aː
+
+Vː → V[-long]
+
+e → a / _U[+u,a]
+
+a → e / _U[+e,i]
+
+“[P]lus lots of syncope which he doesn’t elaborate on”
+17.2.4 Common Anatolian to Lydian
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+d → tʃ / _{i,u}
+
+d → t / {#,N}_
+
+p d D → f ð T
+
+T → D / N_
+
+Ḱ → K
+
+Kʷ → K / _V[+round]
+
+ʃ → s
+
+s → ʃ / _{i,e}
+
+s → ʃ / i_
+
+{h2,h3} → ∅
+
+{m,n} → ʋ / _# “(that’s a Greek nu, I’m not sure what it’s supposed to represent)”
+
+l → ʎ / _{i,j}
+
+w (→ v?) → f / s_
+
+j → ∅ / C_
+
+j u → ð w / #_
+
+j → ð / V_V
+
+e → i / j_
+
+{e,a,o} → ē / _N in ”U[+closed]
+
+{e,a,o} → ā / _N in ”U[+open]
+
+{e,o} → a / in U[-stress]
+
+n → ∅ / _P “(leaves nasalization on the previous vowel)”
+
+o(ː) eː æː → a(ː) iː aː
+
+Vː → V[-long]
+
+“[P]lus lots of syncope which he doesn’t elaborate on”
+17.2.5 Common Anatolian to Palaic
+
+Alces, from http://www.unc.edu/~melchert/anathistphon.pdf (link is dead)
+
+D T → T T[+lenis] / #_
+
+T D → T[+fortis] T[+lenis]
+
+h2 h3 → hh h
+
+Ḱ → K
+
+V → Vː / ”U[+open]
+
+e → i / pretonic
+
+e → a / posttonic in U[+open]
+
+o(ː) → a(ː)
+
+a e → aː eː / in ”U[+closed]
+
+æː → eː
+
+ɡʷ → hʷ / medially
+
+hhy → “something like /ʒ/”
+
+h → ∅ / ”Vː_u
+
+h → ∅ / u_”Vː
+
+w → j / “in *díwots > Tiyaz ‘sun-god’; conditioning unknown”
+
+ɛː → iː
+17.3 Armenian
+17.3.1 Proto-Indo-European to Artsakh Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+bʱ dʱ ɡ́ʱ ɡʷʱ → p t j k / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.2 Proto-Indo-European to Erevan Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+ɡʷʱ → ɡʱ / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.3 Proto-Indo-European to Istanbul Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+t → tʰ / {aw,ow}_ ! #_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+ɡʷʱ → dʒ / #_{e,i}
+
+bʱ ɡ́ʱ ɡ(ʷ)ʱ → b j k / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.4 Proto-Indo-European to Kharpert Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+bʱ dʱ ɡ́ʱ ɡ(ʷ)ʱ → p t j k / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.5 Proto-Indo-European to Sebastia Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ / ! _#
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.6 Proto-Indo-European to Southeast Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+ɡʷʱ → dʒ / #_{e,i}
+
+bʱ ɡ́ʱ ɡʷʱ → b j ɡ / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡ(ʷ)ʱ → p t j k / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.3.7 Proto-Indo-European to Southwest Armenian
+
+Mecislau & Pogostick Man, the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933>
+
+NB: The changes in plosives are the most contentious; the Wikipedia article gives differences between the seven dialects in initial position for only the alveolar series by way of comparison, so take plosive changes with a huge grain of salt.
+
+{e,i}ː {u,o}ː → i u
+
+{e,o}j ɛw → ɛj ow
+
+{e,o} → a (rare)
+
+aː → a
+
+e → ɛ
+
+ɛ o → i u / _N
+
+ej ia → e ɛa
+
+{i,u} → ə / in some unstressed syllables
+
+e oj ɛa → i u ɛ / when unstressed
+
+p t → h tʰ / #_ (?)
+
+t → tʰ / {aw,ow}_
+
+kʷ → tʃʰ / _{e,i}
+
+t k(ʷ) → d ɡ / {N,L}_
+
+p ḱ k(ʷ) → {w,v} s kʰ
+
+ɡ́ → ts (?)
+
+b d ɡ(ʷ) → p t k
+
+ɡʷʱ → dʒ / #_{e,i}
+
+bʱ ɡ́ʱ ɡʷʱ → b j ɡ / #_
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+
+j → w / _o
+
+j → ?
+
+{sk,ks} kj → tsʰ tʃʰ (?)
+
+{sr,rs} → rː
+
+r → rː / _N
+
+l → ɫ / {C,lV}_
+
+l → ɫ / V_V
+
+Ns sN → s N
+
+N → w / S_S
+
+VN → V[+nasal] → V → (?) / _#, in polysyllables
+
+N → n / _#, in monosyllables
+
+N̩ → n / _#
+
+m̩ n̩ r̩ l̩ → am an ar aɫ
+
+V → (?) / _(C)#
+17.4 Avestan
+17.4.1 Proto-Indo-European to Avestan
+
+Pogostick Man, Alex Fink, and Tropylium, the former two citing Wikipedia contributors (2013), “Proto-Indo-Iranian language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Proto-Indo-Iranian_language&oldid=543625693>; and Alex Fink citing https://en.wikipedia.org/wiki/Avestan_phonology
+
+NB: Tropylium wishes to note that his sound changes are subject to change.
+
+bʱ dʱ ɡ́ʱ → b d z
+
+ḱ ɡ́ → s z
+
+k(ʷ) ɡ(ʷ)(ʱ) → tʃ dʒ / _E
+
+k kʷ ɡ(ʷ)(ʱ) → x k ɡ / else
+
+rt → š (Alex Fink says that the realization of /š/ “is unclear”)
+
+s → {s,h}
+
+u̯ → v
+
+l → r
+
+{n̩,m̩} → a
+
+{l̩,r̩} → ər(ə(r))
+
+e eː → a aː
+
+o oː → {a,aː} aː
+
+h(j) → ŋh / a_a
+
+hw → ŋʷh / a_a
+
+h → ŋ / a_ra
+
+hx → ∅
+17.5 Proto-Indo-European to Proto-Celtic
+
+dhokarena56, from Matasović (2009), Etymological Dictionary of Proto-Celtic (ed. Lubotsky).
+
+“PIE Dialectal”
+
+— h1e h2e h3e → e a o
+
+— eh1 eh2 eh3 → eː aː oː
+
+— H → a / C_C ! #_
+
+— SS → sː
+
+— ∅ → a / CR_HC
+
+— H → ∅ / V_C when pretonic
+
+— H → a / #R_C
+
+— Ḱ → K
+
+Early Proto-Celtic
+
+— ɡʷ → b
+
+— h → ∅ / C_
+
+— ∅ → i / C{l,r}S
+
+— e → a / _Ra (short a only), though “[t]he e was often restored by analogy”
+
+— ∅ → a / C_RC
+
+— H → ∅ / “if not in a syllabic position”
+
+— p…kʷ → kʷ…kʷ
+
+— eː → iː
+
+— oː → uː / in U#
+
+— Vː → V[-long] / _RC
+
+— C1C2 → xC2 / if C2 was a plosive or s
+
+— p → b / _{r,l}
+
+Late Proto-Celtic
+
+— p → w / B_N
+
+— p → f
+
+— oː ej → aː eː
+
+— e → o / _w
+
+— u → o / _wO
+17.5.1 Proto-Indo-European to Old Irish
+
+dhokarena56
+
+“Laryngeal rules (the ones common to all branches except Anatolian)”
+
+Kʷ → K
+
+“The PIE rules for the voicing of s → z, as in [nizdos] for *nisdos, are assumed to apply”
+
+Cʱ → C
+
+eː → iː / ! _{i,u}
+
+Obstruent clusters assimilate in voicing to that of the final obstruent
+
+tː → sː
+
+p → f / {V,#}_
+
+f → x / _O
+
+f → ∅ / else
+
+r̩ l̩ → {ri,ra} {li,la} / _{S,R} (which vowel crops up is unpredictable)
+
+r̩ l̩ → {ra,ar} {la,al} / _{s,CC,V,#} (the results are unpredictable)
+
+m̩ n̩ → am an / _{s,({m,j,w)V}
+
+m̩ n̩ → em en / else
+
+Stress change:
+— Pronouns, articles, and conjunctions become unstressed.
+— First syllables stress in all verbal imperatives.
+— First syllables stress in all other parts of speech except preverbs and the exceptions noted above.
+— Second syllables receive stress otherwise.
+— “This, unlike the preceding rules, remained a morphologically conditioned rule in Old Irish.”
+
+ɡʷ → b / #_V ! _u(ː)
+
+ɡʷ → b / #_N
+
+ɡʷ → b / C_V
+
+ɡʷ → ɡ
+
+p t k kʷ b d ɡ m n l r s → f θ x xʷ v ð ɣ M N L R h / V(#)_{R,V} (“We don’t know the exact values of lenited /m n l r/. We can guess that lenited m became a nasalized labial continuant of some sort, but beyond that, we don’t know.”)
+
+k → x / V_t
+
+m → n / V_#; “[i]t is thought that the vowel needs to be unstressed, but this is not certain”
+
+Vː → V / _N#; “[i]t is thought that the long vowel probably needed to be unstressed- again, this is uncertain”
+
+p t k kʷ b d ɡ ∅ → b d ɡ ɡʷ mb nd ŋɡ n / n#_”V
+
+oː → uː / _(C…)#
+
+oːi → uː / _#
+
+oː → aː / else
+
+Vː → V[-long] / _H (includes diphthongs)
+
+“The following three rules only apply if the vowel is unstressed”:
+
+— e → i / _(C…)#
+
+— o → a / _{(C…),u}#
+
+— {ai,oi} → iː / _#
+
+“The following two rules apply if the vowel in question is stressed or follows the stressed syllable”; consonant clusters cannot be /nt nd/:
+
+— i u → e o / _C(…C){a(ː),e(ː),o(ː)}
+
+— e o → i u / _C(…C){H,j}
+
+C → Cʲ / _{F,j}
+
+C → Cʷ / _{B,w}
+
+Kʷ → K
+
+For the following: “The book says nothing about length in the input vowels, but I think they could be either short or long from the examples given.”
+
+— n → ∅ / {i,o,u}_{p,t,k,s}
+
+— {a,e}n → eː / _{p t k s}
+
+w → f / #_
+
+w → ∅ / {#,C}C_
+
+w → ∅ / {θ,x}_
+
+w → ∅ / V_{V,#}
+
+w → v / else
+
+“The following changes. . .are, quoth the book, ‘somewhat approximative’”:
+
+— {p,t} → ∅ / #s_r
+
+— {p,t} → ∅ / #s_ “(although it says that occasionally st > t / #_)”
+
+— s → ∅ / [anything]{l,r}_O
+
+— hn hm → nː mː / [anything]_ (“[t]his change is a bit speculative”)
+
+— “[A] sequence of two plosives becomes a geminate of the second one”
+
+— st zd → sː dː / [anything]_
+
+— {l,h}l {l,h}r l{p,s,n} r{p,s} ln → lː rː lː rː (lː?) / [anything]_
+
+— Cː → C[-long]
+
+V → ∅ / C_# when unstressed ! C = j
+
+C(…C) → ∅ / _# ! /l r/ and clusters containing them; “[t]his remained a phonologically conditioned rule in OIr”
+
+{au,eu,ou} → oː
+
+ei → eː
+
+oː → ua / _[anything], when stressed
+
+eː → ia / _{#,Cʲ} when stressed; “ai and oi remain, but are written as <ae ai oe oi> seemingly randomly”
+
+j → ∅
+
+The second and third rule below “may well have been for the most part optional”; every one of the three “only applies to unstressed vowels” and “remained as a phonologically conditioned rule”:
+
+— Vː → V[-long]
+
+— a → e / _#
+
+— {e,o} → a / _[anything]
+
+V → Vː / _#, when stressed; “[t]his remained as a phonologically conditioned rule in OIr”
+
+VOR → VːR; “this is a tad unclear, because in some instances it didn’t seem to apply”
+
+V → ∅ / #UU(_)U(U(_)U) / unstressed; this “remained as a phonologically conditioned rule in OIr”; “[t]hat’s a little unclear, so let me try and enumerate: in words of more than three syllables, every other vowel (only the even ones) dropped, if it’s unstressed. In some words, syncope didn’t apply because it would create an unwieldy consonant cluster: so PIE *komaktyom → OIr cumachte, not *cumchte”
+17.5.2 Proto-Celtic to Middle Welsh
+
+Dewrad & Pogostick Man, the latter citing Willis (David), “Old and Middle Welsh”
+
+kʷ → p
+
+Vː → V / _#
+
+ei → eː
+
+st → sː (with some exceptions)
+
+ai → ɛ
+
+s → ∅ / V_V
+
+V → ə / _(C)#, also in proclitics
+
+s → ∅ / x_
+
+{au,eu,ou} → ∅
+
+uː {oi,ɔː} → yː uː
+
+j → ð / V_
+
+i u → e o / _Ca
+
+yː → ɨ
+
+p t k {b,m} d ɡ → b d ɡ v ð ɣ / _V
+
+aː → ɔː
+
+a o → ei {ɨ,ei} / _(C…)j(C…)#
+
+a → {ɨ,ei} / _(C…)j(C…)#
+
+V → ɨ / _(C…)j(C…)#
+
+{a,o} → e / _(C…)i(ː)
+
+{a,e,o} → ei / _(C…)j
+
+V → ∅ / _#
+
+mb nd ŋɡ → mː nː ŋː
+
+e → i / _N
+
+$ → h / V_ (what $ is is unclear)
+
+V → ∅ / _[+intertonic]
+
+pː tː kː → f θ x
+
+p t k → f θ x / {r,l}_
+
+ɣ → i / _C
+
+xt → iθ
+
+ɣ → i / C_V
+
+ɛː → ui
+
+ɔː → au / when stressed
+
+l → ɬ / _t
+
+w → ɡw / #_
+
+mp nt ŋk → m̥ n̥ ŋ̊
+
+ɔ → ə / #_sC
+
+l r → ɬ r̥ / #_
+
+ɣ → ə / _#
+17.6 Proto-Indo-European to Dacian
+
+Pogostick Man, from Wikipedia contributors (2013), “Dacian language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dacian_language&oldid=582406161>
+
+o → a
+
+e → je / in open syllables, when stressed
+
+e → ja / in closed syllables, when stressed
+
+eː → aː
+
+oi wo wj ow → ai wa vi aw
+
+ei → {ei,i} (“PIE *ei evolution is not well reconstructed yet”)
+
+bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → b d ɡ́ ɡ ɡʷ
+
+ḱ ɡ́ → ts dz
+
+{kʷ,kw} {ɡʷ,ɡw} → tʃ dʒ (→ s~z z ?) / _E
+
+{kʷ,kw} {ɡʷ,ɡw} → k ɡ / else
+17.7 Proto-Indo-European to Common Germanic
+
+Siride
+
+bʱ dʱ ɡʱ → β ð ɣ
+
+b d ɡ → p t k
+
+p t k → f θ x
+
+f θ s x → β ð z ɣ “(Except initially or following IE stress)”
+
+{i,j} {u,w} → j w / V[+short]C_
+
+{i,j} {u,w} → ij uw
+
+aː → oː
+
+e → i
+
+eː → æː
+
+o → a
+
+ei oi → iː ai
+
+eːi {oːi,aːi} → eː oː (?)
+
+eu ou → iu au
+17.7.1 Common Germanic to Gothic
+
+Pogostick Man, from Wright, Joseph (1910). Grammar of the Gothic Language, 2nd Ed.; and Wikipedia contributors (2014). “Gothic language”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Gothic_language&oldid=635946920>
+
+NB: Wright seems to regard Germanic labiovelars as sequences of velar + w if I’m reading this right; additionally, it looks like some of what Wright considers diphthongs may have been long monophthongs.
+
+Stressed vowels:
+
+— o e → u i
+
+— u → ɔ / _{r,h} (unless this r “arose from older s by assimilation”)
+
+— i → ɛ / _{r,h,ʍ}
+
+— æː → eː
+
+— ew → iw
+
+Unstressed vowels:
+
+— V[- long] → ∅ / _# ! V = u
+
+— V[- long] → ∅ / U_C# ! V = u
+
+— Inherited “long final vowels…became shortened in polysyllabic words, when the vowels in question originally had the ‘broken’ accent, but remained unshortened when they originally had the ‘slurred’ accent”
+
+— aj → a / U_#
+
+— “Originally long diphthongs became shortened in final syllables”
+
+iw → ju / [- stress]
+
+w → u̯ / V[- long]_{#,C}
+
+w → ∅ / oː_j
+
+oːw æːj → ɔː ɛː / _V
+
+j → i / C_# “after the loss of a final vowel or syllable”
+
+ij → iː / _s “after the loss of a vowel in final syllables”
+
+ij → i / _# “after the loss of a final vowel or syllable”
+
+Vw → u / _s (to wit, the vowel is deleted and the *w syllabifies)
+
+“In a few instances medial -w- (or -ww- the origin of which is uncertain) after short vowels became -ggw- in Gothic…”; similarly, medial *-j(j)- became -ddj- in uncertain conditions
+
+iji → iː / U[- stress](C…)_
+
+iji → iː / U[+ long + closed]_ in the stem
+
+i → ∅ / _ji
+
+m → β / C[- voiced]_n, when medial
+
+m → ɸ / C[+ voiced]_n, when medial
+
+nː → n / _C ! _j
+
+β → b / {r,l}_
+
+ð → d / C[+ voiced]_
+
+β ð ɣ → ɸ θ x / V_(s)#
+
+“The final -h [= /h/?] in unaccented particles was often assimilated to the initial consonant of the following word”
+
+ɣ → ɡ / #_
+
+ɣ → ɡ / C_V
+
+“In the forms of the strong verbs, medial z was supplanted by s through the levelling out of the s-forms…z was also supplanted by s in several weak verbs, which in some cases was due to the influence of the corresponding strong verbs”
+
+z → s / _#, though “[t]his s was dropped when it came to stand after an original s through the loss of a vowel”, though it “remained when protected by a particle”
+
+s → ∅ / V[- long]r_#
+
+s → r / in “[t]he prep[osition]. us…before r in compounds”
+
+s → ∅ / in “[t]he prep[osition]. us…in compounds before st”, though this seems to have been less common
+17.7.2 Common Germanic to West Germanic
+
+Siride
+
+β ð ɣ → b d ɡ / {#,”V}_
+
+z → {r,∅}
+
+C → Cː / _j ! C = r
+
+i u → e o / _%{a,o}
+
+oː → uː / _#
+17.7.2.1 West Germanic to Anglo-Frisian
+
+Siride? & Pogostick Man, the latter citing Wikipedia contributors (2014), “Anglo-Frisian languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Anglo-Frisian_languages&oldid=602286013>; Wikipedia contributors (2014), “Old Frisian”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Old_Frisian&oldid=559739599>; and Wikipedia contributors (2014), “Old English phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Old_English_phonology&oldid=602537992>
+
+a → ɑ̃ / _N (short only)
+
+VN → Ṽː / _F
+
+a → æː / short only, includes diphthongs ! B or *ã in next syllable
+
+k ɡ → tʃ j(?)
+
+æː → aː “under to [sic] the influence of neighboring consonants”, but the article doesn’t elaborate
+
+æː → eː
+
+æu → au (æ → a / _B in general?)
+
+aː → æː / ! _N or if nasalized
+
+i o → e a / unstressed
+
+ai au eu → {eː,aː} aː ia
+
+ia iu → jaː juː
+
+a → æ / ! _N or if nasalized, or if *B or *ã in next syllable
+
+h → ∅ / V_V
+
+{i,u} → ∅ / -# ! VC_
+
+θ resists change to d until the 14th Century
+17.7.2.1.1 Anglo-Frisian to Old English
+
+Pogostick Man, from Wikipedia contributors (2011), “Phonological history of English”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Phonological_history_of_English&oldid=453796112>
+
+ɑ̃ː → õː
+
+V[+nas] → V[-nas]
+
+{i,u} → ∅/ _# ! V[-long]C_#
+
+k ɣ ɡ → tʃ ʝ dʒ / “in certain complex circumstances”
+17.7.2.1.2 Old English to Kentish Middle English
+
+Pogostick Man, from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Middle_English_phonology&oldid=456896605>
+
+Vː → V[-long] / _C{ː,C} ! _st{#,V} or when preceding a cluster which had triggered a vowel to become long in Old English; the book gives “Christ” vs. “Christmas” as an example
+
+eɑ eːɑ eo eːo → ɑ ɛː e eː
+
+æj → aj → ej
+
+{æːj,e(ː)j} → ej
+
+ɑɣ → ɑw
+
+{eɑh,eɑç,eɑx,eɑʝ,eɑɣ} → ɑw
+
+eːɑw iːw → ew ju
+
+{ɑːw,ɑːɣ,oːw} → ɔːw
+
+oɣ → ɔːw / _V
+
+{o(ː)ht,ɑːht} → ow
+
+ɑː y(ː) → ɔː e(ː)
+
+ɑ e o → ɑː ɛː oː / in U[+open] ! in #U with the following U containing /iː/ or ending in one of /m n r l/
+
+eːɑ eːo iːe become sounds of uncertain identity; Moore says they were probably diphthongs
+
+Vː → V[-long] / in #U before a U with /iː/
+
+m → n → ∅ / _# when unstressed
+
+hn {wl,hl} hr → w l r
+
+ɣ → ɡ / #_
+
+ɣ → w / C_V
+17.7.2.1.3 Old English to Midlands Middle English
+
+Pogostick Man, from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Middle_English_phonology&oldid=456896605>
+
+Vː → V[-long] / _C{ː,C} ! _st{#,V} or when preceding a cluster which had triggered a vowel to become long in Old English; the book gives “Christ” vs. “Christmas” as an example
+
+eɑ eːɑ eo eːo → ɑ ɛː e eː
+
+æj → aj → ej
+
+{æːj,e(ː)j} → ej
+
+ɑɣ → ɑw
+
+{eɑh,eɑç,eɑx,eɑʝ,eɑɣ} → ɑw
+
+eːɑw iːw → ew ju
+
+{ɑːw,ɑːɣ,oːw} → ɔːw
+
+oɣ → ɔːw / _V
+
+{ɑːht,o(ː)ht} → ow
+
+ɑː y(ː) → ɔː i(ː)
+
+ɑ e o → ɑː ɛː oː / in U[+open] ! in #U with the following U containing /iː/ or ending in one of /m n r l/
+
+Vː → V[-long] / in #U before a U with /iː/
+
+m → n → ∅ / _# when unstressed
+
+hn {wl,hl} hr → w l r
+
+ɣ → ɡ / #_
+
+ɣ → w / C_V
+
+{e,ɑ,o} → ə → ∅ / _#
+17.7.2.1.4 Midlands Middle English to Early Modern English
+
+Pogostick Man, from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http://wiki.firespeaker.org/English_sound_changes>
+
+ʊ → ɤ ! P_ and _l
+
+mb ŋɡ → m ŋ / _#
+
+tj sj dj zj → tʃ ʃ dʒ ʒ / ! _uː (perhaps only before stressed uː?)
+
+a ɑ {ɛ,ɪ,ɤ} → ɑː ɔː ɜː / _ɹ{C,#}
+
+ɑʊ → ɑː / _P
+
+ɑʊ → ɑː / _N (sometimes)
+
+ɑʊ → ɔː / else
+
+“[A] large number of cases that were ɑː have become ɔː subsequently for non-phonetic reasons, like laundry”
+
+a → ɑː / “in a few words, like ‘father’”
+
+a → æ / else
+
+əɪ əʊ → ɑi æʊ / “in some parts of South-Eastern England”
+
+əɪ əʊ → aɪ aʊ / “in most of Britain”
+
+eː oː → eɪ oʊ / ! _ɹ
+17.7.2.1.5 Early Modern English to American English
+
+Pogostick Man, from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http://wiki.firespeaker.org/English_sound_changes; and my Phonetic Description class>
+
+æ → æː (e.g., NYC) or ɑː (e.g., Boston) / _{F[-voiced],N[-voiced]} (“words which change vary between dialects”)
+
+ɒ → ɒː → ɔː / _F[-voiced]
+
+æː ɑː ɔː → æə~eə ɑ ɔ
+
+ʍ → w (regional)
+
+l → ɫ / “in some conditions”
+
+ɪ → i / _# when unstressed
+
+{t,d} → ɾ / V_V[-stress]
+
+i u e → ɪ ʊ ɛ / _ɹ
+
+o ɔ → ɔ ɒ / _ɹ (most dialects have at least one if not both)
+
+æ → ɛ / _ɹ
+
+j → ∅ / {θ,s,z,l,n,t,d}_ when in onset position
+
+ɒ → ɔ / _K “(partial)”
+
+æ → ɛə / _{n,m} “and others depending on dialect”
+
+eə → eː
+
+iə → ɪ (ongoing)
+
+w → ∅ / C_ɹ for some C (toward(s), quart(er), sword)
+
+t → ∅ / f_n̩
+
+Stuff regarding syllabification (e.g., of /ɹ/) and hiatus
+Loss of pretonic /ə/ in #U (ongoing)
+17.7.2.1.6 Early Modern English to Australian English
+
+Pogostick Man, from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http://wiki.firespeaker.org/English_sound_changes>; and my Phonetic Description class
+
+ɜːɹ ɑːɹ ɔːɹ eːɹ oːɹ iːɹ uːɹ → ɜː ɑː ɔː ɛə ɔə ɪə ʊə / syllable-finally
+
+ɑ → ɒ
+
+æ → æː → ɑː / _{F[-voiced],N[-voiced]}
+
+ɒ → ɒː → ɔː / _F[-voiced]
+
+ʍ → w
+
+l → ɫ (the conditions of this are not elaborated upon)
+
+oʊ iː → ɔʊ ɪə / _ɫ
+
+oʊ iː → əʊ ɪi / else
+
+uː → ʊə → uː / _ɫ ! in Queensland and New South Wales
+
+uː → ʊʉ → ʉː / else
+
+ɫ → əɫ / ! if one of the above vowel changes after the formation of /ɫ/ apply
+
+ɪ → iː / _# when unstressed
+
+ɪ → iː / “unstressed foot-finally if the next syllable is stressed and begins with /k ɡ tʃ dʒ ʃ ʒ/”
+
+ɪ → ə / unstressed
+
+ə → ɪ / _{k,ɡ,tʃ,dʒ,ʃ,ʒ,v}
+
+t d → ɾ / V_V[-stress]
+
+ɔə → ɔː
+
+ɛə ʊə → ɛː ɔː (ongoing)
+
+ʊə → oː / ! {j,dʒ}_
+
+ʊə → ʉːwə / “almost always otherwise, but see [above vowel changes after /ɫ/ is formed]”
+
+oə → oː
+
+j → ∅ / %{θ,s,z,l}_”V
+
+sj zj lj → ʃ ʒ j~ɫj / else “(j~ɫj fluctuation is formality)”
+
+ɫj → ɫi / “after any segment after which coda-/ɫ/ is forbidden, e.g. failure [fæiɫiɐ]”
+
+tj dj → tʃ dʒ
+
+ɔː → ɔ / _ɹV[-stress]
+
+ɔː → ɔ / _F[-voiced]
+
+ɔ → ɔː / “in ‘gone’ and some derivatives”
+
+æ → æː / _{n,m,ɡ,ɫ% ! _n,m,ɡ,ɫ}%{j,w} or a form of a strong verb
+
+æ → æː / _d (rare) ! form of a strong verb
+17.7.2.1.7 Early Modern English to British English
+
+Pogostick Man, from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http://wiki.firespeaker.org/English_sound_changes>
+
+ɜːɹ ɑːɹ ɔːɹ eːɹ oːɹ iːɹ uːɹ → ɜː ɑː ɔː ɛə ɔə ɪə ʊə / syllable-finally
+
+ɑ → ɒ
+
+æ → æː → ɑː / _{F[-voiced],N[-voiced]}
+
+ɒ → ɒː → ɔː / _F[-voiced]
+
+ʍ → w
+
+l → ɫ / “in coda”
+
+oʊ → əʊ
+
+“LOT-CLOTH split reversed properly”
+17.7.2.1.8 Old English to Northern Middle English
+
+Pogostick Man, from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Middle_English_phonology&oldid=456896605>
+
+Vː → V[-long] / _C{ː,C} ! _st{#,V} or when preceding a cluster which had triggered a vowel to become long in Old English; the book gives “Christ” vs. “Christmas” as an example
+
+eɑ eːɑ eo eːo → ɑ ɛː e eː
+
+æj → aj → ej
+
+{æːj,e(ː)j} → ej
+
+ɑɣ → ɑw
+
+{eɑh,eɑç,eɑx,eɑʝ,eɑɣ} → ɑw
+
+eːɑw iːw → ew ju
+
+{ɑːw,ɑːɣ,oːw} → ɔːw
+
+oɣ → ɔːw / _V
+
+{ɑːht,o(ː)ht} → ow
+
+ɑː most likely became one of {eː,ɛː}
+
+ɑ e o → ɑː ɛː oː / in U[+open] ! in #U with the following U containing /iː/ or ending in one of /m n r l/
+
+y(ː) → i(ː)
+
+Vː → V[-long] / in #U before a U with /iː/
+
+n → ∅ / _# when unstressed (not clear as to whether m → n beforehand in this position or not)
+
+j tʃ → ɡ k
+
+ʃ → s / in unstressed syllables
+
+ʍ became a sound spelled 〈qu〉
+
+hn {wl,hl} hr → w l r
+
+ɣ → ɡ / #_
+
+ɣ → w / C_V
+
+{e,ɑ,o} → ə → ∅ / _#, when unstressed (it appears this sound may also have gone to /ɪ/)
+17.7.2.1.9 Early Northern Middle English to Scots
+
+Pogostick Man, from Wikipedia contributors (2014), “Phonological history of Scots”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Phonological_history_of_Scots&oldid=582962563>; and Wikipedia contributors (2014), “Scottish Vowel Length Rule”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Scottish_vowel_length_rule&oldid=589349104>
+
+b → ∅ / m_l
+
+t → ∅ / {p,k}_# (“except in some inflected forms” for *kt)
+
+d → ∅ / n_
+
+d → ∅ / l_#
+
+s → ʃ / _E (E_ also?)
+
+f → ∅ “in certain contexts”
+
+/k ɡ/ remain unpalatalized when E_
+
+{ɸ,x} → ∅ / _# (seems to be sporadic)
+
+ʍ → xw (some speakers seem to have resisted this)
+
+oɡ → ʌu
+
+ul became some sort of diphthong or vowel (possibly one of uː, uw, ʌw), but the article isn’t very clear
+
+ol al → ou ɑː → ʌu {ɑ,ɔ}
+
+Vowel shift:
+
+— ai → ɛi → əi / when stem-final
+
+— uː → ʌu / when-stem final, in northern varieties
+
+— øː → wi / {k,ɡ}_ (in Mid Northern dialects)
+
+— øː → i (in northern dialects)
+
+— øː → (j){u,ʌ} / _{k,x} (outcome varies depending upon dialect)
+
+— a → i / _n (in northern varieties)
+
+— a → e / _n (otherwise)
+
+— a → {ɛ,e} / _rC
+
+— ai oi ui ei au ou iu ɛ(o)u → eː oe əi iː {ɑː,ɔː} ʌu ju j(ʌ)u
+
+— ɛː → ɛi (→ əi?) / in some northern varieties
+
+— iː eː ɛː aː oː uː {øː,yː} → əi i {i,e} e o u ø
+
+— æ → ɛ / _C[+alveolar]
+
+— a ɔ u → {a,ɑ} ɔ ʌ
+
+Application of the Scottish vowel-length rule:
+
+— V → Vː / _{r,F[+voiced],$,#}
+
+— əi → aɪ / _{r,F[+voiced],$,#} (pursuant to the above)
+17.7.2.1.10 Old English to Scots
+
+Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill, from personal research
+
+NB: This is an alternate listing of sound changes from Old English to Scots presented by a native speaker, which leads into a listing of sound changes to the Falkirk dialect.
+
+æː → ɛː
+
+ɑ → a / ! _{l,r} (sporadic)
+
+oː → ju / {n,x}_
+
+oː → iu / _K
+
+oː → ø
+
+øː → eː “(not a thorough change)”
+
+ø → ɪ
+
+æː(ɑ) eː(o) → ɛ iː
+
+ɛ → ɜi → i / _{m,ɲ}
+
+ai → aː
+
+e → ɛ / _nt
+
+{y,i} → ɪ
+
+ɪ → ɜ / _{K,r}
+
+e(o) → ɛ
+
+u → ʊ → ɵ → ʌ
+
+uː → u
+
+o → ʌ / P_r
+
+æ → ɑ / _{x,l}
+
+æ(ɑ) → e
+
+ɔ{ɡ,j} → ʌu
+
+ɑː → e / ! _{ŋ,n}
+
+ʌ → ɪi (sporadic)
+
+a → ɪ / “unstressed and/or final”
+
+N → ∅ / _C ! _%C
+
+xw → ʍ
+
+S[+ voice] → S[- voice] / _#
+
+d~ð → d / V_u
+
+d~ð → ð / V_V
+
+t → ∅ / p_
+
+dʒ → tʃ / _#
+
+{f,v} → ∅ / {l,r,V}_ (sometimes blocked)
+
+ð → ∅ / {l,r,V}_C
+
+θ → h / _ɪ
+
+θ → f / {V,r}_# (sometimes blocked)
+
+θ → ∅
+
+V → Vː / _{r,F[+ voice],V,#}
+
+m → n / _f
+
+e → ɛ / “unstressed”
+
+∅ → ə̆ / _{n,r}
+
+k → ∅ / n_t (sporadic)
+
+m → ∅ / _n
+
+l → ∅ / u_
+
+l → u / {ɔ,ɑ}_
+
+{ɔu,ɑu} → ɑ
+
+t → d / r_
+
+{w,k} → ∅ / _{n,r}
+
+m → n / _f
+
+s → ʂ / _{t,r}
+
+t → ʈ / _r
+
+t → ʔ / V_V
+
+t → ʔ / _#
+
+u → ʏ
+17.7.2.1.11 Scots to Falkirk Scots
+
+Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill, from personal research
+
+pVn tVn kVn → ʔm̩ ʔn̩ ʔŋ̩ / _#
+
+V → Ṽː / _nC “(works across word boundaries)”
+
+n → ∅ / V_C (in words of more than one syllable)
+
+k → ç / V_# ! _C “(sometimes)”; “(except when phonemic)”
+
+ɡ → ʝ / V_# ! _C “(most times)”
+
+p b → ɸ β / {#,V}_ ! _C
+
+V → Ṽ / N_
+
+n → ∅ / V_V# “in some disyllabic words”
+
+l → ʟ
+
+ʟ → ʊ / {a,ɛ}_, typically ! _V
+17.7.2.1.12 Old English to Southern Middle English
+
+Pogostick Man, from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Middle_English_phonology&oldid=456896605>
+
+Vː → V[-long] / _C{ː,C} ! _st{#,V} or when preceding a cluster which had triggered a vowel to become long in Old English; the book gives “Christ” vs. “Christmas” as an example
+
+eɑ eːɑ eo eːo → ɑ ɛː e eː
+
+æj → aj → ej
+
+{æːj,e(ː)j} → ej
+
+ɑɣ → ɑw
+
+{eɑh,eɑç,eɑx,eɑʝ,eɑɣ} → ɑw
+
+eːɑw iːw → ew ju
+
+{ɑːw,ɑːɣ,oːw} → ɔːw
+
+oɣ → ɔːw / _V
+
+{ɑːht,o(ː)ht} → ow
+
+ɑː → ɔː
+
+ɑ e o → ɑː ɛː oː / in U[+open] ! in #U with the following U containing /iː/ or ending in one of /m n r l/
+
+y(ː) → i(ː)
+
+Vː → V[-long] / in #U before a U with /iː/
+
+m → n → ∅ / _# when unstressed
+
+hn {wl,hl} hr → w l r
+
+f θ s ɣ → v ð z ɡ / #_
+
+ɣ → w / C_V
+
+{e,ɑ,o} → ə / _#
+
+e → ∅ / if another /e/ one syllable previous
+17.7.2.1.13 Middle English to Yola
+
+Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill, the former from Wikipedia contributors (2016), “Forth and Bargy dialect”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Forth_and_Bargy_dialect&oldid=703468711>; and the latter from personal research
+
+C → ∅ / C_%
+
+t d → θ ð (conditioning unclear)
+
+∅ → ɛ / uː_d
+
+F → F[+ voice] / #_ ! F = ʍ
+
+ʍ → f (at least one instance of → w, before a high front vowel)
+
+U → U[+ stress] / #U_ (often)
+17.7.2.1.14 Anglo-Frisian to Old Frisian
+
+Pogostick Man, from Wikipedia contributors (2011), “Old Frisian”. Wikipedia, the Free Encyclopedia. <http://en.wikipedia.org/w/index.php?title=Old_Frisian&oldid=461768402>
+
+k ɡ → tʃ j / _E
+
+ɡ → j / E_
+
+aj aw ew → {eː,aː} aː ja
+
+h → ∅ / V_V
+17.7.2.1.15 North Frisian Lenition
+
+TzirTzi, from Goblirsch, Kurt Gustav (2002), “The North Frisian lenition and Danish linguistic hegemony”. In Carr, Gerald F., and Irmengard Raugh (2002), New Insights in Germanic Linguistics III:46 – 65
+
+p t k → b d ɡ → v r ɣ / Vː_{V,#}
+
+Vowel length neutralized (to long vowels?)
+17.7.2.2 West Germanic to Old Low Franconian
+
+Pogostick Man, from Wikipedia contributors (2014), “Old Dutch”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Old_Dutch&oldid=588537679>; and Wikipedia contributors (2014), “Germanic umlaut”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218>
+
+eː oː → ie uo
+
+ai au → eː oː
+
+h → ∅ / #_C
+
+jan → en / CC_#
+
+j → ∅ / CC_
+
+h → ∅ / V_V
+
+xs → sː
+
+Final obstruents devoice
+
+a → ɒ? (→ o) / _ɫ
+
+Some vowel reduction seems to have occurred in unstressed syllables
+
+ai u → ei ʏ / _(C…){i(ː),j} (short only; in the case of [ʏ] at least this was not yet phonemic)
+
+a → ɛ / _(C…){i(ː),j} (conjectured based on date from the “Germanic umlaut” article)
+
+uː → ʉw / _V (probably, in most areas)
+
+uː → ʊw / _V (probably, in areas that did not undergo the above change, such as Limburg)
+
+uː → ʉː (probably, in areas with uː → ʉw / _V)
+
+ei ou → eː oː (except in southeastern dialects; *ei as a result of the umlaut of *ai was not affected)
+17.7.2.2.1 Old Low Franconian to Middle Dutch
+
+Pogostick Man, from Wikipedia contributors (2014), “Middle Dutch”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Middle_Dutch&oldid=602536434>; and Wikipedia contributors (2014), “Hieronymous Bosch”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Hieronymus_Bosch&oldid=601403790>
+
+uː → yː
+
+iu → ju / #_ (in some northern dialects)
+
+iu → {yː,io} (outcome varies depending upon dialect; the former seems more typical)
+
+iw → yw (dialectal)
+
+{ie,ia,io} uo → iə uə
+
+Umlaut phonemicizes, but only for umlauts of non-dipthongal short vowels (except in extreme eastern dialects); [ʏ] becomes a phoneme
+
+f θ s → v ð z / syllable-initially (h → ɦ?)
+
+V → ə / if short and unstressed
+
+f → {x,ç} / _t (the former seems to have occurred in northern dialects, the latter in southern ones)
+
+θ ð → t d
+
+{uː,uw} u → ɔw o (except in the southeast)
+
+{ol,al} {ar,er} or → ɔu aːr oːr / _C[+dental]
+
+V[-long +stress] → Vː / in open syllables (ʏ → {œː,øː} here but this is not phonemically important; there seem to have been qualitative differences between original long vowels and long vowels resulting from this change—lengthened iː seems to have become eː, but lengthened aː merged with original aː); does not affect original long vowels or vowels in diphthongs
+17.7.2.2.2 Middle Dutch to Modern Dutch
+
+Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>; and Wikipedia contributors (2014), “Hard and soft G in Dutch”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Hard_and_soft_G_in_Dutch&oldid=594028971>
+
+NB: This is likely highly incomplete, but the source materials did not have much to say.
+
+l → u / o_{t,d}#
+
+The change of /f/ to a velar fricative is often reverted by analogy
+
+iː yː → ɛi œy
+
+uː → ʌu (? conjectured based on the above diphthongization and on developments in Polder Dutch vowels)
+
+Hard-vs.-soft-G phenomena:
+
+— x ɣ → {x,χ} {ɣ,x,χ} / in northern dialects
+
+— x ɣ → ç ʝ / in southern dialects (the articles use velar phonemes here but describes them as “front velar”; based on the description and on representations in other articles, the palatal phonemes are used here)
+17.7.2.2.3 Modern Dutch to Polder Dutch Vowel Shift
+
+Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>
+
+ɛi œy ʌu → ai ay au
+
+eː øː oː → ɛi œy ɔu
+17.7.2.2.4 Belgian and Netherlandish Dutch Monophthongization
+
+Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>
+
+ɛi œy ɔu → ɛː œː ɔː
+17.7.2.3 Middle High German to Standard German
+
+Paweł Ciupak, from Behr, Hans-Joahim, Ingrid Bennewitz, et al. (2004). Die Bamberg (BA)-Braunschweiger (BS) Grammatik des Alt- und Mittelhochdeutschen im Internet. <https://www.tu-braunschweig.de/Medien-DB/germanistik/babs260304.pdf>; Kundert, Ursula (2009). Einführung in das Mittelhochdeutsche. <http://www.germsem.uni-kiel.de/mediaevistik/materialien/Kundert_Mhdreader_090330.pdf>; and Anonymous (2009). Mittelhochdeutsche Kurzgrammatik. <https://www.uni-frankfurt.de/47053276/Kurzgrammatik-HA_09_2009.pdf>
+
+s → ʃ / #_{l,m,n,w,p,t}
+
+s → ʃ / r_
+
+t → {ts,k} / _w
+
+x → k / _s
+
+{h,j} → ∅ / V_V
+
+w j → b ɡ / {l,r}_ (occasionally otherwise)
+
+w → ∅ / {ou,øy,yː}_
+
+w → v
+
+aː → oː / _{N,C[+ dental],P,h} (sporadic?)
+
+aː → oː / {N,C[+ dental],P,h}_ (sporadic?)
+
+e(ː) i → ø(ː) y / _C[+ affricate]
+
+e(ː) i → ø(ː) y / _{P,l,ʃ} (sporadic?)
+
+e(ː) i → ø(ː) y / {P,l,ʃ}_ (sporadic?)
+
+y(ː) yə ø(ː) øy → i(ː) iə e(ː) ei (intermittent)
+
+uː yː iː → ou øy ei, except in certain unstressed endings and monosyllables, _C{C,V,#} (“especially before /xt/”), and Low German borrowings
+
+uə yə iə → uː yː iː
+
+ou øy ei → au oy ai
+
+u y → o ø / _N (with some occasional exceptions)
+
+aːw → au
+
+Vː → V[- long] / _CC (some exceptions; the change was more common around _xt and _rC)
+
+Vː → V[- long] / _%Cə{r,l,n}# (some exceptions)
+
+V → Vː / _%, when stressed (except for /ə/?)
+
+V → Vː / _r{t,d,s,ts} (except /ə/)
+
+V → Vː / in some monosyllables ending in alveolar resonants or vowels
+
+V → Vː / by analogy in some cases
+
+ə → ∅ / unstressed, but not in every case
+
+∅ → ə / M_r% (I don’t know what Mr. Ciupak means by 〈M〉)
+17.7.2.4 High German Cosonant Shift and Umlaut
+
+Pogostick Man, from <http://en.wikipedia.org/wiki/High_German_consonant_shift>; and Wikipedia contributors (2014), “Germanic umlaut”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218>
+
+p t k → fː zː xː / V_V
+
+p t k → f z x / _#
+
+p t k → pf ts kx / #_
+
+p t k → pf ts kx / {L,N}_
+
+pː tː kː → pf ts kx
+
+b d ɡ → p t k
+
+ɣ → ɡ
+
+β → b / V_V
+
+β → b / _l
+
+s → ʃ / #_{p,t}
+
+sk → ʃ / #_
+
+{θ,ð} → d
+
+a u o → e y ø / _(C…){i(ː),j}
+17.7.2.5 West Germanic to Old Low German
+
+Pogostick Man, from Wikipedia contributors (2014), “Old Saxon phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Old_Saxon_phonology&oldid=598609310>; Wikipedia contributors (2014), “Old Saxon”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Old_Saxon&oldid=598557577>; and Wikipedia contributors (2014), “Germanic umlaut”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218>
+
+ai au → eː oː
+
+β → v
+
+vː ɣː hː → bː ɡː xː (perhaps not strictly a sound change, but worth noting)
+
+f θ s → v ð z / syllable-initially
+
+v → f / _C ! _d
+
+b d → p t / _C[-voice]
+
+k → ts / _E (ɡ → dz here?)
+
+n → ŋ / _{k,ɡ}
+
+ɡ → k / ŋ_#
+
+ɡ → ʝ / _E (singleton only)
+
+ɡ → ɣ / _V (singleton only)
+
+ɡ → x / _#
+
+F[-voice] → F[+voice] / X[+voiced]_X[+voiced]?
+
+Umlaut applies; going by the orthography, only a → e / _(C…){i(ː),j} is often marked (and even then haphazardly), but based upon reflexes in the daughter languages it seems that the umlaut had to apply to the other back vowels too
+17.7.3 Common Germanic to Proto-Norse
+
+Pogostick Man, from Theiling, Henrik, http://www.kunstsprachen.de/s17/rules.sch
+
+wi → u / Ci_C
+
+Eβu Eβo → juː joː
+
+aβ{u,o} → au
+
+β → ∅ / V_B
+
+{æ,e}ː(w(a)) → aː
+
+oː → a / _n%
+
+z x → ʀ h
+
+i → j / _V ! in #U
+
+j → i / C_
+
+n → ∅ / V{ː,V}_hV
+
+Vn → Vː / _hV
+
+(w)u(ː) i(ː) → (w)o(ː) e(ː) / _(C)(C)a ! CC = NC or one C = {ʀ,j}
+
+iu → yː
+
+{æ,e}ːuː {æ,e}ːiː → eu ai
+
+w{o,u}ːwuː j{e,i}ːjiː → uː iː
+
+w → ∅ / _w
+
+j → ∅ / _i
+
+o(u) {ɔ,ɑ,au,ai,æ} {ja,jE,æ(i),e(i),y} → u a i
+
+Vː → V[- long] / ! #U, U#
+17.7.3.1 Proto-Norse to Old Norse
+
+Pogostick Man, from Theiling, Henrik, http://www.kunstsprachen.de/s17/rules.sch
+
+θ → f / _l
+
+i → ɪ / _NS[- voice] ! _NS(C){o,i,j}
+
+i → eː / _ʀ#
+
+b {w,v} d ð ɡ → p f t θ k / _#
+
+j → ∅ / #_
+
+EːBː Eːaː → joː jaː / {v,w}_
+
+BːB aː{o,a,æ,e} {æ,e}ː{æ,e}ː {æ,e}ːi iːEː → oː aː eː eː iː
+
+e → i / #(C)(C)(C)_(C)(C)(C){i,j}
+
+e → ja / ! {{h,k,ŋ}n,w,v,l,r}_, _{u,o,i}
+
+a(i) {e,w{æ,i}} {we,ei} (w)ɪ → ey ø y ʏ / w_ ! hw_
+
+a → ∅ / C(C)_{ʀ,s,t,θ}#
+
+VN → Ṽ / _# ! in #U
+
+u {o,ɒ} a au juː → y ø æ y yː / _(C)(C)(C)j
+
+a → ∅ / _{ʀ,s,t,θ}#
+
+oː → u / _#
+
+ʀ → r_n
+
+ʀ → r / C_n
+
+ʀn → nː
+
+w → ∅ / C_o
+
+a → ∅ / CC_U#
+
+a → u / %u / ! in #U
+
+waː naː → oː noː / %u in #U
+
+a(ː) ae → o(ː) ɒø / #(C)(C)(C)_(C)(C)(C)u
+
+a → ∅ / _U#
+
+{(j)u,we}ː {o,ɒ}ː aː au → yː øː æː æy
+
+u {o,ɒ} a → y ø æ / _(C)(C)(C)i
+
+{B,E} → ∅ / CC_{ʀ,s,t,θ}# ! B = ɒ
+
+u {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)i
+
+E → ∅ / _{ʀ,s,t,θ}
+
+u → o / _m#
+
+u → ∅ / _({ʀ,s,t,θ})#
+
+{B,E} → ∅ / CC_U# ! B = ɒ
+
+V → Vː / _l{P,w,k,#}
+
+{a,æ,e}ːhiː → æː
+
+ɒːh{u,a} aːh{u,a} → ɒː aː
+
+{B,E} → ∅ / _U# ! B = ɒ
+
+u → o / _m#
+
+Vː → V[- long] / ! in #U
+
+{u,we,wi} {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)i
+
+wa we wi → ɒː øː yː / #P_
+
+w → ∅ / #P_Vː
+
+e → jɒ / _(C)(C)(C)u ! {{h,k,ŋ}n,w,v,l,r}_
+
+e → ja / _(C)(C)(C)u ! {{h,k,ŋ}n,w,v,l,r}_
+
+au {ai,ey,ei} æ{y,i} øy Vː → o e æ ø V / #(C)(C)(C)_CC
+
+V[- long] → ∅ / #U_UU
+
+u {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)j
+
+u {o,ɒ} a au juː → y ø æ æy yː / #(C)(C)_ʀ
+
+b → ∅ / m_s
+
+d → ∅ / {l,m}_{b,ɡ,k,l,m,n,s}
+
+ð → ∅ / n_ ! ɡ_
+
+ð → ∅ / r_{m,l,ɡ,n}
+
+{f,β,p} → ∅ / r_n
+
+{f,β,p} → ∅ / l_{d,ɡ,n,ð,t}
+
+{ɡ,ɣ} → ∅ / l_{ð,t}
+
+{ɡ,ɣ} → ∅ / r_{d,n,t}
+
+k → ∅ / l_s
+
+k → ∅ / r_{m,s,t}
+
+k → ∅ / s_l,t
+
+l → ∅ / ŋ_s
+
+l → ∅ / r_{m,s}
+
+l → ∅ / s_t
+
+n → ∅ / f_{d,s,t}
+
+n → ∅ / l_b
+
+n → ∅ / m_{s,b}
+
+n → ∅ / ŋ_{s,w}
+
+n → ∅ / r_{s,t,w}
+
+n → ∅ / t_s
+
+r → ∅ / {ð,f}_{ɡ,ɣ}
+
+r → ∅ / k_{n,s}
+
+r → ∅ / m_m
+
+r → ∅ / t_{k,s}
+
+t → ∅ / {ɡ,ɣ}_s
+
+t → ∅ / p_{ɡ,ɣ,n}
+
+t → ∅ / r_k
+
+t → ∅ / s_{k,l,n,s}
+
+{s,z} → ∅ / {r,ʀ}_N
+
+{v,w} → ∅ / #_V[+ round]
+
+rː{r,ʀ} sʀ → rː sː
+
+l(ː)ʀ n(ː)ʀ → lː nː / ”Vː_ (or all V_ ?)
+
+{l(ː),n}{r,ʀ} → ∅ / V{ː,V}_
+
+nː lː rː sː → n l r s / C_
+
+{t,θ,d,ð} → ∅ / n_l
+
+{t,θ,d,ð} → ∅ / l_n
+
+lː nː → l n / C_#
+
+ai wi (w)V → eː weː (w)Vː / _h#
+
+ɒ → oː / n_h
+
+{æ,e}i ai au w{ɪ,i} wy wV iu Vː → eː aː oː weː woː wVː eː oː V
+
+ey → {jo,æ}ː / _ʀ
+
+i → eː / _#
+
+ðl(ː) ðn(ː) → lː nː
+
+ʏ ɪ → ø e
+
+V{θ,ð} → Vː / #(C)(C)(C)_{l,r}
+
+ai → aː / _r
+
+ai → aː / _h{C,V}
+
+æ → e
+
+lθ nθ → lː nː
+
+Ṽ → Vː / in #U (maybe only ı̃?)
+
+Ṽ → V[- nas]
+
+β ð ɣ → f θ k / _{p,t,k,s}
+
+β ð ɣ → b d ɡ / #_
+
+β ð ɣ → b d ɡ / {m,n,ŋ,l}_
+
+β ɣ → b ɡ / r_
+
+ɣ → ɡ / _{r,ʀ,θ,ð}
+
+β ɣ → f h / _%
+
+ɣ → ɡ / _{E,j}
+
+β ð ɣ → v θ h
+
+(Vː)θt → (V)tː
+
+Eː{u,o}ː Eːaː → joː jaː / {v,w}_
+
+θ → t / {p,t,k}_
+
+θː ðː → tː dː
+
+θ f → ð v / {V,C[+ voiced]}_{V,C[+ voiced]}
+
+h → ∅ / C_t
+
+ht → tː
+
+hw → ∅ / ! #_
+
+F[- voice] → ∅ / {s,f,x,h,t}_{p,t,k}
+
+nː → ð / _{r,ʀ}
+
+woː wøː jæː Vː → wo wøje V[- long] / _%
+
+NS[- voice] → S[- voice]ː
+
+{t(ː),ɡː}k → kː
+
+ts → sː / V_V
+
+uN yN iN VN → o øː eː Vː / _{s,f}
+
+Sː → S[- long] / U[- stress]_
+
+lθ nθ → lː nː
+
+p → f / _{t,k}
+
+t → θ / _{p,k}
+
+k → x / _{p,t}
+
+m → f / _{n,ŋ}
+
+n → θ / _{m,ŋ}
+
+ŋ → x / _{m,n}
+
+s → ts / {l,n}ː_
+
+∅ → t / s_r
+
+ɣ → ɡː / _j
+
+ʀ → r
+
+w → v / #_
+
+Sː → S[- long] / _{r}ː
+
+ɡ → ∅ / #_n
+
+r → ∅ / {p,t,k}_Vr
+
+rː lː → r l / {p,t,k,f,s}_
+
+o {æ,e} → u i / ! in #U
+
+o → u / V_
+
+a → e / _i
+
+ɪʊ → yː
+
+ø øː → e æː
+
+e(ː){B,i(ː)} → e(ː)u / {v,w}_
+
+eː{Bː,i(ː)} → joː / _C[+ alveolar]#
+
+eː{Bː,i(ː)} → juː
+
+∅ → j / {y,e}(ː)_a
+
+N(ː) k k(ː) N(ː)ɡ ɡ(ː) ɣ → ɲc(ː) c(ː) ɲɟ(ː) ɟ(ː) ʝ / _{i,j}
+
+j → ∅ / Ḱ_
+
+a → e / _{i,j,Ḱ}
+
+N(ː) k k(ː) N(ː)ɡ ɡ(ː) ɣ → ɲc(ː) c(ː) ɲɟ(ː) ɟ(ː) ɟ / _{i,j}
+
+f θ → v ð / #_
+
+f → v / _{p,t,k}
+
+j → ∅ / {c,ɟ}_
+
+j → ∅ / _eː
+
+au → ɒ / j_
+
+eː → e / Ḱ_
+
+eː j → e ∅ / Cw_
+
+k → h / #_{v,n}
+17.7.3.1.1 Old Norse to Early Icelandic
+
+Pogostick Man, from Theiling, Henrik, http://www.kunstsprachen.de/s17/rules.sch
+
+k → ç / _#
+
+n → ŋ / _{k,ɡ}
+
+t → ð / V_# “in some verbal endings”
+
+∅ → u / C_r#
+
+waː → wo
+
+ɒ ɒː → ø aː
+
+øː → æ
+
+u o a ø y e i → uː oː aː øi yː ei iː / _{ɲc,ɲɟ,ŋk,ŋɡ}
+
+ɡ ɟ → ɣ j / V_V
+
+ɡ → ɣ / V_#
+
+hj → ç
+
+u o a øː eː y i → ʏɪ oi ai øi ei yː iː / _j
+
+aː → ai / _j
+
+e → ei / _{ɣ,j}
+
+O → ∅ / {F[- same POA],r,l}_O
+
+S → ∅ / N[+ same POA]_S
+
+{l(ː),rl} → ɬ / v_#
+
+N → N[- voice] / O_#
+
+{l(ː),rl} C → ɬ C[- voice] / _{S[- voice],s}
+
+r → r̥ / S[- voice] / _#
+
+{l(ː),rl} C → ɬ C[- voice] / S_ ! Sː_
+
+{l(ː),rl} rː → dɬ r̥ / _#
+
+S[- voice]ː S[+ voice]ː → ʰS S[- voice]ː
+
+S[- voice] → ʰS / _{l,ɬ,m,n}
+
+S[- voice] → Sʰ / #v_V
+
+S[+ voice] → S[- voice]
+
+p t k → f θ x / _{S,F[- voice]}
+
+b d {ɡ,ɣ} → p t k / _S
+
+F → S[- voice] / _{l,N}
+
+u oː aː ʏɪ {y,i} {y,i}ː æː eː ey → ʏ ou au ai y ɪ i je ei
+
+w → v
+
+V → Vː / _(C)#, in monosyllables
+
+V → Vː / ! _CCV, in polysyllables
+
+{n̥n,nn̥ → tn̥ / V_
+
+nː → tn̥ / V_#
+
+nː → tn / V_
+
+nn̥,n̥n → n̥
+
+nː → n
+
+{r̥n,r̥n̥,rn̥ → tn̥
+
+rn → tn̥ / _#
+
+r → t / _n
+
+{r,r̥,l}ɬ → tɬ
+
+{ɬl,ɬː → tɬ
+
+r̥l → tɬ
+
+{lː,rl} → tɬ / _#
+
+{lː,rl} → tl
+
+h → k / #_{v,w}
+
+hl → ɬ / #_
+
+hr hn → r̥ n̥ / #_
+
+v → ∅ / {u,o,a}ː_
+
+n̥ → m̥ / p_#
+
+Cː → C[- long]
+17.7.3.1.2 Old Norse to Orkney Norn
+
+Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill, from http://nornlanguage.x10.mx/index.php?ork_phon, citing Marwick, Hugh, “Orkney Norn”
+
+NB: For the most part, these changes are not in chronological order and are often tendencies more than strict sound-change laws.
+
+ny → in
+
+f → m / _n
+
+n → ∅ / m_
+
+p(ː) t(ː) k(ː) → b(ː) d(ː) ɡ(ː) / {V,R}_{V,R}
+
+{t,d}j → tʃ
+
+d → ∅ / n_# (sometimes)
+
+b d ɡ → p t k / #_
+
+k → s / _n
+
+ɡ → k / _# (sporadic)
+
+ɡn ɡl → nj lj
+
+k ɡ → c ɟ / _{E,j}
+
+f → ∅ / _{l,b,v,n,#}
+
+f → ∅ / Vː_V
+
+fd → dː
+
+h → ∅ / _{l,n,r}
+
+hw hj → {w,ʍ} ʃ
+
+h → x / _i
+
+θ → h / #_B
+
+θ → ð / V_V
+
+θ → t
+
+ð → θ / _#
+
+ð → ∅ /{a,E}_
+
+ð → d / ! V_V
+
+sk → {sk,ʃ,ks}
+
+s → ∅ / {t,k,r}_l
+
+s → ʃ / _Vr ?
+
+ɣ → ∅
+
+l → ∅ / V_V
+
+l → ∅ / _{m,s,k}
+
+l → ∅ / _# ?
+
+lm → ml (sporadic)
+
+lː → ʎ
+
+v → w
+
+u a e eː → ʌ ɑ ɪ ɛ / _Cː
+
+u → ø / _l(ː)
+
+u → ʌ / _C{ː,CC}
+
+uː → øː / _CC
+
+o a → ø ɛ / _(C)(C)i
+
+o → ø / _Cr
+
+oː → øː / _(C)(C)#
+
+oː → u(ː)
+
+joː → {u,o,ø} (looks like being in the ultima or the penult may have had something to do with it, but it isn’t clear to me)
+
+ɒ → ɔ / _C(ː)C
+
+ɒ → ʌ / _r(ː)
+
+ɒ → {ɛ,e} / _CːV (V can be a syllabic consonant)
+
+ɒ → ɪ / _rC
+
+au → (ɔ)u
+
+a aː → ɛ øː / _r
+
+a → ɔ / _{l,nd}C
+
+ja → i
+
+æ → eː / _{ð,r}
+
+æ → ɛː
+
+œ → ɛː / _CC
+
+œ → ø / _l
+
+œ → iː / _N
+
+œ → eː
+
+yː → ø / _j
+
+yː → i
+
+y → {ɪ,i}
+
+e iː → ɛ i(ː)
+
+ey → eː / _F
+
+ey → ɛ / _r
+
+ey → ai
+
+ei → eː / _C(ː,V)# (V can be a syllabic consonant)
+
+e → a / _i
+
+i → ɪ / _CC
+
+V[- long] → ∅ / _#
+17.7.3.1.3 Old Norse to Shetland Norn
+
+Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill, from http://nornlanguage.x10.mx/index.php?shet_phon, citing Jakobsen, Jakob, An Etymological Dictionary of the Norn Language
+
+NB: For the most part, these changes are not in chronological order and are often tendencies more than strict sound-change laws. Further, I’m assuming that 〈ä〉 is /æ/ and that 〈o̧〉 and 〈ȯ〉 are /ɒ/, and since I’m not sure what the conditions are for (apparent) reflexes with long vowels, I’m ignoring the vowel length in the Shetland Norn reflexes.
+
+p t k → b d ɡ / V_V (the second V at least can be a syllabic consonant)
+
+b d → p t / N_
+
+b → v / #_ (sporadic?)
+
+lm → ml
+
+∅ → b / m_l
+
+nd ld (→ nː lː ?) → ɲ ʎ
+
+dj → dʒ
+
+ɡ(ː) → dʒ / _iV
+
+k ɡ → c ɟ / _E
+
+tr → rd
+
+pː tː kː → b d {ɡ,ɣ} / V_V
+
+tː → {tʲ,dʲ}
+
+tj → tʃ / _#
+
+tj → ʃ
+
+ɡl → lɡ
+
+f → v / #_ (sporadic?)
+
+f → m / _n
+
+f → p / _t
+
+v → w / #_
+
+n → ∅ / _m#
+
+vl → lv
+
+θ → {t,d}
+
+ð → ∅ / _#
+
+ð → d
+
+s → ∅ / k_l
+
+∅ → h / #_V
+
+h → ∅ / _{V,w,j} (sporadic)
+
+h → ∅ / _l
+
+h → {∅,h,k} / _r
+
+h → {∅,h,k,s} / _n
+
+hv → {h,k,s}w
+
+hj → ʃ
+
+n l → ɲ ʎ / _C
+
+nː → ɲ(d)
+
+rn {lː,rl} → ɲ ʎ
+
+ms → ŋ(k)s
+
+r alternates with l
+
+{u,o}(ː) a aː {ɒ,œ,y} e i(ː) → {o,ɔ}(i) æ(i) {ɔ,ɒ}(i) {o,ɔ}(i) {æ,e} / _{Ḱ,Cʲ}
+
+u → {o,ɒ} / _CC
+
+uː → {u,o,ɒ,ø} (conditioning unclear; it seems the presence of a velar consonant may have helped to retain the quality of /u/)
+
+oː → u
+
+ɒ → ɛ / _Cː
+
+ɒ → ø / _O[+ dental/alveolar]
+
+{ɒ,ey} j{u,o,a}ː yː → o ø u / Ḱ_
+
+j{u,o,a}ː → ø
+
+a → ∅ / C[+ dental/alveolar]_u
+
+a → {o,ɔ} / _{K,r} (! K = w ?)
+
+aː → wo (dialectal)
+
+aː → ɔ(u) / _{l,r}
+
+au → {o,ɔ,ɒ} / j_
+
+au → j{o,ɔ}
+
+y → ə / _r(ː)
+
+yː → ø / _O[+ dental/alveolar]
+
+æ → e / ! _{Ḱ,Cʲ}
+
+e → {o,ɒ} / _w
+
+eː → {ɒ,ə} / w_
+
+e eː → {æ,ɛ,e} {(j)ɛ,je}
+
+ey → ø
+
+Final short vowels drop
+17.7.4 Common Germanic to Vandalic
+
+Jaceb Kilpatrick & Pogostick Man, from Wikipedia contributors (2015), “Vandalic language”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Vandalic_language&oldid=686359598>
+
+NB: This is likely incomplete.
+
+h → ∅ / #_
+
+eː → i / unstressed
+
+e → i / ! {w,r,h}_
+
+oː → u
+
+wː → ɡ
+
+w → {ɡw,v} / #_
+
+tj → tsj
+
+θ ð → t d (not a complete change; apparently due to Latin)
+
+z → ∅ (seems to have been complete by the Sixth Century)
+17.8 Greek
+
+It is entirely possible that I utterly failed to interpret the source documents correctly. If so, please do not hesitate to correct me.
+17.8.1 Proto-Indo-European to Aeolian Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+17.8.2 Proto-Indo-European to Attic Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+ɑː → æː
+
+Vns → Vːs
+
+n → ∅ / _s
+
+tʃ → t / #_
+
+tʃ → tː / medial
+
+w → ∅
+
+Vowel contraction (on which the author does not elaborate much)
+Some “metathesis of quality as well as of quantity” with regards to vowels
+
+u(ː)(j) → y(ː)(j)
+
+æː → ɛː (includes diphthongs)
+
+ej ow → eː oː
+
+eː → iː / _C
+
+j → ∅ / Vː_
+
+eː → iː / _V
+
+ɛː → eː
+
+ɑj → ɛː
+
+h → ∅
+
+oj → øj → yj (→ yː sometimes)
+
+e o → ɛ ɔ
+
+pʰ tʰ kʰ → f θ x
+
+Pitch-accent lost
+
+b d ɡ → v ð ɣ / V_V
+
+dz → z
+
+Vː → V[-long]
+
+Cː → C[-long]
+
+ɑu ɛu eu → ɑv ɛv ev
+
+ɔ → ∅ / in the suffixes -ios and -ion
+
+n → ∅ / _#
+
+e → i
+
+p t k → b d ɡ / N_
+
+y → i
+
+ɡ x → j ç / _{ɛ,i}
+
+p k → f x / _t
+
+”{i,e}V → j”V
+17.8.3 Proto-Indo-European to Boeotian Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+
+{eː,ej} ɛː ɑ(ː)j {oj,ɔːj} → iː eː ɛː {y,ø}
+
+oː → uː
+17.8.4 Proto-Indo-European to Coan Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+NB: This assumes that the adjective “Coan” refers to the “Ceos” Tucker mentions in the source.
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+
+æː → ɛː
+17.8.5 Proto-Indo-European to Cretan Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+17.8.6 Proto-Indo-European to Doric Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → V(ː)s (Tucker says that “[i]n a few Doric dialects the lengthening did not occur”)
+
+n → ∅ / _s
+
+tʃ → t / #_
+
+tʃ → tː / medial
+
+h → ∅ (in those “dialects of the western fringe of Asia Minor and the near-by islands”)
+
+Vowel contraction (on which the author does not elaborate much)
+17.8.7 Proto-Indo-European to Elian Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+
+h → ∅
+17.8.8 Proto-Indo-European to Ionic Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+ɑː → æː
+
+Vns → Vːs
+
+n → ∅ / _s
+
+tʃ → s / #_
+
+tʃ → sː / medial
+
+VCw → VːC
+
+w → ∅
+
+h → ∅ (in Eastern Ionic)
+
+Vowel contraction (on which the author does not elaborate much)
+
+æː → ɛː
+
+ej ow → eː oː happened “in the various Ionic dialects at various dates”
+
+Some “metathesis of quality as well as of quantity” with regards to vowels; did not occur to the same degree as it did in Attic
+
+u(ː)(j) → y(ː)(j)
+
+oː → uː (?)
+
+j → ∅ / Vː_
+
+eː → iː / _V
+
+ɛː → eː
+
+ɑj → ɛː
+
+h → ∅
+
+oj → øj → yj (→ yː sometimes)
+
+e o → ɛ ɔ
+17.8.9 Proto-Indo-European to Laconian Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+
+Vns → Vːs
+
+n → ∅ / _s
+
+pʰ tʰ kʰ → f θ x
+17.8.10 Proto-Indo-European to Mycenaean Greek
+
+Pogostick Man, from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271>
+
+{Hx,m̩,n̩} → a
+
+bʱ dʱ ɡʱ → pʰ tʰ kʰ
+
+s → h / #_
+
+s → h / V_V
+
+t → ts / _i
+
+j → h
+
+kʷ kʰʷ ɡʷ → t tʰ d / _E
+
+kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+
+kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+
+ts → s
+
+h → ∅
+17.9 Proto-Indo-European to Hittite
+
+Goatface
+
+ḱ ɡ́ ɡ́ʱ → k ɡ ɡʱ
+
+bʱ dʱ ɡʱ → p t k
+
+kʷ ɡʷ ɡʷʱ → ku ɡu ku
+
+t → ts / _{i,e}
+
+m → ∅ / _#
+
+e(ː) → a(ː) / _h2
+
+e(ː) → a(ː) / h2_
+
+e(ː) → o(ː) / _h3
+
+e(ː) → o(ː) / h3_
+
+h3 → ∅ / _o “(according to Kortlandt)”
+
+h2 → x (or some sort of dorsal or laryngeal fricative?)
+
+o(ː) → a(ː)
+
+{uː,eu,au} → u
+
+m̩ n̩ r̩ l̩ → am an ar al
+
+w → m / u_
+
+“Changes I’m less sure of”
+
+— r → ∅ / #_
+
+— r → ∅ / _# “sometimes??”
+
+— e(ː) → a(ː) / _R “sometimes??”
+
+— e(ː) → a(ː) / “when unstressed?”
+17.10 Proto-Indo-European to Proto-Indo-Iranian
+
+Tropylium, from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants
+
+e → a / _{h2,h3}
+
+e → a / {h2,h3}_
+
+p → b / _h3
+
+H → ə / “syllabic”
+
+ə → ∅ / #_
+
+{h1,h3} → *H
+
+*H → ∅ / S_
+
+Kʷ → K
+
+s → ʃ / {u,i,l,r,K,Ḱ}
+
+Ḱ → TŠ
+
+Bʱ1P2 → B1Bʱ2 / “includes s ʃ > zʱ ʒʱ”
+
+BʱBʱ → BBʱ
+
+ptʃ → pʃ
+
+ttʃ ddʒʱ → t.ʃ d.ʒʱ
+
+t → ∅ / _ʃt
+
+d → ∅ / _ʒdʱ
+
+tʃʃ → ʃː
+
+k ɡ ɡʱ → c ɟ ɟʱ / _e,i,j
+
+o → aː / _CV, “does not affect o2 < eh3”
+
+{e,o,o2,N̊} → a
+17.10.1 Proto-Indo-Iranian to Proto-Indo-Aryan
+
+Tropylium, from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants
+
+ə → i
+
+Sh2 → S[+ aspirated]
+
+h2 → *H
+
+VH → Vː / _{C,#}
+
+R̊H → {u,i}R / _V (sporadic)
+
+R̊H → {u,i}ːR / _C
+
+ʃ ʒ → ʂ ʐ
+
+n → ɳ / R(V)_
+
+t d(ʱ) n → ʈ ɖ(ʱ) ɳ / C̣_ ! _r
+
+s t d(ʱ) n → ʂ ʈ ɖ(ʱ) ɳ / _C̣
+
+ls lt ld(ʱ) ln → ʂ ʈ ɖ(ʱ) ɳ / “disputed”
+
+s → ʂ / _V{ʂ,ʈ,ɖ(ʱ)}
+
+∅ → a / #_z
+
+uʐ aʐ iʐ → uː əː iː
+
+əː → oː / w_
+
+əː → eː
+
+tʃ dʒ(ʱ) → tɕ dʑ(ʱ) → ɕ ɟ(ʱ)
+
+tst dzdʱ → tː dʱː
+
+k → ∅ / #_t
+
+p → ∅ / #_st
+
+ɟʱ → ɦ
+
+dʱ → ɦ / (unclear environment)
+
+bʱ → ɦ (very rare)
+
+Vm → Ṽ / _(#){s,ɕ}
+
+n → ɲ / ɟ_
+17.10.1.1 Proto-Indo-Aryan to Central Middle Indo-Aryan
+
+Pogostick Man, from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401.
+
+C(C) → ∅ / C_#
+
+VN VC[-nas] → V[+nas] Vː / _#
+
+a{i,j}(a) a{u,w}(a) → e o
+
+j w → dʒ b / V_V
+
+C → C[+voiced] / V_V
+
+{bʱ,dʱ,ɡʱ} {j,v} → h ∅ / V_V
+
+Vm → Vv → V[+nas]v / _V
+
+e o → i u / _#
+
+Vː → V[-long] / _#
+
+ah → o
+
+ɽ → i
+
+ʂ → x / k_
+
+{ʂ,ç} → s
+
+v → ∅ / {t,d}_
+
+C1C2 → C2C2 / V_V
+
+Cn → CC / V_V ! C = dʒ
+
+dʒɲ → ɳː / V_V
+17.10.1.2 Proto-Indo-Aryan to Eastern Middle Indo-Aryan
+
+Pogostick Man, from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401.
+
+C(C) → ∅ / C_#
+
+VN VC[-nas] → V[+nas] Vː / _#
+
+a{i,j}(a) a{u,w}(a) → e o
+
+j w → dʒ b / V_V
+
+C → C[+voiced] / V_V
+
+{bʱ,dʱ,ɡʱ} {j,v} → h ∅ / V_V
+
+b {d,dʒ,ɡ} → v j / V_V
+
+Vm → Vv → V[+nas]v / _V
+
+e o → i u / _#
+
+Vː → V[-long] / _#
+
+ah → e
+
+ɽ → i
+
+kʂ → hk
+
+ʂ s → s ç
+
+r → l
+
+v → ∅ / {t,d}_
+
+C1C2 → C2C2 / V_V
+
+Cn → CC / V_V ! C = dʒ
+
+dʒɲ → ɲː / V_V
+17.10.1.3 Proto-Indo-Aryan to Northwestern Middle Indo-Aryan
+
+Pogostick Man, from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401.
+
+C(C) → ∅ / C_#
+
+VN VC[-nas] → V[+nas] Vː / _#
+
+a{i,j}(a) a{u,w}(a) → e o
+
+j w → dʒ b / V_V
+
+C → C[+voiced] / V_V
+
+{bʱ,dʱ,ɡʱ} {j,v} → h ∅ / V_V
+
+Vm → Vv → V[+nas]v / _V
+
+e o → i u / _#
+
+Vː → V[-long] / _#
+
+ah → o
+
+ɽ → i
+
+kʂ → tʃː
+
+{ʂ,ç} → s
+
+sC → Ch
+
+v → ∅ / {t,d}_
+
+C1C2 → C2C2 / V_V
+
+Cn → CC / V_V ! C = dʒ
+
+dʒɲ → ɳː / V_V
+17.10.1.4 Proto-Indo-Aryan to Western Middle Indo-Aryan
+
+Pogostick Man, from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401.
+
+C(C) → ∅ / C_#
+
+VN VC[-nas] → V[+nas] Vː / _#
+
+a{i,j}(a) a{u,w}(a) → e o
+
+j w → dʒ b / V_V
+
+C → C[+voiced] / V_V
+
+{bʱ,dʱ,ɡʱ} {j,v} → h ∅ / V_V
+
+Vm → Vv → V[+nas]v / _V
+
+e o → i u / _#
+
+Vː → V[-long] / _#
+
+ah → o
+
+ɽ → i
+
+kʂ → tʃː
+
+{ʂ,ç} → s
+
+tv dv → p b
+
+C1C2 → C2C2 / V_V
+
+Cn → CC / V_V ! C = dʒ
+
+dʒɲ → ɳː / V_V
+17.10.1.5 Proto-Indo-Aryan to Vedic Sanskrit
+
+Tropylium, from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants
+
+{s,ʂ} → h / _#C[- voice]
+
+{s,ʂ} → r / _#C[+ voice]
+
+l → r
+
+ɖ(ʱ) → ɭ(ʱ)
+
+sɕ ɕʂ → ɕː ʂː
+
+sː ʂː ɕː → t.s t.ʂ t.C
+
+t.ʂ t.ɕ → kʂ cʰː
+
+cʰː → cʰ / C_
+
+bzʱ → ps
+
+{pʂ,cʂ,ɟʐʱ,ɡʐʱ} → kʂ
+17.10.1.5.1 Vedic Sanskrit to Classical Sanskrit
+
+Tropylium, from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants
+
+ɭ(ʱ) → ɖ(ʱ)
+
+H → ∅
+
+au aːu ai aːi → au oː ai eː / ! _V
+
+w → v
+17.11 Proto-Indo-European to Proto-Slavic
+
+Hwhatting
+
+NB: “Not in chronological order”
+
+bʱ dʱ {ɡʱ,ɡ́ʱ} ɡʷʱ → b d ɡ ɡʷ
+
+Kʷ ḱ ɡ́ → K s z
+
+s → x / {i,u,r,k}_
+
+k ɡ x → tʃ ʒ ʃ / _{e(ː)(i),i(ː)}
+
+{a,o,ə} → e / j_
+
+{a,o,ə} → o
+
+i u → ь ъj
+
+iː uː → i ɨ
+
+u → ь / j_
+
+e(ː)i → i
+
+{ai,oi} → i / j_
+
+{ai,oi} → æː
+
+{aːi,oːi} → {æː,a} (the former seems to be more common)
+
+{a(ː)u,o(ː)u} e(ː)u → u ju
+
+e → ь / _jV
+
+e → o / _wV
+
+w → v
+
+l̩ r̩ → {ьl,ъl} {ьr,ъr}
+
+{m̩,n̩} → {ẽ,õ} / _C$
+
+m̩ n̩ → {ьm,ъm} {ьn,ъn}
+
+æː → a / “After palatal fricatives and affricates”
+
+{e(ː),i(ː)} {a(ː),o(ː),u(ː)} → ẽ õ / _N$
+
+oi o → i ъ / “Sometimes in final syllables”
+
+{O,N} → ∅ / _$
+
+k ɡ x → ts dz s / _{æː,i}
+
+k ɡ x → ts dz s / “After some syllables with front vowels”
+
+sj zj → ʃ ʒ
+
+kj ɡj xj → tʃ ʒ ʃ
+17.11.1 Proto-Slavic to Polish
+
+Xiądz Faust, in http://pittmirg.ovh.org/inne/psc.pdf http://pittmirg.ovh.org/inne/psc.pdf, mainly citing Klemensewicz et al. (1955), “Gramatyka historyczna języka polskiego”, and Dubisz and Długosz-Kurczabowa (2003?), “Gramatyka historyczna języka polskiego”
+
+NB: The original document heavily uses Slavistic notation as opposed to IPA; I’ve done the best I could in figuring this stuff out but be warned of possible errors.
+
+sk x → ɕtɕ ɕ / _E
+
+x → ɕ / E_
+
+ɛl → lɔ / T_T “in certain cases (mostly after a PSl. palato-alveolar”)
+
+ɔl ɔr ɛl ɛr → lɔ rɔ lɛ rɛ / T_T
+
+ɔr ɔl → ra la / #_T “in syllables with long vowels”
+
+ɔr ɔl → rɔ lɔ / #_T
+
+C → Cʲ / _E ! /j ɕ ʑ
+
+j → lʲ / {p,b,m,v}_ (sporadic)
+
+ɛ ɛ̃ ɛː → ɔ ɔ̃ a / _C[-palatalized +dental] (also sporadically before plain non-dentals)
+
+ɛː → ɛ
+
+Havlik’s law:
+
+— {ь,ъ} → e / iambic counting from U# or a syllable not containing a yer
+
+— {ь,ъ} → ∅] / in even syllables counting iambic from U# or a syllable not containing a yer
+
+— “[H]owever: in the vicinity of *j the development of yers did not comply with the aforementioned law”
+
+ъ → aː / _r
+
+ъl → ɔ(ː)ɫ / P_
+
+ъl → ɛɫ / K_
+
+ъl → ɫu / else
+
+ьl → ɫu / C[+dental]_
+
+ьl → ɛɫ / P_C[+dental -palatalized]
+
+ьl → il / P_
+
+ьl → ɔ(ː)ɫ
+
+ь → aː / r_C[+dental -palatalized]
+
+ьr → i(ː)ʐ → {ɛ(ː)r,ɛ(ː)ʐ} → {ɛr,ɛʐ}
+
+{ɛ̃,ɔ̃} → ã
+
+a ɛ i ɔ u ɨ ã → aː ɛː iː ɔː uː ɨː ãː / _{C/U}[+voiced][lost yer] (i.e., a voiced consonant or a cluster with one)
+
+ajɛ → ɛː in adjectives, aː in verbs
+
+{aja,ɔja} {ɔjɛ,ɨjɛ} ɨjɛ → aː ɛː iː
+
+{ɛ(ː)jɛ,ьjɛ,ɔjɛ,ujɛ,ɨjɛ} → ɛː
+
+{ɔjɔ̃,ɔ̃jɔ̃,ьjɔ̃} → ɔ̃ː
+
+ьjь ъjь → i ɨ
+
+jь → i / utterance-initially (cf. English utterance-initial glottal stops before vowels)
+
+ь ъ → i ɨ / _j
+
+ji → i / #_
+
+{aja,ɛja,ьja,ɔja} → aː
+
+iji ɨjɨ → i ɨ
+
+ɔvi → ∅
+
+O[+voice] → O[-voice] / _# (unless followed by some type of voiced consonant, be it any type of consonant or just an obstruent—this differs by location)
+
+ɔ → ɔː / _{r,l} (sporadic, perhaps analogical)
+
+∅ → h / _ъ
+
+Mobile stress → initial stress → penultimate stress (in most areas)
+
+V → ∅ / unstressed (sporadic)
+
+i → ∅ / _# “in the infinite and imperative desinences. . .some verbs have never been affected due to a potential ‘difficult’ cluster that would result, instead they got an analogical final -j extension”
+
+tsi ʐi → tɕ ʐ / V_
+
+i u → u i / {lʲ,j}_ (sporadic)
+
+tʲ dʲ sʲ zʲ nʲ rʲ l lʲ → tɕ dʒ ɕ ʑ ȵ r ɫ l (this last probably not before /i/)
+
+iː uː ɨː → i u ɨ
+
+ã → ɛ̃ / short only
+
+ãː → ã → ɔ̃
+
+aː ɔː ɛː → ɒ o e
+
+Vː → V in certain frequently-used words
+
+Sporadic (de)nasalization of vowels; “there were certain environments which favoured nasality changes: in the vicinity of nasal consonants. . .and before sibilants”
+
+{i,ɨ} → ɛ / _C[+rhotic]
+
+k ɡ → kʲ ɡʲ / _ɛ where the vowel is from a yer or a borrowing
+
+kɨ ɡɨ → kʲi ɡʲi
+
+ʃi ʒi tʃi dʒi ɕi ʑi → ʂɨ ʐɨ ʈʂɨ ɖʐɨ tsɨ ʒɨ
+
+ʃ ʒ tʃ dʒ ɕ ʑ → ʂ ʐ ʈʂ ɖʐ ts ʒ
+
+r̝ → ʂ / C[-voiced]_
+
+r̝ → ʂ / _C[+voiced]
+
+ŕ → ʐ / else
+
+ɛ → ɔ / _ɫ (if the vowel was from a yer)
+
+{ɛ,a} → ɔ (sporadic)
+
+V → ɛ (sporadic, analogical)
+
+ɫ → w
+
+ɒ e → a ɛ
+
+o → ɔ / _N
+
+o → u / else
+
+u → ɔ (rare, sporadic)
+
+pʲ mʲ fʲ → p m f / _#
+
+{i,ɨ} → ∅ / _jV when unstressed
+
+ɛ̃ → ɛ / _{#,l,ɫ}
+
+ɔ̃ → ɔ / _{l,ɫ}
+
+ɔ̃ → ɔ / _# (in some regions or dialects)
+
+ɛ̃ ɔ̃ → ɛ̃N ɔ̃N / _{S,A}
+
+ɛ̃ ɔ̃ → ɛɰ̃ ɔɰ̃ / _F[-palatal]
+
+ɔ̃ → ɔɰ̃ / _# (in standard registers/pronunciations)
+
+ɛ̃ ɔ̃ → ɛj̃ ɔj̃ / _F[+palatal]
+
+ȵ → j̃ / _F
+
+n → ŋ / _S[+velar] (regional)
+
+“The following sections are structured according to respective sound change types without much chronology, as the sound changes tend to sporadic, irregular or inconsistent or to be trends spreading over considerable time spans.”
+
+Cʲ → C / _C[+dental] with developments of yers in ablaut environments
+
+Cʲ → C in select words due to prestige influence of Czech in the Middle Ages
+
+Cʲ → C in select words otherwise, possibly by analogy
+
+t → r / tV_
+
+n → m / {b,p}{l,r,ʐ}V_
+
+j → ∅ / _ɛ “in participial and deverbal forms originally with alveolopalatal consonants in the onsets of two consecutive syllables”
+
+Oscillations involving:
+— Dentals and postalveolars
+— Postalveolars and alveolopalatals
+— Voicing
+
+OR → RO / V_C
+
+RO → OR / C_V
+
+vC → Cv / _V
+
+Cv → vC / _C
+
+tɕts ʑr̝ → jts jr̝
+
+ɕtɕ → js / _{t͜s,s}
+
+zʐ → ʐɖʐ
+
+ʑ z → dʑ dz / _v
+
+∅ → d / r_z
+
+Regressive voicing/devoicing of obstruents in consonantal clusters
+
+v r̝ → f r̥ / C[-voiced]_
+
+v r̝ → f r̥ / _{C[-voiced],#}
+
+r̝̊ r̝ → ʂ ʐ
+
+Lv → L[-voiced]f / O[-voiced]_ “for many speakers”
+
+v → ∅ / x_o
+
+{xv,pv} → f
+
+plv → pf
+
+p → ∅ / #_p
+
+ʈʂs → ts
+
+{z,s,ʂ} → ∅ / _sC
+
+x → ∅ / _r “in the word ‘robak’”
+
+r̝ → r / {ɕ,ʑ}_
+
+ʐr → ʑr
+
+ɕr̝ ʑr̝ → ʂr ʐr / “‘szron’ and ‘żreć’”, respectively
+
+t → ∅ / s_{ɫ,w}
+
+ʈʂ → t / _r̝
+
+ɕ → ∅ / tr̝_tɕ
+
+ɡ → ∅ / _d
+
+w → ∅ / {r,b}_
+
+d → ∅ / ɫ_ɲ
+
+d → ∅ / r_ts
+
+d → ∅ / _n “in arch. ‘jeno’”
+
+∅ → t / s_r “in ‘stręczyć’”
+
+st ʂʈʂ → z ʐ / _b
+
+{b,p} → ∅ / _n “in verbs in -nąć”
+
+v → ∅ / _stv
+
+t → ∅ / ʈʂ_v in “czworo”
+
+s → ∅ / _ɫza in “słza”
+
+trk → kr / in the name of the river “Skrwa”
+
+zdʲ stʲ → {ʑ,ɕ} {s,ɕ} / _n
+
+dʲ → ∅ / r_n
+
+stʲ → ɕ / _l
+
+slʲ → ∅ / _s
+
+pv → f
+
+ʈʂ → ʂ / _p
+
+stʲkl → ɕtɕkl → {ɕ,s}kɫ → ʂkɫ
+
+dz ts → d͜z t͜s
+
+C[+sibilant]P → C[+alveolopalatal] / _C[+coronal]
+
+C[+sibilant]P → C[+dental]
+
+w → ∅ / C_#
+
+w → ∅ / C_C (sporadic)
+
+“Oscillations between dental and alveo[lo]palatals” / _C
+
+n → s → ɕ / k_ɛ̃ where the vowel was from Proto-Slavic
+
+n → s / k_Vn
+
+d → ɡ / _n
+
+ʈʂ → t / _r
+
+ɕ → ∅ / t_ɕtɕ
+
+“Insertion of epenthetic vowels” in some situations, typically one of /ɛ u/, the latter written as either 〈u〉 or 〈ó〉
+Epenthetic d ɡ appears in some circumstances
+
+Pʲ → P / _C
+
+rʲ → r / _{s,t͜s,l,w,n,ɲ}
+
+tʲ dʲ → t d / _{l,n,ɲ,r,ʐ}
+
+ɕ ʑ → s z / _C (sometimes)
+17.11.2 Proto-Slavic to Old Russian
+
+Hwhatting
+
+NB: “Not in chronological order”
+
+{t,d} → ∅ / V_lV
+
+or ol er el → oro olo ere ele / _$
+
+mj pj bj → mlʲ plʲ blʲ
+
+tj dj → tʃ, ʒ
+
+kt ɡd → _E
+
+ẽ õ → ja u
+
+je → o / #_
+
+je → o / V_ (sporadic)
+
+j → ∅ / #_u
+
+j → ∅ / V_u (sporadic)
+
+jь → i
+
+∅ → j / #_a
+17.12 Proto-Indo-European to Proto-Italic
+
+Pogostick Man, from http://gillesquentel.org/docs/PIE_to_Italic_C.pdf and http://gillesquentel.org/docs/PIE_to_Italic_V.pdf
+
+NB: This is likely incomplete.
+
+p → {p,kʷ}
+
+ḱ ǵ → k ɡ
+
+ǵʰ gʷʰ → ɡʰ xʷ
+
+bʰ dʰ gʰ → pʰ tʰ dʰ → ɸ θ x
+
+s → z / medial (I’m assuming between vowels or when *s voiced in PIE)
+
+eu → ou
+17.12.1 Proto-Italic to Proto-Latino-Falsican
+
+Pogostick Man, from http://gillesquentel.org/docs/PIE_to_Italic_C.pdf and http://gillesquentel.org/docs/PIE_to_Italic_V.pdf
+
+NB: This is likely incomplete.
+
+x → h
+
+ɡʷ → w
+
+ɡʰ → f / #_
+
+ɡʰ → {d,h,ɡ}
+
+{ɸ,θ} → f / #_
+
+ɸ θ → b {d,b} / V_V
+
+z → r
+
+xʷ → f
+
+xʷ → {w,ɡʷ}
+
+l̥ r̥ → ol {or,er} / _#
+
+m̥ n̥ → em en
+
+e → {e,i}
+17.12.1.1 Proto-Indo-European to Latin
+
+Mecislau, from Ramat, Anna Giacrole and Paolo Ramat, The Indo-European Languages, and other sources
+
+e o → i u / _ŋ
+
+e → o / _ɫ
+
+o → u / _{mb,mk,ɫ}
+
+o → e / w_{r,s,t}
+
+oː → uː / _r
+
+aj → ai → eː (in rustic dialects)
+
+aj → ai → ae
+
+oj → oi → oe → uː
+
+aw → oː (in rustic dialects)
+
+aw → au
+
+{ew,ow} → ou → uː
+
+V → i / %(C)(C)_% when unstressed
+
+V → o / %(C)(C)V_% when unstressed
+
+V → e / %(C)(C)_%r when unstressed (with some exceptions)
+
+V → {i,u} / %(C)(C)_%P when unstressed
+
+a o → e u / %(C)(C)_C(C)% when unstressed
+
+a → e → i / %(C)(C)_ŋ when unstressed
+
+a → e → u / %(C)(C)_ɫ when unstressed
+
+e → u / %(C)(C)_ɫ when unstressed
+
+ai → ei → iː / %(C)(C)_ when unstressed
+
+ei oi ou → iː eː uː / %(C)(C)_ when unstressed
+
+{i,o} → e / _#
+
+{i,e} → ∅ / _# (sometimes)
+
+a → e / _C(C)#
+
+e → i / _{s,t}#
+
+o → u / _C(C)# ! {u,w}_
+
+{ai,ei,oi} → ei → iː / _(C)(C)#
+
+Vː → V[-long] / _{m,(n)t,l,r}#
+
+Vː → V[-long] / _#
+
+j → i / C_
+
+w → u / t_
+
+e → o / _w
+
+e → o / w_
+
+w → ∅ / s_o
+
+m̩ n̩ → em en
+
+n̩ː → n
+
+l̩ l̩ː r̩ r̩ː → ol l or r
+
+bʱ → h / #_ (in rustic dialects)
+
+{bʱ,dʱ,ɡʷʱ} → f / #_
+
+h → ∅ / b_
+
+t → k / _l
+
+t → ∅ / C_#
+
+t → d / V_
+
+dw → b
+
+d → ∅ / Vː_#
+
+d → ∅ / C_
+
+d → l “in many dialects”
+
+dʱ → b / rV_
+
+dʱ → b / _Vr
+
+dʱ → b / _l
+
+dʱ → b / uː_
+
+dʱ → d
+
+ḱ ɡ́ → k ɡ
+
+ɡʱ → ɡ / ŋ_
+
+ɡ → ∅ / _h
+
+kʷ → ∅ / C_C
+
+kʷ → k / _{o,i,C}
+
+ɡʷ(ʱ) → ɡu / ŋ_
+
+w → ∅ / ɡV_{l,r}
+
+ɡʷ → v
+
+ɡʷʱ → f / _r
+
+ɡʷʱ → v / V_V
+
+s → z → r / V_V
+
+s → θ → f / #_r
+
+s → θ → b / _r
+
+s → z / _C[+voiced]
+
+V → Vː / _zC[+voiced]
+
+z → ∅ / _C[+voiced]
+
+p…kʷ → kʷ…kʷ
+
+V1…V2 → V2…V2 (rare)
+
+V → Vː / _S[+voiced]{S[-voiced],F[-voiced]}; “(i, e, and o sometimes bypass this)”
+
+S[+voiced] → S[-voiced] / _{S[-voiced],F[-voiced]}
+
+S[-voiced] → S[+voiced] / _N
+
+s → z / _{N,l,r}
+
+V → Vː / _z{l,r}
+
+z → ∅ / _{l,r}
+
+S → f / _f
+
+{t,d} → s / _s
+
+{p,b} {t,d} → m n / _{m,n}
+
+{k,ɡ} → ŋ / _n
+
+mː → n / {W,Vː}_
+
+{d,n,r} → l / _l
+
+n → r / _r
+
+s → z → l / l_
+
+s → z → r / r_
+
+n → l / l_
+
+V → Vː / _{t,d}t
+
+{t,d}t → tst → sː
+
+∅ → t / sː_r
+
+∅ → p / m_{s,t,l}
+
+sː → s / _#
+
+sː → s / {W,Vː}_
+
+l → r → _Vl
+
+l → r / lV_ “(in suffixes with l if root already has l)”
+
+r…r → r…∅
+
+{n,d}…r → r…r
+
+Vː → V / _C(C)# “(irregular: often before -m, -t, -nt, but never before ?s)”
+
+V → {Vː,V[+nas]} / _n{f,s}
+
+n → ∅ / V[+nas]_
+
+C1C2C3C4 → (C3)C4
+
+C1C2C3 → C1C3
+17.12.1.1.1 Classical Latin vs. Vulgar Latin
+
+“The following relate to the changes of vowels as found in the evolution to the written medieval languages of Iberia, Gallia and Italia (Anglo-Norman, Old Spanish, etc.). The Latin of Africa, Sardinia and the easternmost parts of the Empire exhibited different mergers.”
+
+{e,i} → j / C_V when unstressed
+
+{e,ai} → ɛ
+
+{i,eː,oi} → e
+
+iː → i
+
+o → ɔ
+
+{u,oː} → o
+
+uː → u
+
+aː → a
+
+m → n / _# “(in certain common monosyllabic words, as well as some common compounds of them)”
+
+m → ∅ / _#
+
+h → ∅
+
+w → β
+
+ɛ ɔ → e o / when unstressed
+
+j → ʝ / #_V
+
+j → ʝː / V_V
+
+“In contrast, Romanian exhibits u, uː → u (and ultimately also ɔ, oː → o); and Sardinian and African Latin underwent a straight merger of the vowels by length without considering quality (e, eː → e; i, iː → i; u, uː → u; etc.)”
+17.12.1.1.2 Latin to Catalan
+
+Mecislau
+
+NB: Due to problems when the board migrated to a different system, a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk.
+
+h → ∅
+
+n → ∅ / _s
+
+{m,n,t} → ∅ / _#
+
+V → ∅ / ”V%C_L(C)V(C)# (irregular)
+
+V → ∅ / ”V%L_C(C)V(C)# (irregular)
+
+V → ∅ / ”V%s_t(C)V(C)# (irregular)
+
+u → w → ∅ / (“when in unstressed penult or between first and tonic syllables; irregular”)
+
+iː → i / stressed
+
+iː → i / _%”V
+
+{i,eː} e → {e,ɛ} {ɛ,e} / stressed
+
+{i,eː,e} → e / _%”V
+
+i → j / ”V_#
+
+uː → u / stressed
+
+uː → u / _%”V
+
+au → a / _%”u
+
+{u,oː} o → o ɔ / stressed
+
+{u,o(ː)} → u / _%”V in East Catalan
+
+{u,o(ː)} → o / _%”V else
+
+u → w / ”ɛ_#
+
+aː → a
+
+oe → {e,ɛ}
+
+ae au → e ɔ / stressed
+
+ae au → e o / _%”V
+
+o → u / _a
+
+o → u / _%”V (irregular)
+
+VV → Vː (“For outcomes of word-final vowels, see down below”)
+
+ndj → ɲ
+
+dj → dʒ → ʒ
+
+∅ → e / #_sC
+
+l → ∅ / {o,u}_CV
+
+l → w / V_CV (“although l was usually restored later”)
+
+mn → nː → ɲ
+
+p b t d k ɡ → β {β,w} ∅ {j,w} ɣ {j,∅,ɡ} / V_rV
+
+ŋ → ɲ / _{i,e}
+
+p b → b w / V_lV (the latter is irregular)
+
+{kl,ɡl} → ʎ / V_V (the latter is irregular)
+
+sk → ʃ / V_{i,e}
+
+p k → ∅ j / V_tV
+
+k → ∅ / Vn_tV
+
+ks → ʃ / V_V
+
+k → j / _s#
+
+ɡn tj → ɲ ∅ / V_V
+
+stj → ʃ
+
+tj → s / C_
+
+sj ssj jn → js jʃ ɲ / V_V
+
+mnj → {mni,ɲ} / V_V
+
+lj rj kj ɡj → ʎ jr ts ʒ / V_V
+
+{bj,vj} → wʒ / _%”V
+
+b → v / V̈%_j
+
+ja → je / #_ (irregular)
+
+V → ∅ / _%”V (rare)
+
+∅ → {e,o} / CL_#
+
+∅ → {e,o} / rː_#
+
+a → e / “in the penult”
+
+V → ∅ / ”V%_(C)(C)V(C)# (“irregular; e is kept before n”)
+
+b → v / V_V
+
+p t → b d / V_V
+
+f → v / V_V (irregular)
+
+s → z / ”V%V_V
+
+s → ∅ / V_V%”V
+
+k ɡ → ∅ {∅,ʒ} / V_{i,e} (ɡ → ʒ is learned)
+
+ɡ → ∅ / V_V%”V
+
+k j → ɡ ʒ / V_V
+
+“These next two changes are awkward - Basically, when the final vowel drops off down below, the newly-final d should become w; BUT d should also have become z and disappeared before the final vowels drop off, leaving a dilem[m]a... I’m not certain how this should be [interpreted]”
+
+— d → z → ∅ / V_V
+
+— d → w / _V#
+
+iː → ∅ / _#
+
+{i,e(ː),ae} → ∅ / _(C)#
+
+{u(ː),o(ː)} → ∅ / _#
+
+V → ∅ / “between first and tonic syllables; except when C_CC, _n”; “if there are multiple vowels between the initial and tonic syllables, the vowel directly before the tonic is usually dropped” ! V = a
+
+w → ∅ / u_#
+
+j ɡj ts z n → tʃ i w s ∅ / _#
+
+t → ∅ / V_sV
+
+{b,v} → w / V_#
+
+d → t / _#
+
+l → ʎ / #_
+
+k → ts → s / #_{i,e}
+
+ɡ → ʒ / #_{i,e}
+
+j → dʒ → ʒ / #_
+
+kʷ ɡʷ → k ɡ / #_{i,e}
+
+kʷ → k / C_V
+
+kʷ → ɡ / V_{i,e}
+
+kʷ → k / #_a%”V
+
+kʷ → ɡw / V_a
+
+kʷ → kw / #_”a
+
+ɡʷ → ɡw / #_a
+
+ɡʷ → ɡ / C_{i,e}
+
+ɡʷ → ɡw / C_a
+
+b → m → ∅ / Vm_V
+
+n → r → br / m_
+
+k → w / V_rV
+
+{b,v} → w / V_tV
+
+ɡ → ∅ / V_dV
+
+lː nː → ʎ ɲ
+
+ʎ → l / ”i_
+
+C → ∅ / C1_C2 ! C2 = L
+
+{a,o} → ∅ / #_ (rare)
+
+ɔ → o / _N$C
+
+e → ɛ / _v
+
+o → u / _{ɲ,nk,ŋ} when stressed
+
+e → i / _{nk,ŋ} when stressed (irregular)
+
+aj → ej → ee → e (irregular)
+
+aj → ej / _ʃ when stressed (irregular)
+
+ɛj ɔj → jɛj uei / i {u,ui} / stressed
+
+ɛ → e / ! _{rː,l,rC[-labial],nr} or _ ? w#
+
+e → ɛ (in Eastern Catalan)
+17.12.1.1.3 Latin to French
+
+pharazon
+
+NB: The vowels here marked 〈ó〉 and 〈ò〉 seem to have had some sort of open-close distinction similar to /o ɔ/.
+
+Vulgar Latin:
+
+— h → ∅
+
+— V0V0 → V0ː
+
+— n → ∅ / _{f,v,s}
+
+— r → s / _s
+
+— {m,n} → ∅ / _# in polysyllables
+
+— m → n / _#
+
+— u → ∅ / CC_V
+
+— w → ɡu / “from Germanic loanwords”
+
+— V → ”V / ”VSr_
+
+— V → ”V / _C*”{i,e}V
+
+— {i,e} → j / _V
+
+Stressed vowels:
+
+— aː → a
+
+— (a)e → è
+
+— {eː,i,oe} → é
+
+— iː oː → i ó
+
+— o → ò
+
+— u → ó / !_iː
+
+— uː → u
+
+Initial vowels (first vowel of a word):
+
+— aː → a
+
+— {e(ː),i,ae,oe} → e
+
+— iː → i
+
+— {o(ː),u} → o
+
+Final vowels:
+
+— aː → a
+
+— {e(ː),i,ae,oe} → e
+
+— iː oː → i o
+
+— u(ː) → o / except _V (?)
+
+k ɡ → tj dj / _E
+
+è → iɛ / in U[+open]
+
+è → iɛ / _C#
+
+è → ɛ / in U[+closed]
+
+ò → uo → uɛ / in U[+open] ! _N
+
+ò → ɔ / in U[+closed]
+
+dj → dʒ / r_
+
+d → ∅ / _j
+
+j → ∅ / V_”E
+
+j tj → dʒ ts / #_
+
+j → dʒ / V_V (rare)
+
+∅ → s / t_j
+
+t → s / s_j
+
+{ɡn,nj} → ɲ
+
+nk → ɲ / _t
+
+V → ∅ / in the unstressed penult
+
+V → ∅ / intertonic ! V = a
+
+a → ə / intertonic
+
+∅ → b / m_{r,l}
+
+∅ → d / {n,l,ɲ,z_r
+
+∅ → t / s_r
+
+k ɡ → t d / {n,r}_r
+
+n → r / {ɡ,p}_
+
+“[T]wo obstruents in contact with different voicing assimilate to the voicing of the second”
+
+C → ∅ / C1_C2 ! C2 = {r,l}
+
+t → s / _{n,m}
+
+{kl,ɡl,lj} → ʎ
+
+{p,b} {t,d} → v ð / V_{V,r}
+
+v → ∅ / V_B
+
+p → b / _l
+
+ð → ∅ / _r
+
+(t)s → (d)z / V_V
+
+k → js / V_sV
+
+k → j / _s#
+
+{k,ɡ} → ∅ / V_B
+
+{k,ɡ} → ∅ / B_a
+
+{k,ɡ} → j / _{a,C}
+
+kʷ → {v,u} / V_E
+
+kʷ → j{v,u} / V_a
+
+“[N]ote that the [following] clusters are the only case where a consonant does not receive intervocalic treatment before /j/”:
+
+— (k)kj → ts
+
+— ɡ → ∅ / _j
+
+— pj → tʃ
+
+— {b,v}j → dʒ
+
+— m{ɲ,j} → ndʒ
+
+V”e → ”Vi
+
+V0V0 → V0
+
+∅ → e / #_sC
+
+k ɡ → tʃ dʒ / _a
+
+t → ∅ / {ʃ,s}
+
+d → ∅ / _{z,ʒ}
+
+ɛ ɔ → iɛ uɛ / _{Cj,jC}
+
+∅ → j / {ʃ,ʒ,sj,zj}”{a,é}_ in U[+open]
+
+sːj zj rj → jsː jz jr
+
+j → ∅ / s_ (sː_?)
+
+ɛ → ɛa / _l{C,#}
+
+l → u / _{C,#}
+
+l → ∅ / {i,u}_
+
+{lːe,lːo} → u / {e,o}_# “[this is actually an analogical development, but it applies as regularly as a sound law]”
+
+(ɛ)au → ɔ
+
+é → ɛi / in U[+open]
+
+é → ɛ / in U[+closed]
+
+ó → ou → ɛu / in U[+open]
+
+ó → ɔ / _N
+
+ó → ou / in U[+closed]
+
+e → ə / #(C…)_(%…)” in U[+open]
+
+e → ɛ / #(C…)_(%…)” in U[+closed] or _V (?)
+
+o → {ou,ɔ} “(the outcome fluctuates, but ɔ is often the result of analogy rather than strict sound change; always ou before another vowel)”
+
+a → ə / #{tʃ,dʒ}_(%…)” in U[+open]
+
+a → ɛ / in U[+open] “(but a following ʎ creates a [closed] syllable)”
+
+kʷ ɡʷ → k ɡ
+
+C0C0 → C0
+
+t → ∅ / V_#
+
+ɛ → i / _C(C…)i#
+
+V → ∅ / _# “(except in monosyllables or after another vowel)” ! V = a
+
+a → ə
+
+V → ə / _{CC,tʃ,dʒ} ! _{nt,nɡ,mp,rt,rd}
+
+s → ∅ / _C
+
+{p,b} → ∅ / _{t,d}
+
+v → ∅ / _C
+
+v → ∅ / C_
+
+ð → ∅
+
+uɛ → ɛu
+
+ai → e / _#
+
+ai iɛɪ → ɛ i
+
+ou ɛu u uɛi → u œ y yi
+
+{ei,ɔi} → oi / C[-nas]
+
+ɔ → u / _”V
+
+V[-high] → ə → ∅ / _V “(except that a is kept before o)”
+
+ɲ → in / _{C,#}
+
+V{n,m} / V[+nas] / _{C,#}
+
+ɛ̃ → ã
+
+{aı̃,eı̃} → ɛ̃
+
+ỹ → œ̃
+
+O[+voiced] → O[-voiced] / _#
+
+{t,s} → ∅ / _#
+
+k → ∅ / V[+nas]_#
+
+{n,m} → ∅ / C_#
+
+j → ∅ / {ʃ,ʒ}_V[-nas]
+
+ʎ r → j ʁ
+
+oi → wɛ → wa
+
+oı̃ → wɛ̃
+
+“([pharazon has] omitted the loss of ə in various contexts, since it often resurfaces)”
+17.12.1.1.4 Vulgar Latin to Italian
+
+Dewrad, from Boyd-Bownam, P. From Latin to Romance in Sound Charts
+
+NB: Dewrad says, “It should be noted that due to my source they are not in any sort of chronological order, nor do they indicate some of the more sporadic changes.”
+
+r → ∅ / a_ju#
+
+tVk → dʒ / unstressed
+
+au → u / #_ (sporadically, e.g. audire → udire)
+
+au → o
+
+k ɡ → tʃ dʒ / _E
+
+kVl → kːj / unstressed
+
+kt → tː
+
+ɛ → jɛ / unstressed ! _{dʒ,ʎ,ɲ}
+
+ɡ → ∅ / a_V
+
+j → dʒ / #_
+
+j → dʒ / V_V
+
+{dj,ɡj} lj {nj,ɡn} → dʒ ʎ ɲ
+
+ɔ → uo / stressed ! j_ or _{dʒ,L}
+
+b → v / V_
+
+l → j / #C_
+
+C → Cː / V_jV
+
+sj → dʒ
+
+{t,d,k,m,n,s} → ∅ / _#
+
+r → ∅ / _# (in polysyllables only)
+
+taːte → ”ta / _#
+
+t k → d ɡ / V_r
+
+{skj,stj,sːj → ʃ
+
+tj ks w → ts sː ɡw
+17.12.1.1.5 Latin to Portuguese
+
+Mecislau
+
+NB: Due to problems when the board migrated to a different system, a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk. Further, Mecislau gives some dual-output changes, which distinguish between vulgar and “semi-learned” outcomes.
+
+h → ∅
+
+rs → sː
+
+n → ∅ / _s
+
+V0V0 → V0ː
+
+V → ∅ / ”V%L(C)(C)V(C)# (irregular)
+
+V → ∅ / _L(C)(C)V(C)# (irregular)
+
+V → ∅ ”V%s_t(C)V(C)# (irregular)
+
+u → w / _V (between first and stressed syllables)
+
+w → u / _”V
+
+w → ∅ / _V
+
+au → a / _%”u
+
+au → o
+
+e → iː / ”_%ɪː#
+
+iː {i,eː} e → i e ɛ / stressed
+
+iː {i,e(ː)} → i e / _%”V
+
+iː → ∅ / {k,s}_#
+
+{i(ː),e(ː),ae} → e / _#
+
+uː → u
+
+uiː → ui / _#
+
+{u,oː} o → o ɔ / stressed
+
+{u,o(ː)} → o / _%”V
+
+{u(ː),o(ː)} → o → u / _#
+
+aː oe → a e
+
+ae → ɛ / stressed
+
+ɛ ɔ → e o / _(”u)#
+
+{olt,okt} → ujt → ut
+
+aɫ → o
+
+ɫ → w / V_Ca
+
+o → u / _(”V)
+
+e → ∅ / el_#
+
+V → a / _{n,r}(C)V(C)# (irregular)
+
+V → V[+nas] / _N$C when stressed
+
+ɔ̃ → õ
+
+N → ∅ / V[+nas]_$C ! C = S
+
+V → V[+nas] / _N$V
+
+V → V[+nas] / #N_ (rare)
+
+N → ∅ / V[+nas]_$V
+
+{ã,ãe,õe} → ão / _#
+
+V[+nas] → V[-nas] / unstressed
+
+V[+nas] → V[-nas] / in U#
+
+V0[+nas]V0[-nas] → V0[+nas]
+
+ı̃ → iɲ
+
+e V → o ∅ / _? (irregular)
+
+e → o / _m”V (irregular)
+
+V → ∅ / _”V (irregular)
+
+e → ∅ / {l,n,r,s,k}_#
+
+e → ∅ / ”{i,e}_#
+
+e → i / _(C)(C)V(C)#
+
+{e,i} → ∅ / {l,m,r}_ when between #U and U[+stress]
+
+{e,i} → ∅ / k_t when between #U and U[+stress]
+
+o → ∅ / _{r,l} when between #U and U[+tonic]
+
+“[I]f there are multiple vowels between the initial and tonic syllables, the vowel directly before the tonic is dropped”
+
+k → ts → s / #_{i,e}
+
+k → ɡ / #_{a,r} (rare)
+
+ɡ → ɡʲ → dʲ → dʒ → ʒ / #_{i,e}
+
+j → dʒ → ʒ / #_
+
+pl → {ʃ,pr} / #_
+
+l → r / b_
+
+fl → {ʃ,fr} / #_
+
+{fl,skl} → ʃ
+
+nɡi → ɲ
+
+s → ʃ / V_C[-voiced]V
+
+s → ʒ / V_C[+voiced]V
+
+kl → kʎ → tʃ → ʃ / #_
+
+{kl,ɡl} → ʎ
+
+ɡ → ∅ / #_l
+
+kʷ → kw / #_”a
+
+kʷ ɡʷ → k ɡ / #_{i,e,o}
+
+kʷ → ɡ / V_{i,e}
+
+kʷ → k / VC_{a,i,e}
+
+kʷ → ɡw / V_a
+
+ɡʷ → ɡw / #_
+
+ɡʷ → ɡw / C_a
+
+b → v / V_{V,r}
+
+d → ∅ / V_V
+
+ɡ → {∅,ʒ} / V_{i,e} (ɡ → ʒ is learned)
+
+ɡ → j / V_r
+
+pl bl p t → br {br,l} b d / V_V (bl → l is learned)
+
+p t k → b d ɡ / V_r
+
+p → ∅ / V_{t,s}V
+
+k → j / V_tV
+
+k → ∅ / Vn_tV
+
+ks ɡn tj → ʃ ɲ {z,s} / V_V (tj → s is learned)
+
+tj → s / C_V
+
+dj → dʒ → ʒ / V_V
+
+dj → dz → ts → s / r_V
+
+ndj → nts → ns → ɲ / V_V
+
+sj → jʒ / V_V
+
+j → ∅ / i_ʒV
+
+sːj (m)nj lj rj → jʃ ɲʎ jr / V_V
+
+kj → ts → s / V_V
+
+ɡj → {ʒ,j} / V_V (ɡj → j is learned)
+
+pj {bj,vj} → jb jv / V_V
+
+mj → jm (irregular)
+
+C0C0 → C0 / ! C = r
+
+C → ∅ / C1_C2 ! C2 = L
+
+k → j / _s#
+
+f → v / V_V (irregular)
+
+s l → z ∅ / V_V
+
+a → ∅ / ”ɔ_#
+
+sk k → jʃ z / V_{i,e}
+
+k → ɡ / V1_V2 ! V2 = ɔ
+
+j → {∅,ʒ} / V_V (j → ʒ is learned)
+
+b → v / VL_V
+
+m → ∅ / _n
+
+{e,i} → ∅ / {L,N}_(C)(C)V(C)#
+
+o → ∅ / _(C)(C)V(C)#
+
+e → j / {a,o,u}_
+
+a → e / _j when stressed
+
+o → u / _ɲ when stressed
+
+V0V0 → V0 (irregular)
+
+d → ∅ / V_V (in Portugal)
+17.12.1.1.6 Vulgar Latin to Old Provençal
+
+Pogostick Man, from Grandgent, Charles Hall (1905), An outline of the phonology and morphology of old Provençal, Revised Edition
+
+NB: Use at your own peril. Trying to put a chronology to this is sort of like what I imagine undergoing a root canal would be like, as is figuring out the conditioning on a lot of these things because of the convention Grandgent uses. Nevertheless, I have triedâand probably largely failed. In any case the sections regarding the development of the vowels are placed first, because the source does that and other Romance changes posted here do similarly, and the grouping of the consonants is in large part informed by the surce. Also, I use % here to denote a syllable boundary because I didn’t want to have to open yet another window so I could throw a sigma into my document.
+
+Stress shift: Secondary stress shifts to two syllables away from the penult. If the secondary tonic precedes the tonic, that vowel is considered stressed for the purpose of subsequent sound changes, and at some point the intervening vowel drops. Vowel changes assume the changes in Vulgar Latin as listed elsewhere in this thread.
+
+VN → Vː / _S (except for the prefixes con-, in-); I’m assuming this change happened in Vulgar Latin and then vowel length went to quality
+
+STRESSED VOWELS
+
+— ɪ → e
+
+— ʊ → o (this change seems to have happened later, hence is listed separately)
+
+— ɔ → y / _{u,P,k,ɡ,i} (in northwestern dialects)
+
+— ɔ → ɥe / _{u,P,k,ɡ,i} (in western dialects, Limousin, and Auvergne)
+
+— ɔ → ɥo / _{u,P,k,ɡ,i} (in Languedoc)
+
+— ɔ → {ɥe,ɥo,ɔ} / _{u,P,k,ɡ,i} (in southern dialects)
+
+— a → a / _N (Rouergue, Limousin, Auvergne, Dauphiné)
+
+— a → a / _# in monosyllables and oxytones (Rouergue, Limousin, Auvergne, Dauphiné)
+
+— a → å (I have no idea what is going on here. Grandgent seems to distinguish an open and close /a/, and I have listed his open a as /å/, which seems to have been distinct from /ɔ/, but beyond this section it doesn’t really seem to matter very much)
+
+— å ɛ ɔ → a e o / _N (in Limousin and neighboring regions, the last two particularly in Limousin, Languedoc, and Gascon, though when _ɲ this change may have been blocked)
+
+— ɛ ɔ → jɛ wɔ (intermittent, “least common in the southwest”)
+
+— e → i / _V (and possibly V_?)
+
+— e → i / _(C…)i{C(C…)V,#}
+
+— ɛ → jɛ / _{u,i,ʎ,rʲ,ʃ,ʒ,j,tʃ,dʒ} (except in some northern and western dialects, or if this u ← l or if this i ← ð)
+
+— ju → jeu
+
+— o → y / _{tʃ,dʒ,it,id} (did not occur in Dauphiné)
+
+— o → y / _ɲ (in northern and western dialects)
+
+— o → y / _i# (in Bordeaux, Auvergne, and some of Languedoc)
+
+— ɔ → {ɔ,we} (in southwestern dialects)
+
+— u → y
+
+— o → u (during the literary period)
+
+UNSTRESSED VOWELS
+
+— E → ∅ / _e
+
+— B → ∅ / _o
+
+— E → j (presumably in the vicinity of another vowel)
+
+— V → ∅ (though /a/ seemed to resist this)
+
+INITIAL-SYLLABLE VOWELS
+
+— {a,œ,e,i} → e (here, 〈œ〉 denotes the reflex of the Latin vowel written this way, not a front rounded vowel)
+
+— u → o
+
+— au → a / _(C…)u
+
+— V → ∅ / _r (seemed to be an intermittent change)
+
+— Lots and lots of analogical formations
+
+INTERTONIC VOWELS
+
+— V → ∅ (again, /a/ seemed to resist this change, which was itself generally blocked by analogy)
+
+PENULT VOWELS
+
+— V → ∅ / “penult of paroxytones”, though /a/ often remained “as an indistinct e”, probably /ə/
+
+— V often remained when {tʃ,dʒ,j}_, especially if CC_, or when {(k)s,sː,sj}_
+— V is retained when P_C[+dental]
+
+— CVK → CVj (intermittent if C was a resonant)
+
+— V → ∅ / lv_r (dialect-dependent)
+
+— e → i / _(C…)i(C…)#
+
+FINAL VOWELS
+— (Again, /a/ seems to be a persistent exception to these)
+
+— V → ∅ / R_(C…)
+
+— Grandgent remarks that /i/ was probably the last vowel to drop out
+
+— a → o in most dialects except Gascon and Languedoc; final -as remained in “Limousin and some others”
+
+— /i/ and /u/ remain when ”V_ (then u is subject to the changes listed above—u → y, &c.)
+
+— e u → e o / _nt#
+
+— -os remains “in the extreme east”
+— Final -i remains “as late as the 12th century” in some regions (Aude, Tarn, Aveyron, Corrèze, and some pockets of Haute-Garrone)
+— Epenthesis of /e/ in 2sg “of some verbs”
+
+— V → “indistinct e” (probably /ə/) if dropping it would create ugly consonant clusters:
+
+—— C_L, P_C[+dental], C_tʃ, C_k, C_m, C_n where “originally separated by the vowel of the penult” (proparoxytones)
+—— Ḱ_r (paroxytones)
+—— Where the cluster would be unwieldy otherwise, apocope happened
+—— Final /(m)bj mnj pj mj/ “required a supporting vowel” (dialect-dependent)
+
+— V → e “in many late words”
+
+K → ∅ / _l (not always, but this was a general change)
+
+v → b / r_ (sporadic)
+
+h → ∅
+
+d → ∅ / V_V (seems to have happened in the north and northeast at some point)
+
+b d ɡ → β ð ɣ / V_V
+
+βj → j (in forms of habeo and debeo)
+
+k ɡ → tʃ dʒ / _E
+
+tʃ → ts (sometimes)
+
+ɡ → ∅ / V_(VC…)”V
+
+j → ∅ / V_”E
+
+N → ∅ / _#, in polysyllables
+
+kʷ ɡʷ → k ɡ / _B
+
+rs → sː
+
+sː → s / Vː_
+
+p t k s → b d ɡ z / V_V (this b → v?)
+
+∅ → i / #_sC
+
+w → v → ∅ / _u (“restored by analogy in many words”)
+
+w → v → ∅ / _”o
+
+w → v → β
+
+β → w / V_C
+
+w → ∅ / C_B (when from earlier B?)
+
+k → ∅ / _s{C,#} (the latter in polysyllables only)
+
+{d,ɡ} → ∅ / _j
+
+Loan phonemes:
+— Loaned /b/ did not lenite
+— Loaned /k/ did not palatalize
+
+— Loaned w → ɡw
+
+Original z (/ts/?) → dj → j
+
+Greek /k/ shows up variously as /k ɡ/
+
+pʰ → f
+
+Some reanalysis of initials as medials if a prefixed form was reanalyzed as a single morpheme
+
+(s)k ɡ → (s)tʃ dʒ / #_a (in the north and northeast)
+
+tʃ → ts → s / #_
+
+j → dʒ / #_ (but not in Béarn)
+
+f → h (in Béarn and Gascon)
+
+β → b (in Béarn, Gascon, and Languedoc)
+
+β → v (though sometimes → ɡw instead if analogy interfered)
+
+kʷ ɡʷ → kw ɡw (in western dialects)
+
+kʷ ɡʷ → k ɡ (else)
+
+∅ → k / #s_l
+
+i → e / #_sC
+
+b {d,dz,dʒ} z ʒ ɡ → p {t,ts,tʃ} s ʃ k / _(s)#
+
+tʃs → {ts,tʃ} (varies)
+
+j → i / _(s)#
+
+ð → ∅ / _#
+
+ð → t / _s#
+
+β → u / V_(s)#
+
+β → {∅,f} / C_(s)# (the latter is rare)
+
+n → ∅ / V_# (did not occur in extreme western areas, some northern areas, the southeast, and the east)
+
+n → ∅ / _s# (except for eastern and southeastern dialects)
+
+n → ∅ / r_(s)#?
+
+kː → tʃ / _a (in the east and northeast)
+
+lː → l (in the south)
+
+rː~r stuff—not sure what was going on here, but it seems like this distinction lingered on into the literary period, but the two may have been in the process of merging
+
+mn → mpn → nː (dialectal)
+
+Cː → C
+
+ɡ → k / B_ (your guess is probably better than mine)
+
+ɡ → {k,j} / V_ (if /j/ resulted, it dropped after /i/; forms with k are “most persistent in the west” and more common overall)
+
+l → w / V_s
+
+ms ns → mps nts (sporadic?)
+
+{p,b} → ∅ / R_s# (unless blocked by analogy)
+
+ts → s / _# (Provence, Limousin, some Languedoc and Gascon)
+
+β → ∅ / when pretonic and immediately adjacent to a back vowel
+
+β → b / V_V (in western and some central dialects)
+
+β → v (otherwise)
+
+tʃ → i / _C
+
+tʃ → i / C_
+
+tʃ → jdz → jz / V_V (in the south and northwest)
+
+tʃ → dz → z / V_V (otherwise)
+
+ð → i / C_
+
+ð → i / _C ! _s#
+
+ð → z (except in some northern and eastern dialects where → ∅)
+
+ɡ → j / _a (in the north and east; further → dʒ in the north)
+
+ɡ → ɡ / _{o,u/y}
+
+ɡ → j → dʒ / “[b]etween the last two vowels of a proparoxytone”, though it dropped early in some dialects
+
+dʒ → j
+
+l → u / _s# (in many dialects)
+
+s → r / _n (in a few dialects)
+
+j → dʒ / _”E (in the west)
+
+j → ∅ / _”E (else)
+
+j → i / _C
+
+j → dʒ / V_V (did not occur in the northeast and some northern dialects)
+
+β → u / _l
+
+{t,d}l {k,ɡ}l → lː ʎ
+
+∅ → b / m_l
+
+p j → b i / _l
+
+p k tʃ b ɡ β j → b ɡ i {b,u,u→y→i} ∅ {u,u→y→i} i / _r
+
+{t,d} → ð → i / _r
+
+ð → ∅ / au_
+
+∅ → d / z_r
+
+∅ → b / m_r
+
+∅ → t / s_r
+
+βw tw → wː dw → ɡʷ ɡʷ → ɡ ɡ
+
+{d,k}w → ɡʷ → ɡ
+
+(kʷ → ɡʷ → ɡ ?)
+
+{l,r}w {n,ŋk,ŋɡ}w → lɡʷ ŋɡʷ → lɡ ŋɡ
+
+pw → upw → up → ub
+
+w → ∅ / s_ ?
+
+βj → {udʒ,uj} (in northern dialects)
+
+β → u / _j (in western dialects)
+
+β → {b,v} / _j (in southern and eastern dialects)
+
+ktj klj → is ʎ
+
+{tʃ(ː),kʷ}j → ts
+
+dVɡ (n)dVɡ → dʒ(?) ndʒ
+
+l{tj,tʃj} ldʒ → lts ldz → uts udz → us uz
+
+lː{j,Vdʒ} lnj → ʎ ɲ
+
+lvj → lbj → ubj
+
+j → ∅ / n_# (in many dialects)
+
+nj → ɲ
+
+mbj → {mbj,mdʒ,ndʒ}
+
+mnj → ɲ (Limousin, as well as extreme eastern and southwest dialects)
+
+mnj → ndʒ (else)
+
+mj → {mj,ɲ}
+
+{ntʃj,ndj} → nts → ns
+
+{ndj,ndʒj} ndʒ → ɲ {ɲ,ndʒ}
+
+p → b / _rj
+
+ptj → ts → s
+
+pj → ptʃ → tʃ (except in western and some southern dialects)
+
+rtʃj → rts (→ rs ?)
+
+rdj rVɡ → rdz rdʒ
+
+rdʒ → {rdʒ,rdz(→ rz)}
+
+rtj → rts → rs
+
+rːVɡ rːj → rdʒ ir
+
+rtVɡ → {rdʒ,rts(→ rs)}
+
+rtj → rts → rs
+
+v → {v,b} / r_j
+
+rj → rʲ → ir / V_V
+
+rj → rʲ → r / _#
+
+{sːj,stʃj,stj} → ʃ → is (except in the west or extreme east, where the outcome was some flavor of (i)(t)ʃ)
+
+sj → ʒ → (i)(d)ʒ (in some northeastern, northern, and western dialects)
+
+sj → ʒ → {r,z} (rare)
+
+sj → ʒ → iz (the usual outcome)
+
+tVɡ trj → dʒ ir
+
+tːj → ts → s
+
+tj → tʃ → dj → djʒ (?) → dz (in the north and west) or idz (in the south and east)—medial (i)dz became (i)z; i-less forms “prevail in the literary language” and seem to have become common if the dz follows the stress
+
+l → u / _{t,s} (Languedoc)
+
+l → u / _{d,s} (Rouergue)
+
+l → u / _{t,d,s} (else)
+
+ndt ndtʃ ntʃ nkt nf → n{d,t} {nts,ndz(→ nz),ndʒ} n(t)s {ɲ,(i)nt,ntʃ} {nf,fː(→ f)}
+
+nt nd → {∅,n} ∅ / _# (in some Languedoc and Gascon areas)
+
+nd → n / _# (in western areas and for some speakers of Limousin)
+
+d → t / n_#
+
+rtʃ rdtʃ → r(t)s {rdz(→ rz),rts,rdʒ}
+
+rdɡ → r{ɡ,dʒ} / _a
+
+t → ∅ / rd_
+
+t → ∅ / r_m (sometimes)
+
+stʃ → s (in some northern and northeastern dialects)
+
+stʃ → (i)(t)ʃ (for western and extreme eastern regions)
+
+stʃ → is (otherwise)
+
+k → ∅ / s_b (sporadic?)
+
+{p,t} → ∅ / s_m (sporadic?)
+
+p → ∅ / s_t
+
+stɡ → s{ɡ,dʒ}
+
+bk → pts / _a
+
+b → {∅,u} / _rɡ
+
+b → ∅ / _s{t,k}
+
+b → {∅,b} / _t
+
+b → ∅ / _ts
+
+β → u / _k
+
+βtʃ → u{ts,dz} → u{s,z}
+
+βt βd → pt bd (in the west)
+
+βt βd → ut ud (else)
+
+ktʃ → (i)tʃ (in western and extreme eastern dialects)
+
+ktʃ → its → is (else)
+
+tʃ k → {i,s} {∅,k} / _m
+
+kt ɡd → it id (in the north, northeast, and southwest)
+
+{tʃ,k}t ɡd → tʃ dʒ (else)
+
+dtʃ → ts (in Auvergne and some western areas)
+
+dtʃ → dʒ (for some southeastern and southwestern speakers)
+
+dtʃ → dz → z (else)
+
+ɡ → ∅ / _m
+
+ɡn{d,t} → ŋn{d,t} → ɲ{d,t} → {(i)nd,ɲd,ndʒ} or t(ʃ)
+
+ɡn → ŋn → ɲ
+
+ksk → stʃ / _a (in the north and northeast)
+
+k → ∅ / _sk (else)
+
+ks → ʃ → s / _m
+
+ksː → is
+
+p → ∅ / _f
+
+pk → ptʃ / _a
+
+The outcome of ps varied; some dialects preserved it, while others changed it to (i)ʃ (typical of the west), us (the east), or is
+
+pt → {ut,it} “in a few words”
+
+p → ∅ / _t “except in parts of Languedoc and Gascony”
+
+td → tː → t
+
+jd → {dʒ,id}
+
+Some dialects dropped all final k, while others only dropped it when B_#, changing it to i when {a,E}_#
+
+{d,l} → ∅ / _#
+
+t → ∅ / _# ! “in the preterit of verbs”, though it tended to drop “in strong preterits”
+
+The outcome of final nt was usually n, but in the extreme north and some areas of the south, the full cluster was kept as part of the ending -ant; further, “in some dialects the n fell after o, u”
+17.12.1.1.7 Vulgar Latin to Rhaeto-Romance
+
+Pogostick Man, from Wikipedia contributors (2014), “Rhaeto-Romance languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Rhaeto-Romance_languages&oldid=607581179>
+
+NB: These are probably very incomplete and too general, but they seem to be the key distinguishing features of Rhaeto-Romance.
+
+ɛ e → ej je
+
+a → e / stressed, usually when Ḱ_
+
+uː → y (→ i in most descendants, with the exception of Engadine)
+
+a V → e (= /ə/?) ∅ / in final syllables (though Friulian preserves the ending -is)
+
+k ɡ → tʃ dʒ / _a (note the similarity with some varieties of Old Provençal)
+
+/pl fl kl/ preserved
+Germanic loaned /w/ preserved—i.e., it did not become /ɡw/
+
+C[+ voiced] → ∅ / V_V (only for obstruents?)
+
+C[- voiced] → C[+ voiced] / V_V
+
+Final /s/ preserved
+17.12.1.1.8 Latin to Romanian
+
+pharazon, from Jensen, A Comparative Study of Romance, as well as other sources
+
+h → ∅
+
+V0V0 → V0ː
+
+n → ∅ / _{f,v,s}
+
+r → s / _s
+
+{m,n,s} → ∅ / _# in polysyllables
+
+m s → n i / _#
+
+u → ∅ / CC_V
+
+V → ”V / ”VSr_
+
+V → ”V / _(C…)”{i,e}V
+
+“Stressed vowels (note the difference from the French development)”:
+
+— aː → a
+
+— (a)e → ɛ
+
+— eː,i,oe → e
+
+— iː o(ː) u(ː) → i o u
+
+Word-initial vowels:
+
+— aː → a
+
+— {e(ː),i,ae,oe} → e
+
+— iː → i
+
+— {o(ː),u} → o
+
+Word-final vowels:
+
+— aː → a
+
+— {e(ː),i,ae,oe} → e / _#
+
+— iː → i
+
+— {o(ː),uː} → o
+
+— u → o / ! V_
+
+s → i / #(C…)V_#
+
+k → ∅ / _s#
+
+{s,t} → ∅ / _#
+
+kʷ ɡʷ → p b / V_a
+
+ɡ → m / _n
+
+w → ∅ / {k,ɡ}_
+
+k ɡ → tʃ dʒ / _E
+
+ɛ → ie
+
+t d s → ts dz ʃ / _i
+
+o e → u i / _N
+
+a → ɨ _N ! _{nː,mn}
+
+i → ∅ / OL_e
+
+e → a / i_(C…){a,e}#
+
+i → ∅ / {ts,dz,S}_V
+
+li → lj / _V
+
+l → lj / _i
+
+lː → ∅ / _i
+
+”elːa → e”a / _#
+
+{b,v} → ∅ / V_{V,t}
+
+l → r / V_V
+
+m → u / a_nV
+
+b → u / V_{l,r}
+
+p → ∅ / _s
+
+c → p / _{s,t}
+
+{sc,st} → ʃt / _F
+
+s → ʃ / _kl
+
+c → ∅ / n_t
+
+kj ɡj → tʃ {j,∅} (ɡj → ∅ is rare)
+
+Pj → ɥ
+
+{sj,stj,sːj} → ʃ
+
+j → s / t_
+
+j → z / rd_
+
+dj → ʒ / _”B
+
+dj → z / V_V
+
+{n,l} → ∅ / _j
+
+ja → e / r_#
+
+j → ∅ / r_
+
+d → ∅ / _z
+
+l → j / {k,ɡ}_
+
+a → e / C[+palatal]_#
+
+a o → ə u / ”U…_#
+
+e → ə / ”U…P_(C…)V# ! V = i
+
+u → ∅ / o_e
+
+e → ə / ou_#
+
+u → ∅ / ! {OL,”V}_#
+
+a → a / #(C…)V…C[+palatal]_…”U
+
+a o → ə u / #(C…)V…_…”U
+
+e → i / #(C…)V…_n…”U
+
+e → ə / #(C…)V…{t,d,n}_…”U
+
+e → ə / P”_(C…)B
+
+e → ∅ / P_a
+
+e → ə / #{r,P}_…”U
+
+o → u / #C…_…”U
+
+a → ə #C(C…)_…”U
+
+{t,d} → ∅ / n_#
+
+Ci → Cʲ / _# ! R…R_#
+17.12.1.1.9 Latin to Sardinian
+
+qwed117, “mainly” from http://www.sardegnacultura.it/documenti/7_25_20060427093224.pdf
+
+Vː → V[- long]
+
+e → i / C_V
+
+i → j / V_V
+
+i → j / _V
+
+{b,v,w} → ∅ / V_V
+
+au ai → o e
+
+h → ∅ / {#,C}_
+
+m → ∅ / _#
+
+∅ → i / _s (“[m]ainly Logudorese”)
+
+nd {lː,ld} → ɳɖ ɖː / V_V
+
+t → k / s_l (sporadic)
+
+l → ∅ / rk_ (sporadic)
+
+r → l / _C (sporadic)
+
+l → r / C_ (sporadic)
+
+{i,j} → dʒ / Vr_V (“dialectal”)
+
+v → b / #_
+
+S[- voice] → S[+ voice] / V_”V
+
+kw ɡw → pː bː / #_ (“[o]nly Logudorese”)
+
+w → ∅ / #k_V
+
+k → ts / _i
+
+{p,k}s → sː
+
+o → u / _k (possibly restricted in occurrence)
+
+k → ∅ / _t ?
+
+l{i,j} → lː → {ts,dz,ldz,dʒ,lː} (“varies”)
+
+e → ∅ / u_#
+
+t → d / V_rV
+
+sk → sː
+
+{i,j} → ɡ / #_e
+
+d → ∅ / V_{i,j}
+
+n{i,j} t{i,j} → ndʒ ts / _V
+
+d → r / V_V (“[s]ome Campidanese”)
+
+b d ɡ → β ð ɣ / “except in Nuorese”
+
+ɡn → nː
+
+r → urː / #_e / Logudorese
+
+r → arː / #_(j)B / Logudorese
+17.12.1.1.10 Vulgar Latin to Spanish
+
+? and Serafı́n, the former citing Penny, Ralph (2002), A History of the Spanish Language, 2nd Ed. Cambridge University Press; and Lipski, John (1994), Latin American Spanish. Longman Pub Group.
+
+b → β / V_V
+
+{tj,kj} {tːj,kːj,ptj,ktj,skj} → ts tːs
+
+k ɡ → tʃ dʒ → ts dz / _{j,i,e,ɛ}
+
+{t,k} → ∅ / _#
+
+V → ∅ / C_{r,l} when unstressed and not at a word boundary
+
+V → ∅ / {r,l}_C when unstressed and not at a word boundary
+
+V → ∅ / C_s when unstressed and not at a word boundary (sporadic)
+
+V → ∅ / s_C when unstressed and not at a word boundary (sporadic)
+
+{k,ɡ} → x → j / _{t,s,n,l}
+
+pt {ɾs,ps} → tː sː
+
+ns → s (with a few exceptions)
+
+mb mn → mː nː
+
+{jl,lj} {jn,nj} {jɡ,ɡj} → ʎ ɲ ʝː
+
+bj → ʝː (sporadic)
+
+Raising of e {ɛ,a} ɔ o → i e o u; near j, in particular environments:
+
+— e → i / _Cj ! C = p
+
+— ɛ ɔ u → e o u / _(C)j
+
+— a → e / _j
+
+oj → we (sporadic)
+
+ɛ ɔ → je we
+
+”je.o ”je.a → {”i.o,”jo} ”i.a
+
+jt js → tʃ ʃ
+
+f → h / ! _{ue,L}
+
+ɾj pj → jɾ jp / V_
+
+ʎ → ʒ
+
+ʝ → {∅,ʒ} (the latter is rare)
+
+ʝː → ∅ / E_
+
+d → {∅,ð} / V_V
+
+ɡ → {∅,ɣ} / V_V
+
+p t k s ts → b d ɡ z dz / V_V
+
+pː tː kː sː tːs ʝː → p t k s ts ʝ
+
+nː lː ɾɾ → ɲ ʎ r
+
+kl pl → ʎ {ʎ,tʃ}
+
+fl → ʎ (sporadic)
+
+V → ∅ / unstressed ! V = a
+
+sj → js / V_
+
+i u → e o / _(C)#
+
+Vɾ → ɾV / C_#
+
+e → ∅ / V{d,s,n,l,ɾ}_#
+
+d ɡ → ð ɣ / V_V
+
+/ʝ/ “gains a fortified [dʒ] allophone” by analogy with the voiced-stop/voiced-fricative allophony in Spanish
+“Complex resolution of many consonant clusters created with the previous loss of unstressed vowels”:
+
+“With deletion or assimilation or both”:
+
+— t → ∅ / _m
+
+— d → ∅ / _n (sometimes)
+
+— mn → ɲ (sometimes)
+
+— tst dzd → ts dz
+
+— Vdz → ∅ / {nts,ndz,rdz_
+
+— ndzVɡ → nɡ
+
+— mpVt skVp spVt stVk → nt sp st sk
+
+“With dissimilation”:
+
+— n → {l,ɾ} / _m
+
+— n → {ɾ,l} / nɡ_
+
+— n → ɾ / nd_
+
+“With metathesis”:
+
+— dn dl → nd ld
+
+— ml nɾ → lm ɾn (sometimes)
+
+— βɣ → wɣ → ɣw
+
+“With epenthesis”:
+
+— ∅ → b / m_ɾ
+
+— mn ml → mbɾ mbl
+
+— ∅ → d / n_ɾ
+
+t → ∅ / _#
+
+/b/ [b], /β/ [b~β] → /b/ [b~β]
+
+b → u / _C
+
+l → u / _C (sometimes)
+
+ts dz → s̪ z̪
+
+z̪ z ʒ → s̪ s ʃ
+
+ʃ → {x,χ}
+
+“None of the following sound changes is universal to all dialects. If the same sound appears twice or more with an apparent contradiction, this accounts for different dialects. In all cases there are dialects that conserve the original sound at the beginning of the 21st century, with the exception of the old phonemic [s̪ - s] distinction (though kept in another way today, as [θ - s] in many parts of Spain).”
+
+h → ∅ “(just a reminder: from the f → h change above)”
+
+x → h
+
+/dɾ/ [ðɾ] → ɾ / V_V
+
+ʎ → /ʝ/ (“merged with”)
+
+ʎ → j
+
+/ʝ/ [ʝ~dʒ] → [ʒ~dʒ]
+
+ʒ → ʃ
+
+{s̪,s} → /s/ [s̪] “(merged as)”
+
+{s̪,s} → h / _$
+
+{s̪,s} → h “(in all environments)”
+
+s̪ → θ
+
+{s̪,s} → θ [θ] “(merged as)”
+
+h → ∅ / _d
+
+h → ∅ / _tʰ
+
+h → ∅ / _$
+
+n → ŋ / _#
+
+b ɡ → β ɣ / {l,ɾ}_
+
+d → ð / ɾ_
+
+tɾ → {tɾ̥,tʃ,tʂ}
+
+r → {ʐ,χ}
+
+l → ɾ / _$
+
+ɾ → l / _$
+
+s → ɾ / _θ
+
+kθ → θː
+17.12.2 Proto-Italic to Proto-Sibellian
+
+Pogostick Man, from http://gillesquentel.org/docs/PIE_to_Italic_C.pdf and http://gillesquentel.org/docs/PIE_to_Italic_V.pdf
+
+NB: This is likely incomplete.
+
+t → f
+
+ḱ ɡ́ kʷ ɡʷ → k ɡ p b
+
+{ɡ́ʰ,x} {ɸ,θ,ɡʷʰ} → h f
+
+r̥ → er / _#
+
+eu → ou
+17.12.2.1 Proto-Sibellian to Oscan
+
+Pogostick Man, from http://gillesquentel.org/docs/PIE_to_Italic_C.pdf and http://gillesquentel.org/docs/PIE_to_Italic_V.pdf
+
+NB: This is likely incomplete.
+
+z → r
+17.12.2.2 Proto-Sibellian to Umbrian
+
+Pogostick Man, from http://gillesquentel.org/docs/PIE_to_Italic_C.pdf and http://gillesquentel.org/docs/PIE_to_Italic_V.pdf
+
+NB: This is likely incomplete.
+
+d → rs / V_V
+17.13 Proto-Indo-European to Proto-Tocharian
+
+Nortaneous, from http://www.utexas.edu/cola/centers/lrc/eieol/tokol-TC-X.html and https://azargoshnasp.net/history/Tocharian/positionoftocharian.pdf
+
+Ḱ → K
+
+Ch → C / _(V)Ch
+
+d → ∅ / _N
+
+dz → ∅ / B_
+
+dz → ts
+
+Kʷ → K / _{C,o,a} ! C = syllabic
+
+Kʷ → ɕ / _e(ː)
+
+Kʷy → ɕ
+
+p {ts,k(ʷ)} m n l r y → pj sʲ ʂ mj ɲ lj rj wj / _{E(:),y}
+
+{t,dʱ} → tʲ / _E(ː)
+
+{t,dʱ} → ts / _y
+
+D(ʱ) → T
+
+n̩ → ə → ∅ / C_#
+
+R H → uR ɨ / C_{C,#} when syllabic
+
+R Hn̩ → ɛR ɨn / #_C
+
+H → ɛ / _R, when R = syllabic
+
+H → ∅ / V_V
+
+h2e → ə / _#
+
+h2e a → a ɨ
+
+{eh2,aH} aː → aː ɔ
+
+h3e o → o ɛ
+
+{eh3,oH} → oː
+
+oː(s,y) oːn → u {u,õ}
+
+Something about *õ and umlaut
+
+õ oː → o a
+
+u → wə / #_
+
+u → {ə,u}
+
+uh1 u{h2,h3} → uː → wə wɨ
+
+i → ə / {P,K(ʷ),s}_
+
+Ci → Cʲə
+
+s → sʲ / _tʲ
+
+ih1 i{h2,h3} → jə jɨ
+
+(h1)e (h1)eː → jə jɛː / #_
+
+Ce Ceː → Cʲə Cʲɛ
+
+eH → eː
+
+ow aw ew → ɛu au əw
+
+oy ay ey → ɛi ai əj
+
+ɛ → o / _$B
+
+ɛ → ə / _$ɨ
+
+”ɨ ”ə ɨ[- stress] ə[- stress] → ɨ a a ə
+17.13.1 Proto-Tocharian to Tocharian A
+
+Nortaneous, from http://www.utexas.edu/cola/centers/lrc/eieol/tokol-TC-X.html and https://azargoshnasp.net/history/Tocharian/positionoftocharian.pdf
+
+s → ʂ / _t
+
+k → p / _{s,ʂ}
+
+Cʲj → Cʲː
+
+n → j / V_sV ! E_
+
+V → j / V_nʲtʲ ! V = E
+
+j → ∅ / w_
+
+{a,ɛ}i əj → e i
+
+{a,ɛ}u əw → o u
+
+{ɔ,ɛ} → a
+
+V → [+ round] / Kʷ_
+
+{kʷ,kw} → k
+
+ə → ∅ / _%
+
+V → ∅ / _#
+
+“[E]penthesis [of /ə/] to break up ‘difficult’ consonant clusters (mostly in the coda?)”
+17.13.2 Proto-Tocharian to Tocharian B
+
+Nortaneous, from http://www.utexas.edu/cola/centers/lrc/eieol/tokol-TC-X.html and https://azargoshnasp.net/history/Tocharian/positionoftocharian.pdf
+
+{a,ɛ}u əw → au u
+
+{a,ɛ}i əj → ai i
+
+ɔ ɛ → o e
+
+w → ∅ / _j
+
+Kʷ “usually but not always retained”
+
+C[+ coronal]w → Cː
+
+mn → nm / V_V
+
+s → ∅ / n_#
+
+∅ → t / {N,L}_S
+
+ə → ∅ / _%, when unstressed
+
+“[E]penthesis [of /ə/] to break up ‘difficult’ consonant clusters (mostly in the coda?)” 
+
