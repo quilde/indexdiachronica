@@ -12,28 +12,28 @@ use std::fs::write;
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Rule {
-    before: Vec<String>,
-    after: Vec<String>,
-    env: String,
-    notes: Vec<String>,
+    be: Vec<String>,
+    af: Vec<String>,
+    en: String,
+    no: Vec<String>,
 
-    tags: Vec<String>,
-    name_type: Vec<String>,
+    ta: Vec<String>,
+    ty: Vec<String>,
 }
 #[derive(Debug, Serialize, Deserialize)]
 struct ChangeSet {
-    from: String,
+    fr: String,
     to: String,
-    or_contr: String,
-    or_src: String,
-    srces: Vec<String>,
-    notes: Vec<String>,
-    changes: Vec<Rule>,
+    or: String,
+    os: String,
+    so: Vec<String>,
+    no: Vec<String>,
+    ch: Vec<Rule>,
 }
 #[derive(Debug, Serialize, Deserialize)]
 struct FamilySet {
-    family: String,
-    change_sets: Vec<ChangeSet>,
+    fa: String,
+    cs: Vec<ChangeSet>,
 }
 
 fn main() {
@@ -67,15 +67,15 @@ fn main() {
 
     let parens = Regex::new(r"(°)(?<from>.*) to (?<to>.*)(?<changes>[^°]*)").unwrap();
 
-    let mut sources = Vec::new();
+    let mut sources: Vec<String> = Vec::new();
 
-    let change_sets: Vec<_> = change_sets_regex
+    let cs: Vec<_> = change_sets_regex
         .captures_iter(s.as_str())
         .map(|c| {
-            let from = c.name("from").unwrap().as_str().to_string();
+            let fr = c.name("from").unwrap().as_str().to_string();
             let to = c.name("to").unwrap().as_str().to_string();
-            let or_contr = c.name("or_contr").unwrap().as_str().to_string();
-            let or_src = c.name("src").unwrap().as_str().to_string();
+            let or = c.name("or_contr").unwrap().as_str().to_string();
+            let os = c.name("src").unwrap().as_str().to_string();
 
             let changes2 = c.name("changes").unwrap().as_str().to_string();
             println!("{changes2}");
@@ -85,14 +85,14 @@ fn main() {
 
             let mut output: Vec<&str> = Vec::new();
 
-            let mut srces = Vec::new();
+            let mut so = Vec::new();
 
-            let notes = Vec::new();
+            let no = Vec::new();
 
-            let changes: Vec<_> = re
+            let ch: Vec<_> = re
                 .captures_iter(changes2.as_str())
                 .map(|c| {
-                    let before: Vec<String> = c
+                    let be: Vec<String> = c
                         .name("before")
                         .unwrap()
                         .as_str()
@@ -100,7 +100,7 @@ fn main() {
                         .split_terminator(" ")
                         .map(|c| replace_classes(c))
                         .collect();
-                    let mut after: Vec<String> = c
+                    let mut af: Vec<String> = c
                         .name("after")
                         .unwrap()
                         .as_str()
@@ -108,66 +108,66 @@ fn main() {
                         .split_terminator(" ")
                         .map(|c| replace_classes(c))
                         .collect();
-                    let env = replace_classes(c.name("env").unwrap().as_str());
+                    let en = replace_classes(c.name("env").unwrap().as_str());
                     
                     let note = c.name("notes").unwrap().as_str().to_string();
 
-                    let mut notes: Vec<String> = Vec::new();
+                    let mut no: Vec<String> = Vec::new();
                     if note != "".to_string() {
-                        notes.push(note);
+                        no.push(note);
                     } else {
                     }
 
-                    while after.len() > before.len() {
-                        notes.push(after.pop().unwrap());
+                    while af.len() > be.len() {
+                        no.push(af.pop().unwrap());
                     }
 
                     
-                    let tags = vec!["generated".to_string(), "unchecked".to_string()];
-                    let name_type = Vec::new();
+                    let ta = vec!["generated".to_string(), "unchecked".to_string()];
+                    let ty = Vec::new();
 
                     Rule {
-                        before,
-                        after,
-                        env,
-                        notes,
+                        be,
+                        af,
+                        en,
+                        no,
                         
-                        tags,
-                        name_type,
+                        ta,
+                        ty,
                     }
                 })
                 .collect();
 
-            if !sources.contains(&or_src) {
-                sources.push(or_src.clone());
+            if !sources.contains(&os) {
+                sources.push(os.clone());
                 let mut s = (sources.len() - 1).to_string();
                 s.insert_str(0, "s");
-                srces.push(s);
+                so.push(s);
             } else {
-                srces.push(
+                so.push(
                     sources
                         .iter()
-                        .position(|r| r == &or_src)
+                        .position(|r| r == &os)
                         .unwrap()
                         .to_string(),
                 );
             }
 
             ChangeSet {
-                from,
+                fr,
                 to,
-                or_contr,
-                or_src,
-                srces,
-                notes,
-                changes,
+                or,
+                os,
+                so,
+                no,
+                ch,
             }
         })
         .collect();
 
     let family_set = FamilySet {
-        family: "TODO".to_string(),
-        change_sets,
+        fa: "TODO".to_string(),
+        cs,
     };
     /*
     let change_sets_output = String::new();
