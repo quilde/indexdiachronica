@@ -1,3223 +1,3223 @@
 {
-  "family": "Algonquian",
-  "change_sets": [
+  "fa": "Algonquian",
+  "cs": [
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Kennebec River Abenaki",
-      "or_contr": "Pogostick Man with acknowledgment to dhok",
-      "or_src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
-      "srces": [
+      "or": "Pogostick Man with acknowledgment to dhok",
+      "os": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "so": [
         "s0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "hl"
           ],
-          "after": [
+          "af": [
             "sː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "r"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "nr"
           ],
-          "after": [
+          "af": [
             "rː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "e"
           ],
-          "env": "#[+consonant]_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "#[+consonant]_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "#_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "iw"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# ! k(ː)_",
-          "notes": [],
-          "tags": [
+          "en": "_# ! k(ː)_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# ! [+labial,bilabial]_",
-          "notes": [],
-          "tags": [
+          "en": "_# ! [+labial,bilabial]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_ ! [+consonant] = [+velar]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_ ! [+consonant] = [+velar]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#w_",
-          "notes": [],
-          "tags": [
+          "en": "#w_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "r"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "s",
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{x,h}[+plosive]"
           ],
-          "after": [
+          "af": [
             "[+plosive]ː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "sk"
           ],
-          "after": [
+          "af": [
             "kː"
           ],
-          "env": "! _a",
-          "notes": [],
-          "tags": [
+          "en": "! _a",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔs",
             "ʔts"
           ],
-          "after": [
+          "af": [
             "sː",
             "tsː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "oː",
             "aː",
             "eː",
             "iː"
           ],
-          "after": [
+          "af": [
             "o",
             "ɔ̃",
             "a",
             "i"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "St. Francis Abenaki",
-      "or_contr": "Pogostick Man with acknowledgment to dhok",
-      "or_src": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
-      "srces": [
+      "or": "Pogostick Man with acknowledgment to dhok",
+      "os": " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:",
+      "so": [
         "0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "nθ",
             "nl"
           ],
-          "after": [
+          "af": [
             "sː",
             "{sː,hl}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[+sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "ɔ̃"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -high",
             "-long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#[+consonant]_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "#[+consonant]_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#_[-sonorant][-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "#_[-sonorant][-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "iw"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# ! k(ː)_",
-          "notes": [],
-          "tags": [
+          "en": "_# ! k(ː)_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# ! p_",
-          "notes": [],
-          "tags": [
+          "en": "_# ! p_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_ ! [+consonant] = [+velar]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_ ! [+consonant] = [+velar]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{[+sonorant],h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+vowel]_[+vowel] (sporadic?)",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel]_[+vowel] (sporadic?)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "s",
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "nj"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{x,h}[+plosive]"
           ],
-          "after": [
+          "af": [
             "[+plosive]ː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔs",
             "ʔts"
           ],
-          "after": [
+          "af": [
             "sː",
             "tsː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "sk"
           ],
-          "after": [
+          "af": [
             "kː"
           ],
-          "env": "! _a",
-          "notes": [],
-          "tags": [
+          "en": "! _a",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i"
           ],
-          "after": [
+          "af": [
             "e"
           ],
-          "env": "_[+sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "oː",
             "eː",
             "iː"
           ],
-          "after": [
+          "af": [
             "o",
             "a",
             "i"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Proto-Arapaho-Atsina",
-      "or_contr": "Whimemsz",
-      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "so": [
         "s1"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "([+semivowel])[+vowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "o(ː)"
           ],
-          "after": [
+          "af": [
             "i(ː)"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+semivowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_i(ː)",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_i(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ",
             "h",
             "{s,m,n,r}"
           ],
-          "after": [
+          "af": [
             "ʃ",
             "∅",
             "ʔ"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "_p",
-          "notes": [],
-          "tags": [
+          "en": "_p",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+semivowel]"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+semivowel]"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "{#,[+vowel]}_",
-          "notes": [],
-          "tags": [
+          "en": "{#,[+vowel]}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "p",
             "k"
           ],
-          "after": [
+          "af": [
             "k",
             "∅"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "{[+vowel],[+consonant]}_",
-          "notes": [],
-          "tags": [
+          "en": "{[+vowel],[+consonant]}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "{#,[+vowel]}_",
-          "notes": [],
-          "tags": [
+          "en": "{#,[+vowel]}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "θ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "_[+consonant][+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant][+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a(ː)"
           ],
-          "after": [
+          "af": [
             "o(ː)"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Arapaho-Atsina",
+      "fr": "Proto-Arapaho-Atsina",
       "to": "Arapaho",
-      "or_contr": "Whimemsz",
-      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "so": [
         "1"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "hʔ"
           ],
-          "after": [
+          "af": [
             "ʔh"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "({[+consonant],#}[+vowel])ʔ"
           ],
-          "after": [
+          "af": [
             "({[+consonant],#}[+vowel]ː)∅"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i(ː)"
           ],
-          "after": [
+          "af": [
             "u(ː)"
           ],
-          "env": "o(ː)([+consonant -dental])([+consonant -dental])_",
-          "notes": [],
-          "tags": [
+          "en": "o(ː)([+consonant -dental])([+consonant -dental])_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "[+consonant][+vowel -long]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant][+vowel -long]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "m"
           ],
-          "after": [
+          "af": [
             "x",
             "w"
           ],
-          "env": "_[+vowel +back]",
-          "notes": [],
-          "tags": [
+          "en": "_[+vowel +back]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "m"
           ],
-          "after": [
+          "af": [
             "x",
             "w"
           ],
-          "env": "[+vowel +back]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel +back]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "m"
           ],
-          "after": [
+          "af": [
             "x",
             "b"
           ],
-          "env": "o(ː)_e(ː)",
-          "notes": [],
-          "tags": [
+          "en": "o(ː)_e(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "k",
             "m"
           ],
-          "after": [
+          "af": [
             "s",
             "tʃ",
             "b"
           ],
-          "env": "_{[+vowel +front],j}",
-          "notes": [],
-          "tags": [
+          "en": "_{[+vowel +front],j}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "k",
             "m"
           ],
-          "after": [
+          "af": [
             "s",
             "tʃ",
             "b"
           ],
-          "env": "[+vowel +front]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel +front]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "([+vowel -long])[+nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "#_[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "#_[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "eː"
           ],
-          "after": [
+          "af": [
             "ei"
           ],
-          "env": "j_",
-          "notes": [],
-          "tags": [
+          "en": "j_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "o(ː)"
           ],
-          "after": [
+          "af": [
             "e(ː)"
           ],
-          "env": "[+consonant]j_ (sporadic)",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]j_ (sporadic)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "n"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_j",
-          "notes": [],
-          "tags": [
+          "en": "_j",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "h"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Arapaho-Atsina",
+      "fr": "Proto-Arapaho-Atsina",
       "to": "Gros Ventre",
-      "or_contr": "Whimemsz",
-      "or_src": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116",
+      "so": [
         "1"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "hʔ"
           ],
-          "after": [
+          "af": [
             "ʔh"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "({[+consonant],#}[+vowel -long])ʔ"
           ],
-          "after": [
+          "af": [
             "({[+consonant],#}[+vowel]ː[+falling"
           ],
-          "env": "_[+consonant]",
-          "notes": [
+          "en": "_[+consonant]",
+          "no": [
             "tone])∅"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{ʃ,θ}",
-          "notes": [],
-          "tags": [
+          "en": "{ʃ,θ}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i"
           ],
-          "after": [
+          "af": [
             "u"
           ],
-          "env": "o(ː)_",
-          "notes": [],
-          "tags": [
+          "en": "o(ː)_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "θ",
             "m"
           ],
-          "after": [
+          "af": [
             "θ",
             "t",
             "w"
           ],
-          "env": "_o(ː)",
-          "notes": [],
-          "tags": [
+          "en": "_o(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "θ",
             "m",
             "k"
           ],
-          "after": [
+          "af": [
             "θ",
             "t",
             "b",
             "tʃ"
           ],
-          "env": "_e(ː)",
-          "notes": [],
-          "tags": [
+          "en": "_e(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "{θ,t}",
             "m",
             "k"
           ],
-          "after": [
+          "af": [
             "s",
             "ts",
             "tʲ",
             "bʲ"
           ],
-          "env": "_{i(ː),j,#}",
-          "notes": [],
-          "tags": [
+          "en": "_{i(ː),j,#}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "([+vowel -long])[+nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "#_[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "#_[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "n"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_j",
-          "notes": [],
-          "tags": [
+          "en": "_j",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Blackfoot",
-      "or_contr": "Whimemsz",
-      "or_src": " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82",
+      "so": [
         "s2"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "{θ,tʃ,ʃ,r}"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "unless adjacent to another consonant",
-          "notes": [],
-          "tags": [
+          "en": "unless adjacent to another consonant",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "_s ! _[+consonant]{[+consonant],#}",
-          "notes": [],
-          "tags": [
+          "en": "_s ! _[+consonant]{[+consonant],#}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "! [+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "! [+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "h"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "! _[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "! _[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʃ,tʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʔθ,ʔr}"
           ],
-          "after": [
+          "af": [
             "{ʔ,j,∅}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "nr"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "h"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "_{p,k}",
-          "notes": [],
-          "tags": [
+          "en": "_{p,k}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "hkw"
           ],
-          "after": [
+          "af": [
             "ʔk"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "nθ",
             "hs"
           ],
-          "after": [
+          "af": [
             "sːt",
             "sː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "_p",
-          "notes": [],
-          "tags": [
+          "en": "_p",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "nkw"
           ],
-          "after": [
+          "af": [
             "ʔː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,s}"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ntʃ"
           ],
-          "after": [
+          "af": [
             "ʔt"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ns",
             "sk"
           ],
-          "after": [
+          "af": [
             "{x,s}",
             "{x,sː}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θp",
             "tʃp",
             "ʃp"
           ],
-          "after": [
+          "af": [
             "{x,sː}",
             "ʔp",
             "sːp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "x"
           ],
-          "after": [
+          "af": [
             "sː"
           ],
-          "env": "{i,#e,ja,ke}_",
-          "notes": [],
-          "tags": [
+          "en": "{i,#e,ja,ke}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "x"
           ],
-          "after": [
+          "af": [
             "sː"
           ],
-          "env": "e(ː)_s",
-          "notes": [],
-          "tags": [
+          "en": "e(ː)_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "{i(ː),#e}_t",
-          "notes": [],
-          "tags": [
+          "en": "{i(ː),#e}_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "t"
           ],
-          "after": [
+          "af": [
             "ts"
           ],
-          "env": "_{i,e(ː),a}",
-          "notes": [],
-          "tags": [
+          "en": "_{i,e(ː),a}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "k_i(ː)",
-          "notes": [],
-          "tags": [
+          "en": "k_i(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "sːː"
           ],
-          "after": [
+          "af": [
             "sː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "{#,k}_",
-          "notes": [],
-          "tags": [
+          "en": "{#,k}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{a,e,i}"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_kʷ",
-          "notes": [],
-          "tags": [
+          "en": "_kʷ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "{oːw,iːj}_i#",
-          "notes": [],
-          "tags": [
+          "en": "{oːw,iːj}_i#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "{r,k}_i#",
-          "notes": [],
-          "tags": [
+          "en": "{r,k}_i#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "r_w",
-          "notes": [],
-          "tags": [
+          "en": "r_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{jiː,ja,ahi}",
             "{owaː,awa,awe}",
             "awi",
             "{iːwa,eːwa,aji,aje,ani}"
           ],
-          "after": [
+          "af": [
             "i",
             "oː",
             "o(ji)",
             "iː"
           ],
-          "env": "[+consonant]_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "hi"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "aː_",
-          "notes": [],
-          "tags": [
+          "en": "aː_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#_j[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "#_j[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "[+consonant]_j[+vowel]#",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_j[+vowel]#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_w",
-          "notes": [],
-          "tags": [
+          "en": "_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e[+liquid]wi"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i(ː)wi"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "medially",
-          "notes": [],
-          "tags": [
+          "en": "medially",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i(ː)wi"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "_i",
-          "notes": [],
-          "tags": [
+          "en": "_i",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{iː,ij,j}"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "[+consonant]_[+vowel +back]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_[+vowel +back]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "iji"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{a,o}_i[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "{a,o}_i[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "on"
           ],
-          "after": [
+          "af": [
             "u"
           ],
-          "env": "_i[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_i[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tem",
             "{k,p}en"
           ],
-          "after": [
+          "af": [
             "mː",
             "nː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ket"
           ],
-          "after": [
+          "af": [
             "tː"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "sː?)",
             "(→"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ke(h)"
           ],
-          "after": [
+          "af": [
             "tː"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "?"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{k(ʷ)es,keθ}"
           ],
-          "after": [
+          "af": [
             "sː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[-sonorant]_ in #σ (not universal)",
-          "notes": [],
-          "tags": [
+          "en": "[-sonorant]_ in #[+syllable] (not universal)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{me,ne}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#_[-sonorant] “(followed by truncation of following x)ˈ",
-          "notes": [],
-          "tags": [
+          "en": "#_[-sonorant] “(followed by truncation of following x)ˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{we,wiː}"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tsi"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "$_[-sonorant][-sonorant] “(before a prefix",
-          "notes": [
+          "en": "$_[-sonorant][-sonorant] “(before a prefix",
+          "no": [
             " the first obstruent of the follow[ing] cluster then becomes ʔ)"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "aa"
           ],
-          "env": "[+semivowel]_ ! when _{[+consonant]{[+consonant],ː},#}",
-          "notes": [],
-          "tags": [
+          "en": "[+semivowel]_ ! when _{[+consonant]{[+consonant],ː},#}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "else",
-          "notes": [],
-          "tags": [
+          "en": "else",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "oː"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "! at word boundaries",
-          "notes": [],
-          "tags": [
+          "en": "! at word boundaries",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{eː,iː}"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Cheyenne",
-      "or_contr": "jburke",
-      "or_src": " from “Bloomfield and Leman”",
-      "srces": [
+      "or": "jburke",
+      "os": " from “Bloomfield and Leman”",
+      "so": [
         "s3"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "o",
             "a"
           ],
-          "after": [
+          "af": [
             "e",
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e",
             "i"
           ],
-          "after": [
+          "af": [
             "a",
             "e"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "p",
             "t",
             "k"
           ],
-          "after": [
+          "af": [
             "{hp,∅}",
             "ht",
             "{hk,∅}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{(t)l,θ}"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "{ʃ,x}",
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w",
             "j"
           ],
-          "after": [
+          "af": [
             "{v,o}",
             "{t,e}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{k[+consonant],[+consonant]k}"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+consonant -nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "near nasals",
-          "notes": [],
-          "tags": [
+          "en": "near nasals",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "near nasals",
-          "notes": [],
-          "tags": [
+          "en": "near nasals",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "p"
           ],
-          "after": [
+          "af": [
             "{t,∅}"
           ],
-          "env": "near consonants",
-          "notes": [],
-          "tags": [
+          "en": "near consonants",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+semivowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "near nasals or t",
-          "notes": [],
-          "tags": [
+          "en": "near nasals or t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Northern East Cree",
-      "or_contr": "Pogostick Man",
-      "or_src": " from http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from http:",
+      "so": [
         "s4"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e",
             "eː"
           ],
-          "after": [
+          "af": [
             "i",
             "aː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃjeː"
           ],
-          "after": [
+          "af": [
             "seː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "lwi"
           ],
-          "after": [
+          "af": [
             "jo"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_s",
-          "notes": [],
-          "tags": [
+          "en": "_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "q"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_tʃ",
-          "notes": [],
-          "tags": [
+          "en": "_tʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+plosive]",
-          "notes": [],
-          "tags": [
+          "en": "_[+plosive]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(t)ʃp"
           ],
-          "after": [
+          "af": [
             "sp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{q,ʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}ʃ",
             "{n,q,h}l"
           ],
-          "after": [
+          "af": [
             "s",
             "{h,j,hj}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "tʃ"
           ],
-          "env": "_i",
-          "notes": [],
-          "tags": [
+          "en": "_i",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "in some unaccented syllables (short only)",
-          "notes": [],
-          "tags": [
+          "en": "in some unaccented syllables (short only)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Southern East Cree",
-      "or_contr": "Pogostick Man",
-      "or_src": " from http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from http:",
+      "so": [
         "4"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "only)",
             "(short"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃjeː"
           ],
-          "after": [
+          "af": [
             "ʃeː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "lwi"
           ],
-          "after": [
+          "af": [
             "jo"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_s",
-          "notes": [],
-          "tags": [
+          "en": "_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "q"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_tʃ",
-          "notes": [],
-          "tags": [
+          "en": "_tʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+plosive]",
-          "notes": [],
-          "tags": [
+          "en": "_[+plosive]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(t)ʃp"
           ],
-          "after": [
+          "af": [
             "sp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{q,ʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}ʃ",
             "{n,q,h}l"
           ],
-          "after": [
+          "af": [
             "ʃ",
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ"
           ],
-          "after": [
+          "af": [
             "{ʃ,s}"
           ],
-          "env": "in inland varieties",
-          "notes": [
+          "en": "in inland varieties",
+          "no": [
             " remains /ʃ/ in coastal varieties"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "tʃ"
           ],
-          "env": "_i",
-          "notes": [],
-          "tags": [
+          "en": "_i",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Plains Cree",
-      "or_contr": "Pogostick Man",
-      "or_src": " from http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from http:",
+      "so": [
         "4"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "dialects)",
             "northern",
             "in",
@@ -3231,1500 +3231,1500 @@
             "only",
             "(short"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃjeː"
           ],
-          "after": [
+          "af": [
             "seː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "lwi"
           ],
-          "after": [
+          "af": [
             "jo"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_s",
-          "notes": [],
-          "tags": [
+          "en": "_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "q"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_tʃ",
-          "notes": [],
-          "tags": [
+          "en": "_tʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+plosive]",
-          "notes": [],
-          "tags": [
+          "en": "_[+plosive]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(t)ʃp"
           ],
-          "after": [
+          "af": [
             "sp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{q,ʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}ʃ",
             "{n,q,h}l"
           ],
-          "after": [
+          "af": [
             "s",
             "{h,j,hj}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "s",
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Swampy Cree",
-      "or_contr": "Pogostick Man",
-      "or_src": " from http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from http:",
+      "so": [
         "4"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "only)",
             "(short"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃjeː"
           ],
-          "after": [
+          "af": [
             "ʃeː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "lwi"
           ],
-          "after": [
+          "af": [
             "jo"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_s",
-          "notes": [],
-          "tags": [
+          "en": "_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "q"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_tʃ",
-          "notes": [],
-          "tags": [
+          "en": "_tʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+plosive]",
-          "notes": [],
-          "tags": [
+          "en": "_[+plosive]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(t)ʃp"
           ],
-          "after": [
+          "af": [
             "sp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{q,ʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}ʃ",
             "{n,q,h}l"
           ],
-          "after": [
+          "af": [
             "ʃ",
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "in [+semivowel]est [+plosive]wampy [+consonant]ree (remains ",
-          "notes": [
+          "en": "in [+semivowel]est [+plosive]wampy [+consonant]ree (remains ",
+          "no": [
             "/ʃ/ in East Swampy Cree)"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Woods Cree",
-      "or_contr": "Pogostick Man",
-      "or_src": " from http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from http:",
+      "so": [
         "4"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e(ː)"
           ],
-          "after": [
+          "af": [
             "i(ː)"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "lwi"
           ],
-          "after": [
+          "af": [
             "jo"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_s",
-          "notes": [],
-          "tags": [
+          "en": "_s",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "q"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_tʃ",
-          "notes": [],
-          "tags": [
+          "en": "_tʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+plosive]",
-          "notes": [],
-          "tags": [
+          "en": "_[+plosive]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(t)ʃp"
           ],
-          "after": [
+          "af": [
             "sp"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{q,ʃ}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_t",
-          "notes": [],
-          "tags": [
+          "en": "_t",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,q,h}ʃ",
             "{n,q,h}l"
           ],
-          "after": [
+          "af": [
             "s",
             "{h,j,hj}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "s",
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "{r,ð}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Munsee Delaware",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48",
+      "so": [
         "s5"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "in nouns",
-          "notes": [],
-          "tags": [
+          "en": "in nouns",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "t",
             "s"
           ],
-          "after": [
+          "af": [
             "tʃ",
             "ʃ"
           ],
-          "env": "in diminutives",
-          "notes": [],
-          "tags": [
+          "en": "in diminutives",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,l}",
             "→",
             "r"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,ʃ}"
           ],
-          "after": [
+          "af": [
             "{r,l}"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "m_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "m_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{p,m}_#",
-          "notes": [],
-          "tags": [
+          "en": "{p,m}_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "! {k,p,m}_",
-          "notes": [],
-          "tags": [
+          "en": "! {k,p,m}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+consonant]ʷ"
           ],
-          "after": [
+          "af": [
             "[+consonant]"
           ],
-          "env": "_ə{([+consonant]){p,kʷ},m,w}",
-          "notes": [],
-          "tags": [
+          "en": "_ə{([+consonant]){p,kʷ},m,w}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "kw",
             "pw",
             "mw"
           ],
-          "after": [
+          "af": [
             "kʷ",
             "pʷ",
             "mʷ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "we",
             "→",
             "wə"
           ],
-          "after": [
+          "af": [
             "oː"
           ],
-          "env": "! adjacent to {p,m,k}",
-          "notes": [],
-          "tags": [
+          "en": "! adjacent to {p,m,k}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+consonant] ! [+consonant] = l, or when reduplicated",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant] ! [+consonant] = l, or when reduplicated",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "h"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_{s,x}",
-          "notes": [],
-          "tags": [
+          "en": "_{s,x}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{nθ,nl}"
           ],
-          "after": [
+          "af": [
             "hl"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "h_ (sometimes restored via analogy, e.g., in verbs)",
-          "notes": [],
-          "tags": [
+          "en": "h_ (sometimes restored via analogy, e.g., in verbs)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ",
             "ʃ",
             "x"
           ],
-          "after": [
+          "af": [
             "x",
             "s",
             "h"
           ],
-          "env": "_{p,k}",
-          "notes": [],
-          "tags": [
+          "en": "_{p,k}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{tʃ,ç}"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "i",
             "o"
           ],
-          "after": [
+          "af": [
             "iː",
             "oː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "_h[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_h[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# ! some monosyllables and analogical developments, in the latter of which long vowels were shortened",
-          "notes": [],
-          "tags": [
+          "en": "_# ! some monosyllables and analogical developments, in the latter of which long vowels were shortened",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{a,ə}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllablesˈ",
-          "notes": [
+          "en": "_{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllablesˈ",
+          "no": [
             " such vowels are considered “weak”"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə[+weak]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "#_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə[+weak]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[+consonant +voiced] (sporadic)",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant +voiced] (sporadic)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a[+weak]",
             "ə[+weak]"
           ],
-          "after": [
+          "af": [
             "ə",
             "∅"
           ],
-          "env": "a_[+continuant +voiced]",
-          "notes": [],
-          "tags": [
+          "en": "a_[+continuant +voiced]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "NC sequences assimilate the nasal to the POA of the following consonant, which is then voiced",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_h{p,kʷ,w,m}",
-          "notes": [],
-          "tags": [
+          "en": "_h{p,kʷ,w,m}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "_h[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_h[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_x{p,kʷ,[+vowel +round]}",
-          "notes": [],
-          "tags": [
+          "en": "_x{p,kʷ,[+vowel +round]}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "{p,m}_x",
-          "notes": [],
-          "tags": [
+          "en": "{p,m}_x",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "x"
           ],
-          "after": [
+          "af": [
             "χʷ"
           ],
-          "env": "o(ː)_{[+vowel],#}",
-          "notes": [],
-          "tags": [
+          "en": "o(ː)_{[+vowel],#}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_x “[i]n a nonrounding environmentˈ",
-          "notes": [],
-          "tags": [
+          "en": "_x “[i]n a nonrounding environmentˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "_ŋkʷ",
-          "notes": [],
-          "tags": [
+          "en": "_ŋkʷ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel +high]"
           ],
-          "after": [
+          "af": [
             "ə"
           ],
-          "env": "_j",
-          "notes": [],
-          "tags": [
+          "en": "_j",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel +high]"
           ],
-          "after": [
+          "af": [
             "ə"
           ],
-          "env": "_w (sporadic)",
-          "notes": [],
-          "tags": [
+          "en": "_w (sporadic)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Menominee",
-      "or_contr": "Whimemsz",
-      "or_src": " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25.",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25.",
+      "so": [
         "s6"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we",
             "je"
           ],
-          "after": [
+          "af": [
             "o",
             "i"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "r"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_# “[does not apply in disyllabic words containing two short vowels]ˈ",
-          "notes": [],
-          "tags": [
+          "en": "_# “[does not apply in disyllabic words containing two short vowels]ˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "[+vowel -long]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel -long]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+laryngeal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_m",
-          "notes": [],
-          "tags": [
+          "en": "_m",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{s,r}"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "h_[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "h_[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "$am_w",
-          "notes": [],
-          "tags": [
+          "en": "$am_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]"
           ],
-          "after": [
+          "af": [
             "[+vowel]ː"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "wordsˈ",
             "glottal",
             "in",
@@ -4746,211 +4746,211 @@
             "[+vowel]",
             "“when"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "[+vowel]ː%_ ! _[+laryngeal]",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel]ː%_ ! _[+laryngeal]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_{[-sonorant],r}",
-          "notes": [],
-          "tags": [
+          "en": "_{[-sonorant],r}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#([+consonant])_ ! _[+laryngeal]",
-          "notes": [],
-          "tags": [
+          "en": "#([+consonant])_ ! _[+laryngeal]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "_{k,m} “when in the second syllable of glottal wordsˈ",
-          "notes": [],
-          "tags": [
+          "en": "_{k,m} “when in the second syllable of glottal wordsˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{w,j}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+consonant]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_#",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wi(ː)"
           ],
-          "after": [
+          "af": [
             "o(ː)"
           ],
-          "env": "[+consonant]_w",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ",
             "tʃ"
           ],
-          "after": [
+          "af": [
             "s",
             "ts"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "[+consonant][+consonant](G)_[+consonant]{[+vowel],#} “[i.e., when following a cluster but not followed by a cluster. [-sonorant]nly applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]ˈ",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant][+consonant](G)_[+consonant]{[+vowel],#} “[i.e., when following a cluster but not followed by a cluster. [-sonorant]nly applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]ˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]"
           ],
-          "after": [
+          "af": [
             "[+vowel]ː"
           ],
-          "env": "_[+consonant][+consonant] in even syllables",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant][+consonant] in even syllables",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "_[+consonant]{[+vowel],#} in even syllables",
-          "notes": [
+          "en": "_[+consonant]{[+vowel],#} in even syllables",
+          "no": [
             " “does not apply in the second syllable of a non-glottal word”"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e(ː)",
             "i"
           ],
-          "after": [
+          "af": [
             "æ(ː)",
             "e"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "iː",
             "oː",
             "oʔ"
           ],
-          "after": [
+          "af": [
             "eː",
             "uː",
             "uʔ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "[+consonant]+G]ˈ",
             "or",
             "iː",
@@ -4976,965 +4976,965 @@
             "when",
             "“[blocked"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{wiː,jiː,weː,jeː,wæː,jæː}",
             "{wi,ji,we,je,wæ,jæ}"
           ],
-          "after": [
+          "af": [
             "iː",
             "i"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "æ"
           ],
-          "after": [
+          "af": [
             "e"
           ],
-          "env": "in odd syllables ! _{w,j,[+laryngeal]}",
-          "notes": [],
-          "tags": [
+          "en": "in odd syllables ! _{w,j,[+laryngeal]}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wa",
             "ja"
           ],
-          "after": [
+          "af": [
             "uə̯",
             "iə̯"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Miami-Illinois",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393",
+      "so": [
         "s7"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "in nominal suffixes",
-          "notes": [],
-          "tags": [
+          "en": "in nominal suffixes",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "t"
           ],
-          "after": [
+          "af": [
             "tʃ"
           ],
-          "env": "in diminutives",
-          "notes": [],
-          "tags": [
+          "en": "in diminutives",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "_i (not universal)",
-          "notes": [],
-          "tags": [
+          "en": "_i (not universal)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "_i[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "_i[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,l}",
             "→",
             "r"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "[+vowel]_[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,l}",
             "→",
             "r"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "#_ (and possibly in other places as well)",
-          "notes": [],
-          "tags": [
+          "en": "#_ (and possibly in other places as well)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,l}",
             "→",
             "r"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "#_{ʰ[+consonant],s,ʃ} (allophonic, “optionalˈ)",
-          "notes": [],
-          "tags": [
+          "en": "#_{ʰ[+consonant],s,ʃ} (allophonic, “optionalˈ)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʔ,h}{ɬ,l}"
           ],
-          "after": [
+          "af": [
             "hs"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,l}"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "n_",
-          "notes": [],
-          "tags": [
+          "en": "n_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,ʃ,tʃ,ç,x,ʔ}"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+consonant -nas]"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "h"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "_{s,ʃ}",
-          "notes": [],
-          "tags": [
+          "en": "_{s,ʃ}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "hs",
             "hʃ"
           ],
-          "after": [
+          "af": [
             "sː",
             "ʃː"
           ],
-          "env": "sporadic, usually {#,[+vowel +front]}_",
-          "notes": [],
-          "tags": [
+          "en": "sporadic, usually {#,[+vowel +front]}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+consonant -voiced]"
           ],
-          "after": [
+          "af": [
             "[+consonant +voiced]"
           ],
-          "env": "[+nasal]_",
-          "notes": [],
-          "tags": [
+          "en": "[+nasal]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel][+nasal]s",
             "[+vowel][+nasal]ʃ"
           ],
-          "after": [
+          "af": [
             "[+vowel +nas]z",
             "[+vowel +nas]ʒ"
           ],
-          "env": "not universal?",
-          "notes": [],
-          "tags": [
+          "en": "not universal?",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+plosive]"
           ],
-          "after": [
+          "af": [
             "ⁿ[+plosive]"
           ],
-          "env": "#[+nasal][+vowel]_ (sporadic)",
-          "notes": [],
-          "tags": [
+          "en": "#[+nasal][+vowel]_ (sporadic)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s",
             "ʃ"
           ],
-          "after": [
+          "af": [
             "ⁿs",
             "ⁿʃ"
           ],
-          "env": "σ-nas] (highly sporadic)",
-          "notes": [],
-          "tags": [
+          "en": "[+syllable -nas] (highly sporadic)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{h,ʔ}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_m",
-          "notes": [],
-          "tags": [
+          "en": "_m",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Mi’kmaq",
-      "or_contr": "Pogostick Man with acknowledgment to dhok and Alex Fink",
-      "or_src": " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”",
-      "srces": [
+      "or": "Pogostick Man with acknowledgment to dhok and Alex Fink",
+      "os": " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”",
+      "so": [
         "s8"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "! [+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "! [+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "n{θ,l}",
             "h{θ,ʃ}"
           ],
-          "after": [
+          "af": [
             "∅",
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʔ,h,[+nasal]}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ{θ,ʃ}",
             "ʔl"
           ],
-          "after": [
+          "af": [
             "s",
             "∅"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "x"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_{p,k}",
-          "notes": [],
-          "tags": [
+          "en": "_{p,k}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "χ"
           ],
-          "env": "_(w)a(ː) ! #_",
-          "notes": [],
-          "tags": [
+          "en": "_(w)a(ː) ! #_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "χ"
           ],
-          "env": "a(ː)_",
-          "notes": [],
-          "tags": [
+          "en": "a(ː)_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "eːk"
           ],
-          "after": [
+          "af": [
             "oχ"
           ],
-          "env": "_w",
-          "notes": [],
-          "tags": [
+          "en": "_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "o(ː)",
             "waː",
             "eː",
             "iː"
           ],
-          "after": [
+          "af": [
             "u",
             "o",
             "e",
             "i"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "aː"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(aw)aha"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{awa,iwa,iwi}"
           ],
-          "after": [
+          "af": [
             "uː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{o,a}wi"
           ],
-          "after": [
+          "af": [
             "oː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ehi"
           ],
-          "after": [
+          "af": [
             "eː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{aja,iha,iji,ihi,ija}"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Ojibwe",
-      "or_contr": "Whimemsz",
-      "or_src": " from his own work; http:",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from his own work; http:",
+      "so": [
         "s9"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "NB: For this sound-change set, H is “either an */h/ or */ʔ/, but we don’t know which”.",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "we",
             "e"
           ],
-          "after": [
+          "af": [
             "o",
             "i"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{t,r}_i",
-          "notes": [],
-          "tags": [
+          "en": "{t,r}_i",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,s,h,ʔ}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_{p,t,tʃ,k}",
-          "notes": [],
-          "tags": [
+          "en": "_{p,t,tʃ,k}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "θ"
           ],
-          "after": [
+          "af": [
             "r"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʔ,h}{s,r}"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{ʔ,h}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_ʃ",
-          "notes": [],
-          "tags": [
+          "en": "_ʃ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n,r}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_r",
-          "notes": [],
-          "tags": [
+          "en": "_r",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+laryngeal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_m",
-          "notes": [],
-          "tags": [
+          "en": "_m",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "_k",
-          "notes": [],
-          "tags": [
+          "en": "_k",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{j,w}[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_# in disyllables with [+vowel]ː or in tri(-plus-)syllables",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_# in disyllables with [+vowel]ː or in tri(-plus-)syllables",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{w,j}[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+vowel]ː_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel]ː_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+vowel -long]{w,j}_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
-          "notes": [],
-          "tags": [
+          "en": "[+vowel -long]{w,j}_# ([+semivowel]himemsz is unsure if this change is across-the-board or not)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "jeː"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ja"
           ],
-          "after": [
+          "af": [
             "iː"
           ],
-          "env": "[+consonant]_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "n"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Piscataway",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”",
+      "so": [
         "s10"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "NB: This is very incomplete, partially because it seems that the only source we have on Piscataway is a single document in rather poor condition.",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{θ,ʃ}"
           ],
-          "after": [
+          "af": [
             "ɬ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "sounds)",
             "reconstructed",
             "original",
@@ -5955,491 +5955,491 @@
             "based",
             "(conjectured"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "k"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "unclear conditioning",
-          "notes": [],
-          "tags": [
+          "en": "unclear conditioning",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Algonquian",
+      "fr": "Proto-Algonquian",
       "to": "Shawnee",
-      "or_contr": "Whimemsz",
-      "or_src": " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”",
-      "srces": [
+      "or": "Whimemsz",
+      "os": " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”",
+      "so": [
         "s11"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [
+          "be": [
             "we"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "θ r / ! _O",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "[+laryngeal]_",
-          "notes": [],
-          "tags": [
+          "en": "[+laryngeal]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "n_",
-          "notes": [],
-          "tags": [
+          "en": "n_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{h,s,tʃ,θ}"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "ʃ"
           ],
-          "env": "_[-sonorant]",
-          "notes": [],
-          "tags": [
+          "en": "_[-sonorant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "e"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#([+consonant])_ “(but remains e in a few cases?)ˈ",
-          "notes": [],
-          "tags": [
+          "en": "#([+consonant])_ “(but remains e in a few cases?)ˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "iː"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "_j",
-          "notes": [],
-          "tags": [
+          "en": "_j",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_i(ː)",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_i(ː)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "je"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "[+consonant]_",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{tʃ,ʃ}_eː",
-          "notes": [],
-          "tags": [
+          "en": "{tʃ,ʃ}_eː",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "j"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{tʃ,ʃ,w}_aː",
-          "notes": [],
-          "tags": [
+          "en": "{tʃ,ʃ,w}_aː",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "t_i",
-          "notes": [],
-          "tags": [
+          "en": "t_i",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "wa"
           ],
-          "after": [
+          "af": [
             "o"
           ],
-          "env": "#_",
-          "notes": [],
-          "tags": [
+          "en": "#_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_{ʃp,ʃk}",
-          "notes": [],
-          "tags": [
+          "en": "_{ʃp,ʃk}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]_ʔ[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]_ʔ[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel -long]"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_h[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "_h[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "_#",
-          "notes": [],
-          "tags": [
+          "en": "_#",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+vowel]ː"
           ],
-          "after": [
+          "af": [
             "[+vowel -long]"
           ],
-          "env": "_{ʔ[+consonant],ʃp,ʃk,h[+vowel]}",
-          "notes": [],
-          "tags": [
+          "en": "_{ʔ[+consonant],ʃp,ʃk,h[+vowel]}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "[+consonant]{v,l,s}_[+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]{v,l,s}_[+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʔ"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_[+consonant][+consonant]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant][+consonant]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "ʔ"
           ],
-          "env": "[+consonant]{v,d}_{ʃp,ʃk,h[+vowel]}",
-          "notes": [],
-          "tags": [
+          "en": "[+consonant]{v,d}_{ʃp,ʃk,h[+vowel]}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "#_[+vowel]",
-          "notes": [],
-          "tags": [
+          "en": "#_[+vowel]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "θ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "r"
           ],
-          "after": [
+          "af": [
             "l"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "∅"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "#[+consonant]_j[+vowel]ː “(for some speakers)ˈ",
-          "notes": [],
-          "tags": [
+          "en": "#[+consonant]_j[+vowel]ː “(for some speakers)ˈ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ʃ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "speakers)ˈ",
             "many",
             "“(for"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     }

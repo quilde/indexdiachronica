@@ -1,0 +1,904 @@
+{
+    "fa": "Mayan",
+    "cs": [
+      {
+        "fr": "Proto-Mayan",
+        "to": "Ch’olan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "q(ʼ)"
+            ],
+            "af": [
+              "k(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "aː",
+              "eː",
+              "oː"
+            ],
+            "af": [
+              "ɨ",
+              "i",
+              "u"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "t(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Chujean",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "t(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Huastecan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "_{o,u}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "q(ʼ)"
+            ],
+            "af": [
+              "k(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k[+vowel +round][+consonant +glide]"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Ixilean",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant][+vowel]ʔ[+vowel][+consonant]"
+            ],
+            "af": [
+              "[+consonant][+vowel]ʔ[+consonant]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "{t,j}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ"
+            ],
+            "af": [
+              "ʈʂ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Kaqchikel-Tz’utujil",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant][+vowel]ʔ[+vowel][+consonant]"
+            ],
+            "af": [
+              "[+consonant][+vowel]ʔ[+consonant]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɓ",
+              "w"
+            ],
+            "af": [
+              "ʔ",
+              "j"
+            ],
+            "en": "[+vowel][+consonant][+vowel]_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "tʃ(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“Kaqchikel retains a centralized lax schwa-like vowel as a reflex of Proto-Mayan [a]”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Core K’iche’",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant][+vowel]ʔ[+vowel][+consonant]"
+            ],
+            "af": [
+              "[+consonant][+vowel]ʔ[+consonant]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "tʃ(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Mamean",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant][+vowel]ʔ[+vowel][+consonant]"
+            ],
+            "af": [
+              "[+consonant][+vowel]ʔ[+consonant]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "{t,j}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ"
+            ],
+            "af": [
+              "ʈʂ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "t(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "ts(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r",
+              "t",
+              "tʃ",
+              "ʃ"
+            ],
+            "af": [
+              "t",
+              "tʃ",
+              "ʈʂ",
+              "ʂ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Q’anjob’alan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "q(ʼ)"
+            ],
+            "af": [
+              "k(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Tzeltalan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "q(ʼ)"
+            ],
+            "af": [
+              "k(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "aː",
+              "eː",
+              "oː"
+            ],
+            "af": [
+              "ɨ",
+              "i",
+              "u"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mayan",
+        "to": "Yucatecan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2013), “Proto-Mayan language”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "q(ʼ)"
+            ],
+            "af": [
+              "k(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "aː"
+            ],
+            "af": [
+              "ɨ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʲ(ʼ)"
+            ],
+            "af": [
+              "tʃ(ʼ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“[V]owel length and [h] and [ʔ]” have converted into a tone distinction ",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

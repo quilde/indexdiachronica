@@ -1,481 +1,25 @@
 {
   "fa": "TODO",
-  "ch": [
+  "cs": [
     {
-      "fr": "Proto-Vietic",
-      "to": "Muong Khen",
+      "fr": "Proto-Pai",
+      "to": "Chapai",
       "or": "Pogostick Man",
-      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "os": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
       "so": [
         "s0"
       ],
       "no": [],
       "ch": [
         {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "TonogenesisReg \tA \tB \tC \td",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "1. “Constricted” (laryngealized?)2. Terminates in a glottal stop if no final stop",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Presyllables don’t seem to have affected Muong much.",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
           "be": [
-            "s"
+            "tʃ"
           ],
           "af": [
-            "h"
+            "ʃ"
           ],
-          "en": "",
+          "en": "_{w,i}",
           "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "cʰ"
-          ],
-          "af": [
-            "s"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "tʰ"
-          ],
-          "af": [
-            "h"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "([-sonorant]nly"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{kʰ,ɡʱ}"
-          ],
-          "af": [
-            "x"
-          ],
-          "en": "",
-          "no": [
-            "much)",
-            "this",
-            "affected",
-            "have",
-            "to",
-            "seem",
-            "don’t",
-            "([+labial,bilabial]resyllables"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "m",
-            "n"
-          ],
-          "af": [
-            "b",
-            "d"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "([-sonorant]nly"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{pj,bj}",
-            "{tj,dj}",
-            "{cj,ɟj}"
-          ],
-          "af": [
-            "b",
-            "d",
-            "j"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ɓ",
-            "ɗ"
-          ],
-          "af": [
-            "b",
-            "d"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "([-sonorant]nly"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{n̥j,nj,ɲ̊j,ɲj}"
-          ],
-          "af": [
-            "ɲ"
-          ],
-          "en": "",
-          "no": [
-            "j"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "[+nasal -voiced]",
-            "[+semivowel -voiced]"
-          ],
-          "af": [
-            "[+nasal +voiced]",
-            "[+semivowel +voiced]"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "(h)ə{p,b}"
-          ],
-          "af": [
-            "t"
-          ],
-          "en": "_l",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "m"
-          ],
-          "af": [
-            "∅"
-          ],
-          "en": "_l",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "tɹ"
-          ],
-          "af": [
-            "tʰ"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Miscellanea:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "w"
-          ],
-          "af": [
-            "∅"
-          ],
-          "en": "tʰ[+vowel]_k (conjectured)",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        }
-      ]
-    },
-    {
-      "fr": "Proto-Vietic",
-      "to": "Middle Vietnamese",
-      "or": "Pogostick Man",
-      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "so": [
-        "0"
-      ],
-      "no": [],
-      "ch": [
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Initials:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "bʱ",
-            "{tʰ,dʱ}",
-            "{t*ʰ,d*ʱ}",
-            "{kʰ,ɡʱ}"
-          ],
-          "af": [
-            "pʰ",
-            "t",
-            "tʰ",
-            "kʰ"
-          ],
-          "en": "",
-          "no": [
-            "occur)",
-            "may",
-            "tones",
-            "first-register",
-            "only",
-            "*ɡʱ,",
-            "*kʰ",
-            "(after"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "(h)ə{p,b}",
-            "(h)ə{t,d}",
-            "(h)ə{c,ɟ}",
-            "(h)ə{k,ɡ}"
-          ],
-          "af": [
-            "β",
-            "dʲ",
-            "ɟ",
-            "ɡ"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{pj,bj}",
-            "{tj,dj}",
-            "{cj,ɟj}"
-          ],
-          "af": [
-            "{β,w}",
-            "dʲ",
-            "ɟ"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ɓ",
-            "ɗ"
-          ],
-          "af": [
-            "m",
-            "n"
-          ],
-          "en": "",
-          "no": [
-            "environment)",
-            "this",
-            "in",
-            "occur",
-            "can",
-            "tones",
-            "first-register",
-            "only",
-            "that",
-            "seems",
-            "it",
-            "reason",
-            "some",
-            "([+fricative]or"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{n̥j,nj,ɲ̊j,ɲj}"
-          ],
-          "af": [
-            "ɲ"
-          ],
-          "en": "",
-          "no": [
-            "nasal)",
-            "palatal",
-            "a",
-            "as",
-            "one",
-            "this",
-            "sticking",
-            "I’m",
-            "paper",
-            "the",
-            "in",
-            "evidence",
-            "other",
-            "on",
-            "based",
-            "one;",
-            "last",
-            "the",
-            "on",
-            "bit",
-            "a",
-            "hedged",
-            "have",
-            "to",
-            "me",
-            "to",
-            "appears",
-            "([+plosive -voice]hompson"
-          ],
           "ta": [
             "generated",
             "unchecked"
@@ -487,80 +31,9 @@
             "tʃ"
           ],
           "af": [
-            "Ω"
-          ],
-          "en": "",
-          "no": [
-            "dialects)",
-            "different",
-            "in",
-            "else",
-            "something",
-            "became",
-            "was;",
-            "form",
-            "intermediate",
-            "the",
-            "what",
-            "clue",
-            "a",
-            "have",
-            "don’t",
-            "I",
-            "notation.",
-            "own",
-            "my",
-            "is",
-            "([+plosive -voice]his"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "[+nasal -voiced]",
-            "[+semivowel -voiced]"
-          ],
-          "af": [
-            "[+nasal +voiced]",
-            "[+semivowel +voiced]"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "((h)ə)p",
-            "d"
-          ],
-          "af": [
-            "b",
-            "t"
-          ],
-          "en": "_l",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "t"
-          ],
-          "af": [
             "∅"
           ],
-          "en": "_ɹ (only first-register tones can occur in this environment)",
+          "en": "_xʷ",
           "no": [],
           "ta": [
             "generated",
@@ -570,16 +43,72 @@
         },
         {
           "be": [
-            "t*ʰ",
-            "d",
-            "ɡ"
+            "tʃ"
           ],
           "af": [
-            "tʰ",
-            "t",
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "! n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
             "k"
           ],
-          "en": "_w",
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "",
           "no": [],
           "ta": [
             "generated",
@@ -592,7 +121,7 @@
             "s"
           ],
           "af": [
-            "t(ʰ?)"
+            "ʂ"
           ],
           "en": "",
           "no": [],
@@ -604,54 +133,12 @@
         },
         {
           "be": [
-            "{əkʰ,əɡɦj}"
-          ],
-          "af": [
-            "ɟ"
-          ],
-          "en": "",
-          "no": [
-            "kludge)",
-            "a",
-            "of",
-            "bit",
-            "a",
-            "just",
-            "was",
-            "this",
-            "implied",
-            "[+plosive -voice]hompson",
-            "think",
-            "(I"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Finals:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "l"
+            "ʔ"
           ],
           "af": [
             "∅"
           ],
-          "en": "{i,e}_",
+          "en": "_{ɲ,j}",
           "no": [],
           "ta": [
             "generated",
@@ -661,12 +148,12 @@
         },
         {
           "be": [
-            "l"
+            "{w,j}"
           ],
           "af": [
-            "j"
+            "∅"
           ],
-          "en": "else",
+          "en": "a_",
           "no": [],
           "ta": [
             "generated",
@@ -676,15 +163,15 @@
         },
         {
           "be": [
-            "c",
-            "ɲ"
+            "[+vowel]ː"
           ],
           "af": [
-            "t",
-            "n"
+            "[+vowel]"
           ],
-          "en": "! [+vowel +front]_ (apparently the precursor to [+vowel]ietnamese short *a was treated as a short vowel here)",
-          "no": [],
+          "en": "",
+          "no": [
+            "?"
+          ],
           "ta": [
             "generated",
             "unchecked"
@@ -696,38 +183,7 @@
           "af": [],
           "en": "",
           "no": [
-            "Thompson seems to list some changes as affecting Modern Vietnamese but I was unsure of where to put them so they’ll go here:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "a",
-            "ɔ"
-          ],
-          "af": [
-            "ɨə",
-            "uə"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "In the original those first vowels were underlined.",
+            "Stress lost?",
             ""
           ],
           "ta": [
@@ -739,63 +195,21 @@
       ]
     },
     {
-      "fr": "Middle Vietnamese",
-      "to": "Hanoi Vietnamese",
+      "fr": "Proto-Pai",
+      "to": "Paipai",
       "or": "Pogostick Man",
-      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "os": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
       "so": [
         "0"
       ],
       "no": [],
       "ch": [
         {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "TonogenesisReg \tA \tB/D \tC",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "1. Tense when _S#; laryngealized elsewhere2. Laryngealized",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Initials:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
           "be": [
-            "pʰ"
+            "b"
           ],
           "af": [
-            "f"
+            "β"
           ],
           "en": "",
           "no": [],
@@ -807,274 +221,12 @@
         },
         {
           "be": [
-            "kʰ"
+            "xʷ"
           ],
           "af": [
-            "x"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "(only"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{β,w}",
-            "{dʲ,ɟ}"
-          ],
-          "af": [
-            "v",
-            "z"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ɹ"
-          ],
-          "af": [
-            "z"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "(only"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "bl"
-          ],
-          "af": [
-            "z"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ml",
-            "→",
-            "mɲ"
-          ],
-          "af": [
-            "ɲ",
-            "([+plosive -voice]hompson",
-            "seems"
-          ],
-          "en": "",
-          "no": [
-            "tones)",
-            "second-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "only",
-            "well;",
-            "as",
-            "[l]",
-            "become",
-            "have",
-            "may",
-            "this",
-            "that",
-            "indicate",
-            "to"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "Ω",
-            "cʰ"
-          ],
-          "af": [
-            "s",
-            "tɕ"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Vowels:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ɨ"
-          ],
-          "af": [
-            "i"
-          ],
-          "en": "_(ə)w",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ɛ"
-          ],
-          "af": [
-            "a"
-          ],
-          "en": "_[+consonant +palatal]",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Miscellanea:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
             "w"
           ],
-          "af": [
-            "∅"
-          ],
-          "en": "t[+vowel]_wk (conjectured)",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        }
-      ]
-    },
-    {
-      "fr": "Middle Vietnamese",
-      "to": "Saigon Vietnamese",
-      "or": "Pogostick Man",
-      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "so": [
-        "0"
-      ],
-      "no": [],
-      "ch": [
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "TonogenesisReg \tA \tB/D \tC",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "1. Level when _S#; dipping otherwise2. Laryngealized",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Initials:",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "pʰ"
-          ],
-          "af": [
-            "f"
-          ],
-          "en": "",
+          "en": "tʃ_",
           "no": [],
           "ta": [
             "generated",
@@ -1084,36 +236,14 @@
         },
         {
           "be": [
-            "kʰ"
+            "kʷ",
+            "xʷ"
           ],
           "af": [
+            "k",
             "x"
           ],
-          "en": "",
-          "no": [
-            "tones)",
-            "first-register",
-            "with",
-            "occurred",
-            "have",
-            "to",
-            "seems",
-            "(only"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "{β,w}"
-          ],
-          "af": [
-            "bj~vj~v"
-          ],
-          "en": "",
+          "en": "_#",
           "no": [],
           "ta": [
             "generated",
@@ -1123,61 +253,12 @@
         },
         {
           "be": [
-            "{bl,tl}"
-          ],
-          "af": [
-            "ʈ"
-          ],
-          "en": "",
-          "no": [
-            "(?)"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "dʲ",
-            "ɟ"
-          ],
-          "af": [
-            "z",
-            "j"
-          ],
-          "en": "",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "m"
-          ],
-          "af": [
-            "∅"
-          ],
-          "en": "_l",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "Ω",
-            "cʰ"
+            "ʃ",
+            "ɬ"
           ],
           "af": [
             "ʂ",
-            "ʈʂ"
+            "l"
           ],
           "en": "",
           "no": [],
@@ -1189,29 +270,13 @@
         },
         {
           "be": [
-            "ɹ"
+            "i"
           ],
           "af": [
-            "ʐ"
+            "ə"
           ],
-          "en": "",
-          "no": [
-            "(sometimes?)"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
-          "en": "",
-          "no": [
-            "Finals:",
-            ""
-          ],
+          "en": "unstressed",
+          "no": [],
           "ta": [
             "generated",
             "unchecked"
@@ -1220,37 +285,12 @@
         },
         {
           "be": [
-            "c",
-            "ɲ",
-            "t",
             "n"
           ],
           "af": [
-            "t",
-            "n",
-            "k",
-            "ŋ"
+            "∅"
           ],
-          "en": "a_ (short ",
-          "no": [
-            "/a/ only)"
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "c",
-            "ɲ"
-          ],
-          "af": [
-            "t",
-            "n"
-          ],
-          "en": "{i,e}_",
+          "en": "_t",
           "no": [],
           "ta": [
             "generated",
@@ -1260,12 +300,12 @@
         },
         {
           "be": [
-            "{c,ɲ}"
+            "ʔ"
           ],
           "af": [
             "∅"
           ],
-          "en": "else",
+          "en": "_ɲ",
           "no": [],
           "ta": [
             "generated",
@@ -1274,27 +314,44 @@
           "ty": []
         },
         {
-          "be": [],
-          "af": [],
+          "be": [
+            "aw",
+            "aj"
+          ],
+          "af": [
+            "o",
+            "e"
+          ],
           "en": "",
-          "no": [
-            "Vowels:",
-            ""
-          ],
+          "no": [],
           "ta": [
             "generated",
             "unchecked"
           ],
           "ty": []
-        },
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Pai",
+      "to": "Tipai",
+      "or": "Pogostick Man",
+      "os": " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
         {
           "be": [
-            "ə"
+            "kʷ",
+            "xʷ"
           ],
           "af": [
-            "∅"
+            "q",
+            "χ"
           ],
-          "en": "{i,ɨ}_{p,m.w}",
+          "en": "_# (the paper calls these “back velarsˈ)",
           "no": [],
           "ta": [
             "generated",
@@ -1304,56 +361,12 @@
         },
         {
           "be": [
-            "ə"
+            "b"
           ],
           "af": [
-            "∅"
+            "p"
           ],
-          "en": "ɨ_j",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "ə"
-          ],
-          "af": [
-            "∅"
-          ],
-          "en": "u_{m,j}",
-          "no": [],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [],
-          "af": [],
           "en": "",
-          "no": [
-            "The contrast between short /a/ and short /ə/ is neutralized when _w{k,ŋ}",
-            ""
-          ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "a"
-          ],
-          "af": [
-            "aː"
-          ],
-          "en": "_{w,j}",
           "no": [],
           "ta": [
             "generated",
@@ -1363,12 +376,25 @@
         },
         {
           "be": [
-            "ə(ː)",
-            "ɛ"
+            "i"
           ],
           "af": [
-            "ɨ",
-            "ɛə"
+            "ə"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "o"
           ],
           "en": "_[+velar]",
           "no": [],
@@ -1380,13 +406,63 @@
         },
         {
           "be": [
-            "ɛ"
+            "t"
           ],
           "af": [
-            "a"
+            "∅"
           ],
-          "en": "_[+consonant +palatal]",
+          "en": "n_",
           "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_xʷ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲj"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "ʔ_",
+          "no": [
+            "∅"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]ː"
+          ],
+          "af": [
+            "[+vowel]"
+          ],
+          "en": "",
+          "no": [
+            "conditioned?)",
+            "(sporadic?"
+          ],
           "ta": [
             "generated",
             "unchecked"
@@ -1398,24 +474,9 @@
           "af": [],
           "en": "",
           "no": [
-            "Miscellanea:",
+            "Contrastive stress lost? ",
             ""
           ],
-          "ta": [
-            "generated",
-            "unchecked"
-          ],
-          "ty": []
-        },
-        {
-          "be": [
-            "w"
-          ],
-          "af": [
-            "∅"
-          ],
-          "en": "t[+vowel]_wk (conjectured) ",
-          "no": [],
           "ta": [
             "generated",
             "unchecked"

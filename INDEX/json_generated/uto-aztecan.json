@@ -1,0 +1,1202 @@
+{
+    "fa": "Uto-Aztecan",
+    "cs": [
+      {
+        "fr": "Proto-Uto-Aztecan",
+        "to": "Comanche",
+        "or": "Radius Solis",
+        "os": " from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p",
+              "t",
+              "ts",
+              "s"
+            ],
+            "af": [
+              "v",
+              "r",
+              "∅",
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "[+vowel]u_k",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel]n_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ŋ,l}"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{w,j}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "medial",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Uto-Aztecan",
+        "to": "Hopi",
+        "or": "Radius Solis",
+        "os": " from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "v"
+            ],
+            "en": "[+vowel]n_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "q"
+            ],
+            "en": "_[+vowel +low]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "h_ ! _#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l",
+              "h"
+            ],
+            "af": [
+              "n",
+              "∅"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "l"
+            ],
+            "en": "{#,[+vowel +low]}_[+vowel +low]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "ŋʷ"
+            ],
+            "en": "ɨn_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "ø"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Uto-Aztecan",
+        "to": "Luiseño",
+        "or": "Radius Solis",
+        "os": " from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "v"
+            ],
+            "en": "{[+vowel]n,ɨ}_ (the latter “sometimesˈ)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "v"
+            ],
+            "en": "“other conditions not knownˈ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "l"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "q"
+            ],
+            "en": "#_[+vowel +low]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "q"
+            ],
+            "en": "an_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "“[I]solated",
+              "other",
+              "instances",
+              "of",
+              "k"
+            ],
+            "af": [
+              "q",
+              "occur",
+              "with",
+              "uncertain",
+              "conditionsˈ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "a_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o",
+              "ɨ"
+            ],
+            "af": [
+              "e",
+              "o"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "“in some final syllables (conditions are unknown and it varies by dialect)ˈ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Uto-Aztecan",
+        "to": "Nahuatl",
+        "or": "Radius Solis",
+        "os": " from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "tɬ"
+            ],
+            "en": "_{a,u}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "{#,[+vowel]s}_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s",
+              "ts"
+            ],
+            "af": [
+              "ʃ",
+              "tʃ"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ʔ,h}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "m"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_o",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ",
+              "u"
+            ],
+            "af": [
+              "e",
+              "{i,e}"
+            ],
+            "en": "u",
+            "no": [
+              "/ affected, but conditions for when it became /i/ or /e/ are not known)”",
+              "*",
+              "“(all"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“(What happened to PUA */r/ is not known. Nahuatl has no cognates that would have a reflex.)”43.5 Numic",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mono-Kawaiisu",
+        "to": "Kawaiisu",
+        "or": "Pogostick Man",
+        "os": " from Klein, Sheldon (1959), “Comparative Mono-Kawaiisu”. International Journal of American Linguistics 25(4):233 – 238",
+        "so": [
+          "s1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "Possible development of vowel harmony",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "hkʷ",
+              "hʔ",
+              "(h)[+plosive]",
+              "[+plosive]ː"
+            ],
+            "af": [
+              "w",
+              "ʔ",
+              "[+plosive +voiced]",
+              "[+plosive -voiced"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [
+              "-long]"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "z"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "hts"
+            ],
+            "af": [
+              "z"
+            ],
+            "en": "[+vowel]_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel]_ts[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_{n,s,ʔ}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "m_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "*nː became “an apical nasal with devoiced release”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "jː"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "[+labial,bilabial]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u[+vowel]",
+              "[+vowel]ː"
+            ],
+            "af": [
+              "uː",
+              "[+vowel]ː"
+            ],
+            "en": "",
+            "no": [
+              "change)",
+              "previous",
+              "the",
+              "after",
+              "or",
+              "before",
+              "occurs",
+              "this",
+              "if",
+              "sure",
+              "(not"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel]_w[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Mono-Kawaiisu",
+        "to": "Mono",
+        "or": "Pogostick Man",
+        "os": " from Klein, Sheldon (1959), “Comparative Mono-Kawaiisu”. International Journal of American Linguistics 25(4):233 – 238",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "(h)k"
+            ],
+            "af": [
+              "(h)q"
+            ],
+            "en": "_{o,a} ! ɨ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kw"
+            ],
+            "af": [
+              "q"
+            ],
+            "en": "_a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "(h)kʷ"
+            ],
+            "af": [
+              "hq(ʷ)"
+            ],
+            "en": "_{o,a}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "m"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "_p",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "nː"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "_h",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u[+vowel]"
+            ],
+            "af": [
+              "u(i)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Uto-Aztecan",
+        "to": "Tohono O’odham",
+        "or": "Radius Solis",
+        "os": " from from Voegelin, Charles F., Florence M. Voegelin, & Kenneth L. Hale (1962), “Typological and Comparative Grammar of Uto-Aztecan: I (Phonology)”. International Journal of American Linguistics 28: Memoir 17",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "{#,[+vowel]s}_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "_[+vowel +high]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʷ"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s",
+              "ŋ"
+            ],
+            "af": [
+              "h",
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "n"
+            ],
+            "af": [
+              "ɲ"
+            ],
+            "en": "_[+vowel +high]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "ɲ"
+            ],
+            "en": "#_ “(in doubt",
+            "no": [
+              " initial *l occurs in too few cognates to be sure. Apparently PUA initial *l was rare and is of questionable certainty whether it existed at all.)”"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "ɭ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɭ"
+            ],
+            "af": [
+              "ɖ"
+            ],
+            "en": "_a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "j"
+            ],
+            "af": [
+              "dʒ"
+            ],
+            "en": "_[+vowel +high]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "j"
+            ],
+            "af": [
+              "d"
+            ],
+            "en": "_[+vowel +low]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "“when in the first syllable of a bisyllabic morpheme, if after a morpheme boundary in the word (all other first-syllable vowels have non-zero reflexes)ˈ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "ts_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "{p,m,k(ʷ),w}_# “in all dialects, and varies by dialect after other consonantsˈ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“What happened to PUA */r/ in O’odham is difficult to say. There are only two known cognates, each showing a different reflex: /ɭ/ and /ɖ/” ",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

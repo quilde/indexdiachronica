@@ -1,0 +1,656 @@
+{
+    "fa": "Macro-Pama-Nyungan",
+    "cs": [
+      {
+        "fr": "Proto-Paman",
+        "to": "AritinÅitiÉ£",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]j"
+            ],
+            "en": "#_ ! _i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]w"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]a"
+            ],
+            "en": "#_ (! _a?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "i"
+            ],
+            "af": [
+              "w",
+              "j"
+            ],
+            "en": "a_ when this a is a result of metathesis (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "AwÅtim",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "i[+consonant]",
+              "a[+consonant]",
+              "u[+consonant]"
+            ],
+            "af": [
+              "[+consonant]j",
+              "[+consonant]a",
+              "[+consonant]w"
+            ],
+            "en": "#_ ! before an identical vowel",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "i"
+            ],
+            "af": [
+              "w",
+              "j"
+            ],
+            "en": "a_ when this a is a result of the preceding metathesis",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "([+nasal])[+plosive]"
+            ],
+            "af": [
+              "[+fricative]"
+            ],
+            "en": "#([+consonant])[+vowel]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "#([+consonant])iː([+consonant])_[+vowel] ! _i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "#([+consonant])uː([+consonant])_[+vowel] ! _u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "#([+consonant])aː([+consonant])_[+vowel] ! _a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "ə"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "LinÅitiÉ£",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "([+nasal])[+plosive]"
+            ],
+            "af": [
+              "[+fricative]"
+            ],
+            "en": "#([+consonant])[+vowel]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#[+nasal][+vowel]_[+plosive][+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː",
+              "[+vowel -long]"
+            ],
+            "af": [
+              "[+vowel -long]",
+              "∅"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "Mbiywom",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]j"
+            ],
+            "en": "#_ ! _i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]w"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a[-long][+consonant]"
+            ],
+            "af": [
+              "[+consonant]a"
+            ],
+            "en": "#_ (! _a?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "i"
+            ],
+            "af": [
+              "w",
+              "j"
+            ],
+            "en": "a_ when this a is a result of metathesis (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "Mpalican",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal][+vowel][+plosive]"
+            ],
+            "af": [
+              "[+vowel]ⁿ[+plosive]"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "UraÃ°i",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "([+nasal])[+plosive]"
+            ],
+            "af": [
+              "[+fricative]"
+            ],
+            "en": "#([+consonant])[+vowel]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "in #[+syllable]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Paman",
+        "to": "Yinwum",
+        "or": "Pogostick Man",
+        "os": " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "#[+consonant +palatal][+vowel -long][+consonant]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "e"
+            ],
+            "en": "#([+consonant])a[+consonant -palatal]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "#ˈ[+syllable][+syllable]"
+            ],
+            "af": [
+              "#[+syllable]ˈ[+syllable]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal][+vowel][+plosive]"
+            ],
+            "af": [
+              "[+vowel]ⁿ[+plosive]"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "#iː([+consonant])_a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "#uː([+consonant])_a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]ː"
+            ],
+            "af": [
+              "[+vowel -long]"
+            ],
+            "en": "in #[+syllable] ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,1741 @@
+{
+    "fa": "Khoisan",
+    "cs": [
+      {
+        "fr": "Proto-Khoe",
+        "to": "Ç̬Ana",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!"
+            ],
+            "af": [
+              "!~k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!x"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!̬"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!̃(n)"
+            ],
+            "af": [
+              "ŋ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "{ts~tsʰ,ts,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "ÇAni",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!̬",
+              "!̃"
+            ],
+            "af": [
+              "!~k",
+              "!̬~ɡ",
+              "!̃(n)~ŋɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!x"
+            ],
+            "af": [
+              "!x~x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "{ts,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j~ʔ"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "h~ʔ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Buga",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!ˀ",
+              "!̬",
+              "!̃"
+            ],
+            "af": [
+              "k",
+              "∅",
+              "ɡ",
+              "ŋɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!x"
+            ],
+            "af": [
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!̃n"
+            ],
+            "af": [
+              "ŋɡj~!̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "{ts~tsʰ,ts,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Kxoe",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "!̃(n)"
+            ],
+            "af": [
+              "ǂ̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!ˀ",
+              "!",
+              "!̃"
+            ],
+            "af": [
+              "k",
+              "∅",
+              "ɡ",
+              "ŋɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!x",
+              "!̃n"
+            ],
+            "af": [
+              "x",
+              "ŋɡj~!̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts",
+              "dz"
+            ],
+            "af": [
+              "{ç,tç}",
+              "dʒ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʰ"
+            ],
+            "af": [
+              "kx"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Nama",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ǀˀ,ǀxʼ}"
+            ],
+            "af": [
+              "ǀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "{ǂ̃,ǂ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!ˀ",
+              "!̃n"
+            ],
+            "af": [
+              "!ɡ",
+              "~",
+              "!̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǂ",
+              "{ǂ̃n,ǂˀ,ǂxʼ}"
+            ],
+            "af": [
+              "ǂɡ",
+              "ǂ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ǁˀ,ǁxʼ}"
+            ],
+            "af": [
+              "ǁ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts",
+              "dz",
+              "kxʼ"
+            ],
+            "af": [
+              "{ts,s}",
+              "d",
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Naro",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts",
+              "dz"
+            ],
+            "af": [
+              "{ts~tsʰ,ts,s}",
+              "dz~ts"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʰ"
+            ],
+            "af": [
+              "{kx,k}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "!Ora",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!̃n"
+            ],
+            "af": [
+              "!",
+              "!̃"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǂ̃n"
+            ],
+            "af": [
+              "ǂ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǁˀ"
+            ],
+            "af": [
+              "{ǁˀ,ǁ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "{ts,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Teti",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!ˀ",
+              "!̬",
+              "!̃(n)",
+              "!x"
+            ],
+            "af": [
+              "k",
+              "∅",
+              "ɡ",
+              "ŋ",
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǂ",
+              "ǂ̃n",
+              "ǂˀ"
+            ],
+            "af": [
+              "c",
+              "ɲ",
+              "ʔj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǁˀ",
+              "ǁxʼ"
+            ],
+            "af": [
+              "{ǁˀ,∅}",
+              "ǁˀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts",
+              "dz",
+              "kxʼ"
+            ],
+            "af": [
+              "{ts~tsʰ,ts,s}",
+              "z",
+              "kʼ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j~ʔj"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "h~ʔj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "TsÊixa",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)",
+              "ǀxʼ"
+            ],
+            "af": [
+              "j",
+              "ǀˀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!",
+              "!ˀ",
+              "!̬",
+              "!̃(n)",
+              "!x"
+            ],
+            "af": [
+              "k",
+              "∅",
+              "ɡ",
+              "ŋɡ",
+              "x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǂ̃n",
+              "ǂxʼ"
+            ],
+            "af": [
+              "ɲ",
+              "ǂˀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǁxʼ"
+            ],
+            "af": [
+              "ǁˀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts",
+              "dz",
+              "kxʼ"
+            ],
+            "af": [
+              "{ts~tsʰ,ts,s}",
+              "z",
+              "kʼ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j~ʔj"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "h~j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Khoe",
+        "to": "Ç̬Ui",
+        "or": "Pogostick Man",
+        "os": " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35.",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ǀ̃(n)"
+            ],
+            "af": [
+              "ǂ̃n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!̃",
+              "!x"
+            ],
+            "af": [
+              "!̃(n)",
+              "!x~x"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "{ts~tsɦ,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "h"
+            ],
+            "af": [
+              "ɦ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kx’a",
+        "to": "ÇHoan",
+        "or": "Pogostick Man",
+        "os": " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”",
+        "so": [
+          "s1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“Something about word-initial glottal stops”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "o_m",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_e (sporadic)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "u_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "o_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "iaɔ"
+            ],
+            "af": [
+              "iu"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "a([+consonant])_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]n",
+              "ŋ"
+            ],
+            "af": [
+              "[+vowel +nas]",
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t",
+              "d",
+              "s"
+            ],
+            "af": [
+              "{c,tʃ}",
+              "ɟ",
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!!"
+            ],
+            "af": [
+              "ǁ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ⁿ[+click]ʰ",
+              "[+click]͡ɢ"
+            ],
+            "af": [
+              "[+click]ʰ",
+              "[+click]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kx’a",
+        "to": "Northwestern !Xun",
+        "or": "Pogostick Man",
+        "os": " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_m",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ui"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "",
+            "no": [
+              "(?)"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_e (sporadic)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_o",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_[+consonant]a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_([+consonant])o",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʕ"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_m",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "n"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts(ʼ)",
+              "s"
+            ],
+            "af": [
+              "tʃ(ʼ)",
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!!",
+              "ʘ"
+            ],
+            "af": [
+              "ǁ",
+              "ǀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ǂ"
+            ],
+            "af": [
+              "!!"
+            ],
+            "en": "",
+            "no": [
+              "(dialectal)"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kx’a",
+        "to": "Southeastern !Xun",
+        "or": "Pogostick Man",
+        "os": " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_m",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ui"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "",
+            "no": [
+              "(?)"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛ",
+              "ɔ"
+            ],
+            "af": [
+              "i",
+              "u"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_o",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_[+consonant]a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_([+consonant])o",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʕm"
+            ],
+            "af": [
+              "{b,ɓ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "n"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts(ʼ)",
+              "s"
+            ],
+            "af": [
+              "tʃ(ʼ)",
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "!!",
+              "ʘ"
+            ],
+            "af": [
+              "ǁ",
+              "ǀ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_n[+click]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ⁿ[+click]ʰ",
+              "{ǀʰ͜q,ǀʰ͜ɢ}",
+              "[+click]͡q"
+            ],
+            "af": [
+              "ⁿ[+click](ʰ)",
+              "ⁿǀʰ",
+              "[+click +voiced]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

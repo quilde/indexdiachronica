@@ -1,0 +1,530 @@
+{
+    "fa": "Macro-Panoan",
+    "cs": [
+      {
+        "fr": "Proto-Tacanan",
+        "to": "Cavineña",
+        "or": "Pogostick Man",
+        "os": " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɕ,tɕ}"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "x"
+            ],
+            "af": [
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "*ŕ"
+            ],
+            "af": [
+              "r"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tacanan",
+        "to": "Chama",
+        "or": "Pogostick Man",
+        "os": " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "b",
+              "d"
+            ],
+            "af": [
+              "ɓ",
+              "ɗ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "{ʔ,∅}"
+            ],
+            "en": "! #_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t",
+              "k"
+            ],
+            "af": [
+              "k",
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tɕ"
+            ],
+            "af": [
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s",
+              "ɕ"
+            ],
+            "af": [
+              "ð",
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "n"
+            ],
+            "af": [
+              "ɲ"
+            ],
+            "en": "i_{o,a} (the former is conjectured)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{r,*ŕ}"
+            ],
+            "af": [
+              "{∅,w,j}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tacanan",
+        "to": "Reyesano",
+        "or": "Pogostick Man",
+        "os": " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "b",
+              "d"
+            ],
+            "af": [
+              "ᵐb",
+              "ⁿdz"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ",
+              "ɕ"
+            ],
+            "af": [
+              "ts",
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɕ",
+              "x"
+            ],
+            "af": [
+              "ð",
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "β"
+            ],
+            "en": "_[+vowel +front] ?",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "*ŕ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "j"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tacanan",
+        "to": "Tacana",
+        "or": "Pogostick Man",
+        "os": " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "_a",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "#_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "∅"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "k_e",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tɕ"
+            ],
+            "af": [
+              "dʑ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ"
+            ],
+            "af": [
+              "ts"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɕ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "x"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "x"
+            ],
+            "af": [
+              "{h,∅}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "β"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "j"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "*ŕ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

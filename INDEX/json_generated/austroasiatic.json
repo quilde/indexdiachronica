@@ -1,97 +1,97 @@
 {
-  "family": "Austroasiatic",
-  "change_sets": [
+  "fa": "Austroasiatic",
+  "cs": [
     {
-      "from": "Proto-Vietic",
+      "fr": "Proto-Vietic",
       "to": "Muong Khen",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
         "s0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "TonogenesisReg \tA \tB \tC \td",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "1. “Constricted” (laryngealized?)2. Terminates in a glottal stop if no final stop",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Presyllables don’t seem to have affected Muong much.",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "cʰ"
           ],
-          "after": [
+          "af": [
             "s"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʰ"
           ],
-          "after": [
+          "af": [
             "h"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -101,21 +101,21 @@
             "seems",
             "([-sonorant]nly"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{kʰ,ɡʱ}"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "much)",
             "this",
             "affected",
@@ -125,23 +125,23 @@
             "don’t",
             "([+labial,bilabial]resyllables"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m",
             "n"
           ],
-          "after": [
+          "af": [
             "b",
             "d"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -151,42 +151,42 @@
             "seems",
             "([-sonorant]nly"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{pj,bj}",
             "{tj,dj}",
             "{cj,ɟj}"
           ],
-          "after": [
+          "af": [
             "b",
             "d",
             "j"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɓ",
             "ɗ"
           ],
-          "after": [
+          "af": [
             "b",
             "d"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -196,161 +196,161 @@
             "seems",
             "([-sonorant]nly"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n̥j,nj,ɲ̊j,ɲj}"
           ],
-          "after": [
+          "af": [
             "ɲ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "j"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal -voiced]",
             "[+semivowel -voiced]"
           ],
-          "after": [
+          "af": [
             "[+nasal +voiced]",
             "[+semivowel +voiced]"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(h)ə{p,b}"
           ],
-          "after": [
+          "af": [
             "t"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tɹ"
           ],
-          "after": [
+          "af": [
             "tʰ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Miscellanea:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "tʰ[+vowel]_k (conjectured)",
-          "notes": [],
-          "tags": [
+          "en": "tʰ[+vowel]_k (conjectured)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Proto-Vietic",
+      "fr": "Proto-Vietic",
       "to": "Middle Vietnamese",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
         "0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Initials:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "bʱ",
             "{tʰ,dʱ}",
             "{t*ʰ,d*ʱ}",
             "{kʰ,ɡʱ}"
           ],
-          "after": [
+          "af": [
             "pʰ",
             "t",
             "tʰ",
             "kʰ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "occur)",
             "may",
             "tones",
@@ -360,63 +360,63 @@
             "*kʰ",
             "(after"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "(h)ə{p,b}",
             "(h)ə{t,d}",
             "(h)ə{c,ɟ}",
             "(h)ə{k,ɡ}"
           ],
-          "after": [
+          "af": [
             "β",
             "dʲ",
             "ɟ",
             "ɡ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{pj,bj}",
             "{tj,dj}",
             "{cj,ɟj}"
           ],
-          "after": [
+          "af": [
             "{β,w}",
             "dʲ",
             "ɟ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɓ",
             "ɗ"
           ],
-          "after": [
+          "af": [
             "m",
             "n"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "environment)",
             "this",
             "in",
@@ -432,21 +432,21 @@
             "some",
             "([+fricative]or"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{n̥j,nj,ɲ̊j,ɲj}"
           ],
-          "after": [
+          "af": [
             "ɲ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "nasal)",
             "palatal",
             "a",
@@ -476,21 +476,21 @@
             "appears",
             "([+plosive -voice]hompson"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "tʃ"
           ],
-          "after": [
+          "af": [
             "Ω"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "dialects)",
             "different",
             "in",
@@ -513,104 +513,104 @@
             "is",
             "([+plosive -voice]his"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "[+nasal -voiced]",
             "[+semivowel -voiced]"
           ],
-          "after": [
+          "af": [
             "[+nasal +voiced]",
             "[+semivowel +voiced]"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "((h)ə)p",
             "d"
           ],
-          "after": [
+          "af": [
             "b",
             "t"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "t"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_ɹ (only first-register tones can occur in this environment)",
-          "notes": [],
-          "tags": [
+          "en": "_ɹ (only first-register tones can occur in this environment)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "t*ʰ",
             "d",
             "ɡ"
           ],
-          "after": [
+          "af": [
             "tʰ",
             "t",
             "k"
           ],
-          "env": "_w",
-          "notes": [],
-          "tags": [
+          "en": "_w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "s"
           ],
-          "after": [
+          "af": [
             "t(ʰ?)"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{əkʰ,əɡɦj}"
           ],
-          "after": [
+          "af": [
             "ɟ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "kludge)",
             "a",
             "of",
@@ -624,196 +624,196 @@
             "think",
             "(I"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Finals:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{i,e}_",
-          "notes": [],
-          "tags": [
+          "en": "{i,e}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "l"
           ],
-          "after": [
+          "af": [
             "j"
           ],
-          "env": "else",
-          "notes": [],
-          "tags": [
+          "en": "else",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "c",
             "ɲ"
           ],
-          "after": [
+          "af": [
             "t",
             "n"
           ],
-          "env": "! [+vowel +front]_ (apparently the precursor to [+vowel]ietnamese short *a was treated as a short vowel here)",
-          "notes": [],
-          "tags": [
+          "en": "! [+vowel +front]_ (apparently the precursor to [+vowel]ietnamese short *a was treated as a short vowel here)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Thompson seems to list some changes as affecting Modern Vietnamese but I was unsure of where to put them so they’ll go here:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a",
             "ɔ"
           ],
-          "after": [
+          "af": [
             "ɨə",
             "uə"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "In the original those first vowels were underlined.",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Middle Vietnamese",
+      "fr": "Middle Vietnamese",
       "to": "Hanoi Vietnamese",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
         "0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "TonogenesisReg \tA \tB/D \tC",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "1. Tense when _S#; laryngealized elsewhere2. Laryngealized",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Initials:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "pʰ"
           ],
-          "after": [
+          "af": [
             "f"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "kʰ"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -823,38 +823,38 @@
             "seems",
             "(only"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{β,w}",
             "{dʲ,ɟ}"
           ],
-          "after": [
+          "af": [
             "v",
             "z"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɹ"
           ],
-          "after": [
+          "af": [
             "z"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -864,40 +864,40 @@
             "seems",
             "(only"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "bl"
           ],
-          "after": [
+          "af": [
             "z"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ml",
             "→",
             "mɲ"
           ],
-          "after": [
+          "af": [
             "ɲ",
             "([+plosive -voice]hompson",
             "seems"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "second-register",
             "with",
@@ -917,180 +917,180 @@
             "indicate",
             "to"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "Ω",
             "cʰ"
           ],
-          "after": [
+          "af": [
             "s",
             "tɕ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Vowels:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɨ"
           ],
-          "after": [
+          "af": [
             "i"
           ],
-          "env": "_(ə)w",
-          "notes": [],
-          "tags": [
+          "en": "_(ə)w",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɛ"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_[+consonant +palatal]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant +palatal]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Miscellanea:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "t[+vowel]_wk (conjectured)",
-          "notes": [],
-          "tags": [
+          "en": "t[+vowel]_wk (conjectured)",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     },
     {
-      "from": "Middle Vietnamese",
+      "fr": "Middle Vietnamese",
       "to": "Saigon Vietnamese",
-      "or_contr": "Pogostick Man",
-      "or_src": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
-      "srces": [
+      "or": "Pogostick Man",
+      "os": " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
         "0"
       ],
-      "notes": [],
-      "changes": [
+      "no": [],
+      "ch": [
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "TonogenesisReg \tA \tB/D \tC",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "1. Level when _S#; dipping otherwise2. Laryngealized",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Initials:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "pʰ"
           ],
-          "after": [
+          "af": [
             "f"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "kʰ"
           ],
-          "after": [
+          "af": [
             "x"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "tones)",
             "first-register",
             "with",
@@ -1100,327 +1100,327 @@
             "seems",
             "(only"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{β,w}"
           ],
-          "after": [
+          "af": [
             "bj~vj~v"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{bl,tl}"
           ],
-          "after": [
+          "af": [
             "ʈ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "(?)"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "dʲ",
             "ɟ"
           ],
-          "after": [
+          "af": [
             "z",
             "j"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "m"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "_l",
-          "notes": [],
-          "tags": [
+          "en": "_l",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "Ω",
             "cʰ"
           ],
-          "after": [
+          "af": [
             "ʂ",
             "ʈʂ"
           ],
-          "env": "",
-          "notes": [],
-          "tags": [
+          "en": "",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɹ"
           ],
-          "after": [
+          "af": [
             "ʐ"
           ],
-          "env": "",
-          "notes": [
+          "en": "",
+          "no": [
             "(sometimes?)"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Finals:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "c",
             "ɲ",
             "t",
             "n"
           ],
-          "after": [
+          "af": [
             "t",
             "n",
             "k",
             "ŋ"
           ],
-          "env": "a_ (short ",
-          "notes": [
+          "en": "a_ (short ",
+          "no": [
             "/a/ only)"
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "c",
             "ɲ"
           ],
-          "after": [
+          "af": [
             "t",
             "n"
           ],
-          "env": "{i,e}_",
-          "notes": [],
-          "tags": [
+          "en": "{i,e}_",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "{c,ɲ}"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "else",
-          "notes": [],
-          "tags": [
+          "en": "else",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Vowels:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "{i,ɨ}_{p,m.w}",
-          "notes": [],
-          "tags": [
+          "en": "{i,ɨ}_{p,m.w}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "ɨ_j",
-          "notes": [],
-          "tags": [
+          "en": "ɨ_j",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "u_{m,j}",
-          "notes": [],
-          "tags": [
+          "en": "u_{m,j}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "The contrast between short /a/ and short /ə/ is neutralized when _w{k,ŋ}",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "a"
           ],
-          "after": [
+          "af": [
             "aː"
           ],
-          "env": "_{w,j}",
-          "notes": [],
-          "tags": [
+          "en": "_{w,j}",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ə(ː)",
             "ɛ"
           ],
-          "after": [
+          "af": [
             "ɨ",
             "ɛə"
           ],
-          "env": "_[+velar]",
-          "notes": [],
-          "tags": [
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "ɛ"
           ],
-          "after": [
+          "af": [
             "a"
           ],
-          "env": "_[+consonant +palatal]",
-          "notes": [],
-          "tags": [
+          "en": "_[+consonant +palatal]",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [],
-          "after": [],
-          "env": "",
-          "notes": [
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
             "Miscellanea:",
             ""
           ],
-          "tags": [
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         },
         {
-          "before": [
+          "be": [
             "w"
           ],
-          "after": [
+          "af": [
             "∅"
           ],
-          "env": "t[+vowel]_wk (conjectured) ",
-          "notes": [],
-          "tags": [
+          "en": "t[+vowel]_wk (conjectured) ",
+          "no": [],
+          "ta": [
             "generated",
             "unchecked"
           ],
-          "name_type": []
+          "ty": []
         }
       ]
     }

@@ -1,0 +1,846 @@
+{
+    "fa": "Macro-Arawakan",
+    "cs": [
+      {
+        "fr": "Proto-Arawá",
+        "to": "Arawá",
+        "or": "Pogostick Man",
+        "os": " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pʰ"
+            ],
+            "af": [
+              "p"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pʰ"
+            ],
+            "af": [
+              "ɸ"
+            ],
+            "en": "else",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dz"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tsʰ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Banawá-Jamamadi",
+        "or": "chris_notts & Pogostick Man",
+        "os": " the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "s1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "ɸ"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p(ʰ)"
+            ],
+            "af": [
+              "ɸ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{tʰ,ɗ}"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʰ",
+              "ɡ"
+            ],
+            "af": [
+              "k",
+              "w"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ts(ʰ),tʃ}",
+              "dz"
+            ],
+            "af": [
+              "s",
+              "ɟ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Hypothetical Arawán Substrate",
+        "or": "Pogostick Man",
+        "os": " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pʰ"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dz"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Jarawara",
+        "or": "chris_notts & Pogostick Man",
+        "os": " the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p(ʰ)",
+              "{tʰ,d}"
+            ],
+            "af": [
+              "ɸ",
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʰ",
+              "ɡ"
+            ],
+            "af": [
+              "k",
+              "w"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dz"
+            ],
+            "af": [
+              "ɟ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ts(ʰ),tʃ}"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Kulína-Dení",
+        "or": "Pogostick Man",
+        "os": " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɓ"
+            ],
+            "af": [
+              "p"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ"
+            ],
+            "af": [
+              "ʃ"
+            ],
+            "en": "",
+            "no": [
+              "(?)"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Sorowahá",
+        "or": "Pogostick Man",
+        "os": " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "ɨ"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "else",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{p(ʰ),ɓ}"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "d"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{tʰ,ɗ"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʰ"
+            ],
+            "af": [
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts(ʰ)"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "#_, possibly everywhere?",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Arawá",
+        "to": "Paumarí",
+        "or": "Pogostick Man",
+        "os": " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "medially",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "{a,i}"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pʰ"
+            ],
+            "af": [
+              "p"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pʰ",
+              "t"
+            ],
+            "af": [
+              "ɸ",
+              "ʔ"
+            ],
+            "en": "medial",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts(ʰ)"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "The following inventory for Proto-Lenmichian is posited by Constenla (2005).\tBilabial \tAlveolar \tVelar \tGlottal",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "(From Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85)",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Lenmichian",
+        "to": "Proto-Chibchan",
+        "or": "Pogostick Man",
+        "os": " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:",
+        "so": [
+          "s2"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "ɾ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

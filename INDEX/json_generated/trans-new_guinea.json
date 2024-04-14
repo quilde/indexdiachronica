@@ -1,0 +1,1779 @@
+{
+    "fa": "Trans-New Guinea",
+    "cs": [
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "ApalÉ¨",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "t",
+              "k",
+              "ŋ"
+            ],
+            "af": [
+              "{l,t}",
+              "{h,k}",
+              "n"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p",
+              "k",
+              "ⁿd"
+            ],
+            "af": [
+              "β",
+              "{h,k}",
+              "nj"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{p,t}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e",
+              "u",
+              "i"
+            ],
+            "af": [
+              "a",
+              "{u,ɨ}",
+              "{i,ɨ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Asmat",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "#_ (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "#_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k",
+              "s"
+            ],
+            "af": [
+              "∅",
+              "{t,s}"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵐb",
+              "ᵑɡ"
+            ],
+            "af": [
+              "p",
+              "k"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p",
+              "t",
+              "nj"
+            ],
+            "af": [
+              "{t,r}",
+              "{r,s,t}",
+              "s"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Binandere",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "#_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ",
+              "ᵑɡ"
+            ],
+            "af": [
+              "∅",
+              "ɡ"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "nj"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "#_ (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "{r,s}"
+            ],
+            "en": "[+vowel]_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵐb",
+              "ⁿd",
+              "ᵑɡ",
+              "nj"
+            ],
+            "af": [
+              "{p,ᵐb}",
+              "{ⁿd,z}",
+              "k",
+              "z"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "{a,o}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Kaeti",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "{p,ᵐb}",
+              "ŋɡ"
+            ],
+            "af": [
+              "b",
+              "ɡ"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵑɡ"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ⁿd",
+              "ᵑɡ"
+            ],
+            "af": [
+              "d",
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "a"
+            ],
+            "af": [
+              "{u,o,y}",
+              "{a,o}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Asaro",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "s1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]l"
+            ],
+            "af": [
+              "nd"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "[+nasal +same"
+            ],
+            "en": "_[+plosive]",
+            "no": [
+              "[+labial,bilabial][-sonorant][+affricate]]"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ{l,d}",
+              "ʔɡ"
+            ],
+            "af": [
+              "t",
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "North Fore",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "ŋk"
+            ],
+            "en": "_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_[+plosive -voice]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "before modal suffixes",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]w",
+              "[+nasal]m",
+              "[+nasal]{n,j}"
+            ],
+            "af": [
+              "ŋk",
+              "mp",
+              "nt"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "South Fore",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_{[+vowel],[+plosive -voice]}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "before modal suffixes",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]w",
+              "[+nasal]m",
+              "[+nasal]{n,j}"
+            ],
+            "af": [
+              "ŋk",
+              "mp",
+              "nt"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "m",
+              "n"
+            ],
+            "af": [
+              "mb",
+              "nd"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+vowel][+nasal]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Gende",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_[-sonorant]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Gimi",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔv",
+              "ʔm",
+              "ʔɡ",
+              "ʔr"
+            ],
+            "af": [
+              "t",
+              "p",
+              "k",
+              "v"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Hua",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "{[+nasal],r}"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_{#,[+consonant]}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Kamano",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Move",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_{#,[+consonant]}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔv",
+              "ʔm",
+              "ʔɡ",
+              "ʔr",
+              "ʔh"
+            ],
+            "af": [
+              "p",
+              "b",
+              "k",
+              "t",
+              "{s,f}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel +low",
+              "tone]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+consonant]_h[+vowel +high tone]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel +low",
+              "tone]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "[+consonant]_[+consonant][+vowel +high tone] if both vowels are the same",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Siane",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+consonant]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{[+nasal],r}"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_[+consonant]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔŋɡ",
+              "ʔd"
+            ],
+            "af": [
+              "ŋk",
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Gorokan",
+        "to": "Yagaria",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ʔv",
+              "ʔm",
+              "ʔɡ",
+              "ʔr",
+              "ʔh"
+            ],
+            "af": [
+              "p",
+              "b",
+              "k",
+              "t",
+              "{s,f}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kainantu",
+        "to": "Auyana",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "[+same"
+            ],
+            "en": "_[+consonant]",
+            "no": [
+              "[+labial,bilabial][-sonorant][+affricate]]"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]{w,d,r}",
+              "nj"
+            ],
+            "af": [
+              "ŋk",
+              "nt"
+            ],
+            "en": "",
+            "no": [
+              "*ɲɟ)",
+              "be",
+              "to",
+              "supposed",
+              "is",
+              "*nj",
+              "if",
+              "sure",
+              "(not"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_{[+nasal],#}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_[+plosive -voice]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kainantu",
+        "to": "Awa",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "_{v,k,s}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_{p,t,#}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]d"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_{p,t}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔw",
+              "ʔb",
+              "ʔd",
+              "ʔɡ"
+            ],
+            "af": [
+              "m",
+              "p",
+              "t",
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kainantu",
+        "to": "Gadsup",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_[+nasal]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "[+same"
+            ],
+            "en": "_[+consonant]",
+            "no": [
+              "[+labial,bilabial][-sonorant][+affricate]]"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "nw",
+              "nr"
+            ],
+            "af": [
+              "mb",
+              "nd"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{[+plosive +voice],Y}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_n",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "Y[-sonorant +voice]",
+              "Y[-sonorant -voice]"
+            ],
+            "af": [
+              "Y",
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+plosive +voice][-sonorant +voice]",
+              "[+plosive +voice][-sonorant -voice]"
+            ],
+            "af": [
+              "nd",
+              "nt"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Kainantu",
+        "to": "Usarufa",
+        "or": "Pogostick Man",
+        "os": " from Haiman, John (1987), “Proto-Gorokan Syllable Structure”. Language and Linguistics in Melanesia 16(°– 2):1 – 22 (Pogostick Man is not sure if it’s supposed to be 1985; the Web site says “1987, for 1985”); Ford, Kevin (1993), “A Preliminary Comparison of Kamano-Yagaria”. Language and Linguistics in Melanesia 24(2):191 – 202; and Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.) (2014). “Gorokan”. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: <http:",
+        "so": [
+          "1"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "[+nasal]1[+nasal]2"
+            ],
+            "af": [
+              "[+nasal]2ː"
+            ],
+            "en": "",
+            "no": [
+              "?"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_[-sonorant]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal]{w,r}",
+              "[+nasal]j"
+            ],
+            "af": [
+              "ʔk",
+              "ʔt"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "ʔ"
+            ],
+            "en": "_[+consonant]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Kalam",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "{t,∅}"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "ɽ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [],
+            "af": [],
+            "en": "",
+            "no": [
+              "Frequent insertion of “epenthetic vowels, often realized as very short [ɨ], but in some contexts as a copy of a neighboring full vowel. In some cases the epenthetic vowels appear to be, historically, reductions of full vowels”",
+              ""
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Kâte",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k",
+              "ᵐb",
+              "ⁿd"
+            ],
+            "af": [
+              "{k,h}",
+              "b",
+              "{s,t}"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵐb",
+              "ⁿd"
+            ],
+            "af": [
+              "{ᵐb,p}",
+              "s"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p",
+              "k"
+            ],
+            "af": [
+              "t",
+              "ʔ"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "a"
+            ],
+            "af": [
+              "{u,ɔ}",
+              "{ɔ,a}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Kiwai",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "t",
+              "k",
+              "ᵐb"
+            ],
+            "af": [
+              "{s,t}",
+              "{ɡ,∅}",
+              "{b,p}"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t",
+              "ᵐb",
+              "ⁿd",
+              "{k,ᵑɡ}",
+              "nj"
+            ],
+            "af": [
+              "{r,t}",
+              "p",
+              "{d,t}",
+              "ɡ",
+              "r"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "{s,t}"
+            ],
+            "en": "#_ (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "i"
+            ],
+            "af": [
+              "{u,o}",
+              "{i,e}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Selepet",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ᵐb",
+              "ⁿd",
+              "s"
+            ],
+            "af": [
+              "b",
+              "{s,t}",
+              "{t,s}"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t",
+              "ᵐb",
+              "nj",
+              "s"
+            ],
+            "af": [
+              "r",
+              "{b,p}",
+              "ⁿd",
+              "{s,d}"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "_# (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "{m,ŋ}"
+            ],
+            "en": "_#",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵑɡ"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u",
+              "o",
+              "a",
+              "e"
+            ],
+            "af": [
+              "{u,ɔ}",
+              "{o,ɔ}",
+              "{a,ɔ}",
+              "{e,o}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Telefol",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "{p,ᵐb}"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "#_ (?)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵐb",
+              "ⁿd",
+              "ᵑɡ"
+            ],
+            "af": [
+              "b",
+              "n",
+              "k"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Trans New Guinea",
+        "to": "Middle Wahgi",
+        "or": "Pogostick Man",
+        "os": " from Pawley, Andrew (2012). “How Reconstructible is Proto Trans New Guinea? Problems, Progress, Prospects”. In Languages & Linguistics in Melanesia Special Issue I:89 – 164",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "n",
+              "ŋ"
+            ],
+            "af": [
+              "m",
+              "n"
+            ],
+            "en": "#_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ᵑɡ"
+            ],
+            "af": [
+              "{ᵑɡ,ŋ}"
+            ],
+            "en": "[+vowel]_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "{i,e}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }

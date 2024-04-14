@@ -1,0 +1,4550 @@
+{
+    "fa": "Tai-Kadai",
+    "cs": [
+      {
+        "fr": "Proto-Tai",
+        "to": "Ahom",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "s0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "m_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{f,v}",
+              "{m,b}"
+            ],
+            "af": [
+              "pʰ",
+              "b"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pl",
+              "b{l,r}"
+            ],
+            "af": [
+              "v",
+              "pj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "{d,ɗ}_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "d",
+              "ɗ"
+            ],
+            "af": [
+              "t",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ̊"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal -voice]",
+              "l̥"
+            ],
+            "af": [
+              "[+nasal +voice]",
+              "l"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʰ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɣ"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡl"
+            ],
+            "af": [
+              "k(w)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "x"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "l"
+            ],
+            "en": "[+velar]_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ",
+              "[+velar]ʷ"
+            ],
+            "af": [
+              "{kʰ,x}",
+              "[+velar](ʷ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tai",
+        "to": "Saek",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɲ̊"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal -voice]"
+            ],
+            "af": [
+              "[+nasal +voice]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "m_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr",
+              "b{l,r}",
+              "vr"
+            ],
+            "af": [
+              "v",
+              "bj",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "{n,ɗ}_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "d",
+              "ɗ"
+            ],
+            "af": [
+              "t",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t"
+            ],
+            "af": [
+              "{p,t}"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "tʰ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "d"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "_{l,r}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɡ,x}"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "_l",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tai",
+        "to": "Central Tai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "d"
+            ],
+            "en": "! _{l,r}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "n,ɗ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "f"
+            ],
+            "af": [
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{m,w}"
+            ],
+            "af": [
+              "v"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "p_{ɯ,e,i}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "p_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "b{l,r}"
+            ],
+            "af": [
+              "pj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "t_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tr"
+            ],
+            "af": [
+              "tʰ(r)_"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "d"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_{l,r}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+nasal -voice]"
+            ],
+            "af": [
+              "[+nasal +voice]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ",
+              "x"
+            ],
+            "af": [
+              "k",
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kl",
+              "kr"
+            ],
+            "af": [
+              "{kj,tʃ}",
+              "kʰj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "ŋ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xr"
+            ],
+            "af": [
+              "kʰ{l,r}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ",
+              "ɣʷ"
+            ],
+            "af": [
+              "kʷʰ",
+              "{v,w}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "iə"
+            ],
+            "af": [
+              "ı̆"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯a"
+            ],
+            "af": [
+              "aː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛi",
+              "ei"
+            ],
+            "af": [
+              "ai",
+              "iː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Central Tai",
+        "to": "Lungchow",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "pʰ"
+            ],
+            "en": "_{ɯ,e,i}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "pʰj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{r,s,z}",
+              "tʃʰ",
+              "dʒ"
+            ],
+            "af": [
+              "ɬ",
+              "ʃ",
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɲ"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡl"
+            ],
+            "af": [
+              "kj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨə"
+            ],
+            "af": [
+              "ɨ̆"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̆",
+              "i̯o"
+            ],
+            "af": [
+              "u",
+              "ə"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uə"
+            ],
+            "af": [
+              "ŭ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯ɨ",
+              "u̯o"
+            ],
+            "af": [
+              "{ɨ,ə}",
+              "u"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uo",
+              "ɨ̯u"
+            ],
+            "af": [
+              "u(ː)",
+              "u"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯u"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o",
+              "{u̯ɔ,ɨɔ,ɔ}"
+            ],
+            "af": [
+              "u",
+              "oː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{(i)ɛ,i̯ɛ}"
+            ],
+            "af": [
+              "eː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uɔ",
+              "ɨ̯ɔ"
+            ],
+            "af": [
+              "oː",
+              "ɨ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɨo̯,ɨa̯,ɨe̯}",
+              "ie̯"
+            ],
+            "af": [
+              "ɨː",
+              "iː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{uɨ̯,ua̯,ue̯}"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ai"
+            ],
+            "af": [
+              "aːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯əi",
+              "uəi",
+              "uai",
+              "i̯əu",
+              "iau"
+            ],
+            "af": [
+              "oːi",
+              "uːi",
+              "uːiau",
+              "oːu"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "aː"
+            ],
+            "en": "_u,i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əi"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯ai"
+            ],
+            "af": [
+              "aːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɔ",
+              "ɨ"
+            ],
+            "af": [
+              "oː",
+              "ɨː"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯əi"
+            ],
+            "af": [
+              "oːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{o,ə}"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_ɨ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɛɨ,eɨ}"
+            ],
+            "af": [
+              "aɨ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "eu"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯əu"
+            ],
+            "af": [
+              "au"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛ",
+              "i"
+            ],
+            "af": [
+              "eː",
+              "iː"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{uəi,uai}",
+              "iau"
+            ],
+            "af": [
+              "uːi",
+              "eːu"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Central Tai",
+        "to": "Nung",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "pʰ"
+            ],
+            "en": "_{ɯ,e,i}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "pʰj"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ",
+              "tʃʰ",
+              "dʒ"
+            ],
+            "af": [
+              "ʃ",
+              "tsʰ",
+              "{ʃ,tʃ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Central Tai",
+        "to": "Tay",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "tʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{s,z}"
+            ],
+            "af": [
+              "{x,tʰ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʃ",
+              "dʒ"
+            ],
+            "af": [
+              "{x,t}",
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "(ʔ)j"
+            ],
+            "af": [
+              "ʒ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_l",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɣ"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Central Tai",
+        "to": "Tho",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "tʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "z"
+            ],
+            "af": [
+              "{r,s}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dʒ"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "(ʔ)j"
+            ],
+            "af": [
+              "ʒ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Central Tai",
+        "to": "T’ien-Pao",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "tʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r"
+            ],
+            "af": [
+              "r̥"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{s,z}"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dʒ"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɣ"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "_[+vowel +round]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɣ"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i",
+              "iː",
+              "u"
+            ],
+            "af": [
+              "ə",
+              "ei",
+              "oʊ̯"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tai",
+        "to": "North Tai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "{kʰ,ɡ}{l,r}"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "k{l,r}"
+            ],
+            "af": [
+              "{kj,tʃ}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "p(ʰ),b_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "p(ʰ),b_[+vowel]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "ɗ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{pʰ,b}",
+              "ɓ",
+              "{tʰ,d}",
+              "ɗ",
+              "{kʰ,ɡ}",
+              "{kʷʰ,ɡ}"
+            ],
+            "af": [
+              "p",
+              "b",
+              "t",
+              "d",
+              "k",
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "m̥",
+              "n̥"
+            ],
+            "af": [
+              "m",
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "mw",
+              "f"
+            ],
+            "af": [
+              "f",
+              "{f,v,w,h}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "t{l,r}"
+            ],
+            "af": [
+              "r̥"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "n"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "z"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{w,m}"
+            ],
+            "af": [
+              "v"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{tʃ(ʰ),dʒ}"
+            ],
+            "af": [
+              "ʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xr",
+              "x",
+              "{x,ɣ}ʷ"
+            ],
+            "af": [
+              "r̥",
+              "h",
+              "{w,v,h}"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "iə"
+            ],
+            "af": [
+              "ı̆"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̆"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_[+velar]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uo"
+            ],
+            "af": [
+              "ɔː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɨ̯u,i̯ɛ}"
+            ],
+            "af": [
+              "ɨə̯~ɨa̯"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯o",
+              "i̯o"
+            ],
+            "af": [
+              "u",
+              "o"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯a"
+            ],
+            "af": [
+              "ɨa̯~ɨə̯"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{u̯ɔ,u̯a}"
+            ],
+            "af": [
+              "ua~uə"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uo",
+              "→",
+              "uu"
+            ],
+            "af": [
+              "u"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯ɔ"
+            ],
+            "af": [
+              "ɨa~ɨə"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uɨ̯",
+              "ua̯",
+              "→",
+              "ɨə",
+              "uɔ̯"
+            ],
+            "af": [
+              "ɨː",
+              "ɔː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛi",
+              "ei"
+            ],
+            "af": [
+              "ai",
+              "əi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "North Tai",
+        "to": "Dioi",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kl"
+            ],
+            "af": [
+              "ð"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{r,r̥}"
+            ],
+            "af": [
+              "ð"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "",
+            "no": [
+              "v?)",
+              "to",
+              "*w",
+              "changing",
+              "languages",
+              "other",
+              "with",
+              "conservation",
+              "a",
+              "(possibly"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ"
+            ],
+            "af": [
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+plosive -voice]Š"
+            ],
+            "af": [
+              "[+plosive -voice][+plosive]"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "North Tai",
+        "to": "Po-Ai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "k"
+            ],
+            "af": [
+              "tʃ"
+            ],
+            "en": "_[+vowel +front]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{r,r̥}"
+            ],
+            "af": [
+              "l"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɗ"
+            ],
+            "af": [
+              "n"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "ɬ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̆ə"
+            ],
+            "af": [
+              "ɨ̆"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̆"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_[+velar]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̆"
+            ],
+            "af": [
+              "ə"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uə"
+            ],
+            "af": [
+              "ŭ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɔː"
+            ],
+            "af": [
+              "oː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨə̯~ɨa̯"
+            ],
+            "af": [
+              "ɨː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨə̯~ɨa̯"
+            ],
+            "af": [
+              "ɨ"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯o"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "_{m,p}%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "ɛ"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛ",
+              "iɛ"
+            ],
+            "af": [
+              "eː",
+              "ı̆"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "ɔ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+consonant]ʷə"
+            ],
+            "af": [
+              "[+consonant]ɔ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ə"
+            ],
+            "af": [
+              "{a,ɒ,ɑ,ʌ}"
+            ],
+            "en": "",
+            "no": [
+              "?"
+            ],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯ɨ"
+            ],
+            "af": [
+              "ɔ"
+            ],
+            "en": "m_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯ɨ"
+            ],
+            "af": [
+              "ɨ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨa̯~ɨə̯"
+            ],
+            "af": [
+              "iː"
+            ],
+            "en": "j_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨa̯~ɨə̯"
+            ],
+            "af": [
+              "ɨː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ua~uə"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɔ"
+            ],
+            "af": [
+              "oː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ua~u@̯"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨɔ"
+            ],
+            "af": [
+              "ɨ"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯a~ɨə"
+            ],
+            "af": [
+              "ɨː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ue̯"
+            ],
+            "af": [
+              "u"
+            ],
+            "en": "_[+consonant]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ue̯"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨo̯",
+              "ɨa̯",
+              "ie̯",
+              "ɨe̯"
+            ],
+            "af": [
+              "uː",
+              "aː",
+              "eː",
+              "iː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ",
+              "a"
+            ],
+            "af": [
+              "ɨː",
+              "aː"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{əi,ɛi,ei}"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯ai"
+            ],
+            "af": [
+              "ɨːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯əi",
+              "ɔi"
+            ],
+            "af": [
+              "(w)iː",
+              "oːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ə"
+            ],
+            "af": [
+              "a"
+            ],
+            "en": "_{u,ɨ}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɛi,ei}"
+            ],
+            "af": [
+              "ɨː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ou,oɨ}"
+            ],
+            "af": [
+              "oː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛ",
+              "e",
+              "i"
+            ],
+            "af": [
+              "eː",
+              "a",
+              "iː"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯əu"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uəi",
+              "uai",
+              "iau"
+            ],
+            "af": [
+              "iː",
+              "oːi",
+              "eːu"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "North Tai",
+        "to": "Wu-Ming",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "r"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "s"
+            ],
+            "af": [
+              "θ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i"
+            ],
+            "af": [
+              "{i,oi}"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u"
+            ],
+            "af": [
+              "aʊ̯"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əi"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Proto-Tai",
+        "to": "Southwest Tai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "p"
+            ],
+            "af": [
+              "p(ʰ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "f"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "m"
+            ],
+            "af": [
+              "w"
+            ],
+            "en": "! _w",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "w"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "m_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "l"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "{p,k(ʰ),ŋ}_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "pr"
+            ],
+            "af": [
+              "t"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "v"
+            ],
+            "af": [
+              "b"
+            ],
+            "en": "_r",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{l,r}"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "t,ɗ_",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "tʰl",
+              "tʰr"
+            ],
+            "af": [
+              "tʰ",
+              "r̥"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "d"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_{l,r}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "z",
+              "r"
+            ],
+            "af": [
+              "s",
+              "r̥"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xr"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "x"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡʷ"
+            ],
+            "af": [
+              "kʷʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "[+vowel]"
+            ],
+            "af": [
+              "[+vowel]ː"
+            ],
+            "en": "_%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨə"
+            ],
+            "af": [
+              "ɨː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "iə"
+            ],
+            "af": [
+              "ı̆"
+            ],
+            "en": "_[+consonant]% (not in all languages)",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯a"
+            ],
+            "af": [
+              "aː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɛi",
+              "ei"
+            ],
+            "af": [
+              "ai",
+              "iː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "ɔː"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "Lao",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "bl",
+              "br"
+            ],
+            "af": [
+              "p",
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dʒ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ{l,r}"
+            ],
+            "af": [
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ",
+              "ɣ"
+            ],
+            "af": [
+              "kʰ",
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ",
+              "ɣʷ"
+            ],
+            "af": [
+              "kʷ",
+              "ɡʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "Lü",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "bl",
+              "br"
+            ],
+            "af": [
+              "p",
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "r̥"
+            ],
+            "en": "“literaryˈ",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dʒ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɲ"
+            ],
+            "af": [
+              "j"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ʔ"
+            ],
+            "af": [
+              "∅"
+            ],
+            "en": "_j",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡl",
+              "ɡr"
+            ],
+            "af": [
+              "k",
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{kʰ,ɣ}",
+              "ɡ"
+            ],
+            "af": [
+              "x",
+              "k"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʷʰ",
+              "ɣʷ"
+            ],
+            "af": [
+              "xʷ",
+              "x(ʷ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "u"
+            ],
+            "en": "_[+nasal]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "_[+nasal]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{uɨ̯,ua̯,ue̯}",
+              "{ɨa̯,ɨe̯}",
+              "ie̯"
+            ],
+            "af": [
+              "o",
+              "ə",
+              "e"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əi"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "Shan",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "l"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "bl",
+              "br"
+            ],
+            "af": [
+              "p",
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ts"
+            ],
+            "af": [
+              "sʲ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "dʒ"
+            ],
+            "af": [
+              "s"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡl",
+              "ɡr"
+            ],
+            "af": [
+              "k",
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ",
+              "ɣ"
+            ],
+            "af": [
+              "k",
+              "kʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ"
+            ],
+            "af": [
+              "kʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{uɨ̯,ua̯,ue̯}",
+              "{ɨa̯,ɨe̯}",
+              "ie̯"
+            ],
+            "af": [
+              "o",
+              "ə",
+              "e"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əi"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "Siamese",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "b"
+            ],
+            "af": [
+              "pʰ"
+            ],
+            "en": "_{l,r}",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "m",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ŋ",
+              "ɡ",
+              "ɣ"
+            ],
+            "af": [
+              "{h,ʃ}",
+              "kʰ",
+              "ɡ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ",
+              "ɣʷ"
+            ],
+            "af": [
+              "kʷ",
+              "ɡʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u{o,ə}",
+              "ɨu"
+            ],
+            "af": [
+              "uː",
+              "ɨː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{u̯o,u̯ɨ}",
+              "u̯ɔ"
+            ],
+            "af": [
+              "o",
+              "ɔː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "u̯a"
+            ],
+            "af": [
+              "aː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯u",
+              "i̯o"
+            ],
+            "af": [
+              "uː",
+              "u"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "o"
+            ],
+            "en": "_{m,p}%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "i̯e"
+            ],
+            "af": [
+              "e"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{(i)ɛ,i̯ɛ}"
+            ],
+            "af": [
+              "ɛː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɨɔ,ɨ̯ɔ}"
+            ],
+            "af": [
+              "ɔː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "a"
+            ],
+            "af": [
+              "aː"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯ai"
+            ],
+            "af": [
+              "aːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{u̯əi,ɔi}"
+            ],
+            "af": [
+              "ɔːi"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əɨ"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{ɛɨ,eɨ}"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "oɨ"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{o,ə}",
+              "ɛ"
+            ],
+            "af": [
+              "a",
+              "ɛː"
+            ],
+            "en": "_u",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "eu"
+            ],
+            "af": [
+              "uː"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ̯əu",
+              "au"
+            ],
+            "af": [
+              "au",
+              "aːu"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɨ"
+            ],
+            "af": [
+              "ə"
+            ],
+            "en": "_i",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "uəi"
+            ],
+            "af": [
+              "uai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "Black Tai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "l"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "bl",
+              "br"
+            ],
+            "af": [
+              "p",
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "ɡ",
+              "ɡl"
+            ],
+            "af": [
+              "k",
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "xʷ",
+              "ɣʷ"
+            ],
+            "af": [
+              "kʷ",
+              "ɡʷ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      },
+      {
+        "fr": "Southwest Tai",
+        "to": "White Tai",
+        "or": "Pogostick Man",
+        "os": " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389",
+        "so": [
+          "0"
+        ],
+        "no": [],
+        "ch": [
+          {
+            "be": [
+              "ɓ",
+              "ɗ"
+            ],
+            "af": [
+              "b",
+              "d"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "bl",
+              "br"
+            ],
+            "af": [
+              "p",
+              "pʰ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "r̥"
+            ],
+            "af": [
+              "h"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{kʰ,ɣ}",
+              "ɡ",
+              "ɡ{l,r}"
+            ],
+            "af": [
+              "x",
+              "k",
+              "tʃ"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "kʷʰ",
+              "ɣʷ"
+            ],
+            "af": [
+              "xʷ",
+              "x(ʷ)"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "o"
+            ],
+            "af": [
+              "u"
+            ],
+            "en": "_[+nasal]",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "e"
+            ],
+            "af": [
+              "i"
+            ],
+            "en": "_[+nasal]%",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "{uɨ̯,ua̯,ue̯}",
+              "{ɨa̯,ɨe̯}",
+              "ie̯"
+            ],
+            "af": [
+              "o",
+              "ə",
+              "e"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          },
+          {
+            "be": [
+              "əi"
+            ],
+            "af": [
+              "ai"
+            ],
+            "en": "",
+            "no": [],
+            "ta": [
+              "generated",
+              "unchecked"
+            ],
+            "ty": []
+          }
+        ]
+      }
+    ]
+  }
