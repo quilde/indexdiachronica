@@ -1,0 +1,6509 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Sino-Tibetan"
+to = "Middle Chinese"
+or = "Ran & thedukeofnuke"
+os = " from Handel, Z. (1998), The Medial Systems of Old Chinese and Proto-Sino-Tibetan"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: “P T Ṭ K represent labial, dental, retroflex, and velar obstruents respectively. *r is reconstructed as being an approximant ɹ. . . .PST and OC lacked any initial/medial clusters of the form Tr-and Tl-. . . .The initials and medials for Old Chinese are the same as those for PST. Note that initial consonants separated by a hyphen (e.g., C-r-) are derived from prefixes and are not true consonant clusters.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s(-)r"]
+af = ["ʂ-"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["∅"]
+en = "[+consonant]_-"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "s_-"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]w"]
+af = ["[+velar]ʷ-"]
+en = "_a-"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "w",
+    "→",
+    "r",
+]
+af = ["∅"]
+en = "[+labial,bilabial]_-"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Late Middle Chinese"
+to = "Old Mandarin"
+or = "Ran"
+os = " from Hsueh, F.S. (1975), Phonology of Old Mandarin"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Ran says, “The author uses V1, V2, V3, V4, Vn, Vch, and Vta to represent Late Middle Chinese vowels. I am going to very tentatively assign the values of o, a, ia, e,?, a(ch) and a(ta) to these vowels [emphasis added]. These should be taken as orthographical convenience rather than actual speculation.” It should be noted that the vowel represented by <?> could be palatalized. Ran adds, “I am also going to number tones according to their traditional order, i.e. F1, F2, F3, F4, F5. Since tones change rapidly, it is impossible to accurately reconstruct their values; we can only know how many there were, and agree on an order to renumerate them. Middle Chinese starts out with no F2.” For the purposes of this list of sound changes, tones are superscript numbers following vowel markers.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["w"]
+en = "[+labial,bilabial]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xɦ"]
+af = ["∅"]
+en = "_j(w){?,ia,a(ta)}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]ʲ"]
+af = ["[+consonant]"]
+en = ""
+no = ["{Ạ,[+fricative]̣}_"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]ʲ"]
+af = ["[+consonant]̣"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɳ"]
+af = ["ɽ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]1"]
+af = ["[+vowel]2"]
+en = "in syllables with "
+no = ["/ɦ/, a nasal, or a liquid"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3"]
+af = ["[+vowel]4"]
+en = "in syllables with "
+no = ["/ɦ/"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["?"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]5"]
+af = ["[+vowel]2"]
+en = "in syllables with "
+no = ["/ɦ/"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]5"]
+af = ["[+vowel]4"]
+en = "in syllables with a nasal or liquid"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]5"]
+af = ["[+vowel]3"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɦ"]
+af = ["h"]
+en = "[+plosive]_[+vowel]2"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɦ"]
+af = ["∅"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]ʲ"]
+af = ["[+consonant]"]
+en = "{f,v}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["o"]
+en = "[+consonant]ʲ_?w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "[+consonant](w)_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ia"]
+af = ["e"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+consonant]ʲ"]
+en = "{[+velar],[+consonant +pharyngeal]}_{a,a(ch)}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["a"]
+en = "[+consonant]_w ! [+consonant] = {[+velar],[+consonant +pharyngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["n"]
+en = "n_[+consonant]ʲa(ta)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["∅"]
+en = "#_ ! #_o(w)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["j"]
+en = "{e,a,o}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["w"]
+en = "[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{o,a}",
+    "{a(ta),a(ch)}",
+]
+af = [
+    "e",
+    "a",
+]
+en = "_ŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a(ta),a(ch)}"]
+af = ["o"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["?"]
+af = ["o"]
+en = "_ŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["ʈʂ"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+consonant]ʲ"]
+en = "?ʲ{p,t}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{p,t}"]
+af = ["∅"]
+en = "[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["a"]
+en = "[+consonant]ʲ_w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["w"]
+en = "[+consonant]_o# ! [+consonant] = {[+velar],[+consonant +pharyngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "[+consonant]̣[+consonant]ʲ_?w (“optionalˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "w?_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["?"]
+af = ["a"]
+en = "[+consonant]w_[+consonant]ʲ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{o,e}"]
+af = ["?"]
+en = "_[+consonant]ʲ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wʲ"]
+af = ["w"]
+en = "_?[+consonant]ʲ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["w"]
+en = "[+consonant]̣_aŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["o"]
+en = "w_ŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wʲ"]
+af = ["w"]
+en = "_aŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wʲ"]
+af = ["w"]
+en = "[+consonant]̣_oŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Old Mandarin"
+to = "Modern Pekingese"
+or = "Ran"
+os = " from Hsueh, F.S. (1975), Phonology of Old Mandarin"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{e,o}"]
+af = ["a"]
+en = "_w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["m"]
+af = ["n"]
+en = "[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = "_ŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "[+consonant]_ʔ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "jî_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["#r…î#"]
+af = ["#î…r"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "[+consonant]̣_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["î"]
+af = ["e"]
+en = "_[+consonant]# ! [+consonant] = r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "[+consonant]_weŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k(ʰ)",
+    "h",
+]
+af = [
+    "ɕ͡(ʰ)",
+    "ɕ",
+]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Sin Sukchu"
+to = "Guānhuà"
+or = "Pogostick Man"
+os = " from Coblin, W. South (2000), “A Diachronic Study of Míng Guānhuà Phonology”. Monumenta Serica 48:267 – 335"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "dz",
+    "ɡ",
+]
+af = [
+    "{p,pʼ}",
+    "{t,tʼ}",
+    "{ts,tsʼ}",
+    "{k,kʼ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["∅"]
+en = "_{i,j,w,y}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["∅"]
+en = "_u "
+no = ["/ _V"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["u"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʋ",
+]
+af = [
+    "f",
+    "v",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["{s,tsʼ}"]
+en = ""
+no = [
+    "wordsˈ)",
+    "tone",
+    "oblique",
+    "“in",
+    "exceptionˈ",
+    "“without",
+    "former",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɖʐ"]
+af = ["ʈʂʼ"]
+en = "“in píng-tone syllablesˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʐ"]
+af = ["ʂ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["ʐ"]
+en = ""
+no = [
+    "[ɚ])",
+    "being",
+    "syllable",
+    "output",
+    "the",
+    "with",
+    "happened",
+    "something",
+    "then",
+    "and",
+    "∅,",
+    "to",
+    "went",
+    "this",
+    "where",
+    "situation",
+    "some",
+    "was",
+    "there",
+    "([+affricate]pparently",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["ŋ"]
+en = "_[+vowel -high]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_{j,i,y}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_u (not always? [+labial,bilabial]erhaps some variation with [ɣ] here?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["x"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive -voice]here",
+    "seems",
+    "to",
+    "ahve",
+    "been",
+    "some",
+    "stuff",
+    "going",
+    "on",
+    "with",
+    "palatalized",
+    "[ŋ]",
+]
+af = [
+    "{ɲ,n}",
+    "but",
+    "it",
+    "seems",
+    "highly",
+    "dialectal",
+    "and",
+    "I’m",
+    "not",
+    "entirely",
+    "sure",
+    "just",
+]
+en = ""
+no = [
+    "here",
+    "on",
+    "going",
+    "was",
+    "exactly",
+    "what",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["{v,u}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["(ɣ)u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Finals:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["m"]
+af = ["n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "long-tail",
+    "vowel",
+    "thing",
+]
+af = [
+    "i",
+    "(or",
+    "[truncated",
+]
+en = ""
+no = [
+    "occurˈ)",
+    "variants",
+    "initial",
+    "sibilant",
+    "G[+laryngeal]",
+    "“where",
+    "vowel-thing]",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{long-tail",
+    "vowel",
+    "thingʔ,əʔ}",
+]
+af = ["ɛʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["[long-tail"]
+en = "[+consonant]̣_ (“sometimesˈ, in “variant readingsˈ)"
+no = [
+    " when following /ʂ ʐ/, sometimes yields [ʂi], other times [s truncated vowel-thing]",
+    "thing]",
+    "vowel",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "iʔ",
+    "iw",
+]
+af = [
+    "eʔ",
+    "ew",
+]
+en = "[+consonant]̣_ (the latter with variant iɛu?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iʔ"]
+af = ["ieʔ"]
+en = ""
+no = [
+    "vowel-thing]ʔ?)",
+    "i[truncated",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uʔ",
+    "→",
+    "oʔ",
+    "(occasionally",
+]
+af = ["uɛʔ?)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["u(ɛ)i"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["uɛi"]
+en = "{[+labial,bilabial],[+consonant +guttural],∅}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["ui"]
+en = "{[+consonant +dental],[+consonant +sibilant]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ujʔ",
+    "→",
+    "uɛʔ",
+    "(dialectally",
+]
+af = ["uɔʔ?)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["un"]
+af = ["uɛn"]
+en = "! {[+consonant +dental],[+consonant +sibilant]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uɛn"]
+af = ["ɛn"]
+en = "ʋ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uŋ"]
+af = ["oŋ"]
+en = ""
+no = [
+    "source?)",
+    "one",
+    "(in",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["juŋ"]
+af = ["iuŋ"]
+en = "_{∅,x,ʋ,ʔ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["juŋ"]
+af = ["iuŋ"]
+en = "_ɡ[+píng tone]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["juŋ"]
+af = ["uŋ"]
+en = ""
+no = [
+    "dialectally?)",
+    "oŋ",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "jujŋ",
+    "ujŋ",
+]
+af = [
+    "iuŋ",
+    "uŋ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["y"]
+af = ["ɥ"]
+en = "[+consonant]̣_"
+no = [
+    "dialectally?)",
+    "y~u",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yʔ"]
+af = ["yɛʔ"]
+en = "{l,[+consonant +dental +sibilant]}_ in “[+uvular]Y[+plosive] -juət-typeˈ finals, dialectally?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "yʔ",
+    "→",
+    "oʔ",
+    "(eventually",
+]
+af = ["{ʊʔ,(i)uʔ?)"]
+en = "{l,[+consonant +dental +sibilant]}_, in “[+uvular]Y[+plosive] -k-typesˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yʔ"]
+af = ["yʔ(~yɛʔ?)"]
+en = "{∅,[+consonant +guttural]}, in -juət-types"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yʔ"]
+af = ["ioʔ"]
+en = "{∅,[+consonant +guttural]}_, in -k-types"
+no = [
+    "dialectally?)",
+    "iʊʔ",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yʔ"]
+af = ["{ɥʔ,yʔ,uʔ}"]
+en = "[+consonant]̣, in -juət-types"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yʔ"]
+af = ["oʔ"]
+en = "[+consonant]̣_, in -k-types"
+no = [
+    "ʊʔ?)",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yjʔ"]
+af = ["yʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "yn",
+    "→",
+    "un",
+    "/",
+    "[+consonant]̣_",
+    "(may",
+    "have",
+    "stayed",
+    "yn",
+    "or",
+]
+af = [
+    "ɥn",
+    "in",
+    "at",
+    "least",
+    "one",
+    "area?)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "je",
+    "jeʔ",
+    "yeʔ",
+]
+af = [
+    "ɛ",
+    "ɛʔ",
+    "uɛʔ",
+]
+en = "[+consonant]̣_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "je",
+    "jeʔ",
+]
+af = [
+    "iɛ",
+    "iɛʔ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yeʔ"]
+af = ["yɛʔ"]
+en = ""
+no = [
+    "speech?)",
+    "southern",
+    "in",
+    "{uɔʔ,yɔʔ}",
+    "(→",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ye",
+    "jej",
+]
+af = [
+    "yɛ",
+    "i",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["jew"]
+af = ["au"]
+en = "[+consonant]̣([+consonant]?)_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["jew"]
+af = ["iau"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{jem,jen}"]
+af = ["iɛn"]
+en = "sometimes after [+consonant]̣_ (but ! ʐ_) (only in one variety?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yen"]
+af = ["uɛn"]
+en = "[+consonant]̣_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["yen"]
+af = ["yɛn"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔ"]
+af = ["a"]
+en = "in two cases cited"
+no = [" extremely rare change"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "wɔ",
+    "→",
+    "ɔ",
+    "(occasionally",
+]
+af = [
+    "uɔ",
+    "after",
+    "a",
+    "guttural?)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wɔʔ"]
+af = ["uɔʔ"]
+en = "[+consonant +guttural]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wɔʔ"]
+af = ["ɔʔ"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔn"]
+af = ["an;"]
+en = ""
+no = [
+    "gutturalsˈ",
+    "[+plosive][+sonorant]",
+    "after",
+    "exclusively",
+    "occurs",
+    "final",
+    "“[t]his",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "wɔn",
+    "ja",
+    "wa",
+]
+af = [
+    "uɔn",
+    "ia",
+    "ua",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aʔ"]
+af = ["ɔʔ"]
+en = "[+consonant +guttural]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["jaʔ"]
+af = ["iaʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["waʔ"]
+af = ["aʔ"]
+en = "[+consonant +labiodental]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["waʔ"]
+af = ["uaʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aj",
+    "jaj",
+    "waj",
+    "aw",
+    "jaw",
+]
+af = [
+    "ai",
+    "iai",
+    "uai",
+    "au",
+    "iau",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["awʔ"]
+af = ["ɔʔ"]
+en = ""
+no = [
+    "varietiesˈ)",
+    "G[+laryngeal]",
+    "later",
+    "the",
+    "in",
+    "general",
+    "becomes",
+    "which",
+    "-ɛʔ,",
+    "in",
+    "variant",
+    "a",
+    "gives",
+    "(“[+plosive -voice]rigault",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{jawʔ,wawʔ}"]
+af = ["ɔʔ"]
+en = "[+consonant]̣_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "jawʔ",
+    "wawʔ",
+]
+af = [
+    "iɔʔ",
+    "uɔʔ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["am"]
+af = ["an"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{jam,jan}"]
+af = ["iɛn"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wan"]
+af = ["an"]
+en = "[+consonant +labiodental]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["wan"]
+af = ["uan"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aŋ",
+    "jaŋ",
+]
+af = [
+    "uaŋ",
+    "aŋ",
+]
+en = "[+consonant]̣_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["waŋ"]
+af = ["uaŋ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "əjʔ",
+    "əw",
+    "{əm,ən}",
+]
+af = [
+    "eʔ",
+    "ɛu",
+    "ɛn",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əjŋ"]
+af = ["ɛn"]
+en = ""
+no = [
+    "ɛn?)",
+    "with",
+    "(varies",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Tones:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qı̄ng",
+    "píng",
+]
+af = [
+    "yı̄n",
+    "píng",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "zhuó",
+    "píng",
+]
+af = [
+    "yáng",
+    "píng",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qı̄ng",
+    "shăng",
+]
+af = ["shăng"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "zhuó",
+    "shăng",
+]
+af = ["qù"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "(There seems to be some conflict between shăng tones and qù tones, the latter noted as being the spoken forms)36.3 Tibeto-Burman",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Naish"
+to = "Laze"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498"
+so = ["s3"]
+no = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "u",
+    "i",
+    "i[+nasal]",
+]
+af = [
+    "e",
+    "y",
+    "ɯ",
+    "i",
+]
+en = "[+plosive -voice]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["i"]
+en = "{ŋ,w}_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["wɤ"]
+en = "{[+velar],ŋ}w_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a,i}"]
+af = ["ɯ"]
+en = "[+sonorant]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["ie"]
+en = "! [+velar]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "a[+plosive]",
+]
+af = [
+    "ɑ",
+    "{ɑ,u}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i[+nasal]"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+consonant]}r_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["v̩"]
+en = "m_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "o",
+]
+af = [
+    "v̩",
+    "u",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +back]"]
+af = ["o"]
+en = "{qʰ,([+nasal])q}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]%"]
+af = ["low"]
+en = ""
+no = ["tone"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{[+nasal]p,mb}"]
+af = ["b"]
+en = "_[+vowel] (the paper implies similar developments occurred at other [+labial,bilabial][-sonorant][+affricate]s)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}p(ʰ)",
+    "{r,s}{[+nasal]p,(m)b}",
+]
+af = [
+    "f",
+    "v",
+]
+en = "_[+vowel] (the paper implies similar developments occurred at other [+labial,bilabial][-sonorant][+affricate]s)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}k",
+    "{r,s}[+nasal]k",
+]
+af = [
+    "f",
+    "w",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]{b,ɡ}",
+    "[+plosive]k",
+]
+af = [
+    "v",
+    "h",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}l",
+    "{r,s}n",
+]
+af = [
+    "l̥",
+    "[+nasal]̥",
+]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n̥"]
+af = ["l̥"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]̥[+vowel]"]
+af = ["hṼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["ɬ"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Naish"
+to = "Mosuo (Na)"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498"
+so = ["3"]
+no = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "{[+sonorant],[+plosive -voice]}_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["wɤ"]
+en = "{[+velar],ŋ}w_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["i"]
+en = "! [+velar]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i[+nasal]"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+consonant]}r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{i[+nasal],u}",
+    "i",
+]
+af = [
+    "i",
+    "ɯ",
+]
+en = "[+plosive -voice]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ɯ"]
+en = "{[+sonorant],[+velar]r}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["v̩"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "o",
+]
+af = [
+    "v̩",
+    "u",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +back]"]
+af = ["ɔ"]
+en = "{qʰ,([+nasal])q}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]%"]
+af = ["high"]
+en = ""
+no = ["rising"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{[+nasal]p,mb}"]
+af = ["b"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}pʰ",
+    "{r,s}{([+nasal])p,(m)b}",
+]
+af = [
+    "pʰ",
+    "p",
+]
+en = "_[+vowel] (the paper implies similar developments occurred with stops at other [+labial,bilabial][-sonorant][+affricate]s)"
+no = ["b"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}k",
+    "{r,s}[+nasal]k",
+]
+af = [
+    "k",
+    "ʁ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]{b,ɡ}",
+    "[+plosive]k",
+]
+af = [
+    "∅",
+    "h",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n̥"]
+af = ["l̥"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]̥[+vowel]"]
+af = ["hṼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["ɬ"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Naish"
+to = "Naxi"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498"
+so = ["3"]
+no = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "i[+nasal]",
+    "{i,u}",
+]
+af = [
+    "e",
+    "ɚɯ",
+]
+en = "[+plosive -voice]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["i"]
+en = "ŋ_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["ɯ"]
+en = "{[+sonorant],w}_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["wa"]
+en = "{[+velar],ŋ}w_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "! [+velar]_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "a[+plosive]",
+]
+af = [
+    "ɑ",
+    "{ɑ,o}",
+]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i[+nasal]"]
+af = ["ɚ"]
+en = "{[+labial,bilabial],[+consonant]}r_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ɯ"]
+en = "{[+sonorant],kr}_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["ɚ"]
+en = "[+labial,bilabial]r_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "o",
+]
+af = [
+    "v̩",
+    "u",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +back]"]
+af = ["v̩"]
+en = "{qʰ,(ŋ)q}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]%"]
+af = ["mid"]
+en = "[+consonant]_ru"
+no = ["tone"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]%"]
+af = ["high"]
+en = "else"
+no = ["tone"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["∅"]
+en = "_p[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}pʰ",
+    "{r,s}([+nasal])p",
+    "{r,s}b",
+    "{r,s}mb",
+]
+af = [
+    "pʰ",
+    "p",
+    "b",
+    "mb",
+]
+en = "_[+vowel] (the paper implies similar developments occurred with stops at other [+labial,bilabial][-sonorant][+affricate]s)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{r,s}([+nasal])k"]
+af = ["k"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]b",
+    "[+plosive]k",
+    "[+plosive]ɡ",
+]
+af = [
+    "b",
+    "?",
+    "ɡ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "n̥",
+    "→",
+    "l̥",
+]
+af = ["h"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{r,s}"]
+af = ["∅"]
+en = "%_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s}[+nasal]",
+    "→",
+    "[+nasal]̥",
+    "→",
+    "hṼ",
+]
+af = ["h[+vowel]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "bTshan La"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["s4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+    "çp",
+    "çb",
+    "s[+labial,bilabial]",
+    "r[+labial,bilabial]",
+    "[+nasal]p",
+    "[+nasal]b",
+    "pr",
+    "{br,pj}",
+    "bj",
+]
+af = [
+    "pʰ",
+    "p",
+    "ʝb",
+    "çp",
+    "sp",
+    "rpʰ",
+    "mpʰ",
+    "mb",
+    "br",
+    "pʰj",
+    "pj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]"]
+af = ["p"]
+en = "l_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+    "[+nasal]t",
+    "[+nasal]d",
+    "st",
+    "sd",
+    "ç[+plosive -voice]",
+    "tr",
+    "(ç)dr",
+    "[+velar][+plosive -voice]",
+]
+af = [
+    "tʰ",
+    "t",
+    "[+nasal]tʰ",
+    "md",
+    "zd",
+    "st",
+    "çtj",
+    "trh",
+    "(ç)tr",
+    "kt",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "sk",
+    "kr",
+    "ɡ",
+    "[+labial,bilabial]ɡ",
+    "sɡ",
+    "[+nasal]ɡ",
+    "(s)ɡr",
+    "ç[+velar]",
+    "r[+velar]",
+    "[+velar]ç",
+]
+af = [
+    "kʰ",
+    "zɡw",
+    "dr",
+    "[+nasal]ɡ",
+    "pk",
+    "sk",
+    "mk",
+    "(s)kr",
+    "çk",
+    "rɡj",
+    "ɡçkr",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "(ʔ)kj",
+    "(s)ɡj",
+    "[+nasal]kj",
+]
+af = [
+    "(k)tç",
+    "(s)kj",
+    "[+nasal]dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "çr",
+    "[+nasal]ç",
+]
+af = [
+    "dr",
+    "mkʰj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]"]
+af = ["ʔ"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]"]
+af = ["k"]
+en = "_ç"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]"]
+af = ["s"]
+en = "_w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]ç"]
+af = ["mʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive -voice][+plosive]"]
+af = ["dʒ"]
+en = "l_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal][+plosive -voice][+plosive]",
+    "[+labial,bilabial][+plosive -voice][+plosive]",
+    "[+velar][+plosive -voice][+plosive]",
+    "s[+plosive -voice][+plosive]",
+    "ç[+plosive -voice][+plosive]",
+]
+af = [
+    "{[+nasal]dz,mts}",
+    "kts(ʰ)",
+    "ptsʰ",
+    "sts",
+    "{sts,rj}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "(r)ts",
+    "(r)dz",
+]
+af = [
+    "(r)tsʰ",
+    "(r)ts",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["j"]
+en = "çm_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["m"]
+en = "_{ŋ.nj}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["rnj"]
+af = ["rɲ"]
+en = ""
+no = ["?"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["ʔ"]
+en = "something to do with either back vowels or prefixes"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["a"]
+en = "_k"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["i"]
+en = "_{r,s}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aj"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ew",
+    "iw",
+]
+af = [
+    "im",
+    "ju",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Chos Kia"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "çp",
+    "(ç)b",
+    "r[+labial,bilabial]",
+    "[+nasal]p",
+    "[+nasal]b",
+    "pr",
+    "{br,pj}",
+]
+af = [
+    "p.",
+    "ç.w",
+    "(ç)p",
+    "rp.",
+    "kj",
+    "m.p",
+    "n.br",
+    "p.j",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]"]
+af = ["p"]
+en = "l_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "st",
+    "tr",
+    "d",
+    "sd",
+    "(ç)dr",
+    "[+nasal]t",
+    "ç[+plosive -voice]",
+    "[+velar][+plosive -voice]",
+]
+af = [
+    "t.",
+    "s.d",
+    "tr.",
+    "t",
+    "s.t",
+    "(ç.)tr",
+    "m.t.",
+    "n.dr",
+    "ɡ.t",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["∅"]
+en = "_t"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç[+velar]"]
+af = ["ç.k"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["∅"]
+en = "_ɡ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sk",
+    "r[+velar]",
+]
+af = [
+    "j",
+    "sɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kj",
+    "[+nasal]kj",
+    "ʔkj",
+    "ɡj",
+    "sɡj",
+]
+af = [
+    "kj.",
+    "nj",
+    "ɡ.tsʰ",
+    "kj",
+    "skj.",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kr",
+    "(s)ɡr",
+]
+af = [
+    "n.br",
+    "(s)kr",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]"]
+af = ["s"]
+en = "_w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]"]
+af = ["ɡ."]
+en = "_ç"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]ç"]
+af = ["n.pj."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["çl"]
+af = ["sj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]ts"]
+af = ["ɡ.tsʰ."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l[+plosive -voice][+plosive]"]
+af = ["l.dz"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "(r)dz",
+    "dʒ",
+    "[+labial,bilabial][+plosive -voice][+plosive]",
+    "[+velar][+plosive -voice][+plosive]",
+    "s[+plosive -voice][+plosive]",
+    "ç[+plosive -voice][+plosive]",
+]
+af = [
+    "{tsʰ,s}",
+    "(r)ts",
+    "tsʰ",
+    "ɡ.ts",
+    "s.{ts,pj}",
+    "{s.ts,br}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "rm",
+    "rn",
+]
+af = [
+    "mj",
+    "rw",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "çm",
+    "çnj",
+]
+af = ["ç.n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["m."]
+en = "_ŋ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]n"]
+af = ["m"]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "ŋ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["rnj"]
+af = ["r.mj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "n_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ut",
+    "uk",
+]
+af = [
+    "ud",
+    "oɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["ui"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ok"]
+af = ["iɡ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = "_l"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["oj"]
+af = ["oi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "ap",
+    "at",
+    "ar",
+    "am",
+    "aj",
+]
+af = [
+    "e",
+    "eb",
+    "e(d)",
+    "er",
+    "om",
+    "e.i",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{k,j}"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "et",
+    "ej",
+]
+af = [
+    "o",
+    "e.i",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iw"]
+af = ["jo"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ip",
+    "it",
+]
+af = [
+    "ib",
+    "o",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Hanniu"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: These changes are likely very incomplete. The source did not have much to say about this language.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+    "ts",
+]
+af = [
+    "p.",
+    "k.",
+    "tʃ.",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal][+plosive -voice][+plosive]"]
+af = ["mnj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["m"]
+af = ["mt."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]w"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["çl"]
+af = ["rts"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Finals:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["∅"]
+en = "{u,a}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["or"]
+af = ["ro"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "an",
+    "{at.is}",
+]
+af = [
+    "o",
+    "ie",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Japhug"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume (2004), “Phonologie et Morphologie du Japhug (rGyalrong)”. UniversitÃ© Paris-Diderot -Paris VII <tel-00138568>. <https:"
+so = ["s5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: This source is in French and looks to at least sometimes use a transcription that isn’t IPA.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "o",
+]
+af = [
+    "ɯ",
+    "u",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aŋ"]
+af = ["o"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔk"]
+af = ["ɤɣ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔ"]
+af = ["ɤ"]
+en = "_{t,r}# (possibly also _s# dialectally)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["o"]
+en = "_m#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʑ",
+    "j",
+]
+af = [
+    "ndʑ",
+    "ʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["w"]
+en = "#{z,r}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["m"]
+en = "#_kʰ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Kham To"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+    "pr",
+    "br",
+    "çp",
+]
+af = [
+    "p.j",
+    "p",
+    "br",
+    "pj",
+    "ʃb",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d(r)"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç[+plosive -voice]"]
+af = ["ʃt"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["s"]
+en = "_k"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "([+nasal])ɡ",
+]
+af = [
+    "k.",
+    "(m)k",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]kj",
+    "ɡj",
+    "sɡj",
+]
+af = [
+    "mj",
+    "ts",
+    "stʃj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["sɡr"]
+af = ["skr"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+consonant +sibilant]w",
+    "ç",
+    "[+labial,bilabial]ç",
+    "[+nasal]ç",
+    "çl",
+]
+af = [
+    "s",
+    "ʂ",
+    "ʃ",
+    "mʃ",
+    "ʃl",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "{dz,[+velar][+plosive -voice][+plosive]}",
+    "[+nasal][+plosive -voice][+plosive]",
+    "rdz",
+    "dzl",
+    "dʒ",
+]
+af = [
+    "s",
+    "ts",
+    "{dz,mtʃ.}",
+    "rts",
+    "tsl",
+    "tʃ.",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç"]
+af = ["ʃ"]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ŋ(w)",
+    "[+nasal]{ŋ,nj}",
+]
+af = [
+    "ȵ",
+    "mɳ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "{ʃ,r}n_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["o"]
+en = "_k"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["os"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["op"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["at"]
+af = ["{at,ɛ,ed}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["an"]
+af = ["ia"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["ɳ"]
+en = "{o,a}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aj"]
+af = ["oi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_{s,#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["et"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ej"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["o"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ŋ,j}"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "lCog Rtse"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "([+nasal])p",
+    "[+nasal]b",
+    "s[+labial,bilabial]",
+    "çp",
+    "çb",
+    "pr",
+    "br",
+    "{p,b}j",
+]
+af = [
+    "(m)pʰ",
+    "(m)p",
+    "sp",
+    "ʝb",
+    "çp",
+    "br",
+    "pʰj",
+    "pʰj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "([+nasal])t",
+    "([+nasal])d",
+    "st",
+    "sd",
+    "[+velar][+plosive -voice]",
+    "ç[+plosive -voice]",
+    "tr",
+    "dr",
+    "çtr",
+]
+af = [
+    "([+nasal])tʰ",
+    "mt",
+    "zd",
+    "st",
+    "kt",
+    "çt(j)",
+    "trh",
+    "tr",
+    "çtr",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "([+labial,bilabial])ɡ",
+    "sɡ",
+    "ç[+velar]",
+    "[+nasal]ɡ",
+    "k",
+    "sk",
+    "rk",
+    "(s)ɡj",
+    "(ʔ)kj",
+]
+af = [
+    "(p)k",
+    "sk",
+    "çk",
+    "mk",
+    "kʰ",
+    "zɡ",
+    "[+nasal]ɡ",
+    "(s)kj",
+    "(ʔ)kʰj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]kj",
+    "(s)ɡr",
+    "[+velar]ç",
+    "kr",
+    "skr",
+    "ɡr",
+]
+af = [
+    "mɡj",
+    "(s)kr",
+    "ɡçkr",
+    "kʰr",
+    "zɡr",
+    "[+nasal]ɡr",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+velar]"]
+af = ["ʔ"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]"]
+af = ["s"]
+en = "_w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]",
+    "[+labial,bilabial]",
+    "[+velar]",
+]
+af = [
+    "m",
+    "p",
+    "k",
+]
+en = "_ç"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "#ç_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "(r)dz",
+    "dzl",
+    "dʒ",
+    "[+nasal][+plosive -voice][+plosive]",
+    "[+labial,bilabial][+plosive -voice][+plosive]",
+    "[+velar]ts",
+    "[+velar][+plosive -voice][+plosive]",
+    "s[+plosive -voice][+plosive]",
+    "ç[+plosive -voice][+plosive]",
+]
+af = [
+    "tsʰ",
+    "(r)ts",
+    "[+nasal]dz",
+    "tsl",
+    "ts",
+    "ptç",
+    "ktç",
+    "kts",
+    "sts",
+    "{s,ç}ts",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+liquid][+plosive -voice][+plosive]"]
+af = ["ldʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["m"]
+en = "_{ŋ,ɲ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["*w"]
+af = ["ʔ"]
+en = "something to do either with back vowels or prefixes"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uŋ"]
+af = ["ak"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["om"]
+af = ["{o,a}m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ew",
+    "iw",
+]
+af = [
+    "i",
+    "jo",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Pati"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: These changes are likely very incomplete. The source did not have much to say about this language.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dʒ",
+    "[+nasal][+plosive -voice][+plosive]",
+]
+af = [
+    "{s,tʃ.}",
+    "tʃ.",
+    "m",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "im",
+    "it",
+    "ik",
+    "is",
+    "ij",
+]
+af = [
+    "em",
+    "u",
+    "e",
+    "es",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uk"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Suo Mo"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,b}",
+    "[+nasal]p",
+    "pr",
+    "{s,r}[+labial,bilabial]",
+    "çb",
+    "[+nasal]b",
+]
+af = [
+    "p",
+    "mp",
+    "mbr",
+    "sp",
+    "ʃp",
+    "p.s",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]t",
+    "tr",
+    "d",
+    "[+velar][+plosive -voice]",
+    "ç[+plosive -voice]",
+]
+af = [
+    "mt.",
+    "tʂ",
+    "t",
+    "kt",
+    "ʃt",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kr",
+    "rk",
+    "{r[+velar],[+labial,bilabial]ɡ}",
+    "ɡ",
+    "[+labial,bilabial]ɡ",
+    "sɡ",
+]
+af = [
+    "k.r",
+    "rk.",
+    "pk",
+    "k",
+    "sk",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡj",
+    "→",
+    "cç",
+    "?",
+    "(might",
+    "be",
+]
+af = ["tsç?)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔkj"]
+af = ["ktʃ."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç"]
+af = ["zɡ"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["∅"]
+en = "#_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["rs"]
+af = ["sr"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]"]
+af = ["s"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "lts",
+    "rts",
+    "[+nasal][+plosive -voice][+plosive]",
+    "[+labial,bilabial][+plosive -voice][+plosive]",
+    "[+plosive][+plosive -voice][+plosive]",
+]
+af = [
+    "lɖʐ",
+    "rts.",
+    "{mdzr,mtʃ}",
+    "nt.",
+    "sts",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dʒ",
+]
+af = [
+    "tʃ.",
+    "tʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["ȵ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["nj"]
+af = ["ɲ"]
+en = "#(r)_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["dz"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["o"]
+en = "_p"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["o"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "es",
+    "er",
+]
+af = [
+    "or",
+    "ər",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["iɛ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["a"]
+en = "_t"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["iɛ"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ɐ"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Trung"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: These changes are likely very incomplete. The source did not have much to say about this language.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kr"]
+af = ["dz"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["k"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]w"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["tsh"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["un"]
+af = ["ial"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["an"]
+af = ["a(i)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["əi"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["iə"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["it"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Tsa Ku Nao"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["n"]
+en = "_pr"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]"]
+af = ["p"]
+en = "r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["çb"]
+af = ["ʂp"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]b"]
+af = ["p."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d(r)",
+    "ç[+plosive -voice]",
+]
+af = [
+    "t",
+    "ʃt",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "{sɡ,ç[+velar]}",
+    "[+nasal]ɡ",
+    "r[+velar]",
+]
+af = [
+    "k.",
+    "sk",
+    "mɡ",
+    "nk",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kj"]
+af = ["tʃ."]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["ts"]
+en = "r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]w"]
+af = ["sj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "([+labial,bilabial])ç",
+    "[+nasal]ç",
+    "çl",
+]
+af = [
+    "(b)ɕ",
+    "np.j",
+    "ʂl",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dz",
+    "[+nasal][+plosive -voice][+plosive]",
+    "[+velar][+plosive -voice][+plosive]",
+    "s[+plosive -voice][+plosive]",
+]
+af = [
+    "tʃ",
+    "ts",
+    "{ts,m}",
+    "ɡts",
+    "sp",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʂ"]
+en = "_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]nj"]
+af = ["mɲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "nj",
+    "rnj",
+]
+af = [
+    "nj",
+    "rɲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "#_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Finals:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ut",
+    "u{k,n}",
+    "ur",
+]
+af = [
+    "ud",
+    "uo",
+    "uɛ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uj"]
+af = ["ue"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["om"]
+af = ["{on,am}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a(t)"]
+af = ["ɛ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ap"]
+af = ["ɛk"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["an"]
+af = ["ɿɛ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ew",
+    "e",
+    "ej",
+]
+af = [
+    "ə",
+    "i",
+    "ei",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "i{t,k}",
+]
+af = [
+    "{ə,iɛ}",
+    "ə",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iŋ"]
+af = ["ʅ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Tzu Ta"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]"]
+af = ["p"]
+en = "s_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+labial,bilabial]",
+    "t",
+]
+af = [
+    "pdz",
+    "tʃ",
+]
+en = "r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]p",
+    "[+nasal]b",
+    "[+nasal]t",
+    "[+nasal]ɡ",
+    "[+nasal]ç",
+]
+af = [
+    "sts",
+    "mp",
+    "mtʰ",
+    "mk",
+    "ntsʰdz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["b"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{d,[+velar][+plosive -voice]}",
+    "st",
+]
+af = [
+    "tʃ",
+    "zdʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dr",
+    "çdr",
+]
+af = [
+    "ʈ",
+    "ʂʈdz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç[+velar]"]
+af = ["ʂk"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "rk",
+    "kr",
+    "kj",
+    "[+nasal]kj",
+    "ɡr",
+]
+af = [
+    "kʰdz",
+    "nɡ",
+    "kʰr",
+    "tʃh",
+    "dʒ",
+    "nkʰr",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["∅"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+labial,bilabial]ç"]
+af = ["b.ç"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["çl"]
+af = ["sɬ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+consonant +sibilant]w",
+    "ç",
+]
+af = [
+    "swdz",
+    "sdz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal][+plosive -voice][+plosive]",
+    "[+velar][+plosive -voice][+plosive]",
+    "l[+plosive -voice][+plosive]",
+]
+af = [
+    "mʈʂ",
+    "{kts,ʈʂʰ}",
+    "bɖʐ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dz",
+    "rdz",
+    "dʒ",
+]
+af = [
+    "{ʈʂ,ʒ}",
+    "tsj",
+    "rtsʰ",
+    "ʈʂ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["j"]
+en = "r[+nasal]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ç"]
+af = ["ʂ"]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ(w)"]
+af = ["ȵ(wj)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]nj"]
+af = ["mɲ"]
+en = ""
+no = ["?"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["s"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uk",
+    "uŋ",
+]
+af = [
+    "{u,o}",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "_(p)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["ŋ"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aw",
+    "aj",
+]
+af = [
+    "au",
+    "ai",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "e",
+    "i",
+]
+af = [
+    "i",
+    "a",
+]
+en = "_m"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "it",
+    "ik",
+]
+af = [
+    "o",
+    "ek",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "iw",
+    "ij",
+]
+af = [
+    "iu",
+    "ei",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-rGyalrongic"
+to = "Wassu"
+or = "Pogostick Man"
+os = " from Nagano, Yashuiki (1979), “A Historical Study of rGyarong Initials and Prefixes”. Linguistics of the Tibeto-Burman Area 4(2):44 – 68; and Nagano, Yashuiki (1979), “A Historical Study of rGyarong Rhymes”. Linguistics of the Tibeto-Burman Area 5(1):37 – 47"
+so = ["4"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Initials:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pr",
+    "b",
+]
+af = [
+    "br",
+    "p",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d",
+    "[+velar][+plosive -voice]",
+]
+af = [
+    "l",
+    "kt",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "kr",
+    "kj",
+    "ɡ",
+]
+af = [
+    "k.",
+    "k.r",
+    "ts.",
+    "ɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡ",
+    "ç",
+]
+af = [
+    "∅",
+    "zɡ",
+]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+labial,bilabial]ç",
+    "çl",
+]
+af = [
+    "ʃ",
+    "ʃn",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dzl",
+    "[+nasal][+plosive -voice][+plosive]",
+]
+af = [
+    "{tʃ.,j}",
+    "tsl",
+    "m",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal]nj",
+    "çnj",
+]
+af = [
+    "mn",
+    "ʃn",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Rhymes:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uk"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["ə"]
+en = "_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["∅"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "an",
+    "ap",
+]
+af = [
+    "ai",
+    "ie",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aj"]
+af = ["ui"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ew"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "it",
+    "ik",
+]
+af = [
+    "o",
+    "i",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["is"]
+af = ["eu"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "im",
+    "iŋ",
+]
+af = [
+    "wa",
+    "ie",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ij"]
+af = ["e"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Old Tibetan"
+to = "Amdo dialects"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume (2004), “Phonologie et Morphologie du Japhug (rGyalrong)”. Université Paris-Diderot – Paris VII <tel-00138568>. <https:"
+so = ["s6"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: This source is in French and looks to at least sometimes use a transcription that isn’t IPA.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{d,ɡ,s,l,r}"]
+af = ["{h,r}"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʃ"]
+af = ["x"]
+en = "#_ (some dialects, never when following preinitials)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k(ʰ){r,j}",
+    "ɡ{r,j}",
+]
+af = [
+    "tɕ(ʰ)",
+    "dʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʰ",
+    "b",
+]
+af = [
+    "h",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ə"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["sr"]
+af = ["ʂ"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["either"]
+en = "_#"
+no = [
+    "i?",
+    "in",
+    "ending",
+    "diphthong",
+    "a",
+    "or",
+    "i",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = "_# (some dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["l"]
+en = "_# (further development in b[+liquid]a-brang) "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

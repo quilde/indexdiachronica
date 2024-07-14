@@ -1,0 +1,222 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Nyulnyulan"
+to = "Bardi"
+or = "Pogostick Man"
+os = " from Bowern, Claire Louise (2004), “Bardi Verb Morphology in Historical Perspective”"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["{w,j}"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{w,j}"]
+af = ["∅"]
+en = "[+vowel]0_[+vowel]0"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["awu"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aji"]
+af = ["iː"]
+en = "when unstressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i{w,j}"]
+af = ["∅"]
+en = "_a, when unstressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["u"]
+en = "_ju"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["i"]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɟ"]
+af = ["j"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲ"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ubu",
+    "aba",
+]
+af = [
+    "uː",
+    "aː",
+]
+en = "when stressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ib"]
+af = ["∅"]
+en = "_i, when unstressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["w"]
+en = "a_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aɡu"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i(ː)b",
+    "ik",
+]
+af = [
+    "iw",
+    "ij",
+]
+en = "_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]0"]
+af = ["∅"]
+en = "[+vowel]([+consonant])([+consonant])[+vowel]0([+consonant])([+consonant])_# (with some exceptions)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Some vowel deletions, the conditioning of which the author does not elaborate upon",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "when stressed ? "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

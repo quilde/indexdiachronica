@@ -1,0 +1,265 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Barbareño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["[+sonorant -glottalized][+vowel]ˀ[+sonorant]"]
+af = ["ˀ[+sonorant][+vowel][+sonorant -glottalized]"]
+en = "_$"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+sonorant -glottalized][+vowel][-sonorant]ʼ"]
+af = ["ˀ[+sonorant][+vowel][-sonorant -ejective]"]
+en = "_$"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Cruzeño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["tʃ"]
+en = ""
+no = [
+    "cases’)ˈ",
+    "certain",
+    "“(‘in",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Inseño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʼ",
+    "qʼ",
+]
+af = [
+    "t",
+    "q",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˀ[+nasal]",
+    "ˀw",
+]
+af = [
+    "[+nasal]",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Obispeño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["[+plosive]ʼ"]
+af = ["ʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "k",
+]
+af = [
+    "{q,k}",
+    "{k(ʃ),tʲ}",
+]
+en = ""
+no = ["(allophonic)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ˀm,ˀn}"]
+af = ["{∅,ʔ}"]
+en = ""
+no = [
+    "likely)",
+    "more",
+    "is",
+    "former",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ˀw"]
+af = ["w"]
+en = ""
+no = [
+    "glottalized)",
+    "remained",
+    "have",
+    "(may",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ˀj"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Purisimeño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ˀj"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["qʼ"]
+af = ["q"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Chumash"
+to = "Ventureño"
+or = "CatDoom"
+os = " from Klar, Kathryn (1977), Topics in Historical Chumash Grammar. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʼ",
+    "kʼ",
+    "qʼ",
+]
+af = [
+    "p",
+    "k",
+    "q",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˀm",
+    "ˀn",
+    "ˀl",
+    "ˀj",
+]
+af = [
+    "m",
+    "n",
+    "l",
+    "j",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

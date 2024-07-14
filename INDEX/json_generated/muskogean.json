@@ -1,992 +1,992 @@
 {
-    "fa": "Muskogean",
-    "cs": [
-      {
-        "fr": "Proto-Muskogean",
-        "to": "Proto-Eastern Muskogean",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "θ"
-            ],
-            "af": [
-              "ɬ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xʷ"
-            ],
-            "af": [
-              "f"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel +consonant +weak]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_[+vowel]#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Alabama",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k[+vowel]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "x"
-            ],
-            "af": [
-              "s",
-              "h"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Creek",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel]1k[+vowel]2"
-            ],
-            "af": [
-              "[+vowel]2ː"
-            ],
-            "en": "#(([+consonant])[+vowel]([+consonant]))([+consonant])_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]1k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+plosive]"
-            ],
-            "af": [
-              "[+plosive +voice]"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "x"
-            ],
-            "en": "_%",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]0x[+vowel]0"
-            ],
-            "af": [
-              "[+vowel]0ː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "Initial vowels lost?",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "a_o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "ŋ"
-            ],
-            "en": "_k",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "ts and t alternate before k",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kl"
-            ],
-            "af": [
-              "kː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+consonant]ː"
-            ],
-            "af": [
-              "[+consonant -long]"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Hitchiti",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]k_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "[+vowel]0_[+vowel]0",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Korasati",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]k[+vowel]"
-            ],
-            "af": [
-              "ˈ[+vowel]"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nt"
-            ],
-            "af": [
-              "tː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Mikasuri",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]k_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "[+vowel]0_[+vowel]0",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+consonant] ! _k",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "x"
-            ],
-            "af": [
-              "ts",
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Eastern Muskogean",
-        "to": "Seminole",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʃ",
-              "x"
-            ],
-            "af": [
-              "ts",
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tl"
-            ],
-            "af": [
-              "tː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Muskogean",
-        "to": "Proto-Western Muskogean",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ts",
-              "tʃ"
-            ],
-            "af": [
-              "s",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "θ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+consonant]1[+weak]",
-              "[+consonant]2[+weak]"
-            ],
-            "af": [
-              "ʔ",
-              "h"
-            ],
-            "en": "[+vowel]_[+vowel]#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]{k,ʔ,h}_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xʷ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "%_{o,i}([+consonant])#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "xʷ_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "oj",
-              "aj"
-            ],
-            "af": [
-              "iː",
-              "{aː,iː}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#([+consonant])[+vowel]([+consonant])([+consonant])[+vowel]([+consonant])([+consonant])_# (sporadic in the case of other vowels)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tl",
-              "st"
-            ],
-            "af": [
-              "lː",
-              "tː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Western Muskogean",
-        "to": "Chickasaw",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "aw"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xʷɬ"
-            ],
-            "af": [
-              "ɬː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Western Muskogean",
-        "to": "Choctaw",
-        "or": "Pogostick Man",
-        "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xʷ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɬh"
-            ],
-            "af": [
-              "ɬː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Muskogean",
+      "to": "Proto-Eastern Muskogean",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "θ"
+          ],
+          "af": [
+            "ɬ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xʷ"
+          ],
+          "af": [
+            "f"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel +consonant +weak]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_[+vowel]#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Alabama",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k[+vowel]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "x"
+          ],
+          "af": [
+            "s",
+            "h"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Creek",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel]1k[+vowel]2"
+          ],
+          "af": [
+            "[+vowel]2ː"
+          ],
+          "en": "#(([+consonant])[+vowel]([+consonant]))([+consonant])_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]1k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+plosive]"
+          ],
+          "af": [
+            "[+plosive +voice]"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "x"
+          ],
+          "en": "_%",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]0x[+vowel]0"
+          ],
+          "af": [
+            "[+vowel]0ː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "Initial vowels lost?",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "a_o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "ŋ"
+          ],
+          "en": "_k",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "ts and t alternate before k",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kl"
+          ],
+          "af": [
+            "kː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+consonant]ː"
+          ],
+          "af": [
+            "[+consonant -long]"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Hitchiti",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]k_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "[+vowel]0_[+vowel]0",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Korasati",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]k[+vowel]"
+          ],
+          "af": [
+            "ˈ[+vowel]"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nt"
+          ],
+          "af": [
+            "tː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Mikasuri",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]k_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "[+vowel]0_[+vowel]0",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+consonant] ! _k",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "x"
+          ],
+          "af": [
+            "ts",
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Eastern Muskogean",
+      "to": "Seminole",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʃ",
+            "x"
+          ],
+          "af": [
+            "ts",
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tl"
+          ],
+          "af": [
+            "tː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Muskogean",
+      "to": "Proto-Western Muskogean",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ts",
+            "tʃ"
+          ],
+          "af": [
+            "s",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "θ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+consonant]1[+weak]",
+            "[+consonant]2[+weak]"
+          ],
+          "af": [
+            "ʔ",
+            "h"
+          ],
+          "en": "[+vowel]_[+vowel]#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]{k,ʔ,h}_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xʷ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "%_{o,i}([+consonant])#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "xʷ_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "oj",
+            "aj"
+          ],
+          "af": [
+            "iː",
+            "{aː,iː}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#([+consonant])[+vowel]([+consonant])([+consonant])[+vowel]([+consonant])([+consonant])_# (sporadic in the case of other vowels)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tl",
+            "st"
+          ],
+          "af": [
+            "lː",
+            "tː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Western Muskogean",
+      "to": "Chickasaw",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "aw"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xʷɬ"
+          ],
+          "af": [
+            "ɬː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Western Muskogean",
+      "to": "Choctaw",
+      "or": "Pogostick Man",
+      "os": " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xʷ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɬh"
+          ],
+          "af": [
+            "ɬː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

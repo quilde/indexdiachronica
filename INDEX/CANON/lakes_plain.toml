@@ -1,0 +1,1925 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Lakes Plain"
+to = "Proto-Far West"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["ɾ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["echo"]
+en = "[+consonant]_[+consonant][+vowel]"
+no = ["vowel"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant][+vowel]"]
+af = ["∅"]
+en = "_# (possibly only when [+consonant][+vowel]_#, possibly sporadic)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "e",
+    "o",
+]
+af = [
+    "ɛ",
+    "ɔ",
+]
+en = ""
+no = ["(?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Far West"
+to = "Awera"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["ɣ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["β~m"]
+en = "#_[+vowel -high]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "ɡ",
+]
+af = [
+    "β~w",
+    "ɾ~∅",
+    "ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s"]
+en = "#_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "t~ɾ~n",
+    "n",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "iiɛ",
+    "[+vowel]diɛ",
+]
+af = [
+    "ijɛ",
+    "βe",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Far West"
+to = "Saponi"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "d",
+]
+af = [
+    "p~f",
+    "n",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s"]
+en = "#_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["β~m"]
+en = "#_[+vowel +low]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "p~f",
+    "w",
+    "ɾ",
+    "ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "iiɛ",
+    "[+vowel]diɛ",
+]
+af = [
+    "dzɛ",
+    "ɾɛ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Far West"
+to = "Rasawa"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "ɸ",
+    "β",
+    "ɾ",
+    "x~k",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s"]
+en = "#_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["β~m"]
+en = "#_[+vowel +low]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "iiɛ",
+    "[+vowel]diɛ",
+]
+af = [
+    "ijɛ",
+    "βie",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Lakes Plain"
+to = "Proto-Tariku"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "d",
+]
+af = [
+    "ɸ",
+    "ɾ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tariku"
+to = "Proto-Central Tariku"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["echo"]
+en = "[+consonant]_[+consonant][+vowel]"
+no = ["vowel"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ku"]
+af = ["b"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+]
+af = [
+    "ɸ",
+    "∅~k",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s~ti"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["ɾ~d"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = ""
+no = ["(?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "e",
+    "o",
+]
+af = [
+    "ɛ",
+    "ɔ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Tariku"
+to = "Edopi"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɸ"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "k",
+]
+af = [
+    "m~b",
+    "∅",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["d~n~l"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["dz"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["s~t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "_î"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɛ"]
+af = ["e"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Tariku"
+to = "Iau"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant][+vowel]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɸ"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "k",
+]
+af = [
+    "m~b",
+    "∅",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["d~l~n"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“Some vowel coalescence takes place following the above; the author notes that the vowels often take on the tonal characteristics of the absorbed vowel”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["au"]
+af = ["ɔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tariku"
+to = "Proto-East Tariku"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s~ti"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["ɾ~∅"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = ""
+no = ["(?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ɛ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Biritai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["h~ɸ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "di_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "î_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ku"]
+af = ["b"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["∅"]
+en = "_[+vowel]̂"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Doutai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["p~ɸ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["di"]
+af = ["dz"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["dz"]
+en = "_[+vowel]̂"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "! _[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Eritai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["p~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "[+consonant]",
+]
+af = [
+    "∅",
+    "d",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["di[+vowel]"]
+af = ["dz"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "∅",
+    "→",
+    "dz",
+]
+af = ["î_[+vowel]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i[+consonant]"]
+af = ["i[+consonant]~i"]
+en = "_{[+consonant],#} (not sure how this plays in with the change mentioned earlier about extra-high vowels"
+no = [" I must have misread something)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Kai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "di_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "î_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Obokuitai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "[+consonant]",
+]
+af = [
+    "b̚",
+    "ɡ̚",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "di_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "î[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Sikaritai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["p~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "[+consonant]",
+]
+af = [
+    "b~∅",
+    "{d,ɡ}",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["di[+vowel]"]
+af = ["dz"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "î_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ik"]
+af = ["ɡ"]
+en = "{s,k,p}_ ?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-East Tariku"
+to = "Waritai"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "d",
+]
+af = [
+    "p~ɸs",
+    "d~t",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "di_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "! [+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["∅"]
+en = "_[+vowel]̂"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["dz"]
+en = "î_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ik"]
+af = ["ɡ"]
+en = "{s,p}_ ?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tariku"
+to = "Proto-West Tariku"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["ɾ~∅"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["k~∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i[+consonant]",
+    "u[+consonant]",
+]
+af = [
+    "î",
+    "û",
+]
+en = "_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Deirate"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~l~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["b~ᵐb"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ti",
+    "di",
+]
+af = [
+    "s",
+    "dz",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Faia"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Fayu"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "b~ᵐb",
+    "d~ⁿd",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ti",
+    "di",
+]
+af = [
+    "s",
+    "dz",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Kirikiri"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~l~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "b~ᵐb",
+    "d~ⁿd",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ti"]
+af = ["s"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Sehudate"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["b~ᵐb"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ti",
+    "di",
+]
+af = [
+    "s",
+    "dz",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Tause"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "b~ᵐb",
+    "d~ⁿd",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ti",
+    "di",
+]
+af = [
+    "s",
+    "j",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-West Tariku"
+to = "Weirate"
+or = "Pogostick Man"
+os = " from Clouse, Duane (1993), “Languages of the Western Lakes Plains”. IRIAN: Bulletin of Irian Jaya XXI:1 – 17"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ɸ~h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+    "k",
+]
+af = [
+    "b~β",
+    "ɾ~l~∅",
+    "k~x~ɡ~ɣ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "b~ᵐb",
+    "d~ⁿd",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ti",
+    "di",
+]
+af = [
+    "s",
+    "dz",
+]
+en = "_[+vowel] "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

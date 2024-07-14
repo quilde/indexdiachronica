@@ -1,2627 +1,2627 @@
 {
-    "fa": "Uralic",
-    "cs": [
-      {
-        "fr": "Proto-Uralic",
-        "to": "Pre-Finnic",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_#, in latives",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_# else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "iw",
-              "ow"
-            ],
-            "af": [
-              "y",
-              "uː"
-            ],
-            "en": "_([+consonant]) (*)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_{t,tsʲ,#}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɤ(ː?)",
-              "ɑː",
-              "æː"
-            ],
-            "af": [
-              "ɑ(ː?)",
-              "oː",
-              "eː"
-            ],
-            "en": "stressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "æ"
-            ],
-            "en": "{a,e,ê,i,y}(X)([+consonant])([+consonant])_, when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+affricate]w"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "unstressed (possibly analogical)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "_[+consonant], when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "iw"
-            ],
-            "af": [
-              "u"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Pre-Finnic",
-        "to": "Proto-Finnic",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ê",
-              "ô"
-            ],
-            "af": [
-              "e",
-              "o"
-            ],
-            "en": "_(X)[+consonant]i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ê"
-            ],
-            "af": [
-              "y"
-            ],
-            "en": "_(X)[+consonant][+affricate]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ô",
-              "→",
-              "ɯ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "_(X)[+consonant][+affricate]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ej"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "æ"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "_j, unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɑ"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "ˈ{o,u}(X)[+consonant]_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɑ"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "ˈ{a,e,i}(X)[+consonant]_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ixi",
-              "uxu"
-            ],
-            "af": [
-              "øː",
-              "oː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xi"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "{[+syllable],[-sonorant]}_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "x"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "{I,[+vowel +front]}_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+syllable]ŋ[+affricate]",
-              "eŋi"
-            ],
-            "af": [
-              "[-sonorant]ː",
-              "øː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋi"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "[+vowel]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_t (?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "_[+consonant]ʲ (possibly _[+fricative] instead?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "_{[+affricate],[-sonorant],[+syllable]}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "{[-sonorant],[+syllable]}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "_[+consonant] ! _k",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "[+consonant]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "uwa"
-            ],
-            "af": [
-              "oː"
-            ],
-            "en": "",
-            "no": [
-              "(*)"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+syllable]wi",
-              "ewi"
-            ],
-            "af": [
-              "oː",
-              "øː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "æw_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "wI"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ji"
-            ],
-            "af": [
-              "[-sonorant]"
-            ],
-            "en": "{i,e,y}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+affricate]j_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{o,u}j_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+consonant]_i{[+consonant],#}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "yje",
-              "→",
-              "øː"
-            ],
-            "af": [
-              "jø",
-              "(?)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "uw",
-              "ij"
-            ],
-            "af": [
-              "ow",
-              "ej"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tsʲ"
-            ],
-            "af": [
-              "ʃ",
-              "sʲ"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ðʲ",
-              "sʲ",
-              "tsʲ(ː)",
-              "lʲ"
-            ],
-            "af": [
-              "ð",
-              "s",
-              "ts(ː)",
-              "l"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "ni"
-            ],
-            "en": "#([+consonant])i_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "in"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_tː",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "o_st (*)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "_k, in [+plosive]outh [+vowel +front]stonian",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tk"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "in [+labial,bilabial]re-[+liquid]ivonian (?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː"
-            ],
-            "af": [
-              "t",
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "_i ! following a coronal obstruent or “before a derivational suffixˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tj"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "! following a coronal obstruent or “before a derivational suffixˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "→",
-              "ʂ"
-            ],
-            "af": [
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "x"
-            ],
-            "en": "_l",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_{s,ts}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Finnic",
-        "to": "Proto-Finnish",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "j",
-              "w"
-            ],
-            "af": [
-              "i",
-              "[+syllable]"
-            ],
-            "en": "[+vowel]_{[+consonant],#}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{[+vowel][+consonant],ks}_ at the ends of a suffix",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+consonant +coronal]_%",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pː",
-              "tː",
-              "tsː",
-              "kː"
-            ],
-            "af": [
-              "pˑ",
-              "tˑ",
-              "tsˑ",
-              "kˑ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p",
-              "t",
-              "ts",
-              "s",
-              "k"
-            ],
-            "af": [
-              "b",
-              "d",
-              "s",
-              "z",
-              "ɡ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b",
-              "d",
-              "ɡ"
-            ],
-            "af": [
-              "β",
-              "ð",
-              "ɣ"
-            ],
-            "en": "! [+nasal]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "j~ʋ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "βi"
-            ],
-            "af": [
-              "[+syllable]"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "f"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʋ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_{o,u,y}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_i (*)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "∅"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "#_{yː,øː,oː}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "oi"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]ː"
-            ],
-            "af": [
-              "[+vowel -long]"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{kt,pt}",
-              "{kts,pts}"
-            ],
-            "af": [
-              "tː",
-              "tːs"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "xk"
-            ],
-            "af": [
-              "kː"
-            ],
-            "en": "",
-            "no": [
-              "boundaries)",
-              "word",
-              "across",
-              "(even"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "(t(ː))sn",
-              "kx(tx)",
-              "rn",
-              "ln"
-            ],
-            "af": [
-              "sː",
-              "xː",
-              "rː",
-              "lː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{p,t,k}({p,t,k})n",
-              "{p,t,k}({p,t,k})m"
-            ],
-            "af": [
-              "nː",
-              "mː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{p,t,k}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_st",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ks,nts}",
-              "nt"
-            ],
-            "af": [
-              "s",
-              "t"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "tsˑ",
-              "tsː"
-            ],
-            "af": [
-              "s",
-              "θˑ",
-              "θː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{z,x(ː)}"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "h_ (suffixal)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{p,k}"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_t",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Finnish",
-        "to": "Standard Finnish",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "mb",
-              "nd",
-              "ŋɡ"
-            ],
-            "af": [
-              "mː",
-              "nː",
-              "ŋː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "eː",
-              "øː",
-              "oː"
-            ],
-            "af": [
-              "ie",
-              "yø",
-              "uo"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pˑ",
-              "tˑ",
-              "θˑ",
-              "kˑ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "θ",
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "[+consonant]_, when initial in a suffix",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]h"
-            ],
-            "af": [
-              "h[+vowel]"
-            ],
-            "en": "{j,v,n,r,l}_# (also some double-metathesis triggered by the condition of being m_ ?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sn"
-            ],
-            "af": [
-              "ns"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "h_h[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_h[+consonant] (sporadic)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{k,x}"
-            ],
-            "af": [
-              "˟"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "s_r",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p",
-              "→",
-              "β"
-            ],
-            "af": [
-              "[+syllable]"
-            ],
-            "en": "_[+sonorant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t",
-              "→",
-              "z"
-            ],
-            "af": [
-              "[+syllable]"
-            ],
-            "en": "_r{[+affricate],[-sonorant]}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t",
-              "→",
-              "z"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "_r{i,e}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k",
-              "→",
-              "z"
-            ],
-            "af": [
-              "@"
-            ],
-            "en": "_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɣ"
-            ],
-            "en": "{i,e}_[+sonorant]{i,e}",
-            "no": [
-              "i"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k",
-              "→",
-              "ɣ"
-            ],
-            "af": [
-              "[+syllable]"
-            ],
-            "en": "{[+affricate],[-sonorant],[+syllable]}_[+sonorant] ! [+sonorant] = j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "β"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʋ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_[+syllable][+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ið"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "ˈ[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "lð",
-              "rð"
-            ],
-            "af": [
-              "lː",
-              "rː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "! ˈ[+vowel](X)_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "[+consonant]_e",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "[+syllable]_[+syllable]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "[+vowel][+vowel]0_[+vowel]0 ! [+vowel]0 = [+syllable]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel -stress](X)_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+affricate][-sonorant]"
-            ],
-            "af": [
-              "{[+affricate],[-sonorant],[+syllable]}ː"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "[+affricate]_, when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+syllable]e"
-            ],
-            "af": [
-              "eː"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel][+syllable]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i[+syllable]",
-              "[-sonorant][+syllable]"
-            ],
-            "af": [
-              "[+syllable]ː",
-              "[-sonorant]ː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "æ"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "e([+consonant]…)_([+consonant]…)o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "ø"
-            ],
-            "en": "#([+consonant]…)_y",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "y"
-            ],
-            "en": "#([+consonant]…)l_y",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "y"
-            ],
-            "en": "#([+consonant]…)_væ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "θ(ː)",
-              "ð"
-            ],
-            "af": [
-              "ts",
-              "d"
-            ],
-            "en": "",
-            "no": [
-              "respectively)",
-              "{r,∅},",
-              "and",
-              "{t(ː),h~t}",
-              "become",
-              "may",
-              "these",
-              "dialects",
-              "some",
-              "in",
-              "additionally,",
-              "exceptions;",
-              "sporadic",
-              "highly",
-              "some",
-              "have",
-              "does",
-              "latter",
-              "(this"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Standard Finnish",
-        "to": "Modern Standard Finnish",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_r “in inherited vocabularyˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]a"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ie",
-              "yɤ",
-              "uo"
-            ],
-            "af": [
-              "iː",
-              "yː",
-              "uː"
-            ],
-            "en": "_[+affricate]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Finnic",
-        "to": "Livonian",
-        "or": "Tropylium",
-        "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t",
-              "ts",
-              "s([+consonant])",
-              "n",
-              "l",
-              "r"
-            ],
-            "af": [
-              "tʲ",
-              "tsʲ",
-              "sʲ([+consonant])",
-              "nʲ",
-              "lʲ",
-              "rʲ"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts(ʲ)"
-            ],
-            "af": [
-              "s(ʲ)"
-            ],
-            "en": "! n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "ɤ"
-            ],
-            "en": "_[+consonant]([+consonant]){a,o,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "æ"
-            ],
-            "af": [
-              "ɑ"
-            ],
-            "en": "unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{#,[+consonant]}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]n"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_s",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɑ",
-              "æ"
-            ],
-            "af": [
-              "æe"
-            ],
-            "en": "_([+consonant]…)i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "ə"
-            ],
-            "en": "unstressed ! [+vowel] = ɑ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɑ"
-            ],
-            "af": [
-              "ə"
-            ],
-            "en": "[+vowel][+consonant]([+consonant])ɑ[+consonant]([+consonant])_# when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]h"
-            ],
-            "af": [
-              "[+vowel]ːɦ"
-            ],
-            "en": "_[+consonant], except maybe ! _j and",
-            "no": [
-              "/or _ʋ"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+liquid][+vowel]"
-            ],
-            "af": [
-              "[+vowel][+liquid]"
-            ],
-            "en": "{#,[+vowel],[-sonorant]}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p",
-              "t(ʲ)",
-              "s(ʲ)",
-              "k"
-            ],
-            "af": [
-              "b",
-              "d(ʲ)",
-              "z(ʲ)",
-              "ɡ"
-            ],
-            "en": "! #_ or adjacent to [+consonant -voice]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "∅"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "([+consonant])[+vowel]_[+consonant][+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ə"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ə"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel][+consonant]_[+consonant][+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+consonant]"
-            ],
-            "af": [
-              "[+consonant]ː"
-            ],
-            "en": "ʔ_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "dj",
-              "lj",
-              "rj",
-              "ɡj"
-            ],
-            "af": [
-              "dʲ",
-              "lːʲ",
-              "rːʲ",
-              "jɡ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʋ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{d,z}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "lʋ",
-              "rʋ",
-              "jʋ"
-            ],
-            "af": [
-              "lː",
-              "rː",
-              "jː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʋ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+consonant]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel][+consonant]ːɑ"
-            ],
-            "af": [
-              "[+vowel]ː[+consonant]ɑ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+consonant]ː"
-            ],
-            "af": [
-              "[+consonant -long]"
-            ],
-            "en": "! in verbal forms when [+vowel]_ə",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɑː",
-              "au"
-            ],
-            "af": [
-              "ɔː",
-              "ɔu"
-            ],
-            "en": "",
-            "no": [
-              "metathesis?)",
-              "to",
-              "due",
-              "partially",
-              "least",
-              "at",
-              "apparently",
-              "develops,",
-              "ɑː",
-              "sometimes",
-              "(though"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "eː",
-              "øː",
-              "oː",
-              "ɤ(ː)"
-            ],
-            "af": [
-              "iːe",
-              "yːø",
-              "uːo",
-              "ɨ(ː)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɦ"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sʲ",
-              "tsʲ",
-              "zʲ",
-              "dzʲ"
-            ],
-            "af": [
-              "ʃʲ",
-              "tʃʲ",
-              "ʒʲ",
-              "dʒʲ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "æy",
-              "ey"
-            ],
-            "af": [
-              "æu",
-              "eu"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "y",
-              "ø"
-            ],
-            "af": [
-              "i",
-              "e"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_[+sonorant][+consonant]([+consonant])ɑ (includes diphthongs)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "aː"
-            ],
-            "en": "[+vowel][+consonant]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e",
-              "o"
-            ],
-            "af": [
-              "eː",
-              "oː"
-            ],
-            "en": "_[+consonant]ɑ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "o"
-            ],
-            "af": [
-              "oː"
-            ],
-            "en": "_{[+sonorant][+consonant]#,i}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "eː",
-              "oː"
-            ],
-            "af": [
-              "je",
-              "wo"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "ʋ"
-            ],
-            "en": "#_o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "wo"
-            ],
-            "af": [
-              "ʊ"
-            ],
-            "en": "[+labial,bilabial]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɔ(ː)"
-            ],
-            "af": [
-              "o(ː)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Uralic",
+      "to": "Pre-Finnic",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_#, in latives",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_# else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "iw",
+            "ow"
+          ],
+          "af": [
+            "y",
+            "uː"
+          ],
+          "en": "_([+consonant]) (*)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_{t,tsʲ,#}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɤ(ː?)",
+            "ɑː",
+            "æː"
+          ],
+          "af": [
+            "ɑ(ː?)",
+            "oː",
+            "eː"
+          ],
+          "en": "stressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "æ"
+          ],
+          "en": "{a,e,ê,i,y}(X)([+consonant])([+consonant])_, when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+affricate]w"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "unstressed (possibly analogical)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "_[+consonant], when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "iw"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Pre-Finnic",
+      "to": "Proto-Finnic",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ê",
+            "ô"
+          ],
+          "af": [
+            "e",
+            "o"
+          ],
+          "en": "_(X)[+consonant]i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ê"
+          ],
+          "af": [
+            "y"
+          ],
+          "en": "_(X)[+consonant][+affricate]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ô",
+            "→",
+            "ɯ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "_(X)[+consonant][+affricate]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ej"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "æ"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "_j, unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɑ"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "ˈ{o,u}(X)[+consonant]_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɑ"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "ˈ{a,e,i}(X)[+consonant]_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ixi",
+            "uxu"
+          ],
+          "af": [
+            "øː",
+            "oː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xi"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "{[+syllable],[-sonorant]}_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "x"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "{I,[+vowel +front]}_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+syllable]ŋ[+affricate]",
+            "eŋi"
+          ],
+          "af": [
+            "[-sonorant]ː",
+            "øː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋi"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "[+vowel]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_t (?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "_[+consonant]ʲ (possibly _[+fricative] instead?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "_{[+affricate],[-sonorant],[+syllable]}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "{[-sonorant],[+syllable]}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "_[+consonant] ! _k",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "uwa"
+          ],
+          "af": [
+            "oː"
+          ],
+          "en": "",
+          "no": [
+            "(*)"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+syllable]wi",
+            "ewi"
+          ],
+          "af": [
+            "oː",
+            "øː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "æw_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "wI"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ji"
+          ],
+          "af": [
+            "[-sonorant]"
+          ],
+          "en": "{i,e,y}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+affricate]j_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{o,u}j_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+consonant]_i{[+consonant],#}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "yje",
+            "→",
+            "øː"
+          ],
+          "af": [
+            "jø",
+            "(?)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "uw",
+            "ij"
+          ],
+          "af": [
+            "ow",
+            "ej"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tsʲ"
+          ],
+          "af": [
+            "ʃ",
+            "sʲ"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ðʲ",
+            "sʲ",
+            "tsʲ(ː)",
+            "lʲ"
+          ],
+          "af": [
+            "ð",
+            "s",
+            "ts(ː)",
+            "l"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "ni"
+          ],
+          "en": "#([+consonant])i_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "in"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_tː",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "o_st (*)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "_k, in [+plosive]outh [+vowel +front]stonian",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tk"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "in [+labial,bilabial]re-[+liquid]ivonian (?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː"
+          ],
+          "af": [
+            "t",
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "_i ! following a coronal obstruent or “before a derivational suffixˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tj"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "! following a coronal obstruent or “before a derivational suffixˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "→",
+            "ʂ"
+          ],
+          "af": [
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "x"
+          ],
+          "en": "_l",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_{s,ts}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Finnic",
+      "to": "Proto-Finnish",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "j",
+            "w"
+          ],
+          "af": [
+            "i",
+            "[+syllable]"
+          ],
+          "en": "[+vowel]_{[+consonant],#}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{[+vowel][+consonant],ks}_ at the ends of a suffix",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+consonant +coronal]_%",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pː",
+            "tː",
+            "tsː",
+            "kː"
+          ],
+          "af": [
+            "pˑ",
+            "tˑ",
+            "tsˑ",
+            "kˑ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p",
+            "t",
+            "ts",
+            "s",
+            "k"
+          ],
+          "af": [
+            "b",
+            "d",
+            "s",
+            "z",
+            "ɡ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b",
+            "d",
+            "ɡ"
+          ],
+          "af": [
+            "β",
+            "ð",
+            "ɣ"
+          ],
+          "en": "! [+nasal]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "j~ʋ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "βi"
+          ],
+          "af": [
+            "[+syllable]"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "f"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʋ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_{o,u,y}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_i (*)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "∅"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "#_{yː,øː,oː}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "oi"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]ː"
+          ],
+          "af": [
+            "[+vowel -long]"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{kt,pt}",
+            "{kts,pts}"
+          ],
+          "af": [
+            "tː",
+            "tːs"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "xk"
+          ],
+          "af": [
+            "kː"
+          ],
+          "en": "",
+          "no": [
+            "boundaries)",
+            "word",
+            "across",
+            "(even"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "(t(ː))sn",
+            "kx(tx)",
+            "rn",
+            "ln"
+          ],
+          "af": [
+            "sː",
+            "xː",
+            "rː",
+            "lː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{p,t,k}({p,t,k})n",
+            "{p,t,k}({p,t,k})m"
+          ],
+          "af": [
+            "nː",
+            "mː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{p,t,k}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_st",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ks,nts}",
+            "nt"
+          ],
+          "af": [
+            "s",
+            "t"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "tsˑ",
+            "tsː"
+          ],
+          "af": [
+            "s",
+            "θˑ",
+            "θː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{z,x(ː)}"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "h_ (suffixal)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{p,k}"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_t",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Finnish",
+      "to": "Standard Finnish",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "mb",
+            "nd",
+            "ŋɡ"
+          ],
+          "af": [
+            "mː",
+            "nː",
+            "ŋː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "eː",
+            "øː",
+            "oː"
+          ],
+          "af": [
+            "ie",
+            "yø",
+            "uo"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pˑ",
+            "tˑ",
+            "θˑ",
+            "kˑ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "θ",
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "[+consonant]_, when initial in a suffix",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]h"
+          ],
+          "af": [
+            "h[+vowel]"
+          ],
+          "en": "{j,v,n,r,l}_# (also some double-metathesis triggered by the condition of being m_ ?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sn"
+          ],
+          "af": [
+            "ns"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "h_h[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_h[+consonant] (sporadic)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{k,x}"
+          ],
+          "af": [
+            "˟"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "s_r",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p",
+            "→",
+            "β"
+          ],
+          "af": [
+            "[+syllable]"
+          ],
+          "en": "_[+sonorant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t",
+            "→",
+            "z"
+          ],
+          "af": [
+            "[+syllable]"
+          ],
+          "en": "_r{[+affricate],[-sonorant]}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t",
+            "→",
+            "z"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "_r{i,e}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k",
+            "→",
+            "z"
+          ],
+          "af": [
+            "@"
+          ],
+          "en": "_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɣ"
+          ],
+          "en": "{i,e}_[+sonorant]{i,e}",
+          "no": [
+            "i"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k",
+            "→",
+            "ɣ"
+          ],
+          "af": [
+            "[+syllable]"
+          ],
+          "en": "{[+affricate],[-sonorant],[+syllable]}_[+sonorant] ! [+sonorant] = j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "β"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʋ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_[+syllable][+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ið"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "ˈ[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "lð",
+            "rð"
+          ],
+          "af": [
+            "lː",
+            "rː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "! ˈ[+vowel](X)_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "[+consonant]_e",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "[+syllable]_[+syllable]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "[+vowel][+vowel]0_[+vowel]0 ! [+vowel]0 = [+syllable]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel -stress](X)_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+affricate][-sonorant]"
+          ],
+          "af": [
+            "{[+affricate],[-sonorant],[+syllable]}ː"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "[+affricate]_, when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+syllable]e"
+          ],
+          "af": [
+            "eː"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel][+syllable]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i[+syllable]",
+            "[-sonorant][+syllable]"
+          ],
+          "af": [
+            "[+syllable]ː",
+            "[-sonorant]ː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "æ"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "e([+consonant]…)_([+consonant]…)o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "ø"
+          ],
+          "en": "#([+consonant]…)_y",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "y"
+          ],
+          "en": "#([+consonant]…)l_y",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "y"
+          ],
+          "en": "#([+consonant]…)_væ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "θ(ː)",
+            "ð"
+          ],
+          "af": [
+            "ts",
+            "d"
+          ],
+          "en": "",
+          "no": [
+            "respectively)",
+            "{r,∅},",
+            "and",
+            "{t(ː),h~t}",
+            "become",
+            "may",
+            "these",
+            "dialects",
+            "some",
+            "in",
+            "additionally,",
+            "exceptions;",
+            "sporadic",
+            "highly",
+            "some",
+            "have",
+            "does",
+            "latter",
+            "(this"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Standard Finnish",
+      "to": "Modern Standard Finnish",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_r “in inherited vocabularyˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]a"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ie",
+            "yɤ",
+            "uo"
+          ],
+          "af": [
+            "iː",
+            "yː",
+            "uː"
+          ],
+          "en": "_[+affricate]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Finnic",
+      "to": "Livonian",
+      "or": "Tropylium",
+      "os": " from Hakulinen, Lauri (1979), “Suomen kielen rakenne ja kehitys”. Otava; Häkkinen, Kaisa (2004), “Nykysuomen etymologinen sanakirja”. WSOY; Kallio, Petri (2007), “Kantasuomen konsonanttihistoriaa”. Mémoires de la Société Finno-Ougrienne 253. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t",
+            "ts",
+            "s([+consonant])",
+            "n",
+            "l",
+            "r"
+          ],
+          "af": [
+            "tʲ",
+            "tsʲ",
+            "sʲ([+consonant])",
+            "nʲ",
+            "lʲ",
+            "rʲ"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts(ʲ)"
+          ],
+          "af": [
+            "s(ʲ)"
+          ],
+          "en": "! n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "ɤ"
+          ],
+          "en": "_[+consonant]([+consonant]){a,o,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "æ"
+          ],
+          "af": [
+            "ɑ"
+          ],
+          "en": "unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{#,[+consonant]}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]n"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_s",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɑ",
+            "æ"
+          ],
+          "af": [
+            "æe"
+          ],
+          "en": "_([+consonant]…)i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "ə"
+          ],
+          "en": "unstressed ! [+vowel] = ɑ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɑ"
+          ],
+          "af": [
+            "ə"
+          ],
+          "en": "[+vowel][+consonant]([+consonant])ɑ[+consonant]([+consonant])_# when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]h"
+          ],
+          "af": [
+            "[+vowel]ːɦ"
+          ],
+          "en": "_[+consonant], except maybe ! _j and",
+          "no": [
+            "/or _ʋ"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+liquid][+vowel]"
+          ],
+          "af": [
+            "[+vowel][+liquid]"
+          ],
+          "en": "{#,[+vowel],[-sonorant]}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p",
+            "t(ʲ)",
+            "s(ʲ)",
+            "k"
+          ],
+          "af": [
+            "b",
+            "d(ʲ)",
+            "z(ʲ)",
+            "ɡ"
+          ],
+          "en": "! #_ or adjacent to [+consonant -voice]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "∅"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "([+consonant])[+vowel]_[+consonant][+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ə"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ə"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel][+consonant]_[+consonant][+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+consonant]"
+          ],
+          "af": [
+            "[+consonant]ː"
+          ],
+          "en": "ʔ_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "dj",
+            "lj",
+            "rj",
+            "ɡj"
+          ],
+          "af": [
+            "dʲ",
+            "lːʲ",
+            "rːʲ",
+            "jɡ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʋ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{d,z}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "lʋ",
+            "rʋ",
+            "jʋ"
+          ],
+          "af": [
+            "lː",
+            "rː",
+            "jː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʋ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+consonant]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel][+consonant]ːɑ"
+          ],
+          "af": [
+            "[+vowel]ː[+consonant]ɑ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+consonant]ː"
+          ],
+          "af": [
+            "[+consonant -long]"
+          ],
+          "en": "! in verbal forms when [+vowel]_ə",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɑː",
+            "au"
+          ],
+          "af": [
+            "ɔː",
+            "ɔu"
+          ],
+          "en": "",
+          "no": [
+            "metathesis?)",
+            "to",
+            "due",
+            "partially",
+            "least",
+            "at",
+            "apparently",
+            "develops,",
+            "ɑː",
+            "sometimes",
+            "(though"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "eː",
+            "øː",
+            "oː",
+            "ɤ(ː)"
+          ],
+          "af": [
+            "iːe",
+            "yːø",
+            "uːo",
+            "ɨ(ː)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɦ"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sʲ",
+            "tsʲ",
+            "zʲ",
+            "dzʲ"
+          ],
+          "af": [
+            "ʃʲ",
+            "tʃʲ",
+            "ʒʲ",
+            "dʒʲ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "æy",
+            "ey"
+          ],
+          "af": [
+            "æu",
+            "eu"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "y",
+            "ø"
+          ],
+          "af": [
+            "i",
+            "e"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_[+sonorant][+consonant]([+consonant])ɑ (includes diphthongs)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "aː"
+          ],
+          "en": "[+vowel][+consonant]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e",
+            "o"
+          ],
+          "af": [
+            "eː",
+            "oː"
+          ],
+          "en": "_[+consonant]ɑ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "oː"
+          ],
+          "en": "_{[+sonorant][+consonant]#,i}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "eː",
+            "oː"
+          ],
+          "af": [
+            "je",
+            "wo"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "ʋ"
+          ],
+          "en": "#_o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "wo"
+          ],
+          "af": [
+            "ʊ"
+          ],
+          "en": "[+labial,bilabial]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɔ(ː)"
+          ],
+          "af": [
+            "o(ː)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

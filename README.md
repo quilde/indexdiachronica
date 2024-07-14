@@ -1,6 +1,15 @@
 # Index Diachronica Database Project
+*The Index Diachronica as a database*
 
 ![Index Diachronica logo](logo.png)
+
+## What is it?
+
+The Index Diachronica Database Project aims to convert the Index Diachronica into a text-based
+database and mantain and solidify the dataset.
+
+The Index Diachronica 
+
 
 This repository is a project to convert the Index Diachronica into a 
 database. There are several reasons that this is worth doing:
@@ -26,3 +35,14 @@ but they are a separate project. It would make sense to have a separate project,
 we could call it the _Index Phonologica_!) to handle that. 
 
 For more details see [http://amundo.github.io/indexdiachronica/example.html](http://amundo.github.io/indexdiachronica/example.html)
+
+
+## Contributing
+
+Say hello:
+
+submit sound changes:
+
+help coding:
+
+discuss philosophical stuff regarding the index: 

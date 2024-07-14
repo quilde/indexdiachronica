@@ -1,0 +1,1585 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Utian"
+to = "Proto-Costanoan (Ohlone)"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["ʃ"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i$[+consonant]i"]
+af = ["e$[+consonant]e"]
+en = "_[+consonant] ! _ɾ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ$[+consonant]ɨ"]
+af = ["e$[+consonant]e"]
+en = "_[+consonant] ! _ɾ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_([+consonant]…)u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["ʂ"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["ʂ"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["s̪"]
+en = "_{ɨ,u}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["s̪"]
+en = "{ɨ,u}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = "! _$ or o_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["ʂ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["a"]
+en = "! o([+consonant]…)_ or _([+consonant]…){o,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["e"]
+en = "[+consonant][+consonant]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["{e,i}"]
+en = "[+consonant][+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Costanoan"
+to = "Chochenyo"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʲ",
+    "ʂ",
+]
+af = [
+    "j",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["k"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["w"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "il_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_([+consonant]…)i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Utian"
+to = "Proto-Miwok"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "kʷ",
+    "ʃ",
+]
+af = [
+    "w",
+    "ʂ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["tʃ"]
+en = "_e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["tʃ"]
+en = "e_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Miwok"
+to = "Proto-Western Miwok"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["s̪"]
+af = ["ʂ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["tʃ"]
+en = "{aː,oː}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["{u,i}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Costanoan"
+to = "Mutsun"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ʂ"]
+af = ["s̪"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["{ʈ,ts,tʃ}"]
+en = "_{j,ɾ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["k"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["{k,w}"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "il_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_([+consonant]…)i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Costanoan"
+to = "Rumsen"
+or = "CatDoom"
+os = " from Callaghan, Catherine A. (1983), “Proto-Utian Derivational Verb Morphology”. Proceedings of the 1982 Conference on Far Western American Indian Languages, Occasional Papers on Linguistics Number 11; and Callaghan, Catherine A. (1988), “Proto-Utian Stems” in In Honor of Mary Haas"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["tʲ"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h"]
+af = ["{h,x,ʔ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["{ʈ,tʃ}"]
+en = "{aː,oː}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["{ʈ,tʃ}"]
+en = "{i,e,o}$_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈ"]
+af = ["{ʈ,tʃ}"]
+en = "_{j,ɾ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["k"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["{k,w}"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "il_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "_[+consonant]([+consonant])o[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_([+consonant]…)i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Shepherd (2005) reconstructs the following inventory for Proto-Wintun:\tBilabial \tAlveolar \tPalatal \tVelar \tUvular \tGlottal",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Shepherd further notes that “PW vowel length before continuants appears to be non-distinctive in many instances”.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Wintuan"
+to = "Nomlaki"
+or = "Pogostick Man"
+os = " from Shepherd, Alice (2005), “Proto-Wintun”. UC Publications in Linguistics. <http:"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = ["[+vowel]r[+vowel]"]
+af = ["{[+vowel]ː,[+diphtong]}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["j"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃʰ",
+    "kʰ",
+    "qʰ",
+    "{x,χ}",
+]
+af = [
+    "tʃ",
+    "k(ʰ)",
+    "{kʰ,qʰ,χ}",
+    "kʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Wintuan"
+to = "Patwin"
+or = "Pogostick Man"
+os = " from Shepherd, Alice (2005), “Proto-Wintun”. UC Publications in Linguistics. <http:"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+af = [
+    "t",
+    "tʰ",
+    "tʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k(ʰ)",
+    "kʼ",
+    "q(ʰ)",
+    "qʼ",
+]
+af = [
+    "tʃ(h)",
+    "tʃʼ",
+    "kʰ",
+    "kʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "x",
+    "χ",
+]
+af = [
+    "s",
+    "h",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Wintuan"
+to = "South Patwin"
+or = "Pogostick Man"
+os = " from Shepherd, Alice (2005), “Proto-Wintun”. UC Publications in Linguistics. <http:"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["{r,j}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+af = [
+    "t",
+    "tʰ",
+    "tʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k(ʰ)",
+    "kʼ",
+    "q(ʰ)",
+    "qʼ",
+]
+af = [
+    "tʃ(ʰ)",
+    "tʃʼ",
+    "k(ʰ)",
+    "kʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["x"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["χ"]
+af = ["∅"]
+en = ""
+no = ["(?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Wintuan"
+to = "Wintu"
+or = "Pogostick Man"
+os = " from Shepherd, Alice (2005), “Proto-Wintun”. UC Publications in Linguistics. <http:"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["tʃʰ"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʰ",
+    "qʰ",
+]
+af = [
+    "k",
+    "χ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Whistler and Golla (1986) reconstruct the following phonological inventory for Proto-Yokuts:\tLabial \tDental \tRetroflex \tPalatal \tVelar \tGlottal",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "It is further instructive to note some morphophonetic processes in Proto-Yokuts:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "",
+    "",
+    "",
+    "",
+    "[+plosive]",
+]
+af = ["[+plosive]ʰ"]
+en = "_{[+consonant],#} (also holds for affricates)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "",
+    "",
+    "",
+    "",
+    "[+nasal]ʔ",
+]
+af = ["[+nasal]ˀ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "",
+    "",
+    "",
+    "",
+    "∅",
+]
+af = ["ʔ"]
+en = "[+vowel]_[+vowel] "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "(From Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986))",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Yokuts"
+to = "General Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "iː",
+    "ɨː",
+    "uː",
+]
+af = [
+    "eː",
+    "əː",
+    "oː",
+]
+en = ""
+no = [
+    "occur)",
+    "not",
+    "did",
+    "sometimes",
+    "change",
+    "(this",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "eː",
+    "əː",
+]
+af = [
+    "e",
+    "ə",
+]
+en = ""
+no = [
+    "ablaut)",
+    "of",
+    "result",
+    "a",
+    "(as",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_[+consonant]i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "General Yokuts"
+to = "Buena Vista Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "tʰ",
+    "tʼ",
+]
+af = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+en = "#_ “(in some words, conditioning factors unclear)ˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +high]"]
+af = ["a"]
+en = "[+vowel +high][+consonant]_([+consonant])#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʰ"]
+af = ["s"]
+en = "#_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Buena Vista Yokuts"
+to = "Hometwoli"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["h"]
+en = "[+vowel](ː)_, when stressed (only sometimes, “particularly before consonantsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Buena Vista Yokuts"
+to = "Tulamni"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɨ(ː)",
+    "ə(ː)",
+]
+af = [
+    "i(ː)",
+    "e(ː)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]ʔ"]
+af = ["[+vowel]ː"]
+en = "stressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Buena Vista Yokuts"
+to = "Proto-Nim-Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+af = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Nim-Yokuts"
+to = "Proto-Tule-Kaweah"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "tʰ",
+    "tʼ",
+]
+af = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+en = "#_ “(in some words, conditioning factors unclear)ˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tule-Kaweah"
+to = "Wikchamni"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["ʂ"]
+af = ["s"]
+en = ""
+no = [
+    "consistently)ˈ",
+    "not",
+    "but",
+    "vowels,",
+    "back",
+    "before",
+    "position",
+    "word-initial",
+    "in",
+    "allophonically",
+    "remains",
+    "“(sometimes",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tule-Kaweah"
+to = "Yawdanchi"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“ʃ may have merged with ʂ in some positions”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Nim-Yokuts"
+to = "Northern Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɨ(ː)",
+    "ə(ː)",
+]
+af = [
+    "i(ː)",
+    "e(ː)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Northern Yokuts"
+to = "Gashowu"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+    "ʈ",
+    "k",
+]
+af = [
+    "b",
+    "d",
+    "ɖ",
+    "ɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Northern Yokuts"
+to = "Kings Valley Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["u"]
+en = "u[+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Northern Yokuts"
+to = "Valley Yokuts"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“o-raising rule (o > u / _Ci) ceases to be productive”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Valley Yokuts"
+to = "Chukchansi"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "/s ʃ ʂ/ may be a single alternating phoneme",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʈ",
+    "ʈʰ",
+    "ʈʼ",
+]
+af = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+af = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Valley Yokuts"
+to = "Tachi"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ʈ",
+    "ʈʰ",
+    "ʈʼ",
+]
+af = [
+    "ʈʂ",
+    "ʈʂʰ",
+    "ʈʂʼ",
+]
+en = ""
+no = [
+    "speech)ˈ",
+    "careful",
+    "in",
+    "unchanged",
+    "remains",
+    "“(ʈʼ",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Valley Yokuts"
+to = "Yawelmani"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["ʃ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+af = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+en = ""
+no = [
+    "ʈʂʼ)",
+    "ʈʂʰ",
+    "ʈʂ",
+    "to",
+    "go",
+    "these",
+    "where",
+    "diminutivesˈ,",
+    "“lexicalized",
+    "in",
+    "(except",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Yokuts"
+to = "Palewyami"
+or = "CatDoom"
+os = " from Whistler, Kenneth W., and Golla, Victor (1986), “Proto-Yokuts Reconsidered”. International Journal of American Linguistics Vol. 52, No. 4 (Oct. 1986)"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "tʰ",
+    "tʼ",
+]
+af = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+en = "#_ “(in some words"
+no = [" conditioning factors unclear)”"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+]
+af = [
+    "tʃ",
+    "tʃʰ",
+    "tʃʼ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ(ː)"]
+af = ["i(ː)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u,a}"]
+af = ["e"]
+en = "_[+consonant][+vowel][+consonant]#, when stressed (short only)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["e"]
+en = "_[+consonant][+vowel][+consonant]#, when stressed (! _[+laryngeal], short only)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["e"]
+en = "[+consonant]ˈ[+vowel][+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["i"]
+en = "[+consonant]ˈi[+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["u"]
+en = "[+consonant]ˈu[+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["o"]
+en = "[+consonant]ˈo[+consonant]_ "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

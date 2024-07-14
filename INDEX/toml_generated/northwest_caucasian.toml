@@ -1,0 +1,3883 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Northwest Caucasian"
+to = "Proto-Abazgi"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "{pʷ,pʲ}",
+    "{p(ʲ)ː,bˤ}",
+    "bʷ",
+    "pʷʲ",
+    "bʷʲ",
+]
+af = [
+    "p",
+    "b",
+    "f",
+    "tsʲ",
+    "dzʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mˤ"]
+af = ["m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["rʲ"]
+af = ["r"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʷː",
+    "tʷʲ(ʼ)",
+]
+af = [
+    "d(w)",
+    "tʷ(ʼ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʲː"]
+af = ["dzʲ"]
+en = ""
+no = [
+    "source)",
+    "the",
+    "in",
+    "dubious",
+    "as",
+    "(marked",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʷʲ",
+    "zʲ",
+]
+af = [
+    "sʲ",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʷː",
+    "tsʷʲ",
+]
+af = [
+    "tsʷ",
+    "(tʃ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "zʷʲ",
+    "tsʷʲʼ",
+    "dzʷʲ",
+]
+af = [
+    "dzʲ~zʲ",
+    "tʃʼ",
+    "dʒ~ʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ(ʼ)",
+    "dʒ",
+]
+af = [
+    "tsʲ(ʼ)",
+    "dzʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃ(~ʃː)",
+    "ʒ",
+]
+af = [
+    "sʲ",
+    "sʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tɕː"]
+af = ["dzʲ(~tɕ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ(ː)",
+    "ʑ",
+]
+af = [
+    "ʃ",
+    "ʒ",
+]
+en = ""
+no = [
+    "dubious)",
+    "as",
+    "marked",
+    "is",
+    "ʃ",
+    "to",
+    "*ɕ",
+    "singleton",
+    "of",
+    "change",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ʼ)",
+    "tʃʷː",
+    "dʒʷ",
+]
+af = [
+    "tʃ(ʼ)",
+    "zʷ",
+    "dzʷ~zʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃʷ",
+    "ʃʷː",
+    "ʒʷ",
+]
+af = [
+    "sʷ",
+    "ʃ",
+    "zʲ",
+]
+en = ""
+no = [
+    "dubious)",
+    "as",
+    "marked",
+    "is",
+    "change",
+    "final",
+    "(this",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɕʷ(ʼ)",
+    "tɕʷː",
+]
+af = [
+    "tʃ(ʼ)",
+    "dʒ~ʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕʷ",
+    "ɕʷː",
+    "ʑʷ",
+]
+af = [
+    "ʃʷ",
+    "ʃ",
+    "ʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬ",
+    "tɬː",
+    "tɬʼ",
+    "dɮ",
+]
+af = [
+    "x",
+    "ts",
+    "{x,tsʼ}",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɬː"]
+af = ["x"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʲ",
+    "tɬʲʼ",
+    "dɮʲ",
+]
+af = [
+    "xʲ",
+    "ɕ",
+    "ɣʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬʲ(~ɬʲʷː)",
+    "ɮʲ",
+]
+af = [
+    "ɕ",
+    "ʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["r"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l~ɣʲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʷ(ː)",
+    "tɬʼ",
+    "dɮʷ",
+]
+af = [
+    "tsʷ",
+    "tsʼ(ʷ)",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɬʷ(ː)"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʷʲ",
+    "tɬʷʲː",
+    "tɬʷʲʼ",
+    "dɮʷʲ",
+]
+af = [
+    "tʃʷ",
+    "ʒʷ",
+    "tʃʷʼ",
+    "dʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɬʷʲ(~ɬʷː)"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɮʷʲ"]
+af = ["ʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷː"]
+af = ["ɡʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷʲʼ"]
+af = ["kʷʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷʲ",
+    "ɣʷʲ",
+]
+af = [
+    "sʷ",
+    "zʷ",
+]
+en = ""
+no = [
+    "dubious)",
+    "as",
+    "marked",
+    "is",
+    "(*ɣʷʲ",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qː",
+    "ɢ",
+]
+af = [
+    "(ħ)",
+    "q",
+    "ɣ",
+]
+en = ""
+no = [
+    "document)",
+    "the",
+    "in",
+    "*G",
+    "as",
+    "marked",
+    "is",
+    "(*ɢ",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χ(ʲ)",
+    "ʁ(ʲ)",
+]
+af = [
+    "ħ",
+    "ʕ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʲː",
+    "ɢʲ",
+]
+af = [
+    "q",
+    "ɣʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʷ",
+    "qʷː",
+    "ɢʷ",
+]
+af = [
+    "ħʷ",
+    "qʷ",
+    "ɣʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χʷ",
+    "ʁʷ",
+]
+af = [
+    "ħʷ",
+    "ʕʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʷʲ",
+    "ɢʷʰ",
+]
+af = [
+    "ħ(ʷ)",
+    "ɣ(ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["qʷʲʼ"]
+af = ["ʕʷ"]
+en = ""
+no = ["(qʷʼ?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χʷʲ",
+    "ʁʷʲ",
+]
+af = [
+    "ħ(ʷ)",
+    "ʕ(ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤː",
+    "qˤʼ",
+]
+af = [
+    "ʕ",
+    "ħ",
+]
+en = ""
+no = [
+    "dubious)",
+    "as",
+    "marked",
+    "is",
+    "latter",
+    "(this",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʁʕ"]
+af = ["ʕ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤʲ",
+    "qˤʲː",
+    "qˤʲʼ",
+]
+af = [
+    "q",
+    "ʔ",
+    "ħ(?)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χˤʲ",
+    "ʁˤʲ",
+]
+af = [
+    "ħ",
+    "ʕ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤʷ",
+    "qˤʷː",
+    "qˤʷʼ",
+    "χˤʷ",
+    "ʁˤʷ",
+]
+af = [
+    "ħʷ",
+    "ʕʷ",
+    "qʷ(ʼ)",
+    "ħʷ",
+    "(ħʷ?)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤʷʲ",
+    "qˤʷʲ",
+    "qˤʷʲʼ",
+    "ʁˤʷʲ",
+]
+af = [
+    "qʷ",
+    "ʕʷ",
+    "ħʷ",
+    "ʕʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Ashkharywa Abaza"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ʼ)",
+    "tɕ(ʼ)",
+    "dʒʷ",
+    "dʑ",
+]
+af = [
+    "f(ʼ)",
+    "ts(ʼ)",
+    "v",
+    "dz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ʑ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = "ʕ"
+no = [
+    "/ sometimes?)",
+    "stays",
+    "(but",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʕʷ"]
+af = ["ɥ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʷ(ʼ)",
+    "dʷ",
+]
+af = [
+    "{tʷ(ʼ),p(ʼ)}",
+    "{dʷ,b}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Tapanta Abaza"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "{tʃʷ(ʼ),tɕ}",
+    "{dʒʷ,dʑ}",
+]
+af = [
+    "ts(ʼ)",
+    "dz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɕʷ(ʼ)",
+    "dʑʷ",
+]
+af = [
+    "{tɕ(ʷ)(ʼ),tʃʷ(ʼ)}",
+    "{dʑ(ʷ),dʒʷ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ʑ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃʷ",
+    "ʒʷ",
+    "ɕʷ",
+    "ʑʷ",
+]
+af = [
+    "{ɕ(ʷ),ʃ(ʷ)}",
+    "{ʑ(ʷ),ʒ(ʷ)}",
+    "{ɕ(ʷ),ʃʷ}",
+    "{ʑ(ʷ),ʒʷ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{tʷ(ʼ),dʷ}"]
+af = ["{tɕ(ʷ)(ʼ),tʃ(ʷ)(ʼ)}"]
+en = ""
+no = ["{dʒ(ʷ),dʑ(ʷ)}"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Ahchypsy Abkhaz"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ",
+    "tʃʷʼ",
+    "dʒʷ",
+    "tɕ(ʼ)",
+    "dʑ",
+]
+af = [
+    "f",
+    "pʼ",
+    "ts(ʼ)",
+    "v",
+    "dz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ʑ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʕ",
+    "ʕʷ",
+]
+af = [
+    "aː",
+    "ɥ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χˤ",
+    "χˤʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Bzyp Abkhaz"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ",
+    "tʃʷʼ",
+    "dʒʷ",
+]
+af = [
+    "pʼ",
+    "f",
+    "v",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʕʷ"]
+af = ["ɥ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χˤ",
+    "χˤʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Abzhywa Proper"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ʼ)",
+    "tɕ(ʼ)",
+    "tɕʷ(ʼ)",
+    "dʒʷ",
+    "dʑ",
+    "dʑʷ",
+]
+af = [
+    "f(ʼ)",
+    "ts(ʼ)",
+    "tɕʷ(ʼ)",
+    "v",
+    "dz",
+    "dʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ɕʷ",
+    "ʑ",
+    "ʑʷ",
+]
+af = [
+    "s",
+    "ʃʷ",
+    "z",
+    "ʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʕ",
+    "ʕʷ",
+]
+af = [
+    "aː",
+    "ɥ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χ",
+    "χʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Tsabal Abzhywa"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ",
+    "tʃʷʼ",
+    "tɕ(ʼ)",
+    "tɕʷ(ʼ)",
+    "dʒʷ",
+    "dʑ",
+    "dʑʷ",
+]
+af = [
+    "f",
+    "pʼ",
+    "ts(ʼ)",
+    "tɕʷ(ʼ)",
+    "v",
+    "dz",
+    "dʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ɕʷ",
+    "ʑ",
+    "ʑʷ",
+]
+af = [
+    "s",
+    "ʃʷ",
+    "z",
+    "ʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʕ",
+    "ʕʷ",
+]
+af = [
+    "aː",
+    "ɥ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χˤ",
+    "χˤʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Khaltsys Sadz"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ʼ)",
+    "tɕ(ʼ)",
+    "tɕʷ(ʼ)",
+    "dʒʷ",
+    "dʑ",
+    "dʑʷ",
+]
+af = [
+    "f(ʼ)",
+    "ts(ʼ)",
+    "tɕʷ(ʼ)",
+    "v",
+    "dz",
+    "dʑʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ɕʷ",
+    "ʑ",
+    "ʑʷ",
+]
+af = [
+    "s",
+    "{ʃʷ,ɕʷ}",
+    "z",
+    "{ʒʷ,ʑʷ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʕʷ"]
+af = ["ɥ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χ",
+    "χʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Abazgi"
+to = "Tswydzhy Sadz"
+or = "Nortaneous"
+os = " from Chirikba, Viacheslav A. (2003), “Abkhaz”. Languages of the World"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ʼ)",
+    "tɕ(ʼ)",
+    "tɕʷ(ʼ)",
+    "dʒʷ",
+    "dʑ",
+    "dʑʷ",
+]
+af = [
+    "f(ʼ)",
+    "ts(ʼ)",
+    "tɕʷ(ʼ)",
+    "v",
+    "dz",
+    "dʑʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ",
+    "ʑ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ˈ[+vowel]ʕ",
+    "ʕˈ[+vowel]",
+]
+af = [
+    "ˈaa",
+    "aˈa",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʕʷ"]
+af = ["ɥ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "χˤ",
+    "χʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Northwest Caucasian"
+to = "Proto-Circassian"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["f"]
+af = ["xʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʲ(ː)",
+    "pʲʼ",
+    "bʲ",
+]
+af = [
+    "t(ː)",
+    "tʼ",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʷ",
+    "pʷʲ",
+    "pʷʲʼ",
+    "bʷ",
+    "bʷʲ",
+]
+af = [
+    "p",
+    "tʷ",
+    "tʷʼ",
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pˤ(ː)",
+    "pˤ",
+    "bˤ",
+]
+af = [
+    "p(ː)",
+    "pʼ",
+    "b",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mˤ"]
+af = ["m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "r",
+    "l",
+]
+af = [
+    "tː",
+    "tħ",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɮ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʷ(ː)",
+    "tʷʼ",
+    "dʷ",
+]
+af = [
+    "t(ː)",
+    "tʼ",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʷʲ",
+    "tʷʲʼ",
+]
+af = [
+    "ts",
+    "tsʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "tsː",
+    "dz",
+]
+af = [
+    "{s,c}",
+    "tsː",
+    "dz~z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʲ",
+    "tsʲː",
+    "tsʲʼ",
+    "dzʲ",
+]
+af = [
+    "(s)",
+    "tsː",
+    "tsʼ",
+    "dz~z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʲ",
+    "zʲ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʷ",
+    "lʲ",
+    "{qʲʷ,qˤʷ}",
+]
+af = [
+    "sʷ",
+    "d",
+    "qʷ",
+]
+en = "#_ (data not given for non-initial forms)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʲʷ",
+    "tsʲʷ",
+    "dzʲʷ",
+]
+af = [
+    "tsʲ",
+    "tsʲʼ",
+    "dzʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʲʷ",
+    "zʲʷ",
+]
+af = [
+    "sʲ",
+    "zʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʼ",
+    "dʒ",
+    "dʑ",
+]
+af = [
+    "s",
+    "tsʲʼ(?)",
+    "dz~z",
+    "dʑ~ʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʃ(~ʃː)"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕ(ː)",
+    "ʑ",
+]
+af = [
+    "ʃ(ː)",
+    "ʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃʷ(ː)",
+    "tʃʷʼ",
+    "dʒʷ",
+]
+af = [
+    "tɕ(ː)",
+    "tɕʼ",
+    "dʑ~ʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃʷ(ː)",
+    "ʒʷ",
+]
+af = [
+    "ʃ(ː)",
+    "ʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tcʷ(ː)",
+    "tɕʷʼ",
+]
+af = [
+    "tʃ(ː)",
+    "tʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕʷ",
+    "ɕʷ",
+    "ʑʷ",
+]
+af = [
+    "sʲ",
+    "ʃː",
+    "zʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬ(ː)",
+    "tɬ(ː)",
+    "tɬʼ",
+    "dɮ",
+]
+af = [
+    "ɕ(ː)",
+    "tɕ(ː)",
+    "tɕʼ",
+    "tħ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʲ",
+    "tɬʲʼ",
+    "dɮʲ",
+]
+af = [
+    "tɕ",
+    "tɬʼ",
+    "ɣ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʷ(ː)",
+    "tɬʷʼ",
+    "dɮʷ",
+]
+af = [
+    "tʃ(ː)",
+    "tʃʼ",
+    "ħ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬʷ",
+    "ɬʷː",
+]
+af = [
+    "x(ʷ)",
+    "ɕː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʲʷ",
+    "tɬʲʷ",
+    "tɬʲʷ",
+    "dɮʲʷ",
+]
+af = [
+    "x",
+    "tɕː",
+    "tɕʼ",
+    "ɮ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬʲʷ(~ɬʷː)",
+    "ɮʲʷ",
+]
+af = [
+    "x(ʷ)",
+    "ɣʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "kʼ",
+    "ɡ",
+]
+af = [
+    "kʲ",
+    "kʲʼ",
+    "ɡʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʲ",
+    "ɣʲ",
+]
+af = [
+    "ɕ",
+    "ʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʷ"]
+af = ["x(ʷ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡʲʷ",
+    "xʲʷ",
+    "ɣʲʷ(?)",
+]
+af = [
+    "ɡʷ",
+    "xʷ",
+    "ʁʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɢ"]
+af = ["ʁ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʲʼ",
+    "ʁʲ",
+]
+af = [
+    "ʔ",
+    "ʁ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["qʷ"]
+af = ["qʷː"]
+en = "!_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʷʼ",
+    "ɢʷ",
+]
+af = [
+    "qʷː",
+    "ʁʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʲʷː",
+    "qʲʷ",
+    "ɢʲʷ,ʁʲʷ}",
+    "χʲʷ",
+]
+af = [
+    "qʷː",
+    "ʔʷ",
+    "ʁʷ",
+    "χʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{qˤː,qˤʼ}",
+    "χˤ",
+    "ʁˤ",
+]
+af = [
+    "qː",
+    "χ",
+    "ʁ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{qˤʲ,χˤʲ}",
+    "qˤʲ",
+    "ʁˤʲ",
+    "{qˤʲː",
+    "qˤʲʼ}",
+]
+af = [
+    "ħ",
+    "ʔ",
+    "j",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{qˤʷː,qˤʷʼ}",
+    "χˤʷ",
+    "ʁˤʷ",
+]
+af = [
+    "qʷː",
+    "χʷ",
+    "ʁʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤʲʷ",
+    "{qˤʲʷː,qˤʲʷ}",
+    "ʁˤʲʷ",
+]
+af = [
+    "ħ",
+    "ʔʷ",
+    "w~ʁʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Circassian"
+to = "Adyghe"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Stress changes:”Ca.Ca\t→\tCaːC",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Consonant correspondences:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʲ"]
+af = ["tɕ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʷ"]
+af = ["tsʲʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tɕ",
+]
+af = [
+    "ʃ",
+    "ʂ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ(ʷ)~qʼ(ʷ)"]
+af = ["ʔ(ʷ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dɮ"]
+af = ["ɣ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dzʲ",
+    "dzʷ",
+]
+af = [
+    "dʑ",
+    "ʑʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʲʼ"]
+af = ["ɕʼ~ʃʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʷ",
+    "ɕ",
+]
+af = [
+    "ɕʷ~ʃʷ",
+    "ɕ~ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "χʲ",
+]
+af = [
+    "f~ɸ?",
+    "ħ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɮ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["zʷ"]
+af = ["ʑʷ~ʒʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Adyghe"
+to = "Abadzekh Adyghe"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["tsʲ(ː)"]
+af = ["tɕ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʷ"]
+af = ["tʃʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pː",
+    "tː",
+    "tsː",
+    "tsʷ",
+    "ʃː",
+    "tʃː",
+    "tɕː",
+    "kʲː",
+    "kʷː",
+    "qː~qχ",
+    "qʷː~qχʷ",
+]
+af = [
+    "p",
+    "t",
+    "ts",
+    "tʃʷ",
+    "ʃ",
+    "ɕ",
+    "tɕ",
+    "tʃ",
+    "kʷ",
+    "qː",
+    "qʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃʼ",
+    "tɬʼ",
+]
+af = [
+    "ʔaj~ʔ",
+    "ɬʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃʷʼ~ʃʷʼ"]
+af = ["ɕʷʼ~ʃʷʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʲʼ"]
+af = ["tʃʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʂː",
+    "ʃː",
+]
+af = [
+    "ʂ",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʼ",
+    "ʃʼ~ɕʼ",
+]
+af = [
+    "tsʼ",
+    "ʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Adyghe"
+to = "Bzhedug Adyghe"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tsʲ",
+    "tsʲː",
+]
+af = [
+    "tɕ",
+    "tɕː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʲ(ː)",
+    "kʲʼ",
+    "ɡʲ",
+]
+af = [
+    "tʃ(ː)",
+    "tʃʼ",
+    "dʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʷː"]
+af = ["tsʲʷː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qː~χ",
+    "qʷː~qχʷ",
+]
+af = [
+    "qː",
+    "qʷː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʷʼ~ʃʷʼ"]
+af = ["ɕʷʼ~ʃʷʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tɬʼ"]
+af = ["ɬʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʼ",
+    "ʃʼ~ɕʼ",
+]
+af = [
+    "tsʼ",
+    "ʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Adyghe"
+to = "Shapsug Adyghe"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tsʲ(ː)",
+    "tsʷ",
+    "tʃ",
+    "tɕ",
+]
+af = [
+    "tɕ",
+    "tʃʷ",
+    "ʃ",
+    "ʂ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pː",
+    "tː",
+    "tsː",
+    "tsʷː",
+    "ʃː",
+    "tsː",
+    "tcː",
+    "kʲː",
+    "kʷː",
+    "qː~qχ",
+    "qʷː~qχʷ",
+]
+af = [
+    "p",
+    "t",
+    "ts",
+    "tʃʷ",
+    "ʃ",
+    "tʃ",
+    "tɕ",
+    "kʲ",
+    "kʷ",
+    "χ~q",
+    "χʷ~qʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p(ʷ)ʼ",
+    "t(ʷ)ʼ",
+    "tsʼ",
+    "tsʷʼ~ʃʷʼ",
+]
+af = [
+    "pˤ",
+    "tˤ",
+    "tsˤ",
+    "ʂʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tɬʼ"]
+af = ["ɬˤ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʂː",
+    "ʃː",
+]
+af = [
+    "ʂ",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʼ",
+    "ʃʼ~ɕʼ",
+]
+af = [
+    "sˤ",
+    "ʂ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Adyghe"
+to = "Temirgoy Adyghe"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "tsʲ(ː)",
+    "tsʷ",
+]
+af = [
+    "tɕ",
+    "tsʲʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʲ(ː)",
+    "kʲʼ",
+    "kʷː",
+    "ɡʲ",
+]
+af = [
+    "tʃ",
+    "tʃʼ",
+    "kʷ",
+    "dʑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʷ",
+]
+af = [
+    "qː",
+    "qʷː",
+]
+en = "! #_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pː",
+    "tː",
+    "tsː",
+    "tsʷː",
+    "ʃː",
+    "tʃː",
+    "tɕː",
+]
+af = [
+    "p",
+    "t",
+    "ts",
+    "tsʷʲ",
+    "ʃ",
+    "tʃ",
+    "tɕ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qː~qχ",
+    "qʷː~qχʷ",
+]
+af = [
+    "qː",
+    "qʷː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʲʼ",
+    "tsʷʼ~ʃʷʼ",
+]
+af = [
+    "ɕʼ~ʃʼ",
+    "ɕʷʼ~ʃʷʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tɬʼ"]
+af = ["ɬʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʂː",
+    "ʃː",
+]
+af = [
+    "ʂ",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["ɣ~ɡ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʼ",
+    "ʃʼ~ɕʼ",
+]
+af = [
+    "tsʼ",
+    "ʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Circassian"
+to = "Kabardian"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Circassian language”. Wikipedia, the Free Encyclopedia, <http:"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Stress changes:”Ca.Ca\t→\tCaː.Ca",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Consonant correspondences:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʲ(ː)",
+    "tsʷ",
+    "{tʃ,tɕ}",
+]
+af = [
+    "ɕ",
+    "f",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʲ"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ~qʼ"]
+af = ["ʔʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pː",
+    "tː",
+    "tsː",
+    "tsʷː",
+    "ʃː",
+    "{tʃː,tɕː}",
+    "kʷː",
+    "qː~qχ",
+    "qʷː~qχʷ",
+]
+af = [
+    "b",
+    "d",
+    "dz",
+    "v",
+    "ɕ",
+    "ʒ",
+    "dʒ",
+    "ɡʷ",
+    "qʼ~qχ",
+]
+en = ""
+no = ["qʷʼ~qχʷ"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dɮ",
+    "dzʲ",
+    "dzʷ",
+    "dʑ",
+    "ɡʲ",
+]
+af = [
+    "ʒ",
+    "ʑ",
+    "{v,w}",
+    "ʒ",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tsʲʼ",
+    "tʃʷʼ~ʃʷʼ",
+    "tʃʼ",
+    "tɕʼ",
+    "tɬʼ",
+    "kʲʼ",
+]
+af = [
+    "ɕʼ",
+    "fʼ",
+    "ɕʼ",
+    "{ɕʼ,cçʼ}",
+    "ɬʼ",
+    "tʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʷ",
+    "zʷ",
+    "{ʃ,ʂ}",
+    "{ʑ,ʐ,ɣʲ}",
+    "ʑ",
+    "χʲ",
+]
+af = [
+    "f",
+    "v",
+    "ɕ",
+    "ʑ",
+    "ʑ~ʒ",
+    "χ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʂː",
+    "ʃː",
+]
+af = [
+    "ɕ",
+    "ʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʼ(?)",
+    "ʃʼ~ɕʼ",
+]
+af = [
+    "tsʼ",
+    "ɕʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Northwest Caucasian"
+to = "Ubykh"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Proto-Northwest Caucasian language”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "pʲ(ː)",
+    "bʲ",
+]
+af = [
+    "t(ː)",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʲʼ"]
+af = ["tʷʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{pʷ,bʷ}"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʲː"]
+af = ["tʷ~dʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʷʲ",
+    "bʷʲ",
+]
+af = [
+    "tʷ",
+    "dʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʷʲʼ",
+    "pˤ",
+    "pˤː",
+    "pˤʼ",
+    "bˤ",
+]
+af = [
+    "tʷʼ",
+    "vˤ",
+    "bˤ",
+    "pˤʼ",
+    "bˤ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t(ʷ)ː",
+    "tʷʲʼ",
+]
+af = [
+    "t(ʷ)",
+    "tʷʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,l}",
+    "lʲ",
+]
+af = [
+    "d",
+    "r",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "l",
+    "lʲ",
+]
+af = [
+    "∅~j",
+    "l~ɣʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "r",
+    "rʲ",
+]
+af = [
+    "r~ʁ",
+    "ɮ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts(ʲ)ː",
+    "tsʷː",
+    "dzʲ",
+]
+af = [
+    "ts",
+    "tsʷ",
+    "dz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "z(ʲ)",
+    "zʷ",
+]
+af = [
+    "dz(ʲ)~z(ʲ)",
+    "dzʷ~zʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "sʷʲ",
+    "zʷʲ",
+    "tsʷʲʼ",
+    "dzʷʲ",
+]
+af = [
+    "tʃʷ",
+    "ʒʷ",
+    "tʃʲʼ",
+    "dʒʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ(ʼ)",
+    "dʒ",
+]
+af = [
+    "ts(ʼ)",
+    "dz",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃ(~ʃː)",
+    "ʒ",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕː",
+    "tɕː",
+]
+af = [
+    "ɕ",
+    "tɕ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃʷ(ː)",
+    "ʒʷ",
+    "tʃʷ(ʼ)",
+    "dʒ",
+]
+af = [
+    "ʃ",
+    "ʒ",
+    "tʃ(ʼ)",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɕʷ(ː)",
+    "tɕʷʼ",
+]
+af = [
+    "tɕ",
+    "tɕʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɕʷ",
+    "ɕʷː",
+    "ʑʷ",
+]
+af = [
+    "ʃʷ",
+    "sʷ",
+    "ʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬ",
+    "tɬː",
+    "tɬʼ",
+    "dɮ",
+]
+af = [
+    "ɕ",
+    "(sʲ)",
+    "tsʲʼ",
+    "ɮ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɬ(ː)"]
+af = ["sʲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʲ",
+    "tɬʲʼ",
+    "dɮʲ",
+]
+af = [
+    "ɕ",
+    "tɬʼ",
+    "ɕ",
+]
+en = ""
+no = ["ʁ(~zʲ)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɬʲ(~ɬʲʼː)"]
+af = ["ɬ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɮ"]
+af = ["ʑ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tɬʼ"]
+af = ["tsʲʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɮʲ,lʲ}"]
+af = ["ɮ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʷ(ː)",
+    "tɬʷʼ",
+    "dɮʷ",
+]
+af = [
+    "tsʷ",
+    "ts(ʷ)ʼ",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬʷ",
+    "ɬʷː",
+]
+af = [
+    "sʷ",
+    "s(ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tɬʷʲ",
+    "tɬʷʲː",
+    "tɬʷʲʼ",
+    "dɮʷʲ",
+]
+af = [
+    "f",
+    "dʑ",
+    "tsʼ",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬʷʲ(~ɬʷː)",
+    "ɮʷʲ",
+]
+af = [
+    "ʃʷ",
+    "ʒʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "kʼ",
+    "ɡ",
+    "x",
+    "ɣ",
+]
+af = [
+    "kʲ",
+    "kʲʼ",
+    "ɡʲ",
+    "ɕ",
+    "ɣ~ʁ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʲ",
+    "ɣʲ",
+]
+af = [
+    "sʲ",
+    "zʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʷː",
+    "xʷ",
+]
+af = [
+    "ɡʷ",
+    "x",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʲʷː",
+    "xʲʷ",
+    "ɣʲʷ(?)",
+]
+af = [
+    "ɡʲ",
+    "kʲʼ",
+    "xʲ",
+]
+en = ""
+no = ["ʁʲ"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["ʁ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʲː(ʼ)",
+    "ɢʲ",
+    "χʲ",
+]
+af = [
+    "qʲ(ʼ)",
+    "ʁʲ",
+    "xʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʷː",
+    "ɢʷ",
+]
+af = [
+    "qʷ",
+    "ʁʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qʲʷ",
+    "qʲʷː",
+    "qʲʷʼ",
+    "ɢʲʷ",
+    "χʲʷ",
+    "ʁʲʷ",
+]
+af = [
+    "xʲ",
+    "qʲ",
+    "qʲʼ",
+    "ʁʲ",
+    "χʲ",
+    "ʁʲ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["qˤʲ"]
+af = ["q(ˤ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "qˤʲʷ",
+    "{qˤʲʷː,qˤʲʷ}",
+    "ʁˤʲʷ",
+]
+af = [
+    "χʷ",
+    "qʷʼ",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

@@ -1,0 +1,310 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Kartvelian"
+to = "Georgian"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["q"]
+af = ["x"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɬ,ʂ}"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʈʂ",
+    "{ʈʂʼ,tɬʼ}",
+]
+af = [
+    "ts",
+    "tsʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɖʐ"]
+af = ["dz"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʐ"]
+af = ["z"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["v"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Kartvellian"
+to = "Svan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "kʼ",
+]
+af = [
+    "{k,tʃ}",
+    "{kʼ,tʃʼ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["{ɡ,dʒ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬ",
+    "ʃ",
+    "ʂ",
+]
+af = [
+    "l",
+    "{sɡ,ʃɡ}",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "ʈʂ",
+    "tɬʼ",
+    "tʃʼ",
+    "ʈʂʼ",
+]
+af = [
+    "{tʃk,ʃɡ}",
+    "tʃ",
+    "h",
+    "{ʃkʼ,tʃʼkʼ}",
+    "tʃʼ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dz",
+    "dʒ",
+    "ɖʐ",
+]
+af = [
+    "{dz,z}",
+    "{dʒɡ,sɡ}",
+    "{dʒ,ʒ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʐ"]
+af = ["ʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Kartvelian"
+to = "Zan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2013), “Kartvelian languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "ɑ",
+]
+af = [
+    "ɑ",
+    "ɔ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "q",
+    "qʼ",
+]
+af = [
+    "x",
+    "{kʼ,qʼ,ʔ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɬ",
+    "ʃ",
+    "ʂ",
+]
+af = [
+    "∅",
+    "{sk,ʃk}",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "ʈʂ",
+    "{tɬʼ,ʈʂʼ}",
+    "tʃʼʼ",
+]
+af = [
+    "tʃk",
+    "tʃ",
+    "tʃʼ",
+    "{tsʼkʼ,tʃʼkʼ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dʒ",
+    "ɖʐ",
+]
+af = [
+    "{dʒɡ,dzɡ}",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʐ"]
+af = ["ʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["v"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

@@ -1,0 +1,1953 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Vasconic"
+to = "Aquitanian"
+or = "Pogostick Man"
+os = " from Egurtzegi, Ander (2013), “Phonetics and Phonology”, in Basque and Proto-Basque. <https:"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["ś"]
+af = ["{s(ː),ʃ}"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ś"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "i_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "ts may become ʃs or sː? The written forms are 〈xs〉 and 〈ss〉",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive +fortis]",
+    "→",
+    "[+plosive -voice]ː",
+    "(specifically,",
+    "the",
+    "source",
+    "lists",
+    "t[+fortis]",
+    "k[+fortis]",
+    "→",
+    "t(ː)",
+    "k(ː),",
+    "both",
+    "of",
+    "the",
+    "tokens",
+    "with",
+    "optional",
+    "length",
+    "suffixes",
+    "and",
+    "*a[+plosive -voice]a",
+]
+af = [
+    "〈atta〉,",
+    "so",
+    "I’m",
+    "extrapolating)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n[+fortis]"]
+af = ["n(ː)"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "n[-fortis]",
+    "n[+fortis]",
+]
+af = [
+    "{n,r}(?)",
+    "n",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["[+same"]
+en = "_[+plosive]"
+no = ["[+labial,bilabial][-sonorant][+affricate]]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r[+fortis]"]
+af = ["ɾ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r[+fortis]"]
+af = ["r"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Fortis *L is of uncertain outcome, being written as 〈l〉 or 〈ll〉",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["k"]
+en = "#_ (sometimes?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "There seem to have been a few (variant?) forms which possibly show height assimilation in vowels",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Basque"
+to = "Basque"
+or = "Pogostick Man"
+os = " from Egurtzegi, Ander (2013), ”Phonetics and Phonology”, in Basque and Proto-Basque. <https:"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Pre-Proto-Basque may have had some stuff involving reduplication that ended up dropping the first consonant",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["fortis"]
+af = ["aspirated"]
+en = "“in a prominent positionˈ (i.e., word-initially?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["fortis"]
+af = ["[-voice]"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lenis"]
+af = ["devoiced"]
+en = "“in a prominent word-initial positionˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lenis"]
+af = ["voiced"]
+en = "unstressed"
+no = [
+    "[+consonant]entury?)",
+    "12th",
+    "the",
+    "by",
+    "least",
+    "at",
+    "approximant,",
+    "(→",
+    "fricative",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "lenis",
+    "(voiced)",
+]
+af = ["fricative"]
+en = "{l,r,s̺,s̻,[+vowel]}_{l,r,s̺,s̻,[+vowel]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+affricate]t",
+    "least",
+    "one",
+    "reconstruction",
+    "seems",
+    "to",
+    "indicate",
+    "*s",
+    "and",
+    "*ś,",
+    "which",
+    "may",
+    "have",
+    "been",
+    "an",
+    "affricate",
+    "and",
+    "/s/.",
+    "[+labial,bilabial]retty",
+    "reliably,",
+    "*-s",
+    "tends",
+    "to",
+    "turn",
+    "into",
+    "-ts̺,",
+    "and",
+    "*-ś",
+]
+af = [
+    "-ts̻,",
+    "probably",
+    "after",
+    "the",
+    "below-mentioned",
+    "affrication.",
+    "[+vowel +back]eyond",
+    "that,",
+    "it’s",
+    "messy.",
+    "*-tso",
+    "seems",
+    "to",
+    "have",
+    "become",
+    "-tʃo",
+]
+en = "-tʃu, though."
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]ʰ",
+    "→",
+    "[+fricative]",
+]
+af = [
+    "h",
+    "(→",
+    "∅)",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]"]
+af = ["[+plosive +voiced]"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“[T]wo similar vocalic segments” usually contract, though some dialects (especially Biscayan) seem not to exhibit this",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]n"]
+af = ["Ṽ"]
+en = "_# (seems to have been reverted in most dialects, except for [+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]n"]
+af = ["Ṽ"]
+en = "_[+vowel] (?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["Ṽ"]
+en = "_[+nasal] ([+plosive]ouletin, perhaps in other dialects?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = "#_ (except verbs)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["ɲ"]
+en = "{i,ɪ}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["h̃"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "nb",
+    "→",
+    "mː",
+]
+af = ["m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["[+same"]
+en = "_[+consonant]"
+no = ["[+labial,bilabial][-sonorant][+affricate]]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = "_[+vowel][+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɾ,r}"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["r"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["ɾ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["∅"]
+en = "r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+consonant]r",
+    "→",
+    "[+consonant]ɾ",
+]
+af = [
+    "[+consonant][+vowel]ɾ",
+    "(perhaps",
+    "not",
+]
+en = ""
+no = [
+    "tendency)",
+    "historical",
+    "a",
+    "just",
+    "se,",
+    "per",
+    "change",
+    "sound",
+    "a",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "[+vowel]_[+vowel] ([+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "*[+liquid]",
+    "(fortis)",
+    "→",
+    "l",
+    "(or",
+    "*lh",
+]
+af = [
+    "lː,",
+    "which",
+    "then",
+    "lost",
+    "gemination?)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ð"]
+af = ["some"]
+en = ""
+no = [
+    "[+nasal]avarrese)",
+    "[+laryngeal]igh",
+    "Guipuscoan,",
+    "([+vowel +back]iscayan,",
+    "ɾ",
+    "from",
+    "distinct",
+    "tap",
+    "of",
+    "sort",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["∅"]
+en = "#_[+vowel +back] (a few exceptions, mostly before _u)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voiced]"]
+af = ["∅"]
+en = "[+vowel]_[+vowel] (sometimes, usually involving “compound surnamesˈ?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive +voice]"]
+af = ["[+plosive -voice]"]
+en = "[+fricative +sibilant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["Ṽ"]
+af = ["[+vowel]ɲ"]
+en = "_[+vowel] (not [+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["Ṽ"]
+af = ["[+vowel]n"]
+en = ""
+no = [
+    "[+plosive]ouletin)",
+    "(not",
+    "diphthong",
+    "a",
+    "or",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h̃"]
+af = ["h"]
+en = ""
+no = [
+    "[+plosive]ouletin)",
+    "(not",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "ũ",
+]
+af = [
+    "y",
+    "ỹ",
+]
+en = "_r(p(ʰ),β,k(ʰ),ɣ,l,s̺,s̻,ʃ,h) ([+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "ũ",
+]
+af = [
+    "y",
+    "ỹ",
+]
+en = "_{s̻,ts̺,ts̻} (but not _s̺) ([+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["õ"]
+af = ["ũ"]
+en = ""
+no = ["([+plosive]ouletin)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["a"]
+en = "#_{ra,ro} (sporadic)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["e"]
+en = "#_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["e"]
+en = "#_{s̺,s̻}[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["u"]
+en = "_([+consonant]…)u ([+sonorant]oncalese)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["y"]
+en = "_([+consonant]…)y ([+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["o"]
+en = "_([+consonant]…)o (eastern dialects, [+vowel +back]ermeo [+vowel +back]iscayan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["o"]
+en = "o([+consonant]…)_ (eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "o",
+    "e",
+]
+af = [
+    "ɛ",
+    "u",
+    "i",
+]
+en = "{i,u}([+consonant]…)_ (this [ɛ] is tentatively marked as such"
+no = [" Egurtzegi transcribes it as /e/ but says it’s not as close as /e/)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_n{[+consonant],#} ([+plosive]ouletin"
+no = [" some raising occurred elsewhere)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "_$a ([+vowel +back]iscayan, [+affricate]lavese, some Guipuscoan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "o",
+    "e",
+]
+af = [
+    "u",
+    "i",
+]
+en = "_$a (raising of *o is less common)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_{n,[+consonant +sibilant]} (sporadic)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["a"]
+en = "{[+vowel],[+consonant]}_r (“mainly in the western dialectsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "i",
+]
+af = [
+    "o",
+    "e",
+]
+en = "_r{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“[S]ome variations between /a/ and /e/ or /e/ and /i/” / _l{C,#}",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["j"]
+en = "[+vowel]_{[+nasal],s̺,s̻}[+plosive]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["j"]
+en = "u_[+vowel] (eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{w,y}"]
+af = ["∅"]
+en = "_ja"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["m"]
+en = "o$_[+vowel] ([-sonorant]rozko [+vowel +back]iscayan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["[+vowel]"]
+en = "[+vowel]k_# ([+continuant]eberio [+vowel +back]iscayan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["∅"]
+en = "#_ ([+nasal]avarrese, rare)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["j"]
+en = "#_[+vowel] (at least a few times?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "[+vowel]j_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h"]
+af = ["∅"]
+en = ""
+no = [
+    "dialects)",
+    "(western",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{w,β}h"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "*h may have metathesized given that it’s only found in the first two syllables of proto-forms",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h…h"]
+af = ["∅…h"]
+en = "h"
+no = [
+    "/ and the nasalized aspiration”)",
+    "oral",
+    "the",
+    "both",
+    "(“affect[s]",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["*-ɾ"]
+af = ["-h"]
+en = ""
+no = [
+    "compounds",
+    "in",
+    "stuff",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɾ,r}"]
+af = ["ʎ"]
+en = "{i,j}_ (eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "s̻",
+    "ts̻",
+]
+af = [
+    "ʃ",
+    "tʃ",
+]
+en = "{[+vowel +front],j}_ (mostly [+vowel +back]iscayan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["c"]
+en = "{[+vowel +front],j}_ (“some areasˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["tʃ"]
+en = "{[+vowel +front],j}_ (partially spread amongst [+vowel +back]iscayan and Guipuscoan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d",
+    "ð",
+]
+af = [
+    "ɟ",
+    "ʝ",
+]
+en = "{[+vowel +front],j}_ ? (“some dialectsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d",
+    "ð",
+]
+af = [
+    "ɟ",
+    "ʝ",
+]
+en = "{ʎ,ɲ}_ (Guipuscoan, [+laryngeal]igh [+nasal]avarrese)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɡ,ɣ}"]
+af = ["{ɟ,ʝ}"]
+en = "{[+vowel +front],j}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["dʒ"]
+en = "{[+vowel +front],j}_ (“in some [+vowel +back]iscayan areasˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+]
+af = [
+    "j",
+    "(northern",
+    "[+laryngeal]igh",
+]
+en = ""
+no = [
+    "[+vowel +back]iscayan)",
+    "some",
+    "[+liquid]abourd,",
+    "most",
+    "[+nasal]avarrese,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+]
+af = [
+    "ʒ",
+    "([+plosive]ouletin,",
+    "sporadic",
+]
+en = ""
+no = [
+    "[+vowel +back]iscayan)",
+    "northwestern",
+    "in",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["ʝ"]
+en = ""
+no = [
+    "[+nasal]avarrese)",
+    "and",
+    "[+vowel +back]iscayan",
+    "(some",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+]
+af = [
+    "ɟ",
+    "(typical",
+    "of",
+]
+en = ""
+no = [
+    "[+nasal]avarrese)",
+    "[+liquid]ow",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+    "→",
+    "ʒ",
+]
+af = [
+    "dʒ",
+    "(northwestern",
+    "[+vowel +back]iscayan)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+    "→",
+    "ʒ",
+]
+af = [
+    "ʃ",
+    "([+affricate]escoan,",
+    "[+plosive]alazarese,",
+    "[+sonorant]oncalese,",
+    "most",
+]
+en = ""
+no = [
+    "[+nasal]avarrese)",
+    "[+laryngeal]igh",
+    "southern",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "→",
+    "ʝ",
+    "→",
+    "ʒ",
+    "→",
+    "ʃ",
+]
+af = [
+    "x",
+    "(Guipuscoan,",
+    "northwestern",
+    "[+laryngeal]igh",
+    "[+nasal]avarrese,",
+    "eastern",
+    "[+vowel +back]iscayan)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["χ"]
+en = ""
+no = [
+    "where)",
+    "and",
+    "how",
+    "of",
+    "particulars",
+    "into",
+    "go",
+    "doesn’t",
+    "[+semivowel]ikipedia",
+    "above,",
+    "like",
+    "intermediates",
+    "through",
+    "(probably",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʎ",
+    "ɲ",
+]
+af = [
+    "jl",
+    "jn",
+]
+en = ""
+no = [
+    "[+plosive]akanaˈ)",
+    "of",
+    "[+nasal]avarrese",
+    "[+laryngeal]igh",
+    "the",
+    "in",
+    "regular",
+    "even",
+    "is",
+    "and",
+    "[+liquid]abourdin,",
+    "[+nasal]avarrese,",
+    "[+liquid]ow",
+    "in",
+    "(“common",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Vowel syncope:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "[+plosive]_{ɾ,l} (more common in [+sonorant]oncalese and [+plosive]alazarese, but also in [+nasal]avarrese and [+affricate]escoan?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "[+consonant +sibilant]_ɾ ([+sonorant]oncalese and [+plosive]alazarese)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "{[-sonorant],ɾ,r}_[-sonorant] ([+sonorant]oncalese, [+plosive]alazarese, [+nasal]avarrese, [+affricate]escoan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n[+fortis]"]
+af = ["n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Something about final devoicing of stops and initial stops losing voicing as a result of vowel deletion",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["∅"]
+en = "#[+syllable]r_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "[+vowel]_# (Guipuscoan"
+no = [" happens because of reanalysis of the definite article)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "_#, in trisyllables"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "_#, in disyllables"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "{o,e}",
+]
+af = [
+    "∅",
+    "a",
+]
+en = "_#, in disyllables (eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“-a or -e from the definite article” is dropped Markina Biscayan and Getxo BiscayanSome vowel metathesis only when vowels are matched in height",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "hu",
+    "hi",
+]
+af = [
+    "ʊ",
+    "ɪ",
+]
+en = "{o,e}_ (also happened with "
+no = ["/a/ sometimes, but usually such sequences just dropped one vowel)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Something about diphthongs occurring where intervocalic /n/ was lost",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]ɪ[+consonant]"]
+af = ["[+vowel][+consonant]ʲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Glide dissimilation if the homorganic vowel was in the following syllable, but usually the glide just deleted",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aɪ",
+    "→",
+    "eɪ",
+]
+af = [
+    "e",
+    "(rare)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aʊ"]
+af = ["aɪ"]
+en = "!_{ɾ,r,s̺,s̻} ([+plosive]ouletin, [+sonorant]oncalese)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eʊ"]
+af = ["{e,eɡu}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eɪ"]
+af = ["e"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["oɪ"]
+af = ["uɪ"]
+en = ""
+no = ["(rare)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "eð",
+    "(→",
+    "e",
+    "?)",
+]
+af = ["j"]
+en = "#_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["j"]
+en = "#_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["∅"]
+en = "#_e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʊa"]
+af = ["o"]
+en = ""
+no = [
+    "stopˈ",
+    "velar",
+    "a",
+    "after",
+    "“especially",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʊe"]
+af = ["e"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant -voice]"]
+af = ["[+consonant +voice]"]
+en = "{l,[+nasal]}_ (not [+sonorant]oncalese or [+plosive]ouletin)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Some speakers (Labourd and Low Navarrese?) have ʀ for r, and a few have ɢ̆ for ɾl gets a velar(ized?) articulation in Souletin (possibly only in the coda?)",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +sibilant]"]
+af = ["[+consonant +affricate]"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "s̻",
+    "ts̺",
+]
+af = [
+    "s̺",
+    "ts̻",
+]
+en = ""
+no = [
+    "Guipuscoan)",
+    "of",
+    "varieties",
+    "be",
+    "may",
+    "two",
+    "latter",
+    "these",
+    "though",
+    "[+plosive]ebastián,",
+    "[+plosive]an",
+    "[+plosive +voice]onostia,",
+    "Guipuscoan,",
+    "in",
+    "partially",
+    "([+vowel +back]iscayan,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s̻"]
+af = ["s̺"]
+en = "_{[+consonant],#} (sometimes)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "From the Wikipedia article on Biscayan: “Convergence of sibilants: z, x and s > x, s and tz, tx and ts > tz.” I’m not sure what this means. 〈s z〉 are apparently s̻ s̺, and 〈x〉 is ʃ.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["its̺"]
+af = ["tʃ"]
+en = "_# ([+vowel +back]iscayan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "oa",
+    "ea",
+]
+af = [
+    "u(e)",
+    "i(e)",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Beterri Guipuscoan has VjV# where Biscayan has VɲV# and regular Basque has VV#",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s̺"]
+af = ["tʃ"]
+en = "#_ (Guipuscoan)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s̺"]
+af = ["ʃ̺"]
+en = ""
+no = [
+    "[+consonant]ampbell",
+    "to",
+    "according",
+    "influenceˈ",
+    "[+fricative]rench",
+    "to",
+    "due",
+    "1997:84),",
+    "([+plosive -voice]rask",
+    "speakers",
+    "[+vowel +back]asque",
+    "[+fricative]rench",
+    "most",
+    "“for",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Accentual changes:Navarrese and Labourdin seem to have gotten rid of phonemic accent; High Navarrese typically stresses the penult, while Low Navarrese and Labourdin are claimed to lack stress on the word level.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

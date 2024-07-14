@@ -1,0 +1,353 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Tanoan"
+to = "Jimez"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["h"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+]
+af = [
+    "ɸ",
+    "ɱ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dz",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{tʰ,tsʰ}"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["c"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʼ"]
+af = ["tʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["n"]
+en = "_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k(ʷ)ʰ",
+    "kʷ(ʼ)",
+    "ɡ",
+    "ɡʷ",
+]
+af = [
+    "h",
+    "ɡ",
+    "k",
+    "kʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tanoan"
+to = "Kiowa"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+    "dz",
+]
+af = [
+    "t",
+    "tʰ",
+    "tʼ",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʷ",
+    "kʷʰ",
+    "kʷʼ",
+    "ɡʷ",
+]
+af = [
+    "k",
+    "kʰ",
+    "kʼ",
+    "ɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tanoan"
+to = "Taos"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ɬ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "tsʰ",
+    "tsʼ",
+    "dz",
+]
+af = [
+    "tʃ",
+    "s",
+    "tʃʼ",
+    "j",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = "_[+vowel -nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["n"]
+en = "_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʰ",
+    "kʰʷ",
+    "ɡ",
+    "ɡʷ",
+]
+af = [
+    "x",
+    "xʷ",
+    "k",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tanoan"
+to = "Tewa"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "pʰ",
+    "tʰ",
+    "tsʰ",
+]
+af = [
+    "f",
+    "θ",
+    "s",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["m"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dz"]
+af = ["{j,dʒ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʰ",
+    "kʷʰ",
+    "ɡʷ",
+]
+af = [
+    "x",
+    "xʷ",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

@@ -1,3584 +1,3584 @@
 {
-    "fa": "Je-Tupi-Carib",
-    "cs": [
-      {
-        "fr": "Pre-Bakairi",
-        "to": "Eastern Bakairi",
-        "or": "Pogostick Man",
-        "os": " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel][+nasal][+vowel]"
-            ],
-            "af": [
-              "ṼṼ"
-            ],
-            "en": "! _([+consonant])#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_[+consonant +fricative -voiced]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɾ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+vowel], when neither vowel is stressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Pre-Bakairi",
-        "to": "Western Bakairi",
-        "or": "Pogostick Man",
-        "os": " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel -stress][+nasal][+vowel]"
-            ],
-            "af": [
-              "ṼṼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "z"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "[+vowel]_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "z"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+consonant +fricative",
-              "-voiced]"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "ʔ_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ"
-            ],
-            "af": [
-              "ə"
-            ],
-            "en": "[+labial,bilabial]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʒ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɾ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+vowel], where at least one of the vowels is nasalized",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Ofaié-Jê",
-        "to": "Proto-Jê",
-        "or": "Pogostick Man",
-        "os": " from Gudschinsky, Sarah C. (1971), “Ofai?-Xavante, a J? Language”",
-        "so": [
-          "s1"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel]m"
-            ],
-            "af": [
-              "Ṽ"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel][+plosive]"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "[+consonant]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "c"
-            ],
-            "af": [
-              "{c,z}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋʷ",
-              "{kʷ,hʷ}"
-            ],
-            "af": [
-              "m",
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ə"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+consonant]_[+consonant][+vowel] (not sure if this happened all the time or not)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Ofaié-Jê",
-        "to": "Ofaié-Xavante",
-        "or": "Pogostick Man",
-        "os": " from Gudschinsky, Sarah C. (1971), “OfaiÃ©-Xavante, a JÃª Language”",
-        "so": [
-          "s2"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "{w,p}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɲ[+vowel]"
-            ],
-            "af": [
-              "jṼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k(ʷ)"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "j̃"
-            ],
-            "en": "#_ (not sure if this nasalizes the following vowel or not)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋʷ",
-              "hʷ"
-            ],
-            "af": [
-              "j̃",
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "As pertains to this section, the vowels given in the form 〈{V1/V2}〉 herein may have apparently been some sort of alternation in vowel grade or quality. Also, the names of these languages were researched on the Wikipedia; they are in many cases different from the names cited within the source papers proper.",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "*u *ũ may have actually been *o *õ, respectively. Additionally, the following ablaut pairs have been reconstructed:",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "(From Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137)",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tuparí",
-        "to": "Makuráp",
-        "or": "Pogostick Man",
-        "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
-        "so": [
-          "s3"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_ˈ[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "l"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "β"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ"
-            ],
-            "af": [
-              "β"
-            ],
-            "en": "_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "(n)dz"
-            ],
-            "af": [
-              "t",
-              "nd"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "β"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r"
-            ],
-            "af": [
-              "l"
-            ],
-            "en": "[+vowel +nas]_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð",
-              "nŋʷ"
-            ],
-            "af": [
-              "c",
-              "β"
-            ],
-            "en": "#_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "{∅,c}"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j",
-              "ŋʷ",
-              "m",
-              "n"
-            ],
-            "af": [
-              "ɲ",
-              "m",
-              "{m,p}",
-              "{∅,t}"
-            ],
-            "en": "_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ⁿd",
-              "ŋ"
-            ],
-            "af": [
-              "t",
-              "{ɡ,k}"
-            ],
-            "en": "_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "_{p,b}i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "! #_{p,β}e",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{a/e}",
-              "{e/a}",
-              "{ı̃,ẽ}"
-            ],
-            "af": [
-              "e",
-              "a",
-              "ẽ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tuparí",
-        "to": "Mekens",
-        "or": "Pogostick Man",
-        "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
-        "so": [
-          "3"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_ˈ[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "in [+syllable +stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ",
-              "ŋɡ"
-            ],
-            "af": [
-              "kʷ",
-              "k"
-            ],
-            "en": "_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ"
-            ],
-            "af": [
-              "kʷ"
-            ],
-            "en": "#_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "(n)dz"
-            ],
-            "af": [
-              "{s,ts}",
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "β"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "i_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ᵐb,ⁿd,ð}"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ",
-              "ŋʷ"
-            ],
-            "af": [
-              "k",
-              "m"
-            ],
-            "en": "_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋʷ"
-            ],
-            "af": [
-              "kʷ"
-            ],
-            "en": "#_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "#_{p,βe}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{{a/e},{e/a}}",
-              "{ı̃,ẽ}"
-            ],
-            "af": [
-              "a",
-              "ẽ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tuparí",
-        "to": "Tuparí",
-        "or": "Pogostick Man",
-        "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
-        "so": [
-          "3"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ",
-              "ɡ"
-            ],
-            "af": [
-              "∅",
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ",
-              "ŋɡ"
-            ],
-            "af": [
-              "β",
-              "k"
-            ],
-            "en": "_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{(n)dz,ts}"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{(n)dz,ts}"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "β",
-              "ð"
-            ],
-            "af": [
-              "∅",
-              "{s,h}"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ᵐb",
-              "ŋʷ"
-            ],
-            "af": [
-              "p",
-              "β"
-            ],
-            "en": "#_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "! #_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "#_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋʷ"
-            ],
-            "af": [
-              "m"
-            ],
-            "en": "[+vowel +nas]_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "_{p,b}i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{a/e}"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tuparí",
-        "to": "Wayoró",
-        "or": "Pogostick Man",
-        "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
-        "so": [
-          "3"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "β"
-            ],
-            "en": "[+vowel]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_ˈ[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p",
-              "t"
-            ],
-            "af": [
-              "∅",
-              "l"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "in [+syllable +stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡʷ"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_o",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "bʷ"
-            ],
-            "af": [
-              "β"
-            ],
-            "en": "#_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "(n)dz"
-            ],
-            "af": [
-              "t",
-              "nd"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r",
-              "ŋʷ"
-            ],
-            "af": [
-              "n",
-              "β"
-            ],
-            "en": "[+vowel +nas]_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ð"
-            ],
-            "af": [
-              "(n)d"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ŋɡ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "! _[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "ɨ"
-            ],
-            "en": "_{p,b}i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{a/e}",
-              "{e/a}",
-              "{ı̃,ẽ}"
-            ],
-            "af": [
-              "a",
-              "e",
-              "ı̃"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Akwára",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "s4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k",
-              "b",
-              "r"
-            ],
-            "af": [
-              "{ŋ,∅}",
-              "{w,m}",
-              "{n,r,t}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{h,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "{ɨ,o}"
-            ],
-            "en": "_[+nasal]#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "o"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "! o([+consonant]…)_([+consonant]…)#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "! [+consonant]w_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ã"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "[+consonant]w_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ã"
-            ],
-            "af": [
-              "õ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ẽ,ı̃}",
-              "ɨ̃",
-              "{u,ũ,õ}"
-            ],
-            "af": [
-              "i",
-              "ɨ",
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Cocama",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ",
-              "ts",
-              "ŋ"
-            ],
-            "af": [
-              "∅",
-              "{ts,tʃ}",
-              "n"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "∅"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "j_#, in monosyllables",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "_#, in polysyllables",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "u"
-            ],
-            "en": "k_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_j#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e[+nasal]"
-            ],
-            "af": [
-              "y"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "ɨ"
-            ],
-            "en": "{k,j}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "o"
-            ],
-            "af": [
-              "u(a)"
-            ],
-            "en": "! o([+consonant]…)_([+consonant]…)#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ã",
-              "{ẽ,ı̃}",
-              "ɨ̃"
-            ],
-            "af": [
-              "a",
-              "i",
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "ũ"
-            ],
-            "en": "",
-            "no": [
-              "backwards?)",
-              "possibly",
-              "(?"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "iʔ",
-              "uʔ"
-            ],
-            "af": [
-              "j",
-              "w"
-            ],
-            "en": "[+consonant]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]0ʔ[+vowel]0"
-            ],
-            "af": [
-              "[+vowel]0ː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Guajajara",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{h,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "u_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "ə"
-            ],
-            "en": "_[+nasal]#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "ə"
-            ],
-            "en": "if [+nasal] in [+syllable]#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "o"
-            ],
-            "af": [
-              "u"
-            ],
-            "en": "! o([+consonant]…)_([+consonant]…)#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ã",
-              "ẽ",
-              "ı̃",
-              "ɨ̃",
-              "{õ,ũ}"
-            ],
-            "af": [
-              "ə",
-              "e",
-              "i",
-              "ɨ",
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Guaraní",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "m",
-              "p"
-            ],
-            "af": [
-              "ŋ",
-              "k"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{tʃ,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{b,r}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]{m,n}"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]ŋ"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Guarayo",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "m",
-              "p"
-            ],
-            "af": [
-              "ŋ",
-              "k"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{b,k}",
-              "r"
-            ],
-            "af": [
-              "∅",
-              "{r,∅}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ",
-              "ts"
-            ],
-            "af": [
-              "{ʔ,∅}",
-              "{ts,tʃ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{[+vowel]m,[+vowel]ŋ}",
-              "[+vowel]n"
-            ],
-            "af": [
-              "[+vowel +nas]",
-              "{[+vowel]r,[+vowel +nas]}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a[+nasal]",
-              "e[+nasal]",
-              "i[+nasal]",
-              "ɨ[+nasal]",
-              "u[+nasal]"
-            ],
-            "af": [
-              "ã",
-              "ẽ",
-              "ı̃",
-              "ɨ̃",
-              "ũ"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "õ"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Kamayurá",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_{o,u,w}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{h,j,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b",
-              "r"
-            ],
-            "af": [
-              "p",
-              "t"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ã"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "[+consonant]w_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "ẽ ı̃ õ lost nasalization sometimes, kept it in others",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "õ"
-            ],
-            "en": "",
-            "no": [
-              "backwards?)",
-              "possibly",
-              "(?"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Parintintín",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "{ŋ,∅}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{h,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]n"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "",
-            "no": [
-              "(sometimes)"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "∅"
-            ],
-            "af": [
-              "ŋ"
-            ],
-            "en": "{#,[+vowel]}_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b",
-              "r"
-            ],
-            "af": [
-              "{b,∅}",
-              "{r,t}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e[+nasal]"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ",
-              "ı̃",
-              "ũ"
-            ],
-            "af": [
-              "{ẽ,e}",
-              "{ı̃,i}",
-              "{ũ,õ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Sirionó",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "{h,∅}"
-            ],
-            "en": "_{u,o}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "{k,∅}"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "{ts,tʃ}"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ",
-              "ts"
-            ],
-            "af": [
-              "∅",
-              "{s,ʃ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]{m,n}"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]ŋ"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "{j,i}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "{ɲ,tʃ}"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "{ɡ,k}"
-            ],
-            "en": "{#,[+vowel]}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{b,r}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "{∅,o,e}"
-            ],
-            "en": "_j#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "o",
-              "u"
-            ],
-            "af": [
-              "{u,o}",
-              "{u,o,i}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a[+nasal]",
-              "e[+nasal]",
-              "i[+nasal]",
-              "ɨ[+nasal]",
-              "u[+nasal]"
-            ],
-            "af": [
-              "ã",
-              "ẽ",
-              "ı̃",
-              "{ɨ̃,ĩ}",
-              "õ"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ɨ̃,õ}",
-              "ũ"
-            ],
-            "af": [
-              "{õ,ẽ}",
-              "õ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Classical Tupi",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{s,ʃ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "ʔ_# (sporadic)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Monde",
-        "to": "Gavião",
-        "or": "Pogostick Man",
-        "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
-        "so": [
-          "s5"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "v"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_ (sporadic, likely an areal feature)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Monde",
-        "to": "Proto-Cinta Larga-Suruí-Zoró",
-        "or": "Pogostick Man",
-        "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
-        "so": [
-          "5"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "Ṽ"
-            ],
-            "en": "_h",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "v"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Cinta Larga-Suruí-Zoró",
-        "to": "Cinta Larga",
-        "or": "Pogostick Man",
-        "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
-        "so": [
-          "5"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "o"
-            ],
-            "af": [
-              "u"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]h"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Cinta Larga-Suruí-Zoró",
-        "to": "Suruí",
-        "or": "Pogostick Man",
-        "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
-        "so": [
-          "5"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ᵑɡ"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "#_ (possibly all prenasalized consonants?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "m"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Cinta Larga-Suruí-Zoró",
-        "to": "Zoró",
-        "or": "Pogostick Man",
-        "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
-        "so": [
-          "5"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "∅"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "[+vowel]_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ᵑɡ"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "#_ (possibly all prenasalized consonants?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [
-              "influence)",
-              "Gavião",
-              "from",
-              "feature",
-              "areal",
-              "(sporadic,"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tupí-Guaraní",
-        "to": "Urubu",
-        "or": "Pogostick Man",
-        "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
-        "so": [
-          "4"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p",
-              "k"
-            ],
-            "af": [
-              "k",
-              "∅"
-            ],
-            "en": "_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_{i,ı̃}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "{k,∅}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "{k,ʃ}"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "{s,h}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]n"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "_# (sometimes)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]ŋ"
-            ],
-            "af": [
-              "[+vowel +nas]"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j",
-              "b"
-            ],
-            "af": [
-              "{j,i}",
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "k_w",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "! o([+consonant]…)_([+consonant]…)#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a[+nasal]",
-              "i[+nasal]",
-              "u[+nasal]"
-            ],
-            "af": [
-              "{a[+nasal],ã}",
-              "ı̃",
-              "{u[+nasal],ũ}"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɨ̃",
-              "ẽ",
-              "õ"
-            ],
-            "af": [
-              "∅",
-              "{ẽ,e}",
-              "{o,õ,u,ũ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Pre-Bakairi",
+      "to": "Eastern Bakairi",
+      "or": "Pogostick Man",
+      "os": " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel][+nasal][+vowel]"
+          ],
+          "af": [
+            "ṼṼ"
+          ],
+          "en": "! _([+consonant])#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_[+consonant +fricative -voiced]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɾ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+vowel], when neither vowel is stressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Pre-Bakairi",
+      "to": "Western Bakairi",
+      "or": "Pogostick Man",
+      "os": " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel -stress][+nasal][+vowel]"
+          ],
+          "af": [
+            "ṼṼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "z"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "[+vowel]_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "z"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+consonant +fricative",
+            "-voiced]"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "ʔ_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ"
+          ],
+          "af": [
+            "ə"
+          ],
+          "en": "[+labial,bilabial]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʒ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɾ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+vowel], where at least one of the vowels is nasalized",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Ofaié-Jê",
+      "to": "Proto-Jê",
+      "or": "Pogostick Man",
+      "os": " from Gudschinsky, Sarah C. (1971), “Ofai?-Xavante, a J? Language”",
+      "so": [
+        "s1"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel]m"
+          ],
+          "af": [
+            "Ṽ"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel][+plosive]"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "[+consonant]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "c"
+          ],
+          "af": [
+            "{c,z}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋʷ",
+            "{kʷ,hʷ}"
+          ],
+          "af": [
+            "m",
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ə"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+consonant]_[+consonant][+vowel] (not sure if this happened all the time or not)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Ofaié-Jê",
+      "to": "Ofaié-Xavante",
+      "or": "Pogostick Man",
+      "os": " from Gudschinsky, Sarah C. (1971), “OfaiÃ©-Xavante, a JÃª Language”",
+      "so": [
+        "s2"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "{w,p}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲ[+vowel]"
+          ],
+          "af": [
+            "jṼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k(ʷ)"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "j̃"
+          ],
+          "en": "#_ (not sure if this nasalizes the following vowel or not)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋʷ",
+            "hʷ"
+          ],
+          "af": [
+            "j̃",
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "As pertains to this section, the vowels given in the form 〈{V1/V2}〉 herein may have apparently been some sort of alternation in vowel grade or quality. Also, the names of these languages were researched on the Wikipedia; they are in many cases different from the names cited within the source papers proper.",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "*u *ũ may have actually been *o *õ, respectively. Additionally, the following ablaut pairs have been reconstructed:",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "(From Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137)",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tuparí",
+      "to": "Makuráp",
+      "or": "Pogostick Man",
+      "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
+      "so": [
+        "s3"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_ˈ[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "l"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "β"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ"
+          ],
+          "af": [
+            "β"
+          ],
+          "en": "_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "(n)dz"
+          ],
+          "af": [
+            "t",
+            "nd"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "β"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r"
+          ],
+          "af": [
+            "l"
+          ],
+          "en": "[+vowel +nas]_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð",
+            "nŋʷ"
+          ],
+          "af": [
+            "c",
+            "β"
+          ],
+          "en": "#_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "{∅,c}"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j",
+            "ŋʷ",
+            "m",
+            "n"
+          ],
+          "af": [
+            "ɲ",
+            "m",
+            "{m,p}",
+            "{∅,t}"
+          ],
+          "en": "_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ⁿd",
+            "ŋ"
+          ],
+          "af": [
+            "t",
+            "{ɡ,k}"
+          ],
+          "en": "_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "_{p,b}i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "! #_{p,β}e",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{a/e}",
+            "{e/a}",
+            "{ı̃,ẽ}"
+          ],
+          "af": [
+            "e",
+            "a",
+            "ẽ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tuparí",
+      "to": "Mekens",
+      "or": "Pogostick Man",
+      "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
+      "so": [
+        "3"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_ˈ[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "in [+syllable +stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ",
+            "ŋɡ"
+          ],
+          "af": [
+            "kʷ",
+            "k"
+          ],
+          "en": "_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ"
+          ],
+          "af": [
+            "kʷ"
+          ],
+          "en": "#_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "(n)dz"
+          ],
+          "af": [
+            "{s,ts}",
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "β"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "i_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ᵐb,ⁿd,ð}"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ",
+            "ŋʷ"
+          ],
+          "af": [
+            "k",
+            "m"
+          ],
+          "en": "_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋʷ"
+          ],
+          "af": [
+            "kʷ"
+          ],
+          "en": "#_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "#_{p,βe}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{{a/e},{e/a}}",
+            "{ı̃,ẽ}"
+          ],
+          "af": [
+            "a",
+            "ẽ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tuparí",
+      "to": "Tuparí",
+      "or": "Pogostick Man",
+      "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
+      "so": [
+        "3"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ",
+            "ɡ"
+          ],
+          "af": [
+            "∅",
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ",
+            "ŋɡ"
+          ],
+          "af": [
+            "β",
+            "k"
+          ],
+          "en": "_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{(n)dz,ts}"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{(n)dz,ts}"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "β",
+            "ð"
+          ],
+          "af": [
+            "∅",
+            "{s,h}"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ᵐb",
+            "ŋʷ"
+          ],
+          "af": [
+            "p",
+            "β"
+          ],
+          "en": "#_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "! #_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "#_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋʷ"
+          ],
+          "af": [
+            "m"
+          ],
+          "en": "[+vowel +nas]_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "_{p,b}i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{a/e}"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tuparí",
+      "to": "Wayoró",
+      "or": "Pogostick Man",
+      "os": " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137.",
+      "so": [
+        "3"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "β"
+          ],
+          "en": "[+vowel]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_ˈ[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p",
+            "t"
+          ],
+          "af": [
+            "∅",
+            "l"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "in [+syllable +stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡʷ"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_o",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "bʷ"
+          ],
+          "af": [
+            "β"
+          ],
+          "en": "#_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "(n)dz"
+          ],
+          "af": [
+            "t",
+            "nd"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r",
+            "ŋʷ"
+          ],
+          "af": [
+            "n",
+            "β"
+          ],
+          "en": "[+vowel +nas]_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ð"
+          ],
+          "af": [
+            "(n)d"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ŋɡ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "! _[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "ɨ"
+          ],
+          "en": "_{p,b}i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{a/e}",
+            "{e/a}",
+            "{ı̃,ẽ}"
+          ],
+          "af": [
+            "a",
+            "e",
+            "ı̃"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Akwára",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "s4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k",
+            "b",
+            "r"
+          ],
+          "af": [
+            "{ŋ,∅}",
+            "{w,m}",
+            "{n,r,t}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{h,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "{ɨ,o}"
+          ],
+          "en": "_[+nasal]#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "! o([+consonant]…)_([+consonant]…)#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "! [+consonant]w_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ã"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "[+consonant]w_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ã"
+          ],
+          "af": [
+            "õ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ẽ,ı̃}",
+            "ɨ̃",
+            "{u,ũ,õ}"
+          ],
+          "af": [
+            "i",
+            "ɨ",
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Cocama",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ",
+            "ts",
+            "ŋ"
+          ],
+          "af": [
+            "∅",
+            "{ts,tʃ}",
+            "n"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "∅"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "j_#, in monosyllables",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "_#, in polysyllables",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "k_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_j#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e[+nasal]"
+          ],
+          "af": [
+            "y"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "ɨ"
+          ],
+          "en": "{k,j}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "u(a)"
+          ],
+          "en": "! o([+consonant]…)_([+consonant]…)#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ã",
+            "{ẽ,ı̃}",
+            "ɨ̃"
+          ],
+          "af": [
+            "a",
+            "i",
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "ũ"
+          ],
+          "en": "",
+          "no": [
+            "backwards?)",
+            "possibly",
+            "(?"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "iʔ",
+            "uʔ"
+          ],
+          "af": [
+            "j",
+            "w"
+          ],
+          "en": "[+consonant]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]0ʔ[+vowel]0"
+          ],
+          "af": [
+            "[+vowel]0ː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Guajajara",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{h,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "u_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "ə"
+          ],
+          "en": "_[+nasal]#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "ə"
+          ],
+          "en": "if [+nasal] in [+syllable]#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "! o([+consonant]…)_([+consonant]…)#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ã",
+            "ẽ",
+            "ı̃",
+            "ɨ̃",
+            "{õ,ũ}"
+          ],
+          "af": [
+            "ə",
+            "e",
+            "i",
+            "ɨ",
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Guaraní",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "m",
+            "p"
+          ],
+          "af": [
+            "ŋ",
+            "k"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{tʃ,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{b,r}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]{m,n}"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]ŋ"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Guarayo",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "m",
+            "p"
+          ],
+          "af": [
+            "ŋ",
+            "k"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{b,k}",
+            "r"
+          ],
+          "af": [
+            "∅",
+            "{r,∅}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ",
+            "ts"
+          ],
+          "af": [
+            "{ʔ,∅}",
+            "{ts,tʃ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{[+vowel]m,[+vowel]ŋ}",
+            "[+vowel]n"
+          ],
+          "af": [
+            "[+vowel +nas]",
+            "{[+vowel]r,[+vowel +nas]}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a[+nasal]",
+            "e[+nasal]",
+            "i[+nasal]",
+            "ɨ[+nasal]",
+            "u[+nasal]"
+          ],
+          "af": [
+            "ã",
+            "ẽ",
+            "ı̃",
+            "ɨ̃",
+            "ũ"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "õ"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Kamayurá",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_{o,u,w}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{h,j,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b",
+            "r"
+          ],
+          "af": [
+            "p",
+            "t"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ã"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "[+consonant]w_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "ẽ ı̃ õ lost nasalization sometimes, kept it in others",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "õ"
+          ],
+          "en": "",
+          "no": [
+            "backwards?)",
+            "possibly",
+            "(?"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Parintintín",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "{ŋ,∅}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{h,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]n"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "",
+          "no": [
+            "(sometimes)"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "∅"
+          ],
+          "af": [
+            "ŋ"
+          ],
+          "en": "{#,[+vowel]}_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b",
+            "r"
+          ],
+          "af": [
+            "{b,∅}",
+            "{r,t}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e[+nasal]"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ",
+            "ı̃",
+            "ũ"
+          ],
+          "af": [
+            "{ẽ,e}",
+            "{ı̃,i}",
+            "{ũ,õ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Sirionó",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "{h,∅}"
+          ],
+          "en": "_{u,o}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "{k,∅}"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "{ts,tʃ}"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ",
+            "ts"
+          ],
+          "af": [
+            "∅",
+            "{s,ʃ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]{m,n}"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]ŋ"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "{j,i}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "{ɲ,tʃ}"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "{ɡ,k}"
+          ],
+          "en": "{#,[+vowel]}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{b,r}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "{∅,o,e}"
+          ],
+          "en": "_j#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "o",
+            "u"
+          ],
+          "af": [
+            "{u,o}",
+            "{u,o,i}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a[+nasal]",
+            "e[+nasal]",
+            "i[+nasal]",
+            "ɨ[+nasal]",
+            "u[+nasal]"
+          ],
+          "af": [
+            "ã",
+            "ẽ",
+            "ı̃",
+            "{ɨ̃,ĩ}",
+            "õ"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ɨ̃,õ}",
+            "ũ"
+          ],
+          "af": [
+            "{õ,ẽ}",
+            "õ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Classical Tupi",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{s,ʃ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "ʔ_# (sporadic)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Monde",
+      "to": "Gavião",
+      "or": "Pogostick Man",
+      "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
+      "so": [
+        "s5"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "v"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_ (sporadic, likely an areal feature)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Monde",
+      "to": "Proto-Cinta Larga-Suruí-Zoró",
+      "or": "Pogostick Man",
+      "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
+      "so": [
+        "5"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "Ṽ"
+          ],
+          "en": "_h",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "v"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Cinta Larga-Suruí-Zoró",
+      "to": "Cinta Larga",
+      "or": "Pogostick Man",
+      "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
+      "so": [
+        "5"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "o"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]h"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Cinta Larga-Suruí-Zoró",
+      "to": "Suruí",
+      "or": "Pogostick Man",
+      "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
+      "so": [
+        "5"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ᵑɡ"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "#_ (possibly all prenasalized consonants?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "m"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Cinta Larga-Suruí-Zoró",
+      "to": "Zoró",
+      "or": "Pogostick Man",
+      "os": " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31",
+      "so": [
+        "5"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "∅"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "[+vowel]_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ᵑɡ"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "#_ (possibly all prenasalized consonants?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [
+            "influence)",
+            "Gavião",
+            "from",
+            "feature",
+            "areal",
+            "(sporadic,"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tupí-Guaraní",
+      "to": "Urubu",
+      "or": "Pogostick Man",
+      "os": " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29.",
+      "so": [
+        "4"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p",
+            "k"
+          ],
+          "af": [
+            "k",
+            "∅"
+          ],
+          "en": "_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_{i,ı̃}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "{k,∅}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "{k,ʃ}"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "{s,h}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]n"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "_# (sometimes)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]ŋ"
+          ],
+          "af": [
+            "[+vowel +nas]"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j",
+            "b"
+          ],
+          "af": [
+            "{j,i}",
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "k_w",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "! o([+consonant]…)_([+consonant]…)#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a[+nasal]",
+            "i[+nasal]",
+            "u[+nasal]"
+          ],
+          "af": [
+            "{a[+nasal],ã}",
+            "ı̃",
+            "{u[+nasal],ũ}"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɨ̃",
+            "ẽ",
+            "õ"
+          ],
+          "af": [
+            "∅",
+            "{ẽ,e}",
+            "{o,õ,u,ũ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

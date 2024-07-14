@@ -1,0 +1,3276 @@
+fa = "TODO"
+
+[[cs]]
+fr = "refer"
+to = "low, mid, and high tones, respectively. Not all Salishan languages have all three tones; for most, there is no tone 2 (mid). Vowel pairs in between curly braces 〈{ }〉 and with a tilde between are pairs which apparently existed in some sort of ablaut-like alternation."
+or = "(From Kuipers"
+os = " Aert H. (1981), “On Reconstructing the Proto-Salish Sound System”. International Journal of American Linguistics 47(4):323 – 335; and Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages)"
+so = ["s0"]
+no = []
+ch = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Comox"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = ["ts(ʼ)"]
+af = ["θ(ʼ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l(ʲ)"]
+af = ["w"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l(ʲ)"]
+af = ["w"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l(ʲ)"]
+af = ["j"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "#_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "#_{wa,wi}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "w",
+    "j",
+]
+af = [
+    "ɡ",
+    "dʒ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ"]
+af = ["[+vowel]3(ː)ʔ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = ["[+vowel]3_[+sonorant][+vowel]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = ["[+vowel]3[+sonorant]_[+vowel]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ə3,a3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{a1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["{ə1,i1,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["i1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Chilliwack Halkomelem"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔn"]
+af = ["∅"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts(ʼ)",
+    "tʃ(ʼ)",
+]
+af = [
+    "θ(ʼ)",
+    "ts(ʼ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3ː"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ"]
+af = ["[+vowel]3(ː)"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ"]
+af = ["[+vowel]3ː"]
+en = "_[-sonorant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["[+vowel]0"]
+en = "ˈ[+vowel]03_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ[+sonorant]"]
+af = ["[+vowel]3ː[+sonorant]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel][+sonorant]_[+vowel]3"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʔn"]
+af = ["lː"]
+en = "[+vowel]3_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "{u1,a1}",
+    "a3",
+    "i1",
+]
+af = [
+    "a3",
+    "ə1",
+    "ɛ3",
+    "{i1,ə1}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["{o3,ə3,a3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ɛ3,ə3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ɛ3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Cowichan Halkomelem"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ts(ʼ)",
+    "tʃ(ʼ)",
+]
+af = [
+    "θ(ʼ)",
+    "ts(ʼ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3ː"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]03ʔ([+vowel]0)"]
+af = ["{[+vowel]03ː,[+vowel]03ʔ[+vowel]0}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ[+sonorant]"]
+af = ["{[+vowel]3ʔ[+sonorant],[+vowel]3ː[+sonorant]ʔ}"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a3",
+    "u3",
+    "{a1,u1}",
+    "i1",
+]
+af = [
+    "ɛ3",
+    "a3",
+    "ə1",
+    "{i1,ə1}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["a3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Musqueam Halkomelem"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ʔn"]
+af = ["∅"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts(ʼ)",
+    "tʃ(ʼ)",
+]
+af = [
+    "θ(ʼ)",
+    "ts(ʼ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3ː"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ"]
+af = ["[+vowel]3{ː,ʔ}"]
+en = "_[-sonorant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]03ʔ[+vowel]0"]
+af = ["{[+vowel]3ː,[+vowel]03ʔ[+vowel]0}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ[+sonorant]"]
+af = ["{[+vowel]3ʔ[+sonorant],[+vowel]3ː[+sonorant]ʔ}"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "{u1,a1}",
+    "a3",
+    "i1",
+]
+af = [
+    "a3",
+    "ə1",
+    "ɛ3",
+    "{i1,ə1}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ɛ3,ə3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["{a3,ɛ3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{ə1,ɛ1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Klallam"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["mʔn"]
+af = ["nʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p(ʼ)",
+    "m",
+]
+af = [
+    "ts(ʼ)",
+    "ŋ",
+]
+en = "! _u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l(ʲ)"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["{s,ʃ}"]
+en = ""
+no = [
+    "borrowings?)",
+    "from",
+    "mainly",
+    "latter",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["ts"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃʼ"]
+af = ["tsʼ"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "w",
+    "j",
+]
+af = [
+    "kʷ",
+    "tʃ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]03ʔ([+vowel]0)"]
+af = ["[+vowel]03ʔ[+vowel]0"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["u3"]
+en = "{[+consonant]ʷ[+uvular],[+velar]ʷ,w}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["u3"]
+en = "_{[+consonant]u,[+consonant]ʷ[+uvular],w}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Lushootseed"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["mʔn"]
+af = ["d"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+]
+af = [
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["{ʃ,s}"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "w",
+    "j",
+]
+af = [
+    "ɡʷ",
+    "dz",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3{ː,ʔ}"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3ʔ"]
+af = ["[+vowel]3(ʔ)"]
+en = "_[-sonorant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+sonorant]ʔ"]
+af = ["ʔ[+sonorant]"]
+en = "[+vowel]3[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i1"]
+af = ["{i1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["a3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ə3,a3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["i1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə3}"]
+af = ["{i1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["{i3,i1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{ə1,i1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Nooksack"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "mʔ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["{s,ʃ}"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "#_{xʲ,w{i,a},qʷa}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["[+vowel]0"]
+en = "ˈ[+vowel]03ʔ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ[+sonorant]"]
+af = ["{ʔ[+plosive],[+sonorant]}"]
+en = "[+vowel]3_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel][+sonorant]_[+vowel]3"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]3[+sonorant]_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1[+sonorant]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a1",
+    "u3",
+    "u1",
+    "i1",
+]
+af = [
+    "æ2",
+    "o3",
+    "o1",
+    "i2",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə1"]
+af = ["æ2"]
+en = "a3[+consonant]([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə1"]
+af = ["æ2"]
+en = "_[+consonant]([+consonant])a3"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə1"]
+af = ["æ2"]
+en = "in some other unspecified circumstances"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["o3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["æ3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["æ3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["æ2"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{i3.ə3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{i2,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Lummi Northern Straits"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p(’)",
+    "m",
+]
+af = [
+    "tʃ(’)",
+    "ŋ",
+]
+en = "! _u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mʔ"]
+af = ["∅"]
+en = "_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʃ"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ’"]
+af = ["ts’"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["tʃ"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]3l_n[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["{∅,ʔ}"]
+en = "[+vowel]3[+sonorant]_{[+consonant],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "u1",
+]
+af = [
+    "o3",
+    "ə1",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["o3"]
+en = "{{[+consonant +uvular],[+velar]}ʷ,w}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["o3"]
+en = "_{[+consonant]u,[+consonant +uvular]ʷ,w}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["e3"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Saanich Northern Straits"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p(’)",
+    "m",
+]
+af = [
+    "tʃ(’)",
+    "ŋ",
+]
+en = "! _u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mʔn"]
+af = ["nʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "ts’",
+]
+af = [
+    "{θ,s}",
+    "θ’",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["{ʃ,s}"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ’"]
+af = ["θ’"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "w",
+]
+af = [
+    "tʃ",
+    "kʷ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3(ː)"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ[+sonorant]"]
+af = ["[+sonorant]ʔ"]
+en = "[+vowel]3_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "u1",
+]
+af = [
+    "a3",
+    "ə1",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["e3"]
+en = "! {{[+consonant +uvular],[+velar]}ʷ,w}_ or when _{[+consonant]u,[+consonant +uvular]ʷ,w}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ə3,e3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{ə1,i1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Songish Northern Straits"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p(’)",
+    "m",
+]
+af = [
+    "tʃ(’)",
+    "ŋ",
+]
+en = "! _u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mʔn"]
+af = ["nʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["{ʃ,s}"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["{s,ʃ}"]
+en = ""
+no = [
+    "borrowings?)",
+    "from",
+    "mainly",
+    "latter",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ’"]
+af = ["ts’"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "w",
+]
+af = [
+    "tʃ",
+    "kʷ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]3h"]
+af = ["[+vowel]3ː"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "u1",
+]
+af = [
+    "a3",
+    "ə1",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["a3"]
+en = "{{[+consonant +uvular],[+velar]}ʷ,w}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["a3"]
+en = "_{[+consonant]u,[+consonant +uvular]ʷ,w}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{ə1,e1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Sooke Northern Straits"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p(’)",
+    "m",
+]
+af = [
+    "tʃ(’)",
+    "ŋ",
+]
+en = "! _u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mʔn"]
+af = ["nʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l(ʲ)"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["{s,ʃ}"]
+en = ""
+no = [
+    "borrowings?)",
+    "from",
+    "mainly",
+    "latter",
+    "(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ’"]
+af = ["ts’"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "j",
+    "w",
+]
+af = [
+    "tʃ",
+    "kʷ",
+]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "u1",
+]
+af = [
+    "a3",
+    "ə1",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["{a3,o3}"]
+en = "{{[+consonant +uvular],[+velar]}ʷ,w}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a3"]
+af = ["e3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Pentlatch"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "ts’",
+]
+af = [
+    "s",
+    "ts’",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]3_[-sonorant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]3[+sonorant]_{[+vowel],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i1"]
+af = ["ə1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{i1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{i1,∅}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Sechelt"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "m_n"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]_[+vowel]3"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i1"]
+af = ["{i1,ə1j}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["u3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{i1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{i1,∅}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Sqamish"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "mʔ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ[+sonorant]"]
+af = ["[+sonorant]ʔ"]
+en = "[+vowel]3_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u1"]
+af = ["{u1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u3~ə3}"]
+af = ["ə3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{a3,ə3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["i1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{ə3,i3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["i3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["{i1,∅}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Central Salish"
+to = "Twana"
+or = "Pogostick Man"
+os = " from Galloway, Brent (1982), “Proto-Central Salish Phonology and Sound Correspondences”. From the 17th International Conference on Salish and Neighboring Languages"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+]
+af = [
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["lʲ"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["{ʃ,s}"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʲ"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ[+sonorant]"]
+af = ["ʔ{[+sonorant],b}"]
+en = "[+vowel]3_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+sonorant]ʔ"]
+af = ["ʔ[+sonorant]"]
+en = "[+vowel]3_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]1[+sonorant]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "[+vowel]3[+sonorant]_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u3",
+    "u1",
+]
+af = [
+    "o3",
+    "ə1",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~ə3}"]
+af = ["{ə3,a3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a3~i3}"]
+af = ["a3"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{a1~i1}"]
+af = ["{i1,ə1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~e3}"]
+af = ["{i3,ə3}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i3~ə1}"]
+af = ["{i3,i1}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i1~ə1}"]
+af = ["i1"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Interior Salish"
+to = "Columbian and Okanagan Nasal-to-Vowel Shifts"
+or = "Pogostick Man"
+os = " from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = ["nˀ"]
+af = ["aʔ"]
+en = "_# (all other Interior [+plosive]alishan languages have "
+no = ["/eʔ/ in this position)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Interior Salish"
+to = "Thompson Nasal-to-Vowel Shifts"
+or = "Pogostick Man"
+os = " from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = ["[+nasal -glottalized]"]
+af = ["e"]
+en = "_[-sonorant +same [+labial,bilabial][-sonorant][+affricate]] “‘in primary forms’ˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n̩"]
+af = ["e"]
+en = "n_ (this is admittedly a bit conjectural"
+no = [" the paper is not being very clear here)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Shuswap"
+to = "Eastern Shuswap Nasal-to-Vowel Shifts"
+or = "Pogostick Man"
+os = " from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "em",
+    "emˀ",
+]
+af = [
+    "u",
+    "uʔ",
+]
+en = "w_ in [+syllable -stressed]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "em",
+    "emˀ",
+]
+af = [
+    "a",
+    "aʔ",
+]
+en = "in [+syllable -stressed] ! {p(’),m(ˀ)}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "en",
+    "enˀ",
+]
+af = [
+    "i",
+    "iʔ",
+]
+en = "{ts(’),s,j(ˀ)}_ in [+syllable -stressed]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "en",
+    "enˀ",
+]
+af = [
+    "a",
+    "ʔ",
+]
+en = "in [+syllable -stressed] ! {t(’),lʲ,{n,l}(ˀ)}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Shuswap"
+to = "Spokane-Kalispel Shuswap Nasal-to-Vowel Shifts"
+or = "Pogostick Man"
+os = " from Kinkade, Dale M. “Shifts of Nasals to Vowels in Interior Salish”"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "n",
+    "nˀ",
+]
+af = [
+    "i",
+    "iʔ",
+]
+en = "[+consonant]_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "n",
+    "nˀ",
+]
+af = [
+    "i",
+    "iʔ",
+]
+en = "_{i,ʃ} (sporadic) "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

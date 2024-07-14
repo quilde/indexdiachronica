@@ -1,0 +1,3670 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Tai"
+to = "Ahom"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{f,v}",
+    "{m,b}",
+]
+af = [
+    "pʰ",
+    "b",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pl",
+    "b{l,r}",
+]
+af = [
+    "v",
+    "pj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "{d,ɗ}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d",
+    "ɗ",
+]
+af = [
+    "t",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ̊"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal -voice]",
+    "l̥",
+]
+af = [
+    "[+nasal +voice]",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʰ"]
+af = ["∅"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["kʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡl"]
+af = ["k(w)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["x"]
+af = ["∅"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["l"]
+en = "[+velar]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["kʰ"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "[+velar]ʷ",
+]
+af = [
+    "{kʰ,x}",
+    "[+velar](ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tai"
+to = "Saek"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ɲ̊"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal -voice]"]
+af = ["[+nasal +voice]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pr",
+    "b{l,r}",
+    "vr",
+]
+af = [
+    "v",
+    "bj",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "{n,ɗ}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "d",
+    "ɗ",
+]
+af = [
+    "t",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["{p,t}"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "tʰ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["t"]
+en = "_{l,r}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɡ,x}"]
+af = ["kʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["t"]
+en = "_l"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tai"
+to = "Central Tai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "d",
+]
+en = "! _{l,r}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "n,ɗ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["f"]
+af = ["pʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{m,w}"]
+af = ["v"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "p_{ɯ,e,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["j"]
+en = "p_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b{l,r}"]
+af = ["pj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["b"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "t_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tr"]
+af = ["tʰ(r)_"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["∅"]
+en = "_{l,r}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal -voice]"]
+af = ["[+nasal +voice]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡ",
+    "x",
+]
+af = [
+    "k",
+    "kʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kl",
+    "kr",
+]
+af = [
+    "{kj,tʃ}",
+    "kʰj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "ŋ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xr"]
+af = ["kʰ{l,r}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "ɣʷ",
+]
+af = [
+    "kʷʰ",
+    "{v,w}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iə"]
+af = ["ı̆"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯a"]
+af = ["aː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛi",
+    "ei",
+]
+af = [
+    "ai",
+    "iː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Central Tai"
+to = "Lungchow"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["pʰ"]
+en = "_{ɯ,e,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["pʰj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{r,s,z}",
+    "tʃʰ",
+    "dʒ",
+]
+af = [
+    "ɬ",
+    "ʃ",
+    "tʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲ"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡl"]
+af = ["kj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["∅"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨə"]
+af = ["ɨ̆"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨ̆",
+    "i̯o",
+]
+af = [
+    "u",
+    "ə",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uə"]
+af = ["ŭ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u̯ɨ",
+    "u̯o",
+]
+af = [
+    "{ɨ,ə}",
+    "u",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uo",
+    "ɨ̯u",
+]
+af = [
+    "u(ː)",
+    "u",
+]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯u"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "o",
+    "{u̯ɔ,ɨɔ,ɔ}",
+]
+af = [
+    "u",
+    "oː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯e"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{(i)ɛ,i̯ɛ}"]
+af = ["eː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uɔ",
+    "ɨ̯ɔ",
+]
+af = [
+    "oː",
+    "ɨ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{ɨo̯,ɨa̯,ɨe̯}",
+    "ie̯",
+]
+af = [
+    "ɨː",
+    "iː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{uɨ̯,ua̯,ue̯}"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ai"]
+af = ["aːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u̯əi",
+    "uəi",
+    "uai",
+    "i̯əu",
+    "iau",
+]
+af = [
+    "oːi",
+    "uːi",
+    "uːiau",
+    "oːu",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["aː"]
+en = "_u,i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əi"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯ai"]
+af = ["aːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɔ",
+    "ɨ",
+]
+af = [
+    "oː",
+    "ɨː",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u̯əi"]
+af = ["oːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{o,ə}"]
+af = ["a"]
+en = "_ɨ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɛɨ,eɨ}"]
+af = ["aɨ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eu"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["a"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯əu"]
+af = ["au"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "i",
+]
+af = [
+    "eː",
+    "iː",
+]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{uəi,uai}",
+    "iau",
+]
+af = [
+    "uːi",
+    "eːu",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Central Tai"
+to = "Nung"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["pʰ"]
+en = "_{ɯ,e,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["pʰj"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "tʃʰ",
+    "dʒ",
+]
+af = [
+    "ʃ",
+    "tsʰ",
+    "{ʃ,tʃ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Central Tai"
+to = "Tay"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["tʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{s,z}"]
+af = ["{x,tʰ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʃ",
+    "dʒ",
+]
+af = [
+    "{x,t}",
+    "tʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["(ʔ)j"]
+af = ["ʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["∅"]
+en = "_l"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["kʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Central Tai"
+to = "Tho"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["tʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["{r,s}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["(ʔ)j"]
+af = ["ʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Central Tai"
+to = "T’ien-Pao"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["tʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["r̥"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{s,z}"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["w"]
+en = "_[+vowel +round]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "iː",
+    "u",
+]
+af = [
+    "ə",
+    "ei",
+    "oʊ̯",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tai"
+to = "North Tai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["{kʰ,ɡ}{l,r}"]
+af = ["tʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["k{l,r}"]
+af = ["{kj,tʃ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "p(ʰ),b_[+vowel +front]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["j"]
+en = "p(ʰ),b_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "ɗ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{pʰ,b}",
+    "ɓ",
+    "{tʰ,d}",
+    "ɗ",
+    "{kʰ,ɡ}",
+    "{kʷʰ,ɡ}",
+]
+af = [
+    "p",
+    "b",
+    "t",
+    "d",
+    "k",
+    "kʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m̥",
+    "n̥",
+]
+af = [
+    "m",
+    "n",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "mw",
+    "f",
+]
+af = [
+    "f",
+    "{f,v,w,h}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t{l,r}"]
+af = ["r̥"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{w,m}"]
+af = ["v"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{tʃ(ʰ),dʒ}"]
+af = ["ʃ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xr",
+    "x",
+    "{x,ɣ}ʷ",
+]
+af = [
+    "r̥",
+    "h",
+    "{w,v,h}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iə"]
+af = ["ı̆"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̆"]
+af = ["a"]
+en = "_[+velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uo"]
+af = ["ɔː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɨ̯u,i̯ɛ}"]
+af = ["ɨə̯~ɨa̯"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u̯o",
+    "i̯o",
+]
+af = [
+    "u",
+    "o",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯a"]
+af = ["ɨa̯~ɨə̯"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u̯ɔ,u̯a}"]
+af = ["ua~uə"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uo",
+    "→",
+    "uu",
+]
+af = ["u"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯ɔ"]
+af = ["ɨa~ɨə"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uɨ̯",
+    "ua̯",
+    "→",
+    "ɨə",
+    "uɔ̯",
+]
+af = [
+    "ɨː",
+    "ɔː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛi",
+    "ei",
+]
+af = [
+    "ai",
+    "əi",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "North Tai"
+to = "Dioi"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["tʃ"]
+en = "_[+vowel +front]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kl"]
+af = ["ð"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{r,r̥}"]
+af = ["ð"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["w"]
+en = ""
+no = [
+    "v?)",
+    "to",
+    "*w",
+    "changing",
+    "languages",
+    "other",
+    "with",
+    "conservation",
+    "a",
+    "(possibly",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŋ"]
+af = ["ɡ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive -voice]Š"]
+af = ["[+plosive -voice][+plosive]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "North Tai"
+to = "Po-Ai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["k"]
+af = ["tʃ"]
+en = "_[+vowel +front]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{r,r̥}"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɗ"]
+af = ["n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ɬ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["∅"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̆ə"]
+af = ["ɨ̆"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̆"]
+af = ["a"]
+en = "_[+velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̆"]
+af = ["ə"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uə"]
+af = ["ŭ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔː"]
+af = ["oː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨə̯~ɨa̯"]
+af = ["ɨː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨə̯~ɨa̯"]
+af = ["ɨ"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯o"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["o"]
+en = "_{m,p}%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ɛ"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "iɛ",
+]
+af = [
+    "eː",
+    "ı̆",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯e"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["ɔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]ʷə"]
+af = ["[+consonant]ɔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["{a,ɒ,ɑ,ʌ}"]
+en = ""
+no = ["?"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u̯ɨ"]
+af = ["ɔ"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u̯ɨ"]
+af = ["ɨ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨa̯~ɨə̯"]
+af = ["iː"]
+en = "j_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨa̯~ɨə̯"]
+af = ["ɨː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ua~uə"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔ"]
+af = ["oː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ua~u@̯"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨɔ"]
+af = ["ɨ"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯a~ɨə"]
+af = ["ɨː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ue̯"]
+af = ["u"]
+en = "_[+consonant]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ue̯"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨo̯",
+    "ɨa̯",
+    "ie̯",
+    "ɨe̯",
+]
+af = [
+    "uː",
+    "aː",
+    "eː",
+    "iː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨ",
+    "a",
+]
+af = [
+    "ɨː",
+    "aː",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{əi,ɛi,ei}"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯ai"]
+af = ["ɨːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u̯əi",
+    "ɔi",
+]
+af = [
+    "(w)iː",
+    "oːi",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "_{u,ɨ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɛi,ei}"]
+af = ["ɨː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ou,oɨ}"]
+af = ["oː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "e",
+    "i",
+]
+af = [
+    "eː",
+    "a",
+    "iː",
+]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯əu"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uəi",
+    "uai",
+    "iau",
+]
+af = [
+    "iː",
+    "oːi",
+    "eːu",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "North Tai"
+to = "Wu-Ming"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["r"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["θ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["{i,oi}"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["aʊ̯"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əi"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tai"
+to = "Southwest Tai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["p(ʰ)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["m"]
+af = ["w"]
+en = "! _w"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = "m_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["∅"]
+en = "{p,k(ʰ),ŋ}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pr"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["b"]
+en = "_r"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{l,r}"]
+af = ["∅"]
+en = "t,ɗ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʰl",
+    "tʰr",
+]
+af = [
+    "tʰ",
+    "r̥",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["∅"]
+en = "_{l,r}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "z",
+    "r",
+]
+af = [
+    "s",
+    "r̥",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xr"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["x"]
+af = ["kʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡʷ"]
+af = ["kʷʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨə"]
+af = ["ɨː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iə"]
+af = ["ı̆"]
+en = "_[+consonant]% (not in all languages)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯a"]
+af = ["aː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛi",
+    "ei",
+]
+af = [
+    "ai",
+    "iː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["ɔː"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "Lao"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "bl",
+    "br",
+]
+af = [
+    "p",
+    "pʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ{l,r}"]
+af = ["kʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡ",
+    "ɣ",
+]
+af = [
+    "kʰ",
+    "ɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "ɣʷ",
+]
+af = [
+    "kʷ",
+    "ɡʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "Lü"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "bl",
+    "br",
+]
+af = [
+    "p",
+    "pʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["r̥"]
+en = "“literaryˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲ"]
+af = ["j"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡl",
+    "ɡr",
+]
+af = [
+    "k",
+    "kʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{kʰ,ɣ}",
+    "ɡ",
+]
+af = [
+    "x",
+    "k",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʷʰ",
+    "ɣʷ",
+]
+af = [
+    "xʷ",
+    "x(ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_[+nasal]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{uɨ̯,ua̯,ue̯}",
+    "{ɨa̯,ɨe̯}",
+    "ie̯",
+]
+af = [
+    "o",
+    "ə",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əi"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "Shan"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "bl",
+    "br",
+]
+af = [
+    "p",
+    "pʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts"]
+af = ["sʲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡl",
+    "ɡr",
+]
+af = [
+    "k",
+    "kʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡ",
+    "ɣ",
+]
+af = [
+    "k",
+    "kʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʷ"]
+af = ["kʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{uɨ̯,ua̯,ue̯}",
+    "{ɨa̯,ɨe̯}",
+    "ie̯",
+]
+af = [
+    "o",
+    "ə",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əi"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "Siamese"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["pʰ"]
+en = "_{l,r}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "m",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ŋ",
+    "ɡ",
+    "ɣ",
+]
+af = [
+    "{h,ʃ}",
+    "kʰ",
+    "ɡ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "ɣʷ",
+]
+af = [
+    "kʷ",
+    "ɡʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u{o,ə}",
+    "ɨu",
+]
+af = [
+    "uː",
+    "ɨː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{u̯o,u̯ɨ}",
+    "u̯ɔ",
+]
+af = [
+    "o",
+    "ɔː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u̯a"]
+af = ["aː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨ̯u",
+    "i̯o",
+]
+af = [
+    "uː",
+    "u",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["o"]
+en = "_{m,p}%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i̯e"]
+af = ["e"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{(i)ɛ,i̯ɛ}"]
+af = ["ɛː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɨɔ,ɨ̯ɔ}"]
+af = ["ɔː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["aː"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ̯ai"]
+af = ["aːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{u̯əi,ɔi}"]
+af = ["ɔːi"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əɨ"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɛɨ,eɨ}"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["oɨ"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{o,ə}",
+    "ɛ",
+]
+af = [
+    "a",
+    "ɛː",
+]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eu"]
+af = ["uː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨ̯əu",
+    "au",
+]
+af = [
+    "au",
+    "aːu",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["ə"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uəi"]
+af = ["uai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "Black Tai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "bl",
+    "br",
+]
+af = [
+    "p",
+    "pʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɡ",
+    "ɡl",
+]
+af = [
+    "k",
+    "tʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "xʷ",
+    "ɣʷ",
+]
+af = [
+    "kʷ",
+    "ɡʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Southwest Tai"
+to = "White Tai"
+or = "Pogostick Man"
+os = " from Li, Fang Kuei (1977). “A Handbook of Comparative Tai”. Oceanic Linguistics Special Publications (15), i – 389"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɓ",
+    "ɗ",
+]
+af = [
+    "b",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "bl",
+    "br",
+]
+af = [
+    "p",
+    "pʰ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̥"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{kʰ,ɣ}",
+    "ɡ",
+    "ɡ{l,r}",
+]
+af = [
+    "x",
+    "k",
+    "tʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʷʰ",
+    "ɣʷ",
+]
+af = [
+    "xʷ",
+    "x(ʷ)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_[+nasal]%"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{uɨ̯,ua̯,ue̯}",
+    "{ɨa̯,ɨe̯}",
+    "ie̯",
+]
+af = [
+    "o",
+    "ə",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["əi"]
+af = ["ai"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

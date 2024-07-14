@@ -1,290 +1,290 @@
 {
-    "fa": "Nyulnyulan",
-    "cs": [
-      {
-        "fr": "Proto-Nyulnyulan",
-        "to": "Bardi",
-        "or": "Pogostick Man",
-        "os": " from Bowern, Claire Louise (2004), “Bardi Verb Morphology in Historical Perspective”",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "{w,j}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{w,j}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]0_[+vowel]0",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "awu"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "aji"
-            ],
-            "af": [
-              "iː"
-            ],
-            "en": "when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i{w,j}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_a, when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "u"
-            ],
-            "en": "_ju",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "u"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "i_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɟ"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɲ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ubu",
-              "aba"
-            ],
-            "af": [
-              "uː",
-              "aː"
-            ],
-            "en": "when stressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ib"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_i, when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "a_u",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "aɡu"
-            ],
-            "af": [
-              "o"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i(ː)b",
-              "ik"
-            ],
-            "af": [
-              "iw",
-              "ij"
-            ],
-            "en": "_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]0"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]([+consonant])([+consonant])[+vowel]0([+consonant])([+consonant])_# (with some exceptions)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "Some vowel deletions, the conditioning of which the author does not elaborate upon",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "[+vowel]"
-            ],
-            "af": [
-              "[+vowel]ː"
-            ],
-            "en": "when stressed ? ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Nyulnyulan",
+      "to": "Bardi",
+      "or": "Pogostick Man",
+      "os": " from Bowern, Claire Louise (2004), “Bardi Verb Morphology in Historical Perspective”",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "{w,j}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{w,j}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]0_[+vowel]0",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "awu"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "aji"
+          ],
+          "af": [
+            "iː"
+          ],
+          "en": "when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i{w,j}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_a, when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "u"
+          ],
+          "en": "_ju",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "u"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "i_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɟ"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ubu",
+            "aba"
+          ],
+          "af": [
+            "uː",
+            "aː"
+          ],
+          "en": "when stressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ib"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_i, when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "a_u",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "aɡu"
+          ],
+          "af": [
+            "o"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i(ː)b",
+            "ik"
+          ],
+          "af": [
+            "iw",
+            "ij"
+          ],
+          "en": "_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]0"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]([+consonant])([+consonant])[+vowel]0([+consonant])([+consonant])_# (with some exceptions)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "Some vowel deletions, the conditioning of which the author does not elaborate upon",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "[+vowel]"
+          ],
+          "af": [
+            "[+vowel]ː"
+          ],
+          "en": "when stressed ? ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,425 +1,425 @@
 {
-    "fa": "Tanoan",
-    "cs": [
-      {
-        "fr": "Proto-Tanoan",
-        "to": "Jimez",
-        "or": "Pogostick Man",
-        "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p",
-              "b"
-            ],
-            "af": [
-              "ɸ",
-              "ɱ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "dz"
-            ],
-            "af": [
-              "s",
-              "z"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tʰ,tsʰ}"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "c"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tsʼ"
-            ],
-            "af": [
-              "tʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k(ʷ)ʰ",
-              "kʷ(ʼ)",
-              "ɡ",
-              "ɡʷ"
-            ],
-            "af": [
-              "h",
-              "ɡ",
-              "k",
-              "kʷ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tanoan",
-        "to": "Kiowa",
-        "or": "Pogostick Man",
-        "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "tsʰ",
-              "tsʼ",
-              "dz"
-            ],
-            "af": [
-              "t",
-              "tʰ",
-              "tʼ",
-              "d"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ",
-              "kʷʰ",
-              "kʷʼ",
-              "ɡʷ"
-            ],
-            "af": [
-              "k",
-              "kʰ",
-              "kʼ",
-              "ɡ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tanoan",
-        "to": "Taos",
-        "or": "Pogostick Man",
-        "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "m"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ɬ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "tsʰ",
-              "tsʼ",
-              "dz"
-            ],
-            "af": [
-              "tʃ",
-              "s",
-              "tʃʼ",
-              "j"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "l"
-            ],
-            "en": "_[+vowel -nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_[+vowel +nas]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʰ",
-              "kʰʷ",
-              "ɡ",
-              "ɡʷ"
-            ],
-            "af": [
-              "x",
-              "xʷ",
-              "k",
-              "w"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tanoan",
-        "to": "Tewa",
-        "or": "Pogostick Man",
-        "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "pʰ",
-              "tʰ",
-              "tsʰ"
-            ],
-            "af": [
-              "f",
-              "θ",
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "b"
-            ],
-            "af": [
-              "m"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "dz"
-            ],
-            "af": [
-              "{j,dʒ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʰ",
-              "kʷʰ",
-              "ɡʷ"
-            ],
-            "af": [
-              "x",
-              "xʷ",
-              "w"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Tanoan",
+      "to": "Jimez",
+      "or": "Pogostick Man",
+      "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p",
+            "b"
+          ],
+          "af": [
+            "ɸ",
+            "ɱ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "dz"
+          ],
+          "af": [
+            "s",
+            "z"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tʰ,tsʰ}"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "c"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tsʼ"
+          ],
+          "af": [
+            "tʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k(ʷ)ʰ",
+            "kʷ(ʼ)",
+            "ɡ",
+            "ɡʷ"
+          ],
+          "af": [
+            "h",
+            "ɡ",
+            "k",
+            "kʷ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tanoan",
+      "to": "Kiowa",
+      "or": "Pogostick Man",
+      "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "tsʰ",
+            "tsʼ",
+            "dz"
+          ],
+          "af": [
+            "t",
+            "tʰ",
+            "tʼ",
+            "d"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ",
+            "kʷʰ",
+            "kʷʼ",
+            "ɡʷ"
+          ],
+          "af": [
+            "k",
+            "kʰ",
+            "kʼ",
+            "ɡ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tanoan",
+      "to": "Taos",
+      "or": "Pogostick Man",
+      "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "m"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ɬ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "tsʰ",
+            "tsʼ",
+            "dz"
+          ],
+          "af": [
+            "tʃ",
+            "s",
+            "tʃʼ",
+            "j"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "l"
+          ],
+          "en": "_[+vowel -nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_[+vowel +nas]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʰ",
+            "kʰʷ",
+            "ɡ",
+            "ɡʷ"
+          ],
+          "af": [
+            "x",
+            "xʷ",
+            "k",
+            "w"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tanoan",
+      "to": "Tewa",
+      "or": "Pogostick Man",
+      "os": " from Wikipedia contributors (2012), “Tanoan languages”. Wikipedia, the Free Encyclopedia. <http:",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "pʰ",
+            "tʰ",
+            "tsʰ"
+          ],
+          "af": [
+            "f",
+            "θ",
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "b"
+          ],
+          "af": [
+            "m"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "dz"
+          ],
+          "af": [
+            "{j,dʒ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʰ",
+            "kʷʰ",
+            "ɡʷ"
+          ],
+          "af": [
+            "x",
+            "xʷ",
+            "w"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

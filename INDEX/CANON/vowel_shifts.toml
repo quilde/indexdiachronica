@@ -1,0 +1,1189 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Late Proto-Finnic"
+to = "Savonian Vowel Shift"
+or = """
+PM_Vanhanen\r
+\r
+“Long close-mid vowels have become diphthongs:”\r
+\r
+eː øː oː → ie yø uo\r
+\r
+“In some dialects"""
+os = " they have shifted further to "
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“These shifts have occurred in some eastern dialects.”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɑː",
+    "æː",
+    "ɑi",
+    "æi",
+]
+af = [
+    "uɑ",
+    "iæ",
+    "ɑe",
+    "æe",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ei",
+    "oi",
+    "øi",
+]
+af = [
+    "eː",
+    "oe",
+    "øe",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɑu",
+    "ou",
+]
+af = [
+    "ɑː",
+    "oː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "æy",
+    "øy",
+]
+af = [
+    "æː",
+    "øː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eu"]
+af = ["eo"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "li",
+    "ni",
+    "ri",
+    "si",
+]
+af = [
+    "lʲi",
+    "nʲi",
+    "rʲi",
+    "sʲi",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Middle Chinese"
+to = "Cantonese Vowel Shift (“The Inner-Outer Flip”)"
+or = "LoneWolf"
+os = " from Newman, J. (1983). Cahiers de Linguistique Asie Orentale XII.1:65 – 79."
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Relevant changes occurring before the shift:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["ɔ"]
+en = "_{ŋ,k}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uə",
+    "yə",
+]
+af = [
+    "ɔ",
+    "œ",
+]
+en = "_{n,t}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "i_{ŋ,k}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["ə"]
+en = "[+consonant +labiovelar]_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["ə"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel]ː"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "The actual vowel shift:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["{aː,ə}"]
+en = ""
+no = [
+    "unclear)ˈ",
+    "somewhat",
+    "are",
+    "changes",
+    "respective",
+    "these",
+    "for",
+    "environments",
+    "“(the",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "_{i,u}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iəu"]
+af = ["au"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["aː"]
+en = "_{i,u}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "→",
+    "ə",
+]
+af = ["∅"]
+en = "i_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Other relevant changes occurring at the same time:",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "[+semivowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+semivowel]"]
+af = ["∅"]
+en = "[+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "(Apparently, /i u/ either were or became glides in the appropriate positions)46.12 Northern Cities Vowel Shift (English)",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Pogostick Man, from Wikipedia contributors (2013), “Northern Cities Vowel Shift”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Northern_Cities_Vowel_Shift&oldid=581062574>",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɑ",
+    "ɔ",
+]
+af = [
+    "a",
+    "ɑ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɛ"]
+af = ["ɐ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʌ"]
+af = ["ɔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɪ"]
+af = ["ɪ̞"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Old Norse"
+to = "Faroese Vowel Shift"
+or = """
+johanpeturdam\r
+\r
+NB: “The reflexes of the vowels are given in the order of their reflex when stressed/long"""
+os = " and unstressed"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = ["{a,æː}"]
+af = ["ɛa"]
+en = "a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aː",
+    "→",
+    "ɔa",
+    "“(except",
+    "[+nasal][+vowel +front]",
+    "of",
+    "the",
+    "[+fricative]aroes",
+]
+af = ["aː)ˈ"]
+en = "ɔ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["eː"]
+en = "ɛ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "eː",
+    "→",
+    "ɛa",
+    "“(except",
+    "[+plosive]uðuroy",
+    "→",
+    "eː)ˈ",
+    "/",
+    "a",
+    "“(except",
+    "[+plosive]uðuroy",
+]
+af = ["ɛ)ˈ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{i,y}"]
+af = ["iː"]
+en = "ɪ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{iː,yː}"]
+af = ["ʊi"]
+en = "ʊ(i)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["oː"]
+en = "ɔ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "oː",
+    "→",
+    "{ɔu,ɛu,œu}",
+    "/",
+    "œ",
+    "“(except",
+    "[+plosive]uðuroy",
+]
+af = ["ɔ)ˈ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["uː"]
+en = "short: ʊ "
+no = ["/ unstressed: {o,ɔ}"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uː"]
+af = ["ʉu"]
+en = "ʏ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{œ,ɔ}",
+    "→",
+    "øː/œ",
+    "“(except",
+    "[+plosive]uðuroy",
+]
+af = ["ʏ)ˈ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Macska",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["eː"]
+af = ["æ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "en",
+    "an",
+]
+af = [
+    "ẽ",
+    "ã",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ej"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ew"]
+af = ["ju"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "→",
+    "ı̆",
+    "[ə?]",
+]
+af = [
+    "{e,a}",
+    "(strong)",
+]
+en = "∅ (weak) “in modern languagesˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iː"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "a",
+    "aː",
+]
+af = [
+    "o",
+    "a",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aj"]
+af = ["{æ2,i2}"]
+en = ""
+no = ["“(reduced)ˈ"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aw"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "→",
+    "ŭ",
+    "[ɤ?]",
+]
+af = [
+    "{e,o,ɤ,a}",
+    "(strong)",
+]
+en = "∅ (weak) “in modern languagesˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["uː"]
+af = ["ɨ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Japanese"
+to = "Old Japanese Vowel Shift"
+or = "Pogostick Man"
+os = " from Frellesvig, Bjarke and John Witman (2005), “The Japanese-Korean vowel correspondences”"
+so = ["s3"]
+no = []
+
+[[cs.ch]]
+be = [
+    "e",
+    "o",
+]
+af = [
+    "je",
+    "wo",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "e",
+    "o",
+]
+af = [
+    "i",
+    "u",
+]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɨ,ə}"]
+af = ["o"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{u,ɨ}i",
+    "{,a,i",
+    "{ɨi,i{a,ə}}",
+    "u{ɨ,a,ə}",
+]
+af = [
+    "wi",
+    "e",
+    "je",
+    "wo",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Development of Proto-Lolo-Burmese -i(C)# and -u(C)#"
+to = "Lahu"
+or = "Pogostick Man"
+os = " from Jacques, Guillaume, and Alexis Michaud (2011), “Approaching the historical phonology of three highly eroded Sino-Tibetan languages: Naxi, Na and Laze”. Diachronica 28:4 (2011), 468 – 498; citing Matisoff 2003:186, 248 – 249, 314"
+so = ["s4"]
+no = []
+
+[[cs.ch]]
+be = [
+    "-i",
+    "-i{p,k}",
+    "-it",
+    "-i{m,ŋ}",
+    "-in",
+]
+af = [
+    "-i",
+    "-ɨʔ",
+    "-iʔ",
+    "-ɛ",
+    "-ɨ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "-u",
+    "-up",
+    "-ut",
+    "-uk",
+    "-um",
+    "-un",
+    "-uŋ",
+]
+af = [
+    "-u",
+    "-ɔʔ",
+    "-əʔ",
+    "-uʔ",
+    "-ɔ",
+    "-ə",
+    "-ɛ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Maidun"
+to = "Nisenian Vowel Shift"
+or = "Pogostick Man"
+os = " from Ultan, Russell (1964), “Proto-Maidun Phonology”. International Journal of American Linguistics, Vol. 30, No. 4 (Oct., 1964), 355 – 370."
+so = ["s5"]
+no = []
+
+[[cs.ch]]
+be = [
+    "u",
+    "i",
+    "e",
+    "a",
+]
+af = [
+    "y",
+    "e",
+    "a",
+    "o",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Pogostick Man, from Mesthrie, Rajend (2002), Language in South Africa",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "æ",
+    "ɛ",
+    "ɪ",
+]
+af = [
+    "ɛ",
+    "e",
+    "ɨ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Pogostick Man, from Wikipedia contributors (2012), “Southern American English”.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɛ"]
+af = ["ɪ"]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“Lax and tense vowels often neutralize before /l/”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aɪ"]
+af = ["aː"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aɪ"]
+af = ["aː"]
+en = "_[+consonant +voiced]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aɪ"]
+af = ["ɑeː"]
+en = "else (only for some speakers)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["aɪ"]
+af = ["aː"]
+en = "else (only for some speakers)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "æ",
+    "ɛ",
+    "ɪ",
+]
+af = [
+    "æj(ə)",
+    "ɛj(ə)",
+    "ɪj(ə)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛj(ə)",
+    "ɪj(ə)",
+    "i",
+    "eɪ",
+]
+af = [
+    "ej(ə)",
+    "ij(ə)",
+    "ɪi",
+    "ɛi",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "uʊ",
+    "oʊ",
+]
+af = [
+    "ʉʊ̈",
+    "əʊ̈",
+]
+en = ""
+no = [
+    "(2006))",
+    "[+vowel +back]obert",
+    "&",
+    "[+affricate]sh",
+    "[+liquid]abov,",
+    "from",
+    "cited",
+    "chart",
+    "mean-formant-value",
+    "the",
+    "and",
+    "article",
+    "the",
+    "in",
+    "description",
+    "prose",
+    "the",
+    "upon",
+    "based",
+    "guesstimate",
+    "a",
+    "of",
+    "bit",
+    "(a",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɔ"]
+af = ["ɑɒ"]
+en = ""
+no = [
+    "speakers)",
+    "some",
+    "(for",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɑɹ"]
+af = ["ɒɹ"]
+en = ""
+no = ["(“oftenˈ)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["d"]
+en = "_n (not strictly a vowel shift but included here anyway because it’s cool, and also because it doesn’t occur in 〈hasn’t〉 because of the influence of 〈hadn’t〉)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Stress reassignment to the initial syllable (again, not strictly a vowel shift)Merger of ɔɹ and ɑɹ (“in some regions”)",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["æ/ɑː"]
+af = ["æɪ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

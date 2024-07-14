@@ -1,0 +1,640 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Arawá"
+or = "Pogostick Man"
+os = " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["f"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʰ"]
+af = ["p"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʰ"]
+af = ["ɸ"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɗ"]
+af = ["t"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dz"]
+af = ["s"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tsʰ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Banawá-Jamamadi"
+or = "chris_notts & Pogostick Man"
+os = " the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["b"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["ɸ"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["p(ʰ)"]
+af = ["ɸ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{tʰ,ɗ}"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʰ",
+    "ɡ",
+]
+af = [
+    "k",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{ts(ʰ),tʃ}",
+    "dz",
+]
+af = [
+    "s",
+    "ɟ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Hypothetical Arawán Substrate"
+or = "Pogostick Man"
+os = " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["a"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["ʔ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʰ"]
+af = ["h"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dz"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Jarawara"
+or = "chris_notts & Pogostick Man"
+os = " the latter citing Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["b"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["f"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɗ"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p(ʰ)",
+    "{tʰ,d}",
+]
+af = [
+    "ɸ",
+    "t",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʰ",
+    "ɡ",
+]
+af = [
+    "k",
+    "w",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dz"]
+af = ["ɟ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ts(ʰ),tʃ}"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Kulína-Dení"
+or = "Pogostick Man"
+os = " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["b"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɓ"]
+af = ["p"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɗ"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["w"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["ʃ"]
+en = ""
+no = ["(?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Sorowahá"
+or = "Pogostick Man"
+os = " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ɨ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["a"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{p(ʰ),ɓ}"]
+af = ["h"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɗ"]
+af = ["d"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{tʰ,ɗ"]
+af = ["t"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʰ"]
+af = ["k"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts(ʰ)"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "#_, possibly everywhere?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Arawá"
+to = "Paumarí"
+or = "Pogostick Man"
+os = " from Dixon, R.M.W. (2004), “Proto-Arawá Phonology”. Anthropological Linguistics 46(1):1 – 83"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["a"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["{a,i}"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["pʰ"]
+af = ["p"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "pʰ",
+    "t",
+]
+af = [
+    "ɸ",
+    "ʔ",
+]
+en = "medial"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts(ʰ)"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "The following inventory for Proto-Lenmichian is posited by Constenla (2005).\tBilabial \tAlveolar \tVelar \tGlottal",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "(From Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Macro-Chibchan_languages&oldid=672637970>, presumably citing Constenla UmaÃ±a, Adolfo (2005), “?‘Existe relación genealógica entre las lenguas misumalpas y las chibchenses?”. Estudios de LingÃ¼Ã­stica Chibcha 24:7 – 85)",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Lenmichian"
+to = "Proto-Chibchan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

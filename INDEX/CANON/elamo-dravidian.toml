@@ -1,0 +1,905 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Elamo-Dravidian"
+to = "Proto-Dravidian"
+or = "Pogostick Man"
+os = " from McAlpin, David W. (1974), “Toward Proto-Elamo-Dravidian”. Language 50(1):89 – 101"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["v"]
+en = "#_{i,e}l[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["v"]
+en = "[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ʃk",
+]
+af = [
+    "k*",
+    "kː",
+]
+en = "[+vowel]_[+vowel] (the asterisk-marked k is what [+diphtong]c[+affricate]lpin terms “weak kˈ, which tends to drop out in morphology)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["∅"]
+en = "#_[+vowel]r[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["{t,ʈ}"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["rt"]
+af = ["ʈ"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["v"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["t"]
+en = "#_[+vowel][+liquid][+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["j"]
+en = "[+vowel]_{[+vowel],#}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "#[+vowel]_{r̀,l}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "[+consonant]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["∅"]
+en = "[+vowel]_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̀"]
+af = ["r̲"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŕ"]
+af = ["r"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "n",
+    "nː",
+    "rn",
+]
+af = [
+    "{n̲,r}",
+    "n̲(ː)",
+    "ɳ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["nː"]
+af = ["n̲(ː)"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["nr̀"]
+af = ["n̲r̲"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "l",
+    "lː",
+]
+af = [
+    "{l,ɭ}",
+    "ɭ(ː)",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɭ"]
+en = "[+vowel]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Proto-Dravidian retained long vowels, possibly from the simplification of consonant clusters and/or deletion of intervocalic consonants with compensatory lengthening and/or the resulting vowels in hiatus merging",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Elamo-Dravidian"
+to = "Achaemanid Elamite"
+or = "Pogostick Man"
+os = " from McAlpin, David W. (1974), “Toward Proto-Elamo-Dravidian”. Language 50(1):89 – 101"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["{i,e,u}"]
+af = ["∅"]
+en = "#_{t,n}a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["{e,i}"]
+en = "#[+consonant]_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["ú"]
+en = "[+vowel]_ ([+diphtong]c[+affricate]lpin uses the accented-vowel notation due to some apparent height-contrast neutralizations before "
+no = ["/a/)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ŋk",
+    "ŋkː",
+]
+af = [
+    "∅",
+    "k",
+    "kː",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["mp"]
+af = ["p(ː)"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["c"]
+af = ["s"]
+en = "#_{a,u}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲc"]
+af = ["ns"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r̀"]
+af = ["r"]
+en = "[+vowel]_{[+vowel],[+consonant]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ŕ"]
+af = ["rː"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["nr̀"]
+af = ["nr"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["n"]
+en = "[+vowel]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["m"]
+en = "#_[+vowel] (?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Standard Tamil"
+to = "Colloquial Tamil"
+or = "schwatever"
+os = " from Shiffman, Harold F. A Reference Grammar on Spoken Tamil"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = ["aj"]
+af = ["eː"]
+en = ""
+no = [
+    "words)ˈ",
+    "multisyllabic",
+    "in",
+    "initially",
+    "never",
+    "monosyllables,",
+    "in",
+    "finally",
+    "never",
+    "“(exception:",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "avu",
+    "aji",
+]
+af = [
+    "aw",
+    "aj",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "u",
+]
+af = [
+    "e",
+    "o",
+]
+en = "_[+consonant]a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{k,v}"]
+af = ["∅"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aː",
+    "eː",
+    "iː",
+    "oː",
+    "uː",
+]
+af = [
+    "a",
+    "ɛ",
+    "i",
+    "o",
+    "u",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "am",
+    "an",
+    "{aːm,aːn}",
+]
+af = [
+    "õ",
+    "æ̃",
+    "ã",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{om,on}",
+    "{em,en}",
+    "{oːm,oːn}",
+    "{eːm,eːn}",
+]
+af = [
+    "ɔ̃",
+    "ɛ̃",
+    "õ",
+    "ẽ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["um"]
+af = ["ũ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["ɨ"]
+en = "_[+nasal]#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɭ,ɽ}"]
+af = ["∅"]
+en = ""
+no = [
+    "lengthening)",
+    "compensatory",
+    "some",
+    "contributing",
+    "and",
+    "so",
+    "much",
+    "very",
+    "latter",
+    "the",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "l",
+    "ɭ",
+]
+af = [
+    "lːʉ",
+    "ɭːʉ",
+]
+en = "_#([+consonant])[+vowel -long]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["ʉ"]
+en = "{l,ɭ}_# if {[+diphtong],[+vowel]ː} previously in the lexeme"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["r"]
+af = ["ɾ"]
+en = ""
+no = [
+    "dialectsˈ",
+    "most",
+    "“in",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɽ"]
+af = ["ɭ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ɾ,l,ɭ}"]
+af = ["∅"]
+en = "[+vowel]_[+plosive]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "u",
+]
+af = [
+    "ɨ",
+    "ʉ",
+]
+en = "short only when unstressed ! in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɨ",
+    "ʉ",
+]
+af = ["∅"]
+en = "! _#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["{ɨ,ʉ}"]
+en = "to break up clusters"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["ŋ"]
+en = "_{k,ɡ}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i(ː)",
+    "e(ː)",
+]
+af = [
+    "u(ː)",
+    "o(ː)",
+]
+en = "{m,v,p}_[+consonant]̣"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "[+vowel -front]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["jːi"]
+en = "[+vowel +front]_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tː",
+    "nt",
+]
+af = [
+    "cː",
+    "ɲc",
+]
+en = "{i,j}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʈk"]
+af = ["kː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "n",
+    "tː",
+]
+af = [
+    "n̪",
+    "t̪ː",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɳ"]
+af = ["n"]
+en = ""
+no = [
+    "development)ˈ",
+    "dialect",
+    "and",
+    "“(sporadic",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɭ"]
+af = ["l"]
+en = ""
+no = [
+    "sporadic)ˈ",
+    "“(again,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["c"]
+af = ["s"]
+en = "_{a,o,u,e}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["cː"]
+af = ["tʃː"]
+en = ""
+no = [
+    "dialects)ˈ",
+    "“(most",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "o",
+    "e",
+]
+af = [
+    "u",
+    "i",
+]
+en = "_[+consonant]{u,i} “(highly sporadic)ˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“There’s also only a few changes necessary to turn this into the British dialect (which didn’t merge retroflexes with alveolars):”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i(ː)",
+    "e(ː)",
+]
+af = [
+    "u(ː)",
+    "o(ː)",
+]
+en = "_ɭ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "e[+consonant]ə",
+    "o[+consonant]ə",
+]
+af = [
+    "[+consonant]eː",
+    "[+consonant]oː",
+]
+en = "#_ "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

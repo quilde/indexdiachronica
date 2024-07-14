@@ -1,2305 +1,2305 @@
 {
-    "fa": "Northeast Caucasian",
-    "cs": [
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Proto-Avar-Andic",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "l"
-            ],
-            "af": [
-              "{l,r}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "*b is “[p]rone to change to *m”",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Avar-Andic",
-        "to": "Akhvakh",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "dz",
-              "dʒ"
-            ],
-            "af": [
-              "{tsːʼ,z}",
-              "{tsːʼ,dʒ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬː",
-              "dɮ"
-            ],
-            "af": [
-              "tɬ(ː)",
-              "tɬː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː",
-              "ɢ"
-            ],
-            "af": [
-              "xʲ",
-              "{qːʼ,ɣ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{l,r}"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [
-              "*l)",
-              "original",
-              "from",
-              "only",
-              "(sometimes,"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Avar-Andic",
-        "to": "Andi",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "{ts,st}",
-              "dz"
-            ],
-            "af": [
-              "s",
-              "{tsːʼ,z}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "stː"
-            ],
-            "af": [
-              "sː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "dʒ"
-            ],
-            "af": [
-              "{tʃːʼ,dʒ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬ(ː)",
-              "tɬ(ː)(ʼ)",
-              "dʒ"
-            ],
-            "af": [
-              "ɬ",
-              "tɬ(ː)",
-              "tɬ(ː)(ʼ)",
-              "tɬː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "ɢ"
-            ],
-            "af": [
-              "x",
-              "{qːʼ,ɣ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Avar-Andic",
-        "to": "Avar",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ts",
-              "tsː",
-              "tsʼ",
-              "tsːʼ",
-              "dz"
-            ],
-            "af": [
-              "sh",
-              "ts",
-              "tʃʼ",
-              "ts(ː)ʼ",
-              "tsʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "st(ː)"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "tʃːʼ",
-              "dʒ"
-            ],
-            "af": [
-              "ts(?)",
-              "tʃ",
-              "tʃ(ː)ʼ",
-              "tsʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬʼ",
-              "tɬː",
-              "tɬːʼ"
-            ],
-            "af": [
-              "ɬ",
-              "tʼ",
-              "tɬ",
-              "tɬ(ː)ʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "qːʼ",
-              "ɢ"
-            ],
-            "af": [
-              "x",
-              "{q(ː)ʼ,ɡh}",
-              "qʼ"
-            ],
-            "en": "",
-            "no": [
-              "ɣ)",
-              "be",
-              "should",
-              "〈gh〉",
-              "last",
-              "that",
-              "if",
-              "sure",
-              "(not"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s",
-              "sː",
-              "ɬː",
-              "x",
-              "xː"
-            ],
-            "af": [
-              "{s,ʃ}",
-              "x",
-              "ɬ",
-              "{x,h}",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "{m,n}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Dargi",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "*b is “[p]rone to change to *m”",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tsː,st}",
-              "tsːʼ",
-              "dz",
-              "stː"
-            ],
-            "af": [
-              "ts",
-              "z",
-              "tsː",
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "dʒ"
-            ],
-            "af": [
-              "{tsʼ,tʃʼ}",
-              "ʒ",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ"
-            ],
-            "af": [
-              "k",
-              "{xʲː,kː}",
-              "kʰ",
-              "{ɡ,q}(?)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qːʼ"
-            ],
-            "af": [
-              "ʕ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "ʃː",
-              "ɬ",
-              "ɬː"
-            ],
-            "af": [
-              "{s,ʃ}",
-              "ʃ",
-              "xʲ",
-              "{xʲ,ʃ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Khinalug",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{b,v}",
-              "z"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "The development of *tsʼ is unclear; in the user page there’s a slash but it might be a typo for an apostrophe",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tsː,st}",
-              "{tsːʼ,dz}"
-            ],
-            "af": [
-              "ts",
-              "tsʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tʃ(ː),dʒ}"
-            ],
-            "af": [
-              "tʃʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "k",
-              "{k,xʲ}",
-              "{kʼ,ɡ}",
-              "{kʼ,kː}",
-              "kʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː",
-              "kʼ",
-              "ɡ"
-            ],
-            "af": [
-              "k",
-              "{kʼ,ɡ}",
-              "{kʼ,kː}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{qːʼ,ɢ}"
-            ],
-            "af": [
-              "qʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sː",
-              "ɬ(ː)",
-              "xː"
-            ],
-            "af": [
-              "h",
-              "xʲ",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r"
-            ],
-            "af": [
-              "{r,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Lak",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{pː,b}",
-              "{tː,d}"
-            ],
-            "en": "",
-            "no": [
-              "*mˈ)",
-              "to",
-              "change",
-              "to",
-              "“[p]rone",
-              "is",
-              "*b",
-              "(but"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tsː,stː}",
-              "dz",
-              "st"
-            ],
-            "af": [
-              "sː",
-              "{tsː,z}",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "dʒ"
-            ],
-            "af": [
-              "{ts,tʃ}",
-              "{tsʼ,tʃʼ}",
-              "tʃ(ː)ʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬ(ː)ʼ",
-              "dɮ"
-            ],
-            "af": [
-              "xʲ",
-              "xː",
-              "kʼ",
-              "{kː,l}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɡ"
-            ],
-            "af": [
-              "kː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qʼ",
-              "qʼː",
-              "ɡ"
-            ],
-            "af": [
-              "{qʼ,j}",
-              "qʼ",
-              "{qː,ɣ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "ɬ",
-              "ɬː"
-            ],
-            "af": [
-              "s",
-              "{xʲ,ʃ}",
-              "xː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m",
-              "l"
-            ],
-            "af": [
-              "{m,n}",
-              "{l,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Proto-Lezgic",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "NB: These changes here probably aren’t “proper” sound changes, whatever that’s supposed to mean, but there doesn’t seem to be any particular sound change or set of sound changes that defines this family, so I’ve elected to go with something that seems to nearly work and note the exceptions.",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "ɢ"
-            ],
-            "af": [
-              "{x,q}",
-              "ɣ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Agul",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{b,w}",
-              "{d,z}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "tsː",
-              "tsːʼ",
-              "stː",
-              "dz"
-            ],
-            "af": [
-              "{s,ts}",
-              "{ts,tʃ}",
-              "tː",
-              "s",
-              "z"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃːʼ"
-            ],
-            "af": [
-              "tʃː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "xʲ",
-              "x",
-              "kʼ",
-              "kː",
-              "{,j,xʲ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qːʼ"
-            ],
-            "af": [
-              "qː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɬ(ː)",
-              "xː"
-            ],
-            "af": [
-              "xʲ",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "{m,b}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Archi",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "d"
-            ],
-            "af": [
-              "{d,tː}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "tsː",
-              "tsːʼ",
-              "stː",
-              "dz"
-            ],
-            "af": [
-              "s",
-              "{s,ʃ}",
-              "tsʼ",
-              "sː",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ(ː)",
-              "dʒ"
-            ],
-            "af": [
-              "ʃ",
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "ɬ",
-              "ɬ(ː)",
-              "kʼ",
-              "tɬʼ",
-              "tɬː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː",
-              "ɡ"
-            ],
-            "af": [
-              "x",
-              "{kː,ɡ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ",
-              "→",
-              "q",
-              "(more",
-              "likely,",
-              "*ɢ",
-              "→",
-              "q",
-              "instead",
-              "of"
-            ],
-            "af": [
-              "ɣ)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "qːʼ"
-            ],
-            "af": [
-              "x",
-              "q(ː)ʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sː",
-              "xː"
-            ],
-            "af": [
-              "{sː,h}",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Lezghi",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{pː,b}",
-              "{tː,d}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "tsː",
-              "tsːʼ",
-              "dz"
-            ],
-            "af": [
-              "{ʃ,tʃ}",
-              "tʃ(ʼ)",
-              "{tʃː,dʒ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "xʲ",
-              "{ɣʲ,ɡ}",
-              "qʼ",
-              "k(ʼ)",
-              "{kː,ɣʲ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː",
-              "ɡ"
-            ],
-            "af": [
-              "ɣ",
-              "kː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɣ"
-            ],
-            "af": [
-              "{qː,ɣ}"
-            ],
-            "en": "",
-            "no": [
-              "change)",
-              "sound",
-              "strict",
-              "this",
-              "than",
-              "*ɢ",
-              "of",
-              "development",
-              "the",
-              "in",
-              "difference",
-              "a",
-              "probably",
-              "(again,"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qːʼ"
-            ],
-            "af": [
-              "q(ʼ)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃː",
-              "ɬ",
-              "ɬː",
-              "x",
-              "xː"
-            ],
-            "af": [
-              "ɣʲ",
-              "j",
-              "ʃ",
-              "ɣ",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Rutul",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{b,w}",
-              "{d,z}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "tsːʼ",
-              "dz"
-            ],
-            "af": [
-              "{s,ts}",
-              "{d,t}",
-              "z"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "tʃːʼ"
-            ],
-            "af": [
-              "{ʃ,tʃ}",
-              "ʃ",
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "xʲ",
-              "qʼ",
-              "q(ʼ)",
-              "{w,xʲ,j}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː"
-            ],
-            "af": [
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qːʼ"
-            ],
-            "af": [
-              "q(ʼ)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sː",
-              "ɬ(ː)",
-              "xː"
-            ],
-            "af": [
-              "{ħ,xʲ}",
-              "{sː,h}",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "{m,b}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Tabassaran",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "b",
-              "d"
-            ],
-            "af": [
-              "{b,w}",
-              "{d,z}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "tsː",
-              "tsːʼ"
-            ],
-            "af": [
-              "{s,ts}",
-              "{ts,tʃ}",
-              "tsː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "tʃːʼ"
-            ],
-            "af": [
-              "{ʃ,tʃ}",
-              "{tʃ,dʒ}",
-              "{tʃː,tʃʼ}(?)"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "xʲ",
-              "{ɣʲ,ɡ}",
-              "k",
-              "kː",
-              "ɣʲ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː"
-            ],
-            "af": [
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɬ",
-              "{ʃː,ɬː}",
-              "xː"
-            ],
-            "af": [
-              "xʲ",
-              "ʃ",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "m"
-            ],
-            "af": [
-              "{m,b}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Lezgic",
-        "to": "Udi",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "ts",
-              "tsː",
-              "tsʼ",
-              "tsːʼ",
-              "dz"
-            ],
-            "af": [
-              "{∅,s}",
-              "tʃ",
-              "{∅,tsʼ}",
-              "{tsʼ,tʃʼ}",
-              "z"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "s_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "tʃː",
-              "tʃʼ",
-              "tʃːʼ",
-              "dʒ"
-            ],
-            "af": [
-              "{∅,ʃ}",
-              "tʃ",
-              "∅",
-              "tʃʼ",
-              "{dʒ,tʃ}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬː",
-              "tɬʼ",
-              "tɬːʼ",
-              "dɮ"
-            ],
-            "af": [
-              "{∅,x}",
-              "q",
-              "{∅,qʼ}",
-              "qʼ",
-              "{ɣ,l}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː"
-            ],
-            "af": [
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "qʼ",
-              "qːʼ",
-              "ɢ"
-            ],
-            "af": [
-              "∅(?)",
-              "∅",
-              "qʼ",
-              "ɣ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ɬ(ː),xː}"
-            ],
-            "af": [
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Nakh",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "st",
-              "stː"
-            ],
-            "af": [
-              "st(ʼ)",
-              "st"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tsː",
-              "tʃː"
-            ],
-            "af": [
-              "ts",
-              "tʃ"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tsːʼ"
-            ],
-            "af": [
-              "tsː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tsː,tʃː,dz,dʒ}"
-            ],
-            "af": [
-              "tː"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ(ː)",
-              "tɬʼ",
-              "tɬːʼ"
-            ],
-            "af": [
-              "x",
-              "qʼ",
-              "ʕ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kː",
-              "qːʼ"
-            ],
-            "af": [
-              "xk(?)",
-              "qʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃː",
-              "ɬː",
-              "xː"
-            ],
-            "af": [
-              "ʃ",
-              "ɬ",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "l"
-            ],
-            "af": [
-              "r"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Northeast Caucasian",
-        "to": "Proto-Tsezic",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "*b is “[p]rone to change to *m”",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ts,st}",
-              "{tsːʼ,dz}"
-            ],
-            "af": [
-              "s",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ",
-              "{tʃː,dʒ}"
-            ],
-            "af": [
-              "ʃ",
-              "tʃ"
-            ],
-            "en": "",
-            "no": [
-              "here)",
-              "it",
-              "put",
-              "to",
-              "unreasonable",
-              "it",
-              "find",
-              "don’t",
-              "I",
-              "*tsːʼ",
-              "of",
-              "development",
-              "the",
-              "given",
-              "but",
-              "[+plosive -voice]sez,",
-              "in",
-              "listed",
-              "only",
-              "is",
-              "change",
-              "the",
-              "as",
-              "[+vowel +back]ezhta,",
-              "for",
-              "conjectured",
-              "is",
-              "*tʃːʼ",
-              "of",
-              "change",
-              "(the"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tɬ",
-              "tɬːʼ"
-            ],
-            "af": [
-              "ɬ",
-              "tɬ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɢ"
-            ],
-            "af": [
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s",
-              "xː"
-            ],
-            "af": [
-              "z",
-              "x"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "l"
-            ],
-            "af": [
-              "{l,r}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tsezic",
-        "to": "Bezhta",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "*ɬ may have remained ɬ*r remained when intervocalic",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Tsezic",
-        "to": "Tsez",
-        "or": "Pogostick Man",
-        "os": " from User:Petusek (2010), “User:Petusek",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "tsː",
-              "tɬː"
-            ],
-            "af": [
-              "z",
-              "l"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tsː",
-              "tɬː"
-            ],
-            "af": [
-              "s",
-              "ɬ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kːʼ",
-              "ɡ"
-            ],
-            "af": [
-              "k",
-              "kʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q",
-              "qːʼ"
-            ],
-            "af": [
-              "x(?)",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "sː",
-              "ʃ",
-              "ʃː",
-              "ɬ",
-              "ɬː",
-              "x"
-            ],
-            "af": [
-              "s",
-              "ʒ",
-              "ʃ",
-              "l",
-              "ɬ",
-              "ɣ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "r"
-            ],
-            "af": [
-              "{r,l,∅}"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Proto-Avar-Andic",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "l"
+          ],
+          "af": [
+            "{l,r}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "*b is “[p]rone to change to *m”",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Avar-Andic",
+      "to": "Akhvakh",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "dz",
+            "dʒ"
+          ],
+          "af": [
+            "{tsːʼ,z}",
+            "{tsːʼ,dʒ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬː",
+            "dɮ"
+          ],
+          "af": [
+            "tɬ(ː)",
+            "tɬː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː",
+            "ɢ"
+          ],
+          "af": [
+            "xʲ",
+            "{qːʼ,ɣ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{l,r}"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [
+            "*l)",
+            "original",
+            "from",
+            "only",
+            "(sometimes,"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Avar-Andic",
+      "to": "Andi",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "{ts,st}",
+            "dz"
+          ],
+          "af": [
+            "s",
+            "{tsːʼ,z}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "stː"
+          ],
+          "af": [
+            "sː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "dʒ"
+          ],
+          "af": [
+            "{tʃːʼ,dʒ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬ(ː)",
+            "tɬ(ː)(ʼ)",
+            "dʒ"
+          ],
+          "af": [
+            "ɬ",
+            "tɬ(ː)",
+            "tɬ(ː)(ʼ)",
+            "tɬː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "ɢ"
+          ],
+          "af": [
+            "x",
+            "{qːʼ,ɣ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Avar-Andic",
+      "to": "Avar",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ts",
+            "tsː",
+            "tsʼ",
+            "tsːʼ",
+            "dz"
+          ],
+          "af": [
+            "sh",
+            "ts",
+            "tʃʼ",
+            "ts(ː)ʼ",
+            "tsʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "st(ː)"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "tʃːʼ",
+            "dʒ"
+          ],
+          "af": [
+            "ts(?)",
+            "tʃ",
+            "tʃ(ː)ʼ",
+            "tsʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬʼ",
+            "tɬː",
+            "tɬːʼ"
+          ],
+          "af": [
+            "ɬ",
+            "tʼ",
+            "tɬ",
+            "tɬ(ː)ʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "qːʼ",
+            "ɢ"
+          ],
+          "af": [
+            "x",
+            "{q(ː)ʼ,ɡh}",
+            "qʼ"
+          ],
+          "en": "",
+          "no": [
+            "ɣ)",
+            "be",
+            "should",
+            "〈gh〉",
+            "last",
+            "that",
+            "if",
+            "sure",
+            "(not"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s",
+            "sː",
+            "ɬː",
+            "x",
+            "xː"
+          ],
+          "af": [
+            "{s,ʃ}",
+            "x",
+            "ɬ",
+            "{x,h}",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "{m,n}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Dargi",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "*b is “[p]rone to change to *m”",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tsː,st}",
+            "tsːʼ",
+            "dz",
+            "stː"
+          ],
+          "af": [
+            "ts",
+            "z",
+            "tsː",
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "dʒ"
+          ],
+          "af": [
+            "{tsʼ,tʃʼ}",
+            "ʒ",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ"
+          ],
+          "af": [
+            "k",
+            "{xʲː,kː}",
+            "kʰ",
+            "{ɡ,q}(?)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qːʼ"
+          ],
+          "af": [
+            "ʕ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "ʃː",
+            "ɬ",
+            "ɬː"
+          ],
+          "af": [
+            "{s,ʃ}",
+            "ʃ",
+            "xʲ",
+            "{xʲ,ʃ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Khinalug",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{b,v}",
+            "z"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "The development of *tsʼ is unclear; in the user page there’s a slash but it might be a typo for an apostrophe",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tsː,st}",
+            "{tsːʼ,dz}"
+          ],
+          "af": [
+            "ts",
+            "tsʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tʃ(ː),dʒ}"
+          ],
+          "af": [
+            "tʃʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "k",
+            "{k,xʲ}",
+            "{kʼ,ɡ}",
+            "{kʼ,kː}",
+            "kʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː",
+            "kʼ",
+            "ɡ"
+          ],
+          "af": [
+            "k",
+            "{kʼ,ɡ}",
+            "{kʼ,kː}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{qːʼ,ɢ}"
+          ],
+          "af": [
+            "qʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sː",
+            "ɬ(ː)",
+            "xː"
+          ],
+          "af": [
+            "h",
+            "xʲ",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r"
+          ],
+          "af": [
+            "{r,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Lak",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{pː,b}",
+            "{tː,d}"
+          ],
+          "en": "",
+          "no": [
+            "*mˈ)",
+            "to",
+            "change",
+            "to",
+            "“[p]rone",
+            "is",
+            "*b",
+            "(but"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tsː,stː}",
+            "dz",
+            "st"
+          ],
+          "af": [
+            "sː",
+            "{tsː,z}",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "dʒ"
+          ],
+          "af": [
+            "{ts,tʃ}",
+            "{tsʼ,tʃʼ}",
+            "tʃ(ː)ʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬ(ː)ʼ",
+            "dɮ"
+          ],
+          "af": [
+            "xʲ",
+            "xː",
+            "kʼ",
+            "{kː,l}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɡ"
+          ],
+          "af": [
+            "kː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qʼ",
+            "qʼː",
+            "ɡ"
+          ],
+          "af": [
+            "{qʼ,j}",
+            "qʼ",
+            "{qː,ɣ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "ɬ",
+            "ɬː"
+          ],
+          "af": [
+            "s",
+            "{xʲ,ʃ}",
+            "xː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m",
+            "l"
+          ],
+          "af": [
+            "{m,n}",
+            "{l,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Proto-Lezgic",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "NB: These changes here probably aren’t “proper” sound changes, whatever that’s supposed to mean, but there doesn’t seem to be any particular sound change or set of sound changes that defines this family, so I’ve elected to go with something that seems to nearly work and note the exceptions.",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "ɢ"
+          ],
+          "af": [
+            "{x,q}",
+            "ɣ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Agul",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{b,w}",
+            "{d,z}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "tsː",
+            "tsːʼ",
+            "stː",
+            "dz"
+          ],
+          "af": [
+            "{s,ts}",
+            "{ts,tʃ}",
+            "tː",
+            "s",
+            "z"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃːʼ"
+          ],
+          "af": [
+            "tʃː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "xʲ",
+            "x",
+            "kʼ",
+            "kː",
+            "{,j,xʲ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qːʼ"
+          ],
+          "af": [
+            "qː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɬ(ː)",
+            "xː"
+          ],
+          "af": [
+            "xʲ",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "{m,b}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Archi",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "d"
+          ],
+          "af": [
+            "{d,tː}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "tsː",
+            "tsːʼ",
+            "stː",
+            "dz"
+          ],
+          "af": [
+            "s",
+            "{s,ʃ}",
+            "tsʼ",
+            "sː",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ(ː)",
+            "dʒ"
+          ],
+          "af": [
+            "ʃ",
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "ɬ",
+            "ɬ(ː)",
+            "kʼ",
+            "tɬʼ",
+            "tɬː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː",
+            "ɡ"
+          ],
+          "af": [
+            "x",
+            "{kː,ɡ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ",
+            "→",
+            "q",
+            "(more",
+            "likely,",
+            "*ɢ",
+            "→",
+            "q",
+            "instead",
+            "of"
+          ],
+          "af": [
+            "ɣ)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "qːʼ"
+          ],
+          "af": [
+            "x",
+            "q(ː)ʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sː",
+            "xː"
+          ],
+          "af": [
+            "{sː,h}",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Lezghi",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{pː,b}",
+            "{tː,d}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "tsː",
+            "tsːʼ",
+            "dz"
+          ],
+          "af": [
+            "{ʃ,tʃ}",
+            "tʃ(ʼ)",
+            "{tʃː,dʒ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "xʲ",
+            "{ɣʲ,ɡ}",
+            "qʼ",
+            "k(ʼ)",
+            "{kː,ɣʲ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː",
+            "ɡ"
+          ],
+          "af": [
+            "ɣ",
+            "kː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɣ"
+          ],
+          "af": [
+            "{qː,ɣ}"
+          ],
+          "en": "",
+          "no": [
+            "change)",
+            "sound",
+            "strict",
+            "this",
+            "than",
+            "*ɢ",
+            "of",
+            "development",
+            "the",
+            "in",
+            "difference",
+            "a",
+            "probably",
+            "(again,"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qːʼ"
+          ],
+          "af": [
+            "q(ʼ)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃː",
+            "ɬ",
+            "ɬː",
+            "x",
+            "xː"
+          ],
+          "af": [
+            "ɣʲ",
+            "j",
+            "ʃ",
+            "ɣ",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Rutul",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{b,w}",
+            "{d,z}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "tsːʼ",
+            "dz"
+          ],
+          "af": [
+            "{s,ts}",
+            "{d,t}",
+            "z"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "tʃːʼ"
+          ],
+          "af": [
+            "{ʃ,tʃ}",
+            "ʃ",
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "xʲ",
+            "qʼ",
+            "q(ʼ)",
+            "{w,xʲ,j}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː"
+          ],
+          "af": [
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qːʼ"
+          ],
+          "af": [
+            "q(ʼ)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sː",
+            "ɬ(ː)",
+            "xː"
+          ],
+          "af": [
+            "{ħ,xʲ}",
+            "{sː,h}",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "{m,b}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Tabassaran",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "b",
+            "d"
+          ],
+          "af": [
+            "{b,w}",
+            "{d,z}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "tsː",
+            "tsːʼ"
+          ],
+          "af": [
+            "{s,ts}",
+            "{ts,tʃ}",
+            "tsː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "tʃːʼ"
+          ],
+          "af": [
+            "{ʃ,tʃ}",
+            "{tʃ,dʒ}",
+            "{tʃː,tʃʼ}(?)"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "xʲ",
+            "{ɣʲ,ɡ}",
+            "k",
+            "kː",
+            "ɣʲ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː"
+          ],
+          "af": [
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɬ",
+            "{ʃː,ɬː}",
+            "xː"
+          ],
+          "af": [
+            "xʲ",
+            "ʃ",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "m"
+          ],
+          "af": [
+            "{m,b}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Lezgic",
+      "to": "Udi",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "ts",
+            "tsː",
+            "tsʼ",
+            "tsːʼ",
+            "dz"
+          ],
+          "af": [
+            "{∅,s}",
+            "tʃ",
+            "{∅,tsʼ}",
+            "{tsʼ,tʃʼ}",
+            "z"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "s_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "tʃː",
+            "tʃʼ",
+            "tʃːʼ",
+            "dʒ"
+          ],
+          "af": [
+            "{∅,ʃ}",
+            "tʃ",
+            "∅",
+            "tʃʼ",
+            "{dʒ,tʃ}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬː",
+            "tɬʼ",
+            "tɬːʼ",
+            "dɮ"
+          ],
+          "af": [
+            "{∅,x}",
+            "q",
+            "{∅,qʼ}",
+            "qʼ",
+            "{ɣ,l}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː"
+          ],
+          "af": [
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "qʼ",
+            "qːʼ",
+            "ɢ"
+          ],
+          "af": [
+            "∅(?)",
+            "∅",
+            "qʼ",
+            "ɣ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ɬ(ː),xː}"
+          ],
+          "af": [
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Nakh",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "st",
+            "stː"
+          ],
+          "af": [
+            "st(ʼ)",
+            "st"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tsː",
+            "tʃː"
+          ],
+          "af": [
+            "ts",
+            "tʃ"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tsːʼ"
+          ],
+          "af": [
+            "tsː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tsː,tʃː,dz,dʒ}"
+          ],
+          "af": [
+            "tː"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ(ː)",
+            "tɬʼ",
+            "tɬːʼ"
+          ],
+          "af": [
+            "x",
+            "qʼ",
+            "ʕ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kː",
+            "qːʼ"
+          ],
+          "af": [
+            "xk(?)",
+            "qʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃː",
+            "ɬː",
+            "xː"
+          ],
+          "af": [
+            "ʃ",
+            "ɬ",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "l"
+          ],
+          "af": [
+            "r"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Northeast Caucasian",
+      "to": "Proto-Tsezic",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "*b is “[p]rone to change to *m”",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ts,st}",
+            "{tsːʼ,dz}"
+          ],
+          "af": [
+            "s",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ",
+            "{tʃː,dʒ}"
+          ],
+          "af": [
+            "ʃ",
+            "tʃ"
+          ],
+          "en": "",
+          "no": [
+            "here)",
+            "it",
+            "put",
+            "to",
+            "unreasonable",
+            "it",
+            "find",
+            "don’t",
+            "I",
+            "*tsːʼ",
+            "of",
+            "development",
+            "the",
+            "given",
+            "but",
+            "[+plosive -voice]sez,",
+            "in",
+            "listed",
+            "only",
+            "is",
+            "change",
+            "the",
+            "as",
+            "[+vowel +back]ezhta,",
+            "for",
+            "conjectured",
+            "is",
+            "*tʃːʼ",
+            "of",
+            "change",
+            "(the"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tɬ",
+            "tɬːʼ"
+          ],
+          "af": [
+            "ɬ",
+            "tɬ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɢ"
+          ],
+          "af": [
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s",
+            "xː"
+          ],
+          "af": [
+            "z",
+            "x"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "l"
+          ],
+          "af": [
+            "{l,r}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tsezic",
+      "to": "Bezhta",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "*ɬ may have remained ɬ*r remained when intervocalic",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Tsezic",
+      "to": "Tsez",
+      "or": "Pogostick Man",
+      "os": " from User:Petusek (2010), “User:Petusek",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "tsː",
+            "tɬː"
+          ],
+          "af": [
+            "z",
+            "l"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tsː",
+            "tɬː"
+          ],
+          "af": [
+            "s",
+            "ɬ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kːʼ",
+            "ɡ"
+          ],
+          "af": [
+            "k",
+            "kʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q",
+            "qːʼ"
+          ],
+          "af": [
+            "x(?)",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "sː",
+            "ʃ",
+            "ʃː",
+            "ɬ",
+            "ɬː",
+            "x"
+          ],
+          "af": [
+            "s",
+            "ʒ",
+            "ʃ",
+            "l",
+            "ɬ",
+            "ɣ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "r"
+          ],
+          "af": [
+            "{r,l,∅}"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

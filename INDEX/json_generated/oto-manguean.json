@@ -1,1532 +1,1532 @@
 {
-    "fa": "Oto-Manguean",
-    "cs": [
-      {
-        "fr": "Proto-Chatino",
-        "to": "Papabuco Chatino",
-        "or": "Pogostick Man",
-        "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ɾ"
-            ],
-            "en": "_{u,ẽ} when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ɾ"
-            ],
-            "en": "_ˈa",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_ˈ{e,iʔ}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "i_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "! “in cluster with šˈ (presumably [ʃ])",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʲ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_u",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʲ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "a_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "ɾ"
-            ],
-            "en": "#_ek",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "",
-            "no": [
-              "(?)"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{c,tʃ}"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [
-              "one)",
-              "this",
-              "on",
-              "available",
-              "data",
-              "of",
-              "lot",
-              "a",
-              "[+nasal]ot",
-              "cases?",
-              "certain",
-              "(in"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "l"
-            ],
-            "af": [
-              "{lʲ,n}"
-            ],
-            "en": "",
-            "no": [
-              "conditionsˈ",
-              "obscure",
-              "“under"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "nʲ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "l"
-            ],
-            "en": "#_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "_a (…lolwut)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "else (…again, lolwut)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "nʲ"
-            ],
-            "en": "",
-            "no": [
-              "morphophonemics?)ˈ",
-              "([+labial,bilabial][+consonant]",
-              "conditions",
-              "obscure",
-              "“under"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "i"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "tʃ_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ı̃"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "_{l,ʔn} when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "{kʲ,nt}_ when stressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "in a few data sets “where obscure morphological developments (in the ultimate or penultimate syllable) have resulted in regressive assimilation of vowel qualityˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "tʲ_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "h_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "in [+syllable +long -stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "a"
-            ],
-            "af": [
-              "{i,e}"
-            ],
-            "en": "",
-            "no": [
-              "conditionsˈ",
-              "special",
-              "“under"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Chatino",
-        "to": "Tataltepec Chatino",
-        "or": "Pogostick Man",
-        "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʲ"
-            ],
-            "en": "_õ (…again…lolwut)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "#_iç",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʲ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_i[-long -stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʲ"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʲ"
-            ],
-            "af": [
-              "tʲ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "c"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "i_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "c"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "[+vowel +front]_ (? [+nasal]ot a lot of data available on this one)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "l",
-              "n"
-            ],
-            "af": [
-              "lʲ",
-              "nʲ"
-            ],
-            "en": "e_ in [+syllable -long -stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ç"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "",
-            "no": [
-              "one)",
-              "this",
-              "on",
-              "right",
-              "phone(me)s",
-              "the",
-              "reading",
-              "I’m",
-              "if",
-              "sure",
-              "[+nasal]ot",
-              "(?"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "a"
-            ],
-            "en": "_ʔ in [+syllable -stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "et",
-              "el",
-              "en"
-            ],
-            "af": [
-              "itʲ",
-              "elʲ",
-              "enʲ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɛ"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "[+plosive]_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɛ"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "n_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɛ"
-            ],
-            "af": [
-              "e"
-            ],
-            "en": "_ʔ#, in monosyllables",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Chatino",
-        "to": "Yaitepec Chatino",
-        "or": "Pogostick Man",
-        "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "tʲ"
-            ],
-            "af": [
-              "tj"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "Some consonant disharmony involving reflexes of *k, *kʷ",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel +front]k(ʷ)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʲ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "_{a,ã}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʲ"
-            ],
-            "af": [
-              "kj"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "_eːj",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "w"
-            ],
-            "en": "_ek",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "ʍ"
-            ],
-            "en": "ku_ (medial)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "kw"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "#_{a,õ}ʔ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "[+vowel +high]_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "#_ẽ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "c"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "a_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "if ",
-            "no": [
-              "/l/ is present in the same syllable"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "#_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_{ik,e,ı̃,ẽ}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "_i, in monosyllables",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "lʲ"
-            ],
-            "af": [
-              "l"
-            ],
-            "en": "#_ in [+syllable -long -stress]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "lʲ"
-            ],
-            "af": [
-              "lj"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "j"
-            ],
-            "en": "_ã (with some exceptions?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nʲ"
-            ],
-            "af": [
-              "nj"
-            ],
-            "en": "else",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "ʔ"
-            ],
-            "en": "_ã",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ç"
-            ],
-            "af": [
-              "hj"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "hʷ"
-            ],
-            "af": [
-              "ʍ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "{t,h}_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "_ʔ#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ẽ"
-            ],
-            "af": [
-              "ı̃"
-            ],
-            "en": "ʔ_# “in one caseˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Chatino",
-        "to": "Zenzontepec Chatino",
-        "or": "Pogostick Man",
-        "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "NB: This set is likely very incomplete.",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʲ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "l_ when unstressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "kʲ_ when stressed",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Oto-Manguean",
-        "to": "Tlapanec",
-        "or": "Pogostick Man",
-        "os": " from Rensch, Calvin R. (1977), “Classification of the Otomanguean Languages and the Position of Tlapanec”. Summer Institute of Linguistics Publications in Linguistics 55:53 – 108",
-        "so": [
-          "s1"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "NB: Y here refers to some sort of palatalizing element; H, to some laryngeal.",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʷ"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "n"
-            ],
-            "af": [
-              "{n,ɲ}"
-            ],
-            "en": "",
-            "no": [
-              "conditionsˈ)",
-              "obscure",
-              "“under",
-              "latter",
-              "(the"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "l([+vowel])"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "Yt",
-              "Ynt",
-              "Ys"
-            ],
-            "af": [
-              "tʃ",
-              "dʒ",
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ns,nt}",
-              "nkʷ",
-              "nj",
-              "nw"
-            ],
-            "af": [
-              "(n)d",
-              "(m)b",
-              "r",
-              "m"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "nk"
-            ],
-            "af": [
-              "{ɡ,ŋ}"
-            ],
-            "en": "",
-            "no": [
-              "conditionsˈ)",
-              "obscure",
-              "“under",
-              "latter",
-              "(the"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{in,en}",
-              "an"
-            ],
-            "af": [
-              "a",
-              "u"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{i[+laryngeal]n,e[+laryngeal]n,a[+laryngeal]n}",
-              "u[+laryngeal]n"
-            ],
-            "af": [
-              "ã",
-              "ũ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [],
-            "af": [],
-            "en": "",
-            "no": [
-              "“No clearly distinct reflex of **un has been identified”; the author speculates that this most likely turned into /u/, but does not rule out /o/ as a reflex",
-              ""
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "e"
-            ],
-            "af": [
-              "i"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʔ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+consonant -voice] (? “both h and š occur before nasals, so it is possible that š has a separate source in [+labial,bilabial]roto [-sonorant]tomangueanˈ)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "[+consonant][+vowel]ʔ[+vowel]"
-            ],
-            "en": "_# (or possibly in just any final syllable?) ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Chatino",
+      "to": "Papabuco Chatino",
+      "or": "Pogostick Man",
+      "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ɾ"
+          ],
+          "en": "_{u,ẽ} when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ɾ"
+          ],
+          "en": "_ˈa",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_ˈ{e,iʔ}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "i_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "! “in cluster with šˈ (presumably [ʃ])",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʲ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_u",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʲ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "a_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "ɾ"
+          ],
+          "en": "#_ek",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "",
+          "no": [
+            "(?)"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{c,tʃ}"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [
+            "one)",
+            "this",
+            "on",
+            "available",
+            "data",
+            "of",
+            "lot",
+            "a",
+            "[+nasal]ot",
+            "cases?",
+            "certain",
+            "(in"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "l"
+          ],
+          "af": [
+            "{lʲ,n}"
+          ],
+          "en": "",
+          "no": [
+            "conditionsˈ",
+            "obscure",
+            "“under"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "nʲ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "l"
+          ],
+          "en": "#_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "_a (…lolwut)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "else (…again, lolwut)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "nʲ"
+          ],
+          "en": "",
+          "no": [
+            "morphophonemics?)ˈ",
+            "([+labial,bilabial][+consonant]",
+            "conditions",
+            "obscure",
+            "“under"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "i"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "tʃ_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ı̃"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "_{l,ʔn} when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "{kʲ,nt}_ when stressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "in a few data sets “where obscure morphological developments (in the ultimate or penultimate syllable) have resulted in regressive assimilation of vowel qualityˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "tʲ_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "h_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "in [+syllable +long -stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "a"
+          ],
+          "af": [
+            "{i,e}"
+          ],
+          "en": "",
+          "no": [
+            "conditionsˈ",
+            "special",
+            "“under"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Chatino",
+      "to": "Tataltepec Chatino",
+      "or": "Pogostick Man",
+      "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʲ"
+          ],
+          "en": "_õ (…again…lolwut)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "#_iç",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʲ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_i[-long -stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʲ"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʲ"
+          ],
+          "af": [
+            "tʲ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "c"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "i_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "c"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "[+vowel +front]_ (? [+nasal]ot a lot of data available on this one)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "l",
+            "n"
+          ],
+          "af": [
+            "lʲ",
+            "nʲ"
+          ],
+          "en": "e_ in [+syllable -long -stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ç"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "",
+          "no": [
+            "one)",
+            "this",
+            "on",
+            "right",
+            "phone(me)s",
+            "the",
+            "reading",
+            "I’m",
+            "if",
+            "sure",
+            "[+nasal]ot",
+            "(?"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "a"
+          ],
+          "en": "_ʔ in [+syllable -stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "et",
+            "el",
+            "en"
+          ],
+          "af": [
+            "itʲ",
+            "elʲ",
+            "enʲ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɛ"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "[+plosive]_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɛ"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "n_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɛ"
+          ],
+          "af": [
+            "e"
+          ],
+          "en": "_ʔ#, in monosyllables",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Chatino",
+      "to": "Yaitepec Chatino",
+      "or": "Pogostick Man",
+      "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "tʲ"
+          ],
+          "af": [
+            "tj"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "Some consonant disharmony involving reflexes of *k, *kʷ",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel +front]k(ʷ)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʲ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "_{a,ã}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʲ"
+          ],
+          "af": [
+            "kj"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "_eːj",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "w"
+          ],
+          "en": "_ek",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "ʍ"
+          ],
+          "en": "ku_ (medial)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "kw"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "#_{a,õ}ʔ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "[+vowel +high]_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "#_ẽ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "c"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "a_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "if ",
+          "no": [
+            "/l/ is present in the same syllable"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "#_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_{ik,e,ı̃,ẽ}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "_i, in monosyllables",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "lʲ"
+          ],
+          "af": [
+            "l"
+          ],
+          "en": "#_ in [+syllable -long -stress]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "lʲ"
+          ],
+          "af": [
+            "lj"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "j"
+          ],
+          "en": "_ã (with some exceptions?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nʲ"
+          ],
+          "af": [
+            "nj"
+          ],
+          "en": "else",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "ʔ"
+          ],
+          "en": "_ã",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ç"
+          ],
+          "af": [
+            "hj"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "hʷ"
+          ],
+          "af": [
+            "ʍ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "{t,h}_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "_ʔ#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ẽ"
+          ],
+          "af": [
+            "ı̃"
+          ],
+          "en": "ʔ_# “in one caseˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Chatino",
+      "to": "Zenzontepec Chatino",
+      "or": "Pogostick Man",
+      "os": " from Upson, B.W., and Robert E. Longacre (1965), “Proto-Chatino Phonology”. International Journal of American Linguistics 31(4):312 – 322",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "NB: This set is likely very incomplete.",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʲ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "l_ when unstressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "kʲ_ when stressed",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Oto-Manguean",
+      "to": "Tlapanec",
+      "or": "Pogostick Man",
+      "os": " from Rensch, Calvin R. (1977), “Classification of the Otomanguean Languages and the Position of Tlapanec”. Summer Institute of Linguistics Publications in Linguistics 55:53 – 108",
+      "so": [
+        "s1"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "NB: Y here refers to some sort of palatalizing element; H, to some laryngeal.",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʷ"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "n"
+          ],
+          "af": [
+            "{n,ɲ}"
+          ],
+          "en": "",
+          "no": [
+            "conditionsˈ)",
+            "obscure",
+            "“under",
+            "latter",
+            "(the"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "l([+vowel])"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "Yt",
+            "Ynt",
+            "Ys"
+          ],
+          "af": [
+            "tʃ",
+            "dʒ",
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ns,nt}",
+            "nkʷ",
+            "nj",
+            "nw"
+          ],
+          "af": [
+            "(n)d",
+            "(m)b",
+            "r",
+            "m"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "nk"
+          ],
+          "af": [
+            "{ɡ,ŋ}"
+          ],
+          "en": "",
+          "no": [
+            "conditionsˈ)",
+            "obscure",
+            "“under",
+            "latter",
+            "(the"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{in,en}",
+            "an"
+          ],
+          "af": [
+            "a",
+            "u"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{i[+laryngeal]n,e[+laryngeal]n,a[+laryngeal]n}",
+            "u[+laryngeal]n"
+          ],
+          "af": [
+            "ã",
+            "ũ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [],
+          "af": [],
+          "en": "",
+          "no": [
+            "“No clearly distinct reflex of **un has been identified”; the author speculates that this most likely turned into /u/, but does not rule out /o/ as a reflex",
+            ""
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "e"
+          ],
+          "af": [
+            "i"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʔ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+consonant -voice] (? “both h and š occur before nasals, so it is possible that š has a separate source in [+labial,bilabial]roto [-sonorant]tomangueanˈ)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "[+consonant][+vowel]ʔ[+vowel]"
+          ],
+          "en": "_# (or possibly in just any final syllable?) ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

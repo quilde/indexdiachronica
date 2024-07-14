@@ -1,0 +1,2488 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Eskimo-Aleut"
+to = "Proto-Aleut"
+or = "Pogostick Man"
+os = " from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["i"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["p"]
+af = ["h"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["m"]
+en = "medial"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["w"]
+en = "a_a (in eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{t,ð}"]
+af = ["n"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ð"]
+af = ["t"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["t"]
+en = "#_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["s"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["ð"]
+en = "medial"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["l"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["m"]
+af = ["w"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["t"]
+en = "#_ (except, maybe, “in exclamationsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["ð"]
+en = "i_ (in eastern and central dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["ð"]
+en = "u_a (in eastern dialects)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "#_, “under certain conditions not yet discoveredˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Deletion of medial vowels as per stress rules, “mostly affecting vowels before the accented syllable”",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n[+vowel]1n[+vowel]2"]
+af = ["n[+vowel]2n[+vowel]2"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo-Aleut"
+to = "Proto-Eskimo"
+or = "Pogostick Man"
+os = " from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ð",
+    "z",
+]
+af = [
+    "t",
+    "s",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "t_, “in certain positionsˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Barrow Iñupiaq"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["l"]
+en = "medial"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "at word boundaries"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["u"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]0[+vowel][+consonant]0"]
+af = ["[+consonant]0ː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Regressive MOA assimilation and progressive voicing assimilation in consonant clusters (at least, when C2 is either /l/ or /l̥/)",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+    "ŋ",
+]
+af = [
+    "v",
+    "t",
+    "ɣ",
+]
+en = "_[+consonant -nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["t"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["p"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʁ",
+]
+af = [
+    "p",
+    "q",
+]
+en = "[+plosive]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "p",
+    "k",
+    "q",
+]
+en = "_[+consonant] (unless [+consonant] = one of "
+no = ["/l dʒ m n ŋ)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,v}",
+    "t",
+    "{k,ɣ}",
+]
+af = [
+    "m",
+    "n",
+    "ŋ",
+]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["ʁ"]
+en = "i_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ədʒ"]
+af = ["i"]
+en = "_{a,u} (except in #[+syllable])"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["adʒ"]
+af = ["i"]
+en = "_a (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Greenlandic Iñupiaq"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["u"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]ː"]
+af = ["[+consonant]"]
+en = "except when [+consonant][+vowel]_[+vowel] in [+syllable]1[+syllable]2"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "i_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "dʒ",
+    "→",
+    "tʃ",
+    "→",
+    "s",
+    "/",
+    "“in",
+    "certain",
+    "positionsˈ",
+    "(except",
+    "for",
+    "[+plosive -voice]hule",
+    "Greenlandic,",
+    "where",
+    "dʒ",
+]
+af = [
+    "tʃ",
+    "and",
+    "stayed",
+    "there,",
+    "apparently)",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+    "ŋ",
+    "t",
+    "{{ɣ,ʁ}",
+    "→",
+    "{k,q}}",
+]
+af = [
+    "p",
+    "t",
+    "k",
+    "n",
+    "ŋ",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+    "ŋ",
+]
+af = [
+    "v",
+    "t",
+    "ɣ",
+]
+en = "_[+consonant -nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["ʁ"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʁ",
+]
+af = [
+    "p",
+    "q",
+]
+en = "[+plosive]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "p",
+    "k",
+    "q",
+]
+en = "_[+consonant] (except where [+consonant] = "
+no = ["/l dʒ m n ŋ/)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,v}",
+    "t",
+    "{k,ɣ}",
+]
+af = [
+    "m",
+    "n",
+    "ŋ",
+]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]1[+plosive]2"]
+af = ["[+fricative]1[+fricative]2"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]ome",
+    "metathesis",
+    "in",
+    "consonant",
+    "clusters,",
+    "the",
+    "conditions",
+    "of",
+    "which",
+    "are",
+    "not",
+    "elaborated",
+    "upon;",
+    "the",
+    "given",
+    "example",
+    "cited",
+    "within",
+    "the",
+    "text",
+    "is",
+    "lʁ",
+]
+af = ["ʁl"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iv"]
+af = ["uj"]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["tʃ"]
+en = "i_{u,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ədʒ"]
+af = ["i"]
+en = "_{a,u} (except in #[+syllable])"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["adʒ"]
+af = ["i"]
+en = "_a (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Mackenzie Iñupiaq"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["u"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]0[+vowel][+consonant]0"]
+af = ["[+consonant]ː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Regressive MOA assimilation and progressive voicing assimilation in consonant clusters, at least when C2 is either /l/ or /l̥/",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+    "ŋ",
+]
+af = [
+    "v",
+    "t",
+    "ɣ",
+]
+en = "_[+consonant -nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["t"]
+en = "_[+consonant]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["p"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʁ",
+]
+af = [
+    "p",
+    "q",
+]
+en = "[+plosive]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,v}",
+    "t",
+    "{k,ɣ}",
+]
+af = [
+    "m",
+    "n",
+    "ŋ",
+]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ədʒ"]
+af = ["i"]
+en = "_{a,u} (except in #[+syllable])"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["adʒ"]
+af = ["i"]
+en = "_a (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Wales Iñupiaq"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["u"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "else"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["u"]
+en = "“in some positionsˈ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+    "q",
+    "s",
+]
+af = [
+    "v",
+    "ɣ",
+    "ʁ",
+    "z",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Regressive MOA assimilation and progressive voicing assimilation in consonant clusters, at least where C2 is either /l/ or /l̥/",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "m",
+    "n",
+    "ŋ",
+]
+af = [
+    "v",
+    "t",
+    "ɣ",
+]
+en = "_[+consonant +nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l̥"]
+af = ["t"]
+en = "[+consonant]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["p"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʁ",
+]
+af = [
+    "p",
+    "q",
+]
+en = "[+plosive]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "p",
+    "k",
+    "q",
+]
+en = "_[+consonant] (except if [+consonant] = "
+no = ["/l dʒ m n ŋ/)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,v}",
+    "t",
+    "{k,ɣ}",
+]
+af = [
+    "m",
+    "n",
+    "ŋ",
+]
+en = "_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["u"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "[+vowel]_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["ʁ"]
+en = "i_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ədʒ"]
+af = ["i"]
+en = "_{a,u} (except in #[+syllable])"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["adʒ"]
+af = ["i"]
+en = "_a (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["∅"]
+en = "[+vowel]_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["∅"]
+en = "u_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɣ"]
+af = ["u"]
+en = "{i,ə}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Kuskokwim Yup’ik"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]ː"]
+af = ["[+consonant]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+consonant]ː"]
+en = "_[+vowel](…[+vowel]) except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]"]
+af = ["∅"]
+en = "#_[+fricative]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ts"]
+en = "in certain situations?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +voice]"]
+af = ["[+consonant -voice]"]
+en = "adjacent to {[+plosive],s,l̥}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "#[+consonant +dental]_[+consonant +dental][+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+fricative -voice]"]
+en = "adjacent to {[+plosive],ts}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+plosive +same"]
+en = "l̥_"
+no = ["[+labial,bilabial][-sonorant][+affricate]]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "_{k,q}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "a",
+    "u",
+]
+af = [
+    "ii",
+    "aa",
+    "uu",
+]
+en = "[+consonant]_ in [+syllable +open -initial -final] such that [+syllable +open]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "u_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u[+short]_[+vowel +short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "[+vowel +short]_u[+short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["∅"]
+en = "#_v[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iv"]
+af = ["j"]
+en = "#_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["dʒ"]
+en = "{i,u}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["∅"]
+en = "i_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "_dʒ{a,u}, except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "_dʒa, except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["in"]
+af = ["dʒ"]
+en = "_u (possibly only word-initially?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Nunivak Yup’ik"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]ː"]
+af = ["[+consonant]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+consonant]ː"]
+en = "_[+vowel](…[+vowel]) except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]"]
+af = ["∅"]
+en = "#_[+fricative]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ts"]
+en = "in certain situations?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +voice]"]
+af = ["[+consonant -voice]"]
+en = "adjacent to {[+plosive],s,l̥}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "x",
+    "χ",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "#[+consonant +dental]_[+consonant +dental][+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "[+consonant +velar]_[+consonant +velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Regressive MOA and voicing assimilation in consonant clusters, at least when C2 is either /l/ or /l̥/",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "v",
+    "ʁ",
+]
+af = [
+    "f",
+    "χ",
+]
+en = "[+plosive]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+fricative -voice]"]
+en = "adjacent to {[+plosive],ts}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+plosive]"]
+en = "l̥_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "_{k,q}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "a",
+    "u",
+]
+af = [
+    "ii",
+    "aa",
+    "uu",
+]
+en = "[+consonant]_ in [+syllable +open -initial -final] such that [+syllable +open]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "{u,a}_ (though aə seems to have become i in some circumstances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u[+short]_[+vowel +short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "[+vowel +short]_u[+short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["∅"]
+en = "#_v[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iv"]
+af = ["j"]
+en = "#_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["dʒ"]
+en = "{i,u}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["∅"]
+en = "i_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "_dʒ{a,u} except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "_dʒa (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["in"]
+af = ["dʒ"]
+en = "_u (possibly only word-initially?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Siberian Yup’ik"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]ː"]
+af = ["[+consonant]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]"]
+af = ["∅"]
+en = "#_[+fricative]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "s",
+    "→",
+    "ts",
+]
+af = ["tʃ"]
+en = "in some dialects?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +voice]"]
+af = ["[+consonant -voice]"]
+en = "next to {[+plosive],s,l̥}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "#[+consonant +dental]_[+consonant +dental][+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "[+consonant +velar]_[+consonant +velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+fricative -voice]"]
+en = "adjacent to {[+plosive],ts}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+plosive]"]
+en = "l̥_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "_{k,q}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["a"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "{u,a}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u[+short]_[+vowel +short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "[+vowel +short]_u[+short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["∅"]
+en = "#_v[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iv"]
+af = ["j"]
+en = "#_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["dʒ"]
+en = "{i,u}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["∅"]
+en = "i_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "_dʒ{a,u} except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "_dʒa (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["in"]
+af = ["dʒ"]
+en = "_u (possibly only word-initially?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Eskimo"
+to = "Unaaliq Yup’ik"
+or = "Pogostick Man"
+os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]ː"]
+af = ["[+consonant]"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+consonant]ː"]
+en = "_[+vowel](…[+vowel]), after #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+plosive]"]
+af = ["∅"]
+en = "#_[+fricative]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ts"]
+en = "in certain situations?"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +voice]"]
+af = ["[+consonant -voice]"]
+en = "next to {[+plosive],s,l̥}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɣ",
+    "ʁ",
+]
+af = [
+    "k",
+    "q",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["a"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "#[+consonant +dental]_[+consonant +dental][+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "[+consonant +velar]_[+consonant +velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["ft"]
+en = "_s"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+fricative -voice]"]
+en = "adjacent to {[+plosive],ts}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+fricative +voice]"]
+af = ["[+plosive]"]
+en = "l̥_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["s"]
+en = "_{k,q}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "a",
+    "u",
+]
+af = [
+    "ii",
+    "aa",
+    "uu",
+]
+en = "[+consonant]_ in [+syllable +open -initial -final] such that [+syllable +open]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["i"]
+en = "{u,a}_ (though aə seems to have become i in some circumstances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "u[+short]_[+vowel +short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["v"]
+af = ["∅"]
+en = "[+vowel +short]_u[+short]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["∅"]
+en = "#_v[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["iv"]
+af = ["j"]
+en = "#_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["dʒ"]
+af = ["∅"]
+en = "i_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["∅"]
+en = "_dʒ{a,u} except in #[+syllable]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["∅"]
+en = "_dʒa (except in #[+syllable]?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["dʒ"]
+en = "{i,u}_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["in"]
+af = ["dʒ"]
+en = "_u (possibly only word-initially?) "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

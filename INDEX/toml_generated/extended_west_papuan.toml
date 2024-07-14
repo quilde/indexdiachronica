@@ -1,0 +1,793 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Tabla-Sentani"
+to = "Nafri"
+or = "Pogostick Man"
+os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+]
+af = [
+    "b",
+    "ɡ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+]
+af = [
+    "f",
+    "{s,h}",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["ŋ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_([+consonant])i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+velar]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "_[+labial,bilabial]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ə"]
+en = "_[+consonant]{a,ə,u} (seems to have become a in a few instances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["o"]
+en = "_([+consonant])o"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{[+consonant +palatal],[+vowel +front]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["æ"]
+en = "! _{[+vowel +back],[+velar],[+laryngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "_([+consonant])e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "i([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = ""
+no = [
+    "unusual)",
+    "highly",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tabla-Sentani"
+to = "Central Sentani"
+or = "Pogostick Man"
+os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+]
+af = [
+    "b",
+    "ɡ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "b",
+    "t",
+]
+af = [
+    "f",
+    "p",
+    "{s,h}",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["m"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_([+consonant])i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+velar]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "_[+labial,bilabial]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ə"]
+en = "_[+consonant]{a,ə,u} (seems to have become a in a few instances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["o"]
+en = "_([+consonant])o"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{[+consonant +palatal],[+vowel +front]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["æ"]
+en = "! _{[+vowel +back],[+velar],[+laryngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "_([+consonant])e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "i([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = ""
+no = [
+    "unusual)",
+    "highly",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tabla-Sentani"
+to = "Eastern Sentani"
+or = "Pogostick Man"
+os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+]
+af = [
+    "b",
+    "ɡ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+]
+af = [
+    "f",
+    "{s,h}",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["l"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["m"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_([+consonant])i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+velar]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "_[+labial,bilabial]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ə"]
+en = "_[+consonant]{a,ə,u} (seems to have become a in a few instances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["o"]
+en = "_([+consonant])o"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{[+consonant +palatal],[+vowel +front]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["æ"]
+en = "! _{[+vowel +back],[+velar],[+laryngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "_([+consonant])e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "i([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = ""
+no = [
+    "unusual)",
+    "highly",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tabla-Sentani"
+to = "Western Sentani"
+or = "Pogostick Man"
+os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "k",
+]
+af = [
+    "b",
+    "ɡ",
+]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["t"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["ŋ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["i"]
+en = "_([+consonant])i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "{[+labial,bilabial],[+velar]}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["æ"]
+en = "_[+labial,bilabial]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ə"]
+en = "_[+consonant]{a,ə,u} (seems to have become a in a few instances)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["o"]
+en = "_([+consonant])o"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{[+consonant +palatal],[+vowel +front]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["æ"]
+en = "! _{[+vowel +back],[+velar],[+laryngeal]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "_([+consonant])e"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["æ"]
+en = "i([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = ""
+no = [
+    "unusual)",
+    "highly",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Tabla-Sentani"
+to = "Tabla"
+or = "Pogostick Man"
+os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["d"]
+af = ["r"]
+en = "medially"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["ŋ"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "[+vowel]_ (with a few exceptions)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Some allophony triggered where p~ɸ, and probably some others",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["e"]
+af = ["ə"]
+en = "unstressed (possibly only in disyllables?)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["oi"]
+af = ["oe"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Some vowel assimilations, mostly dealing with central vowels",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["e"]
+en = ""
+no = [
+    "unusual)",
+    "highly",
+    "(sporadic,",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

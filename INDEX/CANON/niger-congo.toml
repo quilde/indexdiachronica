@@ -1,0 +1,2378 @@
+fa = "TODO"
+
+[[cs]]
+fr = "position; *ŋ,"
+to = "C2 position."
+or = "Hedinger also considers the Manenguba languages (and possibly the Mbo languages in general) as sharing a common ancestor with Proto-Bantu instead of being descended from it"
+os = " although the author seems to use the abbreviation “PM” to refer to Proto-Manenguba."
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Due to the scarcity of available resources on Niger-Congo historical phonology, there will likely be many overlaps or contradictions in the available data, maybe more so than in other sections, even Indo-European. What is included in the Index is what is available.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Potou-Akanic-Bantu"
+to = "Proto-Bantu"
+or = "Pogostick Man"
+os = " from Stewart, John M. (2002), “The potential of proto-Potou-Akanic-Bantu as a pilot Proto-Niger-Congo, and the reconstructions updated”. JALL 23:197 – 224"
+so = ["s1"]
+no = []
+ch = []
+
+[[cs]]
+fr = "under the following conditions, as reported by Stewart (2002): If V2 = V1 (vowel nasality does not necessarily have"
+to = "be the same, however), changes affecting the vowels will also affect V2. If C is an approximant, changes involving a nasalized V1 will also affect C2 and V2."
+or = """
+ʋ̃ → l̃ / #_\r
+\r
+u ũ → i ı̃ / #R[-labial]_\r
+\r
+ʋ̃ ɪ̃ → ũ ı̃ / #N[-labial]_\r
+\r
+i ı̃ V[-round] → uɪ uɪ̃ V[+round] / Cʷ_\r
+\r
+ʋ̃ → ʋ / #R[-labial]_\r
+\r
+ʄ C → c R / #_\r
+\r
+ɠʷ → w / #_V[-nas]\r
+\r
+ɠʷ → w̃ / #_V[+nas]\r
+\r
+V[+nas] → V[-nas] / #S[+voiced]_\r
+\r
+ɪ̃ → ɛ̃ / #(C)V_C\r
+\r
+ɰ ɰ̃ → j j̃ / #C_\r
+\r
+ɪ ɪ̃ → i ı̃ / #(C)V[-high]C_\r
+\r
+ʋ̃ → m / #(C)V_\r
+\r
+O[+nas -voiced] → O[-nas] / #(C)VC_\r
+°Pre-Proto-Bantu to Proto-Bantu
+\r
+Pogostick Man"""
+os = " from Hedinger, Robert (1987), The Manenguba Languages (Bantu A.15, Mbo Cluster) of Cameroon"
+so = ["s2"]
+no = []
+
+[[cs.ch]]
+be = [
+    "[+plosive +lenis]",
+    "[+nasal +lenis]",
+]
+af = [
+    "[+plosive -lenis]",
+    "[+nasal -lenis]",
+]
+en = "in [+consonant]1 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+nasal +lenis]",
+    "[+nasal -lenis]",
+]
+af = [
+    "[+nasal -lenis]",
+    "ⁿ[+plosive]",
+]
+en = "in [+consonant]2 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["d2"]
+af = ["d"]
+en = "in [+consonant]2 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Bantu"
+to = "Sebirwa"
+or = "Pogostick Man"
+os = " from Chebanne, A. (2000), “The Sebirwa language: a synchronic and diachronic account”. Pula: Botswana Journal of African Studies 14(2)"
+so = ["s3"]
+no = []
+
+[[cs.ch]]
+be = [
+    "i",
+    "u",
+    "[+vowel][+plosive]",
+]
+af = [
+    "j",
+    "w",
+    "[+affricate]",
+]
+en = "_[+vowel +high +[+affricate][+plosive -voice][+sonorant]]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+plosive]",
+    "→",
+    "[+plosive]ʰ",
+]
+af = ["[+affricate]ʰ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+vowel +high",
+    "+[+affricate][+plosive -voice][+sonorant]]",
+]
+af = [
+    "[+vowel +high",
+    "-[+affricate][+plosive -voice][+sonorant]]",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal][+consonant]"]
+af = ["[+consonant -voiced]"]
+en = "#_ (in nouns)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal][+consonant]"]
+af = ["[+nasal +same"]
+en = "#_ (in verbs)"
+no = ["[+labial,bilabial][-sonorant][+affricate]][+consonant]"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+    "l",
+]
+af = [
+    "{ʈ,tʲ}",
+    "{ɖ,dʲ}",
+    "{ɭ,lʲ,ʎ}",
+]
+en = ""
+no = [
+    "here)",
+    "disagree",
+    "to",
+    "seem",
+    "paper",
+    "the",
+    "of",
+    "aspects",
+    "textual",
+    "the",
+    "and",
+    "transcription",
+    "the",
+    "as",
+    "meant,",
+    "is",
+    "which",
+    "to",
+    "as",
+    "unclear",
+    "bit",
+    "a",
+    "is",
+    "paper",
+    "([+plosive -voice]he",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+    "d",
+    "c",
+    "ɟ",
+    "k",
+    "ɡ",
+]
+af = [
+    "ɸ",
+    "ɹ",
+    "{d,l}",
+    "tʰ",
+    "∅",
+    "h",
+    "{∅,ɡ}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["∅"]
+af = ["ɡ"]
+en = "#n_[+vowel] (in verbs)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["d"]
+en = "n_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Bantu"
+to = "Tswana"
+or = "Whimemsz"
+os = " from Creissels, Dennis (1999), “Remarks on the Sound Corresponences between Proto-Bantu and Tswana (S.31), with Particular Attention to Problems Involving *j (or *y), *j̬ and Sequences *NC”. Bantu Historical Linguistics: Theoretical and Empirical Perspectives, ed. Jean-Marie Hombert and Larry M. Hyman"
+so = ["s4"]
+no = []
+
+[[cs.ch]]
+be = [
+    "{p,t,tʃ,k}",
+    "{mp,nt,ɲtʃ,nk}",
+    "{(m)b,(n)d,(ɲ)dʒ,(n)ɡ}",
+    "{m,n}",
+]
+af = [
+    "s",
+    "tsʰ",
+    "ts",
+    "ɲ",
+]
+en = "_i[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{tʃ,k}",
+    "{ntʃ,nk,r}",
+    "{ɲdʒ,nɡ}",
+    "mp",
+    "mb",
+    "p",
+    "b",
+    "{d,l}",
+    "m",
+    "n",
+]
+af = [
+    "s",
+    "tsʰ",
+    "ts",
+    "tʃʰ(w)",
+    "tʃ(w)",
+    "ʃ(w)",
+    "dʒ(w)",
+    "dʒ",
+    "ŋw",
+    "ɲ",
+]
+en = "_{ɪ,e}[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,t,tʃ,k}",
+    "{mp,nt,ɲtʃ,nk}",
+    "{(m)b,(n)d,(ɲ)dʒ,(n)ɡ}",
+    "{m,n,ɲ}",
+]
+af = [
+    "sw",
+    "tsʰw",
+    "tsw",
+    "ɲw",
+]
+en = "_i[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "mp",
+    "mb",
+    "p",
+    "b",
+    "m",
+]
+af = [
+    "tʃʰ(w)",
+    "tʃ(w)",
+    "ʃ(w)",
+    "dʒ(w)",
+    "ŋw",
+]
+en = "_{ʊ,o}[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "“In these cases, the initial vowel of the sequence drops following the consonant change”; Whimemsz doesn’t specify if all V1V2 sequences drop the V1",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{tʃ,k}",
+    "{ɲtʃ,nk}",
+    "{ndʒ,nɡ}",
+]
+af = [
+    "s",
+    "tsʰ",
+    "ts",
+]
+en = "_{i,ɪ,e}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "nk",
+    "k",
+]
+af = [
+    "kʰ",
+    "h",
+]
+en = "_u"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "mp",
+    "nt",
+    "ɲtʃ",
+    "nk",
+    "mp",
+    "nd",
+    "ɲdʒ",
+    "nɡ",
+]
+af = [
+    "pʰ",
+    "tʰ",
+    "tɬʰ",
+    "qʰ",
+    "p",
+    "t",
+    "tɬ",
+    "k",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+    "tʃ",
+    "k",
+    "{dʒ,ɡ}",
+    "ɲ",
+]
+af = [
+    "h",
+    "r",
+    "tɬʰ",
+    "χ",
+    "∅",
+    "n",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Amu"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["s5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only changes creating dental consonants are considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ntç",
+    "tç",
+]
+af = [
+    "(n̪)t̪ʰ",
+    "t̪",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ndj,nz}"]
+af = ["n̪d̪"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Bajuni"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only changes creating dental consonants are considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ntç",
+    "tç",
+]
+af = [
+    "(n̪)t̪ʰ",
+    "t̪",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{ndj,nz}",
+    "ɲz",
+]
+af = [
+    "n̪d̪",
+    "n̪",
+]
+en = ""
+no = ["ð"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Mwiini"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only a few changes, mostly concerning creating dental consonants, are considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ntç",
+    "tç",
+]
+af = [
+    "(n̪)t̪ʰ",
+    "t̪",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ndj"]
+af = ["n̪d̪"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲ"]
+af = ["{ɲ,n̪}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Siu-Pate"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only changes creating dental consonants are considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ntç",
+    "tç",
+]
+af = [
+    "(n̪)t̪ʰ",
+    "t̪",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{ndj,nz}",
+    "z",
+]
+af = [
+    "n̪d̪",
+    "ð",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Proto-Aweera"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only a few changes are considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "nz",
+    "z",
+    "c",
+]
+af = [
+    "ɲd̪",
+    "ʃ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Sam"
+to = "Lower Pokomo"
+or = "Pogostick Man"
+os = " from Nurse, Derek (1985), “Dentality, Areal Features, and Phonological Change in Northeastern Bantu”. In Studies of African Linguistics 16(3):243 – 279"
+so = ["5"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: Due to the source, only a change creating a dental consonant is considered here.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["d̪"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Pre-Proto-Bantu"
+to = "Proto-Manenguba"
+or = "Pogostick Man"
+os = " from Hedinger, Robert (1987), The Manenguba Languages (Bantu A.15, Mbo Cluster) of Cameroon"
+so = ["2"]
+no = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "NB: In Hedinger’s notation, an apostrophe indicates a lenis consonant in Pre-Proto-Bantu.",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "’p",
+    "’t",
+    "’d/d2",
+    "c",
+    "{’ɟ}",
+    "’k",
+    "ɡ",
+]
+af = [
+    "f",
+    "l",
+    "ɟ",
+    "s",
+    "∅",
+    "{w,∅}",
+    "{k,w}",
+]
+en = "in [+consonant]1 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal +lenis]"]
+af = ["[+nasal -lenis]"]
+en = "in [+consonant]1 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "p",
+    "t",
+    "’t",
+    "{’d,d2}",
+    "c",
+    "k",
+    "’k",
+]
+af = [
+    "b",
+    "d",
+    "l",
+    "{l,∅}",
+    "ɟ",
+    "ɡ",
+    "∅",
+]
+en = "in [+consonant]2 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "’m",
+    "m",
+    "’n",
+    "n",
+    "{’ɲ,ɲ}",
+    "ŋ",
+]
+af = [
+    "m",
+    "{ᵐb,m}",
+    "n",
+    "{ⁿd,n}",
+    "ɲ",
+    "{ᵑɡ,ŋ}",
+]
+en = "in [+consonant]2 position"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{u,o}",
+    "{ɛ,e,i}",
+]
+af = [
+    "w",
+    "j",
+]
+en = "[+consonant]_a in noun roots"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{u,o}",
+    "{ɛ,e,i}",
+]
+af = [
+    "w",
+    "j",
+]
+en = "[+consonant]_(a) in verb roots"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{u,o}",
+    "{ɛ,e,i}",
+]
+af = [
+    "w",
+    "j",
+]
+en = "[+consonant]_$[+vowel] in noun class prefixes"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["f"]
+af = ["h"]
+en = ""
+no = [
+    "languages?)",
+    "all",
+    "in",
+    "not",
+    "(perhaps",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Potou-Akanic-Bantu"
+to = "Proto-Potou-Akanic"
+or = "Pogostick Man"
+os = " from Stewart, John M. (2002), “The potential of proto-Potou-Akanic-Bantu as a pilot Proto-Niger-Congo, and the reconstructions updated”. JALL 23:197 – 224"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+approximant +nas]"]
+en = "#([+consonant])[+vowel +nas]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant]"]
+af = ["[+approximant]"]
+en = "#([+consonant])[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɪ([+consonant]ɪ)"]
+af = ["e([+consonant]i)"]
+en = "t_"
+no = [" “vowel nasalizations are retained either way on each”"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɟ",
+    "ʄ",
+    "j",
+    "c",
+    "ɠʷ",
+]
+af = [
+    "c",
+    "ɟ",
+    "ʄ",
+    "t",
+    "ɠ̥p",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "([+nasal])[+vowel]1[+mid",
+    "+nas](l̃)",
+]
+af = ["[+consonant][+vowel -nas]n"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +nas](ʋ̃,l̃)"]
+af = ["[+vowel -nas](m,n)"]
+en = "#[+approximant +voiced]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Potou-Akanic"
+to = "Proto-Akanic"
+or = "Pogostick Man"
+os = " from Stewart, John M. (2002), “The potential of proto-Potou-Akanic-Bantu as a pilot Proto-Niger-Congo, and the reconstructions updated”. JALL 23:197 – 224"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "[+vowel +high",
+    "+[+affricate][+plosive -voice][+sonorant]]([+consonant]([+vowel +high",
+    "-[+affricate][+plosive -voice][+sonorant]]))",
+]
+af = [
+    "#([+consonant])[+vowel -high",
+    "+[+affricate][+plosive -voice][+sonorant]]([+consonant][+vowel +high",
+    "+[+affricate][+plosive -voice][+sonorant]])",
+]
+en = "#[+approximant +dorsal -voiced]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɛ"]
+af = ["ia"]
+en = "#([+consonant])_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+sonorant -voiced]",
+    "[+sonorant +voiced]",
+    "[+semivowel]",
+]
+af = [
+    "[+continuant -voiced]",
+    "[-sonorant -voiced]",
+    "[+fricative]",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɰ",
+    "ɰ̃",
+    "w̃",
+]
+af = [
+    "h",
+    "h̃",
+    "h̃ʷ",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "h̃",
+    "hʷ",
+]
+af = [
+    "ɕ",
+    "ɕʷ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h"]
+af = ["ɲı̃"]
+en = "#_ã"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h"]
+af = ["w"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["c"]
+en = "#_[+vowel -nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Akanic"
+to = "Akan"
+or = "Pogostick Man"
+os = " from Stewart, John M. (2002), “The potential of proto-Potou-Akanic-Bantu as a pilot Proto-Niger-Congo, and the reconstructions updated”. JALL 23:197 – 224"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "l",
+    "l̃",
+]
+af = [
+    "j",
+    "j̃",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+consonant +dorsal]"]
+af = ["[+consonant]ʷ"]
+en = "_[+vowel +round]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel -round]"]
+en = "#[+consonant +dorsal]_[+consonant -labial]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j[+vowel +nas]"]
+af = ["j[+vowel -nas]"]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["f"]
+af = ["j"]
+en = "#_[+vowel -nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["f"]
+af = ["j̃"]
+en = "#_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{p,ʋ̃}",
+    "c",
+    "k͜p",
+]
+af = [
+    "f",
+    "s",
+    "p",
+]
+en = "#_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["ŋ"]
+en = "#([+consonant])[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+nasal]"]
+af = ["[+plosive]"]
+en = ""
+no = [
+    "enjoyment)",
+    "your",
+    "for",
+    "anyway",
+    "presented",
+    "is",
+    "it",
+    "here",
+    "but",
+    "paper,",
+    "the",
+    "in",
+    "here",
+    "on",
+    "going",
+    "what’s",
+    "sure",
+    "not",
+    "(I’m",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["∅"]
+en = "#([+consonant])[+vowel +consonant -coronal]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʋ",
+    "l",
+]
+af = [
+    "w",
+    "ɹ",
+]
+en = "#([+consonant])[+vowel]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +high]"]
+af = ["[+vowel +nas]"]
+en = "#([+consonant])_[+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["∅"]
+en = "#[+consonant]_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ı̃"]
+af = ["∅"]
+en = "#_ã"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Gbe"
+to = "Ajá"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["s6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "ɛ̃",
+]
+af = [
+    "e",
+    "ẽ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{o,ɔ}",
+    "{ɛ,e}",
+]
+af = [
+    "u",
+    "i",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+vowel +nas",
+    "-high]",
+]
+af = ["[+high]"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j{ã,ẽ}"]
+af = ["{ɥ,ɥ̃}"]
+en = "_[+vowel +front]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["ɲ"]
+en = "_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʁ"]
+af = ["j"]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χ",
+    "ʁ",
+]
+af = [
+    "s",
+    "z",
+]
+en = "_{i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χʷ",
+    "hʷ",
+]
+af = [
+    "w",
+    "p",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Ajá"
+to = "Hwe"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_{u,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Gbe"
+to = "Proto-Fon"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "{ts,tʰ}",
+    "{dz,dʱ}",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{t,k}j",
+    "{d,ɡ}j",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["hʷ"]
+af = ["ʁʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "oi",
+    "ɔi",
+    "ɔ̃i",
+    "{a,ɛ}i",
+    "{ɛ̃,ẽ}i",
+    "ei",
+]
+af = [
+    "oe",
+    "ɔɛ",
+    "ɔ̃ɛ̃",
+    "ɛɛ",
+    "ɛ̃ɛ̃",
+    "ee",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ãi"]
+af = ["ɛ̃ɛ̃"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Gbe"
+to = "Proto-Gen"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["χʷ"]
+af = ["p"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dz",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{t,k}j",
+    "{d,ɡ}j",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "tʰ",
+    "dʱ",
+]
+af = [
+    "t",
+    "d",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["hʷ"]
+af = ["{w,ʁʷ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["ŋ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ɛ",
+    "ɛ̃",
+]
+af = [
+    "e",
+    "ẽ",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["ɲ"]
+en = "_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Gbe"
+to = "Proto-Phla-Pherá"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "{ts,tʰ}",
+    "{dz,dʱ}",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["hʷ"]
+af = ["ʁʷ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Phla-Pherá"
+to = "Alada"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "ʃ",
+    "ʒ",
+]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "{ʃ,ʒ}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ɡ",
+]
+af = [
+    "ʃ",
+    "ʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Gbe"
+to = "Proto-Vhe"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "χʷ",
+    "ʁʷ",
+]
+af = [
+    "ɸ",
+    "β",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{ɛ,e}",
+    "{~ɛ,ẽ}",
+]
+af = [
+    "ə",
+    "ə̃",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["hʷ"]
+af = ["w"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["ɣ"]
+en = "_{a,[+vowel +front]}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["{w,ŋ}"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["ɲ"]
+en = "_[+vowel +nas]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Adángbe"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+vowel +nas]"]
+en = "[+nasal]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel +nas]"]
+af = ["[+vowel -nas]"]
+en = "[+consonant]_ ! [+consonant] = [+nasal]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ts",
+    "dz",
+]
+af = [
+    "s",
+    "z",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ɡ",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Avéno"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_{u,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ɡ",
+    "s",
+]
+af = [
+    "ts",
+    "dz",
+    "ʃ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "ts",
+    "dz",
+]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Awalan"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["a"]
+af = ["e"]
+en = "_{i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{o,ɔ}",
+    "ə",
+]
+af = [
+    "u",
+    "i",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_{u,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "s",
+    "{k,ts}",
+    "{ɡ,dz}",
+]
+af = [
+    "ʃ",
+    "tʃ",
+    "dʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "χ",
+    "ʁ",
+]
+af = [
+    "ʃ",
+    "{ʒ,j}",
+]
+en = "_{u,i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Kpándo"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ə",
+    "ə̃",
+]
+af = [
+    "ɛ",
+    "ɛ̃",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{t,k}",
+    "{d,ɡ}",
+]
+af = [
+    "ts",
+    "dz",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "t",
+    "d",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_j"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["j"]
+af = ["∅"]
+en = "{ts,dz}_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+round]"]
+en = "w_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Pecı́"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = [
+    "ə",
+    "ə̃",
+]
+af = [
+    "ɛ",
+    "ɛ̃",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{k,ts}",
+    "{ɡ,dz}",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+round]"]
+en = "w_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "TÉ̣wun"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["ŋ"]
+en = "_ũ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "k",
+    "ɡ",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Vhe"
+to = "Wacı́"
+or = "Pogostick Man"
+os = " from Capo, Hounkpati B.C. (1991), A Comparative Phonology of Gbe"
+so = ["6"]
+no = []
+
+[[cs.ch]]
+be = ["ə"]
+af = ["e"]
+en = "_{i,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "{k,ts}",
+    "{ɡ,dz}",
+]
+af = [
+    "tʃ",
+    "dʒ",
+]
+en = "_i"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]"]
+af = ["[+round]"]
+en = "w_ "
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

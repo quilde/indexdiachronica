@@ -1,2548 +1,2548 @@
 {
-    "fa": "Quechumaran",
-    "cs": [
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Ayachuco",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "s0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "tʃʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "tʃ",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{p,t,k,q}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q"
-            ],
-            "af": [
-              "χ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "q"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts(h)",
-              "tʃh"
-            ],
-            "af": [
-              "tʃ",
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "tʃʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ,ʰ)"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "ʂ"
-            ],
-            "af": [
-              "s",
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Bolivia",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "qh"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_r",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ph",
-              "th",
-              "kh",
-              "qh"
-            ],
-            "af": [
-              "pʰ",
-              "tʰ",
-              "kʰ",
-              "qʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{k,q}"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_{[+consonant],#}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "{tsh,tʃh}"
-            ],
-            "af": [
-              "tʃ",
-              "tʃʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_q",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "tʃʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ)",
-              "ɸh"
-            ],
-            "af": [
-              "p(ʼ)",
-              "pʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_{a,i}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_u",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "qʰ"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "i_{a,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "u_ʎ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Cuzco",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "nq_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#q_{i,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ph"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "#_[+vowel][+affricate]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ph"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "#_a[+consonant +sibilant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pʼ"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "#_[+consonant +sibilant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ph"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "a_ (?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ph"
-            ],
-            "af": [
-              "pʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "r_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "#_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "#_ “in a word with two back vowelsˈ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh",
-              "qh"
-            ],
-            "af": [
-              "kʰ",
-              "qʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts",
-              "tsh"
-            ],
-            "af": [
-              "tʃ",
-              "tʃʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_q",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃh"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+vowel +front]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{tʃh,tʃʼ}"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "tʃʼ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ)",
-              "ɸh"
-            ],
-            "af": [
-              "p(ʼ)",
-              "pʰ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ",
-              "ʂ"
-            ],
-            "af": [
-              "s",
-              "h"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "qʰ"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Huarás",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "tʃʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "ts",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "p_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʰ"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "q"
-            ],
-            "af": [
-              "q͡χ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts(h)",
-              "tʃ"
-            ],
-            "af": [
-              "tʃ",
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "_q",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ,ʰ)"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_a",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_{i,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɲ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "aw",
-              "aj",
-              "{uj,ij}"
-            ],
-            "af": [
-              "uː",
-              "eː",
-              "iː"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Putamayo",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "m_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t(ʰ)"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʰ"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_{[+liquid],j}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "ts_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ,ʰ)"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Quito",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "q"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "{r,s}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "m_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t(ʰ)"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʼ"
-            ],
-            "af": [
-              "tʰ"
-            ],
-            "en": "#_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʼ"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_{[+liquid],j}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kʼ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "j_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts"
-            ],
-            "af": [
-              "dz"
-            ],
-            "en": "! #_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "ts_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_q",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃh"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "r_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{ɸʼ,ɸh}"
-            ],
-            "af": [
-              "ɸ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "",
-            "no": [
-              "#_"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Riobamba",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "q"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qh"
-            ],
-            "af": [
-              "kʰ"
-            ],
-            "en": "_i ! _i{ʃ,tʃ}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "qh"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "m_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t(ʰ)"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʼ"
-            ],
-            "af": [
-              "tʰ"
-            ],
-            "en": "#_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_#",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_{[+liquid],j}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh"
-            ],
-            "af": [
-              "kʰ"
-            ],
-            "en": "#_{i,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "kh"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k",
-              "ts"
-            ],
-            "af": [
-              "ɡ",
-              "dz"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "ts_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃh"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "ts"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ"
-            ],
-            "af": [
-              "pʰ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "_j",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "s"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+consonant +alveolar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "kʰ"
-            ],
-            "en": "",
-            "no": [
-              "#_"
-            ],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɲ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "! h_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʎ"
-            ],
-            "af": [
-              "ʒ"
-            ],
-            "en": "_{a,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Santiago",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "tʃʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "tʃ",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "{p,t,k}_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "{k,q}"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_{[+consonant],#}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "c"
-            ],
-            "en": "j_ (?)",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ts(h)"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_q",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ,ʰ)"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʃ"
-            ],
-            "af": [
-              "s"
-            ],
-            "en": "! i_i or _[+plosive]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "_{a,i}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "h"
-            ],
-            "en": "_u",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʎ"
-            ],
-            "af": [
-              "ʒ"
-            ],
-            "en": "_{a,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "[+vowel]_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "m"
-            ],
-            "en": "_%[+nasal]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "i_{a,u}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "j"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "u_ʎ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      },
-      {
-        "fr": "Proto-Quechumaran",
-        "to": "Tena",
-        "or": "Pogostick Man",
-        "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
-        "so": [
-          "0"
-        ],
-        "no": [],
-        "ch": [
-          {
-            "be": [
-              "q(h)"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "pʼ",
-              "tʼ",
-              "kʼ",
-              "qʼ"
-            ],
-            "af": [
-              "p",
-              "t",
-              "k",
-              "q"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "p"
-            ],
-            "af": [
-              "b"
-            ],
-            "en": "m_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "t(ʰ)"
-            ],
-            "af": [
-              "d"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʰ"
-            ],
-            "af": [
-              "t"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "n_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "k"
-            ],
-            "af": [
-              "ɡ"
-            ],
-            "en": "_{[+liquid],j}",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "ts_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+consonant]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃh"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "tʃʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "_[+velar]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "_[+vowel]",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʈʂʼ"
-            ],
-            "af": [
-              "tʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɸ(ʼ,ʰ)"
-            ],
-            "af": [
-              "p"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ʂ"
-            ],
-            "af": [
-              "ʃ"
-            ],
-            "en": "",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "h"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "χ"
-            ],
-            "af": [
-              "k"
-            ],
-            "en": "#_",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "ɲ"
-            ],
-            "af": [
-              "n"
-            ],
-            "en": "_i",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          },
-          {
-            "be": [
-              "w"
-            ],
-            "af": [
-              "∅"
-            ],
-            "en": "#_i ",
-            "no": [],
-            "ta": [
-              "generated",
-              "unchecked"
-            ],
-            "ty": []
-          }
-        ]
-      }
-    ]
-  }
+  "fa": "TODO",
+  "cs": [
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Ayachuco",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "s0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "tʃʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "tʃ",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{p,t,k,q}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q"
+          ],
+          "af": [
+            "χ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "q"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts(h)",
+            "tʃh"
+          ],
+          "af": [
+            "tʃ",
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "tʃʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ,ʰ)"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "ʂ"
+          ],
+          "af": [
+            "s",
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Bolivia",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "qh"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_r",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ph",
+            "th",
+            "kh",
+            "qh"
+          ],
+          "af": [
+            "pʰ",
+            "tʰ",
+            "kʰ",
+            "qʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{k,q}"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_{[+consonant],#}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "{tsh,tʃh}"
+          ],
+          "af": [
+            "tʃ",
+            "tʃʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_q",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "tʃʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ)",
+            "ɸh"
+          ],
+          "af": [
+            "p(ʼ)",
+            "pʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_{a,i}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_u",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "qʰ"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "i_{a,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "u_ʎ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Cuzco",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "nq_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#q_{i,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ph"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "#_[+vowel][+affricate]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ph"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "#_a[+consonant +sibilant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pʼ"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "#_[+consonant +sibilant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ph"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "a_ (?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ph"
+          ],
+          "af": [
+            "pʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "r_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "#_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "#_ “in a word with two back vowelsˈ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh",
+            "qh"
+          ],
+          "af": [
+            "kʰ",
+            "qʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts",
+            "tsh"
+          ],
+          "af": [
+            "tʃ",
+            "tʃʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_q",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃh"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+vowel +front]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{tʃh,tʃʼ}"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "tʃʼ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ)",
+            "ɸh"
+          ],
+          "af": [
+            "p(ʼ)",
+            "pʰ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ",
+            "ʂ"
+          ],
+          "af": [
+            "s",
+            "h"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "qʰ"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Huarás",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "tʃʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "ts",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "p_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʰ"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "q"
+          ],
+          "af": [
+            "q͡χ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts(h)",
+            "tʃ"
+          ],
+          "af": [
+            "tʃ",
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "_q",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ,ʰ)"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_a",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_{i,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "aw",
+            "aj",
+            "{uj,ij}"
+          ],
+          "af": [
+            "uː",
+            "eː",
+            "iː"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Putamayo",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "m_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t(ʰ)"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʰ"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_{[+liquid],j}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "ts_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ,ʰ)"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Quito",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "q"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "{r,s}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "m_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t(ʰ)"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʼ"
+          ],
+          "af": [
+            "tʰ"
+          ],
+          "en": "#_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʼ"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_{[+liquid],j}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kʼ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "j_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts"
+          ],
+          "af": [
+            "dz"
+          ],
+          "en": "! #_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "ts_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_q",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃh"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "r_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{ɸʼ,ɸh}"
+          ],
+          "af": [
+            "ɸ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "",
+          "no": [
+            "#_"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Riobamba",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "q"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qh"
+          ],
+          "af": [
+            "kʰ"
+          ],
+          "en": "_i ! _i{ʃ,tʃ}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "qh"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "m_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t(ʰ)"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʼ"
+          ],
+          "af": [
+            "tʰ"
+          ],
+          "en": "#_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_#",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_{[+liquid],j}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh"
+          ],
+          "af": [
+            "kʰ"
+          ],
+          "en": "#_{i,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "kh"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k",
+            "ts"
+          ],
+          "af": [
+            "ɡ",
+            "dz"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "ts_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃh"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "ts"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ"
+          ],
+          "af": [
+            "pʰ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "_j",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "s"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+consonant +alveolar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "kʰ"
+          ],
+          "en": "",
+          "no": [
+            "#_"
+          ],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "! h_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʎ"
+          ],
+          "af": [
+            "ʒ"
+          ],
+          "en": "_{a,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Santiago",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "tʃʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "tʃ",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "{p,t,k}_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "{k,q}"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_{[+consonant],#}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "c"
+          ],
+          "en": "j_ (?)",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ts(h)"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_q",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ,ʰ)"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʃ"
+          ],
+          "af": [
+            "s"
+          ],
+          "en": "! i_i or _[+plosive]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "_{a,i}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "h"
+          ],
+          "en": "_u",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʎ"
+          ],
+          "af": [
+            "ʒ"
+          ],
+          "en": "_{a,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "[+vowel]_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "m"
+          ],
+          "en": "_%[+nasal]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "i_{a,u}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "j"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "u_ʎ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    },
+    {
+      "fr": "Proto-Quechumaran",
+      "to": "Tena",
+      "or": "Pogostick Man",
+      "os": " from Orr, Carolyn, and Robert E. Longacre (1968), “Proto-Quechumaran”. Language 44(3):528 – 555",
+      "so": [
+        "0"
+      ],
+      "no": [],
+      "ch": [
+        {
+          "be": [
+            "q(h)"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "pʼ",
+            "tʼ",
+            "kʼ",
+            "qʼ"
+          ],
+          "af": [
+            "p",
+            "t",
+            "k",
+            "q"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "p"
+          ],
+          "af": [
+            "b"
+          ],
+          "en": "m_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "t(ʰ)"
+          ],
+          "af": [
+            "d"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʰ"
+          ],
+          "af": [
+            "t"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "n_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "k"
+          ],
+          "af": [
+            "ɡ"
+          ],
+          "en": "_{[+liquid],j}",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "ts_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+consonant]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃh"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "tʃʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "_[+velar]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "_[+vowel]",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʈʂʼ"
+          ],
+          "af": [
+            "tʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɸ(ʼ,ʰ)"
+          ],
+          "af": [
+            "p"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ʂ"
+          ],
+          "af": [
+            "ʃ"
+          ],
+          "en": "",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "h"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "χ"
+          ],
+          "af": [
+            "k"
+          ],
+          "en": "#_",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "ɲ"
+          ],
+          "af": [
+            "n"
+          ],
+          "en": "_i",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        },
+        {
+          "be": [
+            "w"
+          ],
+          "af": [
+            "∅"
+          ],
+          "en": "#_i ",
+          "no": [],
+          "ta": [
+            "generated",
+            "unchecked"
+          ],
+          "ty": []
+        }
+      ]
+    }
+  ]
+}

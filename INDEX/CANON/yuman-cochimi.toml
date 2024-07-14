@@ -1,0 +1,363 @@
+fa = "TODO"
+
+[[cs]]
+fr = "Proto-Pai"
+to = "Chapai"
+or = "Pogostick Man"
+os = " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["ʃ"]
+en = "_{w,i}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["∅"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["tʃ"]
+en = "! n_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["kʷ"]
+af = ["k"]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["p"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["s"]
+af = ["ʂ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_{ɲ,j}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{w,j}"]
+af = ["∅"]
+en = "a_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]ː"]
+af = ["[+vowel]"]
+en = ""
+no = ["?"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Stress lost?",
+    "",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Pai"
+to = "Paipai"
+or = "Pogostick Man"
+os = " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["β"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["xʷ"]
+af = ["w"]
+en = "tʃ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "kʷ",
+    "xʷ",
+]
+af = [
+    "k",
+    "x",
+]
+en = "_#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "ʃ",
+    "ɬ",
+]
+af = [
+    "ʂ",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ə"]
+en = "unstressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "_t"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_ɲ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "aw",
+    "aj",
+]
+af = [
+    "o",
+    "e",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Pai"
+to = "Tipai"
+or = "Pogostick Man"
+os = " from Wares, Alan C. (1954?), “Three Pai Dialects of Lower California”. Summer Institute of Linguistics Bartholomew Collection of Unpublished Materials"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = [
+    "kʷ",
+    "xʷ",
+]
+af = [
+    "q",
+    "χ",
+]
+en = "_# (the paper calls these “back velarsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["b"]
+af = ["p"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["i"]
+af = ["ə"]
+en = "unstressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["u"]
+af = ["o"]
+en = "_[+velar]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["t"]
+af = ["∅"]
+en = "n_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["tʃ"]
+af = ["∅"]
+en = "_xʷ"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɲj"]
+af = ["n"]
+en = "ʔ_"
+no = ["∅"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]ː"]
+af = ["[+vowel]"]
+en = ""
+no = [
+    "conditioned?)",
+    "(sporadic?",
+]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
