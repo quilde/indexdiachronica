@@ -1,7 +1,11 @@
 # Index Diachronica Database Project
+![Index Diachronica logo](logo/social.png)
 *The Index Diachronica as a database*
-
-![Index Diachronica logo](logo.png)
+![index diachronica badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquilde.github.io%2Findexdiachronica%2Findex_json%2Fafroasiatic.json&query=%24.change_sets%5B%3A1%5D.to&logo=json&logoColor=8495f9&label=Index%20Diachronica%20lang%3A
+)
+![hi mom badge](https://img.shields.io/badge/hi-mom-blue)
+![some sounds](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fquilde.github.io%2Findexdiachronica%2Findex_json%2Fafroasiatic.json&query=%24.change_sets%5B%3A1%5D.changes%5B%3A1%5D.before&logo=json&logoColor=8495f9&label=some%20sounds%20from%20Index%20Diachronica%3A
+)
 
 ## What is it?
 
