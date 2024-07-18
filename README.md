@@ -5,44 +5,45 @@
 
 ## What is it?
 
-The Index Diachronica Database Project aims to convert the Index Diachronica into a text-based
+The Index Diachronica Database Project aims to convert the Index Diachronica, a collection of historical sound changes, into a text-based
 database and mantain and solidify the dataset.
 
-The Index Diachronica 
+The Index Diachronica is a giant catalog of [sound changes](https://en.wikipedia.org/wiki/Sound_change) and is very large. It sections on   many languages and language families, as well as a fairly well-structured presentation of historical sound changes in those languages.
+It is hosted here: [Index](https://chridd.nfshost.com/diachronica/) 
 
+@amundo and @man-in-space had the idea to convert this document into a database of json files, because then the rules are data, and we can do all kinds of neat things with them. 
 
-This repository is a project to convert the Index Diachronica into a 
-database. There are several reasons that this is worth doing:
+However there has been no activity on the project since 8 years. So I sneakily decided to fork the project and actually do it for real.
 
-* The Index Diachronica is very large. It sections on  
-many languages and language families, as well as a fairly well-structured presentation of
-historical sound changes in those languages.
-* The Index Diachronica (usually) includes references. This means that the 
+## Roadmap
+- July: release v0.1.0 
+- till September: decide on format 
+- after that: start checking the rules, fix broken stuff and search new sound changes
+ 
+## Notes
+- sound changes and references will be converted into a standard format
+- The Index Diachronica (usually) includes references. This means that the 
 database could be checkable by experts in various fields.
-
-However, there are also problems in its current state:
-
-* It is a `.tex` document, not a database. This means that while it is true that
-there are probably a dozen examples of how (say) palatalization happens in the i
-languages of the world, it’s very difficult to compile those examples in the current
-form of the information.
-* The references aren’t in a standard format — they’re just formatted text. In an
-ideal word there would be an accompanying reference database in a standard format, 
-say bibtex or COiNs JSON references, that would make the database importable into 
-database software such as Zotero, either in whole or in part.
-* There are phonological inventories mixed into the soundchanges. Inventories are awesome,
-but they are a separate project. It would make sense to have a separate project, (perhaps
-we could call it the _Index Phonologica_!) to handle that. 
-
-For more details see [http://amundo.github.io/indexdiachronica/example.html](http://amundo.github.io/indexdiachronica/example.html)
+- There are phonological inventories mixed into the soundchanges. Inventories are awesome, but they are a separate project. It would make sense to have a separate project, (perhaps we could call it the _Index Phonologica_!) to handle that. ()
 
 
-## Contributing
+## Contributing 
 
-Say hello:
+Get involved! We're just getting started. 
 
-submit sound changes:
+Say hello: https://github.com/quilde/indexdiachronica/discussions/22
+
+discuss the latest release: https://github.com/quilde/indexdiachronica/discussions/23
+
+<!--submit sound changes:
 
 help coding:
 
 discuss philosophical stuff regarding the index: 
+-->
+
+## Logo and Mascot
+
+![barn owl](logo/Barn_Owl,_Lancashire.jpg)
+
+I like the logo, however it maybe isn't fully representative of the project (one could think it's only about egyptian stuff), so we might change it. I want to keep the owl though, so I decided to make it the mascot.
