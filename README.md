@@ -14,7 +14,7 @@
 The Index Diachronica Database Project aims to convert the Index Diachronica, a collection of historical sound changes, into a text-based
 database and mantain and solidify the dataset.
 
-The Index Diachronica is a giant catalog of [sound changes](https://en.wikipedia.org/wiki/Sound_change) and is very large. It sections on   many languages and language families, as well as a fairly well-structured presentation of historical sound changes in those languages.
+The Index Diachronica is a giant catalog of [sound changes](https://en.wikipedia.org/wiki/Sound_change) and is very large. It hassections on many languages and language families, as well as a fairly well-structured presentation of historical sound changes in those languages.
 It is hosted here: [Index](https://chridd.nfshost.com/diachronica/) 
 
 @amundo and @man-in-space had the idea to convert this document into a database of json files, because then the rules are data, and we can do all kinds of neat things with them. 
@@ -32,7 +32,46 @@ However there has been no activity on the project since 8 years. So I sneakily d
 database could be checkable by experts in various fields.
 - There are phonological inventories mixed into the soundchanges. Inventories are awesome, but they are a separate project. It would make sense to have a separate project, (perhaps we could call it the _Index Phonologica_!) to handle that. ()
 
+## The format
+the following briefly outlines the format of the natural  classes ID uses. For the reasoning please refer to [rants/features.md]
+**all the classes will remain close to the source but transcribed into [+bla -blub]. The list of available natural classes will be extended to also cover all IPA groupings.**
+```
+Q => [+uvular ] and not [+consonantal +velar +back]
+L = [+liquid] and not [+consonantal +approximant] Liquid
+```
+**All compound classes SHOULD be valid, but that won't be enforced through some feature geometry**
+```
+valid = [+vowel +front]
+invalid = [+plosive +front]
+```
+### all classes
+```
+consonant
+vowel
+front
+back
+fricative
+approximant
+palatovelar
+velar
+liquid
+nasal
+sonorant
+labial *
+bilabial *
+uvular
+click
+plosive
+retroflex
+voice
+syllable
+semivowel
+continuant
+affricate
+laryngeal
 
+* in the original ID P = Labial/Bilabial. Therefore all instances of P are [+labial,bilabial].
+```
 ## Contributing 
 
 Get involved! We're just getting started. 
