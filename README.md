@@ -102,8 +102,8 @@ s10_9:
   title: "Kiput Historical Phonology"
   parent: 
     title: Oceanic Linguistics
-    issue: 41
-    volume: 2
+    volume: 41
+    serial-number: 2
     page-range: 384 – 438
   
 s10_10:
@@ -112,8 +112,8 @@ s10_10:
   title: "Òma Lóngh Historical Phonology"
   parent: 
     title: Oceanic Linguistics
-    issue: 46
-    volume: 1
+    volume: 46
+    serial-number: 1
     page-range: 1 – 53 
 ```
 
