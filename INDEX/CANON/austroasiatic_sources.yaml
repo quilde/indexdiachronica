@@ -1,0 +1,41 @@
+
+s9_0:
+  type: article
+  author: Thompson, Laurence C. 
+  date: 1976
+  title: “Proto-Viet-Muong Phonology”
+  parent: 
+    title: Oceanic Linguistics Special Publications 13, Austroasiatic Studies 
+    volume: 2 
+    page-range: 1113 – 1203
+  
+s9_1:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2012
+  title: "Hanoi"
+  url: http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974
+  
+s9_2:
+  type: web
+  author: Wikipedia contributors
+  date: 2012
+  title: "Vietnamese Language"
+  url: http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797
+  
+s9_3: 
+  type: article
+  author: Gage, William W. 
+  date: 1985
+  title: "Glottal Stops and Vietnamese Tonogenesis"
+  parent:
+    title: Oceanic Linguistics Special Publications 
+    issue: 20 
+    page-range: 21 – 36
+  
+s9_4: 
+  type: article
+  author: Thompson, Laurence C. 
+  date: 1979?
+  title: "More on Viet-Muong Tonal Developments"
+  

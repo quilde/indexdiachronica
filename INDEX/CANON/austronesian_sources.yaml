@@ -1,0 +1,212 @@
+
+
+s10_0:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2012
+  title: "Proto-Austronesian lanuage"
+  url: http://en.wikipedia.org/w/index.php?title=Proto-Austronesian_language&oldid=453318098
+
+s10_1:
+  type: article
+  author: Adelaar, Alexander
+  date: 2005
+  title: "Malayo-Sumbawan"
+  parent: 
+    title: Oceanic Linguistics 
+    volume: 44
+    serial-number: 2
+    page-range: 357 – 388 
+    
+s10_2:
+  type: book
+  author: Blust, Robert
+  date: 2013
+  title: The Austronesian Languages
+  edition: Revised Edition
+  
+s10_3:
+  type: article
+  author: Llamzon, Teodoro A.
+  date: 1975
+  title: "Proto-Philippine Phonology"
+  volume: 9
+  issue: 1
+  page-range: 29 – 42
+  
+s10_4:
+  type: article
+  author: Himes, Ronald
+  date: 2006
+  title: "The Kalamian Microgroup of Philippine Languages"
+  url: http://www.sil.org/asia/philippines/ical/papers.html
+  
+s10_5:
+  type: article
+  author: Adelaar, K.A.
+  date: 1981
+  title: "Reconstruction of Proto-Batak Phonology"
+  parent: 
+    author: Blust, Robert (ed.)
+    title: Historical Linguistics in Indonesia 
+    volume: 1
+    page-range: 1 – 20
+    
+s10_6:
+  type: article
+  author: Blust, Robert
+  date: 2000
+  title: "Chamorro Historical Phonology"
+  parent: 
+    title: Oceanic Linguistics
+    volume: 39
+    serial-number: 1
+    page-range: 83 – 122
+    
+s10_7:
+  type: reference
+  author: Tryon, Darrell
+  date: 1995
+  title: Comparative Austronesian Dictionary
+  
+s10_8:
+  type: article
+  author: Blust, Robert 
+  date: 2009
+  title: "Palauan Historical Phonology: Whence the Intrusive Velar Nasal?"
+  parent: 
+    title: Oceanic Linguistics
+    volume: 48
+    serial-number: 2
+    page-range: 307 – 336
+    
+s10_9:
+  author: Blust, Robert
+  date: 2002 
+  title: "Kiput Historical Phonology"
+  parent: 
+    title: Oceanic Linguistics
+    volume: 41
+    serial-number: 2
+    page-range: 384 – 438
+  
+  
+s10_10:
+  author: Blust, Robert
+  date: 2007 
+  title: "Òma Lóngh Historical Phonology"
+  parent: 
+    title: Oceanic Linguistics
+    volume: 46
+    serial-number: 1
+    page-range: 1 – 53 
+    
+s10_11:
+  type: book
+  author: Trask, R.L.
+  date: 1996
+  title: Historical Linguistics
+  
+s10_12:
+  type: article
+  author: François, Alexander
+  date: 2005
+  title: "Unraveling the history of the vowels of seventeen north Vanuatu languages"
+  
+s10_13:
+  type: article
+  author: François, Alexander
+  date: 2010
+  title: "Phonotactics and the prestopped velar lateral of Hiw"
+  
+s10_14:
+  type: article
+  author: Ozanne-Rivierre, Françoise
+  date: 1992
+  title: "The Proto-Oceanic Consonantal System and the Languages of New Caledonia"
+  parent: 
+    title: Oceanic Linguistics 
+    volume: 31
+    serial-number: 2
+    page-range: 191 – 207
+  
+s10_15:
+  type: article
+  author: Ozanne-Rivierre, Françoise
+  date: 1995
+  title: "Structural Changes in the Languages of Northern New Caledonia"
+  parent: 
+    title: Oceanic Linguistics 
+    volume: 34
+    serial-number: 1
+    page-range: 44 – 72
+    
+s10_16:
+  type: article
+  author: 
+  - Ross, Malcolm
+  - Åshlid Næss
+  date: 2007
+  title: "An Oceanic Origin for Äiwoo, the Language of the Reef Islands?"
+  parent: 
+    title: Oceanic Linguistics 
+    volume: 46
+    serial-number: 2
+    page-range: 456 – 498 
+    
+s10_17:
+  type: article
+  author: Guy, Jacques
+  date: 1978
+  title: "Proto-North New Hebridean Reconstructions"
+  
+s10_18:
+  type: article
+  author: Lynch, John
+  date: 2005
+  title: "The Apicolabial Shift in Nese"
+  parent: 
+    title: Oceanic Linguistics
+    volume: 44
+    serial-number: 2
+    page-range: 389 – 403
+    
+s10_19:
+  type: web
+  url: http://language.psy.auckland.ac.nz/austronesian/
+  
+s10_20:
+  type: article
+  author: Lynch, John
+  date: 2001
+  title: The Linguistic History of Southern Vanuatu
+  
+s10_21:
+  type: book
+  author: Hale, Mark
+  title: "Historical Linguistics: Theory and Method"
+  
+s10_22:
+  type: article
+  author: Blevins, Juliette
+  date: 2007
+  title: "A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands"
+  parent:
+    title: Oceanic Linguistics
+    volume: 46
+    serial-number: 1
+    page-range: 154 – 198
+    
+s10_23:
+  type: article
+  author: Chen, Chun-Mei
+  date: 2006
+  title: "A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
+  
+s10_24:
+  type: article
+  author: Wikipedia contributors
+  date: 2016
+  title: Tsouic languages
+  url: https://en.wikipedia.org/w/index.php?title=Tsouic_languages&oldid=602917078
+

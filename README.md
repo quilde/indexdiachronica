@@ -72,6 +72,51 @@ laryngeal
 
 * in the original ID P = Labial/Bilabial. Therefore all instances of P are [+labial,bilabial].
 ```
+
+### Show me your bibliography ...
+
+The bibliography will use [Hayagriva](https://github.com/typst/hayagriva) once I converted all the sources to this format.
+
+Example:
+
+```toml
+[[cs]]
+fr = "Proto-Malayo-Polynesian"
+to = "Proto-North Sarawak"
+or = "Whimemsz"
+os = " from Blust, Robert (2002), “Kiput Historical Phonology”. Oceanic Linguistics 41(2):384 – 438; and Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
+so = [
+    "s10_9",
+    "s10_10",
+]
+no = []
+...
+```
+
+refers to
+
+```yaml
+s10_9:
+  author: Blust, Robert
+  date: 2002 
+  title: "Kiput Historical Phonology"
+  parent: 
+    title: Oceanic Linguistics
+    issue: 41
+    volume: 2
+    page-range: 384 – 438
+  
+s10_10:
+  author: Blust, Robert
+  date: 2007 
+  title: "Òma Lóngh Historical Phonology"
+  parent: 
+    title: Oceanic Linguistics
+    issue: 46
+    volume: 1
+    page-range: 1 – 53 
+```
+
 ## Contributing 
 
 Get involved! We're just getting started. 

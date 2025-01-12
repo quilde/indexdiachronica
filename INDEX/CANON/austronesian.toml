@@ -5,7 +5,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Malayo-Polynesian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2011), “Proto-Austronesian lanuage”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s0"]
+so = ["s10_0"]
 no = []
 
 [[cs.ch]]
@@ -43,7 +43,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Proto-Bali-Sasak-Sumbawan"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["s1"]
+so = ["s10_1"]
 no = []
 
 [[cs.ch]]
@@ -224,7 +224,7 @@ fr = "Proto-Bali-Sasak-Sumbawan"
 to = "Balinese"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -311,7 +311,7 @@ fr = "Proto-Bali-Sasak-Sumbawan"
 to = "Sasak"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -407,7 +407,7 @@ fr = "Proto-Bali-Sasak-Sumbawan"
 to = "Sumbawan"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -551,7 +551,7 @@ fr = "Proto-Polynesian"
 to = "Luangiua"
 or = "thetha"
 os = " from Blust, Robert (2013), The Austronesian Languages, Revised Edition"
-so = ["s2"]
+so = ["s10_2"]
 no = []
 
 [[cs.ch]]
@@ -631,7 +631,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Philippine"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["s3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -716,7 +716,7 @@ fr = "Proto-Philippine"
 to = "Bicol"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -824,7 +824,7 @@ fr = "Proto-Philippine"
 to = "Cebuano"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -949,7 +949,7 @@ fr = "Proto-Philippine"
 to = "Hiligaynon"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -1051,7 +1051,7 @@ fr = "Proto-Philippine"
 to = "Ibanag"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -1194,7 +1194,7 @@ fr = "Proto-Philippine"
 to = "Ifugao"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -1293,7 +1293,7 @@ fr = "Proto-Philippine"
 to = "Ilocano"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -1378,7 +1378,7 @@ fr = "Proto-Philippine"
 to = "Proto-Kalamian"
 or = "Pogostick Man"
 os = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
-so = ["s4"]
+so = ["s10_4"]
 no = []
 
 [[cs.ch]]
@@ -1494,7 +1494,7 @@ fr = "Proto-Kalamian"
 to = "Agutaynen"
 or = "Pogostick Man"
 os = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
-so = ["4"]
+so = ["s10_4"]
 no = []
 
 [[cs.ch]]
@@ -1618,7 +1618,7 @@ fr = "Proto-Kalamian"
 to = "Karamiananen"
 or = "Pogostick Man"
 os = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
-so = ["4"]
+so = ["s10_4"]
 no = []
 
 [[cs.ch]]
@@ -1812,7 +1812,7 @@ fr = "Proto-Kalamian"
 to = "Kalamian Tagbanwa"
 or = "Pogostick Man"
 os = " from Himes, Ronald (2006), “The Kalamian Microgroup of Philippine Languages”. Paper presented at Tenth International Conference on Austronesian Linguistics. 17Â­ – 20 January 2006. Puerto Princesa City, Palawan, Philippines. <http:"
-so = ["4"]
+so = ["s10_4"]
 no = []
 
 [[cs.ch]]
@@ -1920,7 +1920,7 @@ fr = "Proto-Philippine"
 to = "Kankanay"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -2022,7 +2022,7 @@ fr = "Proto-Philippine"
 to = "Tagalog"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -2144,7 +2144,7 @@ fr = "Proto-Philippine"
 to = "Waray"
 or = "Pogostick Man"
 os = " from Llamzon, Teodoro A. (1975), “Proto-Philippine Phonology”. Archipel 9(1):29 – 42; and from other changes and information from this document"
-so = ["3"]
+so = ["s10_3"]
 no = []
 
 [[cs.ch]]
@@ -2284,7 +2284,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Batak"
 or = "TinyMusic"
 os = " from Adelaar, K.A. (1981), “Reconstruction of Proto-Batak Phonology”. In Blust, Robert (ed.), Historical Linguistics in Indonesia I:1 – 20."
-so = ["s5"]
+so = ["s10_5"]
 no = []
 
 [[cs.ch]]
@@ -2397,7 +2397,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Proto-Chamic"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["s10_1"]
 no = []
 
 [[cs.ch]]
@@ -2575,7 +2575,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Chamorro"
 or = "Whimemsz"
 os = " from Blust, Robert (2000), “Chamorro Historical Phonology”. Oceanic Linguistics 39(1):83 – 122"
-so = ["s6"]
+so = ["s10_6"]
 no = []
 
 [[cs.ch]]
@@ -2898,7 +2898,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Proto-Malayic"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["s10_1"]
 no = []
 
 [[cs.ch]]
@@ -3108,7 +3108,7 @@ fr = "Proto-Malayic"
 to = "(Standard) Malay"
 or = "TinyMusic"
 os = " from Tryon, Darrell (1995), Comparative Austronesian Dictionary"
-so = ["s7"]
+so = ["s10_7"]
 no = []
 
 [[cs.ch]]
@@ -3160,7 +3160,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Proto-Malayo-Javanic"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -3258,7 +3258,7 @@ fr = "Proto-Malayo-Javanic"
 to = "Javanese"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -3453,7 +3453,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Madurese"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -3648,7 +3648,7 @@ fr = "Proto-Malayo-Javanic"
 to = "Sundanese"
 or = "TinyMusic"
 os = " from Adelaar, Alexander (2005), “Malayo-Sumbawan”. Oceanic Linguistics 44(2):357 – 388"
-so = ["1"]
+so = ["10_1"]
 no = []
 
 [[cs.ch]]
@@ -3774,7 +3774,7 @@ fr = "Proto-Malayo-Polynesian"
 to = "Palauan"
 or = "Whimemsz"
 os = " from Blust, Robert (2009), “Palauan Historical Phonology: Whence the Intrusive Velar Nasal?”. Oceanic Linguistics 48(2):307 – 336"
-so = ["s8"]
+so = ["s10_8"]
 no = []
 
 [[cs.ch]]
@@ -4168,7 +4168,10 @@ fr = "Proto-Malayo-Polynesian"
 to = "Proto-North Sarawak"
 or = "Whimemsz"
 os = " from Blust, Robert (2002), “Kiput Historical Phonology”. Oceanic Linguistics 41(2):384 – 438; and Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
-so = ["s9"]
+so = [
+    "s10_9",
+    "s10_10",
+]
 no = []
 
 [[cs.ch]]
@@ -4403,7 +4406,7 @@ fr = "Proto-North Sarawak"
 to = "Kiput"
 or = "Whimemsz"
 os = " from Blust, Robert (2002), “Kiput Historical Phonology”. Oceanic Linguistics 41(2):384 – 438"
-so = ["s10"]
+so = ["s10_9"]
 no = []
 
 [[cs.ch]]
@@ -4978,7 +4981,7 @@ fr = "Proto-North Sarawak"
 to = "Proto-Kenyah"
 or = "Whimemsz"
 os = " from Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
-so = ["s11"]
+so = ["s10_10"]
 no = []
 
 [[cs.ch]]
@@ -5116,7 +5119,7 @@ fr = "Proto-Kenyah"
 to = "Òma Lóngh"
 or = "Whimemsz"
 os = " from Blust, Robert (2007), “Òma Lóngh Historical Phonology”. Oceanic Linguistics 46(1):1 – 53"
-so = ["11"]
+so = ["s10_10"]
 no = []
 
 [[cs.ch]]
@@ -5541,7 +5544,7 @@ fr = "Proto-Malayic"
 to = "Minangkabau"
 or = "TinyMusic"
 os = " from Tryon, Darrell (1995), Comparative Austronesian Dictionary"
-so = ["7"]
+so = ["s10_7"]
 no = []
 
 [[cs.ch]]
@@ -5714,7 +5717,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Oceanic"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2011), “Proto-Austronesian language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s12"]
+so = ["s10_0"]
 no = []
 
 [[cs.ch]]
@@ -5806,7 +5809,7 @@ fr = "Proto-Oceanic"
 to = "Hawai’ian"
 or = "Chris Zoller"
 os = " from Trask, R.L. (1996), Historical Linguistics"
-so = ["s13"]
+so = ["s10_11"]
 no = []
 
 [[cs.ch]]
@@ -5886,7 +5889,10 @@ fr = "Proto-Oceanic"
 to = "Hiw"
 or = "thetha"
 os = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”, and François, Alexander (2010), “Phonotactics and the prestopped velar lateral of Hiw”"
-so = ["s14"]
+so = [
+    "s10_12",
+    "s10_13",
+]
 no = []
 
 [[cs.ch]]
@@ -6253,7 +6259,7 @@ fr = "Proto-Oceanic"
 to = "Lemerig"
 or = "thetha"
 os = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
-so = ["s15"]
+so = ["s10_12"]
 no = []
 
 [[cs.ch]]
@@ -6547,7 +6553,7 @@ fr = "Proto-Oceanic"
 to = "Mwotlap"
 or = "thetha"
 os = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
-so = ["15"]
+so = ["s10_12"]
 no = []
 
 [[cs.ch]]
@@ -6874,7 +6880,10 @@ fr = "Proto-Oceanic"
 to = "Proto-New Caledonia"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["s16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -6959,7 +6968,10 @@ fr = "Proto-New Caledonia"
 to = "Caaàc"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -7136,7 +7148,10 @@ fr = "Proto-New Caledonia"
 to = "Jawé"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -7242,7 +7257,10 @@ fr = "Proto-New Caledonia"
 to = "Nemi-Pije-Fwai"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -7417,7 +7435,10 @@ fr = "Proto-New Caledonia"
 to = "Proto-Northern"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -7497,7 +7518,10 @@ fr = "Proto-Northern"
 to = "Nixumwak-Nêlêmwa"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -7769,7 +7793,10 @@ fr = "Proto-New Caledonia"
 to = "Nyelâyu"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8065,7 +8092,10 @@ fr = "Proto-New Caledonia"
 to = "Pwaamei"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8214,7 +8244,10 @@ fr = "Proto-New Caledonia"
 to = "Pwapwâ"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8358,7 +8391,10 @@ fr = "Proto-New Caledonia"
 to = "Proto-Yunaga"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8585,7 +8621,10 @@ fr = "Proto-Yunaga"
 to = "Yunaga 1"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8637,7 +8676,10 @@ fr = "Proto-Yunaga"
 to = "Yunaga 2"
 or = "thetha"
 os = " from Ozanne-Rivierre, Françoise (1992), “The Proto-Oceanic Consonantal System and the Languages of New Caledonia”. Oceanic Linguistics 31(2):191 – 207; and Ozanne-Rivierre, Françoise (1995), “Structural Changes in the Languages of Northern New Caledonia”. Oceanic Linguistics 34(1):44 – 72"
-so = ["16"]
+so = [
+    "s10_14",
+    "s10_15",
+]
 no = []
 
 [[cs.ch]]
@@ -8667,7 +8709,7 @@ fr = "Proto-Oceanic"
 to = "Proto-Reefs/Santa Cruz"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["s17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -8730,7 +8772,7 @@ fr = "Proto-Reefs/Santa Cruz"
 to = "Äiwoo"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -8782,7 +8824,7 @@ fr = "Proto-Reefs/Santa Cruz"
 to = "Nagu"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -8851,7 +8893,7 @@ fr = "Proto-Reefs/Santa Cruz"
 to = "Natügu"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -8948,7 +8990,7 @@ fr = "Proto-Oceanic"
 to = "Shark Bay"
 or = "thetha"
 os = " from Guy, Jacques (1978), “Proto-North New Hebridean Reconstructions”"
-so = ["s18"]
+so = ["s10_17"]
 no = []
 
 [[cs.ch]]
@@ -9243,7 +9285,10 @@ fr = "Proto-Oceanic"
 to = "Tolomako"
 or = "thetha"
 os = " from Lynch, John (2005), “The Apicolabial Shift in Nese”. Oceanic Linguistics 44(2):389 – 403; and http:"
-so = ["s19"]
+so = [
+    "s10_18",
+    "s10_19",
+]
 no = []
 
 [[cs.ch]]
@@ -9415,7 +9460,7 @@ fr = "Proto-Oceanic"
 to = "Proto-Utupua"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -9488,7 +9533,7 @@ fr = "Proto-Utupua"
 to = "Asuboa"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -9648,7 +9693,7 @@ fr = "Proto-Utupua"
 to = "Nebao"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -9787,7 +9832,7 @@ fr = "Proto-Utupua"
 to = "Tanibili"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -9952,7 +9997,7 @@ fr = "Proto-Oceanic"
 to = "Proto-Vanikoro"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -10021,7 +10066,7 @@ fr = "Proto-Vanikoro"
 to = "Buma"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -10131,7 +10176,7 @@ fr = "Proto-Vanikoro"
 to = "Tanema"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -10228,7 +10273,7 @@ fr = "Proto-Vanikoro"
 to = "Vano"
 or = "Pogostick Man"
 os = " from Ross, Malcolm, and Åshlid Næss (2007), “An Oceanic Origin for Äiwoo, the Language of the Reef Islands?”. Oceanic Linguistics 46(II):456 – 498"
-so = ["17"]
+so = ["s10_16"]
 no = []
 
 [[cs.ch]]
@@ -10336,7 +10381,7 @@ fr = "Proto-Oceanic"
 to = "Proto-Southern Vanuatu"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["s20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -10529,7 +10574,7 @@ fr = "Proto-Southern Vanuatu"
 to = "Anejom"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -10860,7 +10905,7 @@ fr = "Proto-Southern Vanuatu"
 to = "Proto-Erromango"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11008,7 +11053,7 @@ fr = "Proto-Erromango"
 to = "Sye"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11227,7 +11272,7 @@ fr = "Proto-Erromango"
 to = "Ura"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11391,7 +11436,7 @@ fr = "Proto-Southern Vanuatu"
 to = "Proto-Tanna"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11532,7 +11577,7 @@ fr = "Proto-Tanna"
 to = "Kwamera"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11648,7 +11693,7 @@ fr = "Proto-Tanna"
 to = "Lenakel"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11800,7 +11845,7 @@ fr = "Proto-Tanna"
 to = "North Tanna"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -11973,7 +12018,7 @@ fr = "Proto-Tanna"
 to = "Southwest Tanna"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -12097,7 +12142,7 @@ fr = "Proto-Tanna"
 to = "Whitesands"
 or = "thetha"
 os = " from Lynch, John (2001), The Linguistic History of Southern Vanuatu"
-so = ["20"]
+so = ["s10_20"]
 no = []
 
 [[cs.ch]]
@@ -12252,7 +12297,7 @@ fr = "Proto-Oceanic"
 to = "Vera’a"
 or = "thetha"
 os = " from François, Alexander (2005), “Unraveling the history of the vowels of seventeen north Vanuatu languages”"
-so = ["15"]
+so = ["s10_12"]
 no = []
 
 [[cs.ch]]
@@ -12576,7 +12621,7 @@ fr = "Proto-Micronesian"
 to = "Marshallese"
 or = "Ketsuban"
 os = " from Hale, Mark, Historical Linguistics: Theory and Method"
-so = ["s21"]
+so = ["s10_21"]
 no = []
 
 [[cs.ch]]
@@ -12825,7 +12870,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Ongan"
 or = "Pogostick Man"
 os = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
-so = ["s22"]
+so = ["s10_22"]
 no = []
 
 [[cs.ch]]
@@ -13074,7 +13119,7 @@ fr = "Proto-Ongan"
 to = "Jarawa"
 or = "Pogostick Man"
 os = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
-so = ["22"]
+so = ["s10_22"]
 no = []
 
 [[cs.ch]]
@@ -13184,7 +13229,7 @@ fr = "Proto-Ongan"
 to = "Onge"
 or = "Pogostick Man"
 os = " from Blevins, Juliette (2007), “A Long Lost Sister of Proto-Austronesian? Proto-Ongan, Mother of Jarawa and Onge of the Andaman Islands”. Oceanic Linguistics 46(I):154 – 198"
-so = ["22"]
+so = ["s10_22"]
 no = []
 
 [[cs.ch]]
@@ -13308,7 +13353,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Paiwan"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["s23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13401,7 +13446,7 @@ fr = "Proto-Paiwan"
 to = "Northern Paiwan"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13444,7 +13489,7 @@ fr = "Proto-Paiwan"
 to = "Central Paiwan"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13477,7 +13522,7 @@ fr = "Proto-Paiwan"
 to = "Southern Paiwan"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13516,7 +13561,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Rukai"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13605,7 +13650,7 @@ fr = "Proto-Rukai"
 to = "Budai Rukai"
 or = "Pogostick Man"
 os = " from Chen, Chun-Mei (2006), A Comparative Study on Formosan Phonology: Paiwan and Budai Rukai 313 – 320"
-so = ["23"]
+so = ["s10_23"]
 no = []
 
 [[cs.ch]]
@@ -13644,7 +13689,7 @@ fr = "Proto-Austronesian"
 to = "Proto-Tsouic"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2016), “Tsouic languages”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s24"]
+so = ["s10_24"]
 no = []
 
 [[cs.ch]]

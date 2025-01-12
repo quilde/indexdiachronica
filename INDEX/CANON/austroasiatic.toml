@@ -5,7 +5,13 @@ fr = "Proto-Vietic"
 to = "Muong Khen"
 or = "Pogostick Man"
 os = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s0"]
+so = [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+]
 no = []
 
 [[cs.ch]]
@@ -274,7 +280,13 @@ fr = "Proto-Vietic"
 to = "Middle Vietnamese"
 or = "Pogostick Man"
 os = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["0"]
+so = [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+]
 no = []
 
 [[cs.ch]]
@@ -668,7 +680,13 @@ fr = "Middle Vietnamese"
 to = "Hanoi Vietnamese"
 or = "Pogostick Man"
 os = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["0"]
+so = [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+]
 no = []
 
 [[cs.ch]]
@@ -913,7 +931,13 @@ fr = "Middle Vietnamese"
 to = "Saigon Vietnamese"
 or = "Pogostick Man"
 os = " from Thompson, Laurence C. (1976), “Proto-Viet-Muong Phonology”. Oceanic Linguistics Special Publications 13, Austroasiatic Studies II:1113 – 1203; Wikipedia contributors (2012). “Hanoi”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["0"]
+so = [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+]
 no = []
 
 [[cs.ch]]
