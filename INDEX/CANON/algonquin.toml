@@ -299,7 +299,7 @@ fr = "Proto-Algonquian"
 to = "St. Francis Abenaki"
 or = "Pogostick Man with acknowledgment to dhok"
 os = " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -820,7 +820,7 @@ fr = "Proto-Arapaho-Atsina"
 to = "Arapaho"
 or = "Whimemsz"
 os = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
-so = ["1"]
+so = ["s1"]
 no = []
 
 [[cs.ch]]
@@ -1038,7 +1038,7 @@ fr = "Proto-Arapaho-Atsina"
 to = "Gros Ventre"
 or = "Whimemsz"
 os = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
-so = ["1"]
+so = ["s1"]
 no = []
 
 [[cs.ch]]
@@ -1859,7 +1859,9 @@ to = "Cheyenne"
 or = "jburke"
 os = " from “Bloomfield and Leman”"
 so = ["s3"]
-no = []
+no = [
+    "check_source"
+]
 
 [[cs.ch]]
 be = [
@@ -2030,7 +2032,10 @@ fr = "Proto-Algonquian"
 to = "Northern East Cree"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s4"]
+so = [
+    "s4",
+    "s5",
+]
 no = []
 
 [[cs.ch]]
@@ -2248,8 +2253,13 @@ fr = "Proto-Algonquian"
 to = "Southern East Cree"
 or = "Pogostick Man"
 os = " from http:"
-so = ["4"]
-no = []
+so = [
+    "s4",
+    "s5",
+]
+no = [
+    "checksource"
+]
 
 [[cs.ch]]
 be = ["we"]
@@ -2474,7 +2484,10 @@ fr = "Proto-Algonquian"
 to = "Plains Cree"
 or = "Pogostick Man"
 os = " from http:"
-so = ["4"]
+so = [
+    "s4",
+    "s5",
+]
 no = []
 
 [[cs.ch]]
@@ -2694,7 +2707,10 @@ fr = "Proto-Algonquian"
 to = "Swampy Cree"
 or = "Pogostick Man"
 os = " from http:"
-so = ["4"]
+so = [
+    "s4",
+    "s5",
+]
 no = []
 
 [[cs.ch]]
@@ -2909,7 +2925,10 @@ fr = "Proto-Algonquian"
 to = "Woods Cree"
 or = "Pogostick Man"
 os = " from http:"
-so = ["4"]
+so = [
+    "s4",
+    "s5",
+]
 no = []
 
 [[cs.ch]]
@@ -3105,7 +3124,7 @@ fr = "Proto-Algonquian"
 to = "Munsee Delaware"
 or = "Pogostick Man"
 os = " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48"
-so = ["s5"]
+so = ["s6"]
 no = []
 
 [[cs.ch]]
@@ -3532,7 +3551,10 @@ fr = "Proto-Algonquian"
 to = "Menominee"
 or = "Whimemsz"
 os = " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25."
-so = ["s6"]
+so = [
+    "s7",
+    "s8",
+]
 no = []
 
 [[cs.ch]]
@@ -3932,7 +3954,7 @@ fr = "Proto-Algonquian"
 to = "Miami-Illinois"
 or = "Pogostick Man"
 os = " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393"
-so = ["s7"]
+so = ["s9"]
 no = []
 
 [[cs.ch]]
@@ -4179,7 +4201,11 @@ fr = "Proto-Algonquian"
 to = "Mi’kmaq"
 or = "Pogostick Man with acknowledgment to dhok and Alex Fink"
 os = " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”"
-so = ["s8"]
+so = [
+    "s10",
+    "s11",
+    "s12",
+]
 no = []
 
 [[cs.ch]]
@@ -4396,7 +4422,7 @@ fr = "Proto-Algonquian"
 to = "Ojibwe"
 or = "Whimemsz"
 os = " from his own work; http:"
-so = ["s9"]
+so = ["s3"]
 no = []
 
 [[cs.ch]]
@@ -4600,7 +4626,7 @@ fr = "Proto-Algonquian"
 to = "Piscataway"
 or = "Pogostick Man"
 os = " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”"
-so = ["s10"]
+so = ["s13"]
 no = []
 
 [[cs.ch]]
@@ -4686,7 +4712,7 @@ fr = "Proto-Algonquian"
 to = "Shawnee"
 or = "Whimemsz"
 os = " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”"
-so = ["s11"]
+so = ["s14"]
 no = []
 
 [[cs.ch]]
@@ -5003,3 +5029,4 @@ ta = [
     "unchecked",
 ]
 ty = []
+

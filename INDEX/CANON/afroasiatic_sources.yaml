@@ -1,0 +1,113 @@
+
+s0:
+    type: book
+    title: "Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
+    author: "Ehret, Christopher"
+    date: 1995
+    
+    
+s1:
+    type: book
+    title: "“The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. "
+    author: " Fallon, Paul D."
+    date: 2009
+    
+s2:
+    type: reference
+    title: "A comparative dictionary of the Agaw languages. (Cushitic Language studies, 24.)"
+    author: "Appleyard, David L."
+    date: 2006
+    publisher: Rüdiger Köppe Verlag
+    location: Cologne
+    
+s3:
+    type: book
+    title: " Cypriot Arabic"
+    author: "Borg, Alexander"
+    date:  1985
+    
+s4:
+    type: book
+    title: "Introduction to Letters and Sounds"
+    edition: 3
+    author: 
+        - "Brustad"
+        - "Kristen"
+        - "Mahmoud Al-Batal"
+        - "Abbas Al-Tonsi"
+    date: 2010
+    
+s5:
+    type: web
+    author: "Wikipedia Contributors"
+    url: http://en.wikipedia.org/wiki/Egyptian_Arabic
+
+s6:
+    type: book
+    title: "Umm al-Dunya: Advanced Egyptian Colloquial Arabic"
+    author: 
+    - "At-Tonsi"
+    - "Abbas"
+    - "Heba Salem"
+    - "Nevenka Korica Sullivan"
+    date: 2013
+    
+s7:
+    type: misc
+    note: "quote: from correspondence with my [Pogostick Man] own Arabic professor, who is a native speaker of this dialect "
+
+s8:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Hadhrami Arabic"
+    url: 
+        value: http://en.wikipedia.org/w/index.php?title=Hadhrami_Arabic&oldid=580700095
+        date: 2013
+    
+s9:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Hassaniya Arabic"
+    url: http://en.wikipedia.org/wiki/Hass%C4%81n%C4%ABya
+    
+s10:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Varieties of Arabic"
+    url: http://en.wikipedia.org/wiki/Varieties_of_Arabic
+
+s11:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Libyan Arabic"
+    url: http://en.wikipedia.org/wiki/Libyan_Arabic
+
+s12:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Moroccan Arabic"
+    url: http://en.wikipedia.org/wiki/Moroccan_Arabic
+
+s13:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Saʽidi Arabic"
+    url: http://en.wikipedia.org/wiki/Sa%27idi_Arabic
+    
+s14:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Sundanese Arabic"
+    url: http://en.wikipedia.org/wiki/Sudanese_Arabic
+    
+s15:
+    type: web
+    author: "Wikipedia Contributors"
+    title: "Tunisian Arabic"
+    url: http://en.wikipedia.org/wiki/Tunisian_Arabic
+    
+s16:
+    type: web
+    author: "David Steinberg"
+    title: "History of the Ancient and Modern Hebrew Language"
+    url: https://www.adath-shalom.ca/history_of_hebrew.htm

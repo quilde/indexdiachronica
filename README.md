@@ -14,7 +14,7 @@
 The Index Diachronica Database Project aims to convert the Index Diachronica, a collection of historical sound changes, into a text-based
 database and mantain and solidify the dataset.
 
-The Index Diachronica is a giant catalog of [sound changes](https://en.wikipedia.org/wiki/Sound_change) and is very large. It hassections on many languages and language families, as well as a fairly well-structured presentation of historical sound changes in those languages.
+The Index Diachronica is a giant catalog of [sound changes](https://en.wikipedia.org/wiki/Sound_change). It has sections on many languages and language families, as well as a fairly well-structured presentation of historical sound changes in those languages.
 It is hosted here: [Index](https://chridd.nfshost.com/diachronica/) 
 
 @amundo and @man-in-space had the idea to convert this document into a database of json files, because then the rules are data, and we can do all kinds of neat things with them. 

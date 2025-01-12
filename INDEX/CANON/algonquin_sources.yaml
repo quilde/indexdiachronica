@@ -1,0 +1,113 @@
+s0:
+    type: book
+    title: "A historical phonology of Abenaki"
+    author: "Leila Warne, Janet"
+    date: 1975
+    url: https://escholarship.mcgill.ca/concern/theses/fn107049h?locale=en
+
+s1:
+  type: article
+  title: “An Outline of the Historical Phonology of Arapaho and Atsina”
+  author: "Goddard, Ives"
+  date: 1974
+  parent: 
+    title: International Journal of American Linguistics
+  issue: 40
+  page-range: 102 – 116
+
+
+s2:
+  type: article
+  title: "A Sketch of Blackfoot Historical Phonology"
+  author: "Proulx, Paul"
+  date: 1989
+  parent: 
+    title: International Journal of American Linguistics
+  issue: 55
+  page-range: 43 – 82
+
+s3:
+  type: article
+  title: Algonquian
+  author:
+    - Bloomfield
+    - Leman
+  date: 1946
+
+s4:
+  url: http://home.kpn.nl/cvkolmes/ojibwe/CorrCrOj.pdf 
+    
+s5:
+  type: web
+  title: "Cree language"
+  author: "Wikipedia Contributors"
+  date: 2015
+  url: https://en.wikipedia.org/w/index.php?title=Cree_language&oldid=690521189
+  
+s6: 
+  type: article
+  author: "Goddard, Ives"
+  date: 1982
+  title: "The Historical Phonology of Munsee"
+  parent: 
+    title: International Journal of American Linguistics
+  issue: 48
+  page-range: 16 – 48
+  
+s7:
+  title: "The Phonological History of Menominee"
+  author: "Hockett, C. F."
+  date: 1981
+  parent: 
+    title: "Anthropological Linguistics" 
+  issue: 23(2)
+  page-range: 51-87
+
+
+s8:
+  type: article
+  title: Theoretical Implications of the Great Menominee Vowel Shift
+  author: "Miner, Kenneth L."
+  date: 1979 
+  parent: 
+    titke: "Kansas Working Papers in Linguistics"
+  issue: 4(1)
+  page-range: 7-25
+  
+s9: 
+  title: "The Historical Phonology of Miami-Illinois Consonants"
+  author: Costa, David J. 
+  date: 1991
+  parent: 
+    title: International Journal of American Linguistics
+  issue: 57
+  page-range: 365 – 393
+  
+s10:
+  type: article
+  title: The Fundamentals of Micmac Historical Morphology
+  author: Audrey Marie
+  date: 1986 
+
+s11:
+  type: article
+  title: Some Micmac Etymologies
+  author: Hewson, John
+  date: 1983
+
+s12:
+  type: article
+  title: Proto-Algonkian Reflexes in Micmac
+  author: Hewson, John
+  date: 1973
+  
+s13:
+  ype: article
+  title: "Fragments of Piscataway: A Preliminary Description"
+  author: Mackie, Lisa
+  date: 2006
+  
+s14:
+  type: article
+  title: Computer Simulation of Shawnee Historical Phonology
+  author: Muzaffar, Towhid

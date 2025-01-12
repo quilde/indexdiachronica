@@ -152,7 +152,7 @@ fr = "Proto-Omotic"
 to = "North Omotic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -394,7 +394,7 @@ fr = "North Omotic"
 to = "Bench"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -507,7 +507,7 @@ fr = "North Omotic"
 to = "Dizin"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -658,7 +658,7 @@ fr = "North Omotic"
 to = "Kafa"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -870,7 +870,7 @@ fr = "North Omotic"
 to = "Maale"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1027,7 +1027,7 @@ fr = "North Omotic"
 to = "Shekkacho"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1277,7 +1277,7 @@ fr = "North Omotic"
 to = "Wolaytta"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1412,7 +1412,7 @@ fr = "North Omotic"
 to = "Yemsa"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1624,7 +1624,7 @@ fr = "North Omotic"
 to = "Zayse-Zergulla"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1797,7 +1797,7 @@ fr = "South Omotic"
 to = "Aari"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1890,7 +1890,7 @@ fr = "South Omotic"
 to = "Dime"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -1981,7 +1981,7 @@ fr = "Proto-Afro-Asiatic"
 to = "Proto-Erythrean"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2006,7 +2006,7 @@ fr = "Proto-Erythrean"
 to = "Proto-Cushitic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2047,7 +2047,10 @@ fr = "Proto-Agaw"
 to = "Awngi"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
-so = ["s1"]
+so = [
+    "s1",
+    "s2", 
+]
 no = []
 
 [[cs.ch]]
@@ -2056,7 +2059,6 @@ af = []
 en = ""
 no = [
     "NB: Does not include vowel developments.",
-    "",
 ]
 ta = [
     "generated",
@@ -2138,7 +2140,10 @@ fr = "Proto-Agaw"
 to = "Blin"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
-so = ["1"]
+so = [
+    "s1",
+    "s2",
+]
 no = []
 
 [[cs.ch]]
@@ -2147,7 +2152,6 @@ af = []
 en = ""
 no = [
     "NB: Does not include vowel developments.",
-    "",
 ]
 ta = [
     "generated",
@@ -2212,7 +2216,10 @@ fr = "Proto-Agaw"
 to = "Kemantney"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
-so = ["1"]
+so = [
+    "s1",
+    "s2",
+]
 no = []
 
 [[cs.ch]]
@@ -2221,7 +2228,6 @@ af = []
 en = ""
 no = [
     "NB: Does not include vowel developments.",
-    "",
 ]
 ta = [
     "generated",
@@ -2334,7 +2340,10 @@ fr = "Proto-Agaw"
 to = "Xamtanga"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
-so = ["1"]
+so = [
+    "s1",
+    "s2",
+]
 no = []
 
 [[cs.ch]]
@@ -2343,7 +2352,6 @@ af = []
 en = ""
 no = [
     "NB: Does not include vowel developments.",
-    "",
 ]
 ta = [
     "generated",
@@ -2452,7 +2460,7 @@ fr = "Proto-Erythrean"
 to = "Proto-North Erythrean"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2505,15 +2513,7 @@ be = ["$[+vowel][+consonant]$"]
 af = ["$[+consonant][+vowel]$"]
 en = ""
 no = [
-    "[+consonant][+vowel])ˈ",
-    "into",
-    "roots",
-    "[+vowel][+consonant]",
-    "all",
-    "turned",
-    "rule",
-    "last",
-    "“([+plosive -voice]his",
+    "“(This last rule turned all VC roots into CV)”",
 ]
 ta = [
     "generated",
@@ -2537,7 +2537,7 @@ fr = "Proto-North Erythrean"
 to = "Proto-Chadic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2605,7 +2605,7 @@ fr = "Proto-North Erythrean"
 to = "Proto-Boreafrasian"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2633,11 +2633,14 @@ ty = []
 [[cs.ch]]
 be = ["z"]
 af = ["d"]
-en = "“when another sibilant is in the word nearbyˈ and (word-finally?) when “noun-stem finalˈ"
-no = []
+en = ""
+no = [
+    "env: “when another sibilant is in the word nearbyˈ and (word-finally?) when “noun-stem final”"
+]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -2655,11 +2658,12 @@ ty = []
 [[cs.ch]]
 be = ["[+vowel]"]
 af = ["∅"]
-en = "_# “in nominalsˈ"
-no = []
+en = "_#"
+no = ["“in nominals”"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -2679,7 +2683,7 @@ fr = "Proto-Boreafrasian"
 to = "Egypto-Berber"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -2910,11 +2914,12 @@ ty = []
 [[cs.ch]]
 be = ["qu"]
 af = ["w"]
-en = "_{f,s} (sporadic)"
+en = "_{f,s}"
 no = []
 ta = [
     "generated",
     "unchecked",
+    "sporadic",
 ]
 ty = []
 
@@ -3042,11 +3047,12 @@ ty = []
 [[cs.ch]]
 be = ["l"]
 af = ["j"]
-en = "#_i[+consonant] ?"
+en = "#_i[+consonant]"
 no = []
 ta = [
     "generated",
     "unchecked",
+    "?",
 ]
 ty = []
 
@@ -3077,7 +3083,7 @@ fr = "Ancient Egyptian"
 to = "Coptic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -3149,11 +3155,12 @@ ty = []
 [[cs.ch]]
 be = ["r"]
 af = ["l"]
-en = "#([+consonant])_c([+consonant])# ?"
+en = "#([+consonant])_c([+consonant])#"
 no = []
 ta = [
     "generated",
     "unchecked",
+    "?",
 ]
 ty = []
 
@@ -3173,7 +3180,7 @@ fr = "Proto-Boreafrasian"
 to = "Proto-Semitic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["0"]
+so = ["s0"]
 no = []
 
 [[cs.ch]]
@@ -3267,19 +3274,77 @@ ty = []
 [[cs]]
 fr = "Proto-Semitic"
 to = "Classical Arabic"
-or = """
-Khavaragh\r
-\r
-p → f\r
-\r
-θˤ kˤ → ðˤ q\r
-\r
-ɡ → ɡʲ → dʒ\r
-\r
-s → {ʃ"""
+or = "Khavaragh"
 os = "h} "
-so = ["s2"]
+so = []
+no = [
+    "no_source"
+]
+
+[[cs.ch]]
+be = ["p"]
+af = ["f"]
+en = ""
 no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "θˤ",
+    "kˤ",
+]
+af = [
+    "ðˤ",
+    "q",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɡ"]
+af = ["ɡʲ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = ["chain_shift"]
+
+[[cs.ch]]
+be = ["ɡʲ"]
+af = ["dʒ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = ["chain_shift"]
+
+[[cs.ch]]
+be = ["s"]
+af = [
+    "ʃ",
+    "h",
+]
+en = ""
+no = ["in “anaphora and certain derivational prefixes. . .[t]his is common to many other Semitic languages as well” "]
+ta = [
+    "generated",
+    "unchecked",
+    "prosaic_env"
+]
+ty = []
 
 [[cs.ch]]
 be = ["ʃ"]
@@ -3321,22 +3386,24 @@ ty = []
 [[cs.ch]]
 be = ["m"]
 af = ["n"]
-en = "“in certain contexts, notably in the nunationˈ"
-no = []
+en = ""
+no = ["“in certain contexts, notably in the nunation”"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["[+vowel]{j,w}[+vowel]"]
 af = ["aː"]
-en = "some sequences"
-no = []
+en = ""
+no = ["some sequences"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env"
 ]
 ty = []
 
@@ -3346,11 +3413,11 @@ af = []
 en = ""
 no = [
     "“assimilation in some of the longer vowels”",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule"
 ]
 ty = []
 
@@ -3360,21 +3427,7 @@ to = "Cypriot Arabic"
 or = "Pogostick Man"
 os = " from Borg, Alexander (1985), Cypriot Arabic"
 so = ["s3"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "NB: Changes may not be in chronological order.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+no = ["NB: Changes may not be in chronological order."]
 
 [[cs.ch]]
 be = ["[+plosive +voice]"]
@@ -3426,11 +3479,11 @@ af = []
 en = ""
 no = [
     "{θ,ð} {f,v} {x,ɣ} voicing neutralized “in contact with other fricatives”",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
@@ -3710,11 +3763,12 @@ ty = []
 [[cs.ch]]
 be = ["a"]
 af = ["i"]
-en = "_[+consonant]([+consonant]), when stressed"
-no = []
+en = "_[+consonant]([+consonant])"
+no = ["when stressed"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env"
 ]
 ty = []
 
@@ -3743,11 +3797,12 @@ ty = []
 [[cs.ch]]
 be = ["{u,a,i}"]
 af = ["∅"]
-en = "_%, when stressed (short only)"
-no = []
+en = "_%"
+no = ["when stressed (short only)"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -3757,11 +3812,11 @@ af = []
 en = ""
 no = [
     "Epenthesis in medial CCC clusters, often so that the syllable break is between the second and third consonants",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
@@ -3840,11 +3895,12 @@ ty = []
 [[cs.ch]]
 be = ["a"]
 af = ["∅"]
-en = "_t, in the feminine ending"
-no = []
+en = "_t"
+no = ["in the feminine ending"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env"
 ]
 ty = []
 
@@ -3875,49 +3931,29 @@ fr = "Classical Arabic"
 to = "Egyptian Arabic"
 or = "Pogostick Man"
 os = " from Brustad, Kristen, Mahmoud Al-Batal, and Abbas Al-Tonsi (2010), Alif Baa: Introduction to Letters and Sounds, 3rd. Ed.; http:"
-so = ["s4"]
+so = [
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+]
 no = []
 
 [[cs.ch]]
 be = [
     "θ",
     "ð",
-    "→",
-    "t",
-    "d",
-    "/",
-    "“usually",
-    "in",
-    "numbers",
-    "or",
-    "cases",
-    "where",
-    "a",
-    "short",
-    "vowel",
-    "has",
-    "been",
-    "deleted",
-    "and",
-    "it’s",
-    "in",
-    "contact",
-    "with",
-    "another",
-    "stop,",
-    "e.g.",
-    "[+consonant][+affricate]/[+diphtong][+plosive][+affricate]",
-    "kaˈθiːr",
 ]
 af = [
-    "[+vowel +front][+affricate]",
-    "ktiːrˈ",
+    "t",
+    "d",
 ]
 en = ""
-no = []
+no = ["“usually in numbers or cases where a short vowel has been deleted and it’s in contact with another stop, e.g. CA/MSA kaˈθiːr → EA ktiːr” "]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env"
 ]
 ty = []
 
@@ -3943,44 +3979,28 @@ be = ["ðˤ"]
 af = ["zˤ,"]
 en = ""
 no = [
-    "tˤ",
-    "occasionally",
+    "occasionally tˤ",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env"
 ]
 ty = []
 
 [[cs.ch]]
 be = [
     "dˤ",
-    "→",
-    "zˤ",
-    "(seems",
-    "to",
-    "be",
-    "a",
-    "sporadic",
-    "change",
-    "only",
-    "affecting",
-    "a",
-    "few",
-    "words,",
-    "e.g.",
-    "[+consonant][+affricate]/[+diphtong][+plosive][+affricate]",
-    "ˈdˤaːbitˤ",
 ]
 af = [
-    "[+vowel +front][+affricate]",
-    "ˈzˤaːbitˤ)",
+    "zˤ",
 ]
 en = ""
-no = []
+no = ["seems to be a sporadic change only affecting a few words, e.g. CA/MSA ˈdˤaːbitˤ → EA ˈzˤaːbitˤ"]
 ta = [
     "generated",
     "unchecked",
+    "sporadic",
 ]
 ty = []
 
@@ -4004,22 +4024,24 @@ af = [
     "e",
     "o",
 ]
-en = "only when short, ! _#"
-no = []
+en = "! _#"
+no = ["only when short"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["u"]
 af = ["{o,u}"]
-en = "short only, _#"
-no = []
+en = "_#"
+no = ["short only"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4076,11 +4098,12 @@ ty = []
 [[cs.ch]]
 be = ["{i,u}"]
 af = ["∅"]
-en = "[+vowel][+consonant]_[+consonant][+vowel] when unstressed (short only)"
-no = []
+en = "[+vowel][+consonant]_[+consonant][+vowel]"
+no = ["when unstressed (short only)"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4090,22 +4113,23 @@ af = []
 en = ""
 no = [
     "Some other short-vowel deletions",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["∅"]
 af = ["e"]
-en = "[+consonant][+vowel][+consonant][+consonant]_[+consonant][+vowel][+consonant][+vowel] (applies across word boundaries)"
-no = []
+en = "[+consonant][+vowel][+consonant][+consonant]_[+consonant][+vowel][+consonant][+vowel]"
+no = [" (applies across word boundaries)"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4115,55 +4139,59 @@ af = []
 en = ""
 no = [
     "Resyllabification across word boundaries to prevent vowel-initial syllablesr gains emphatic status except when next to i, and even then it’s becoming more common in that environment",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["a(ː)"]
-af = ["ɑ(ː)"]
-en = "near emphatics"
-no = []
-ta = [
-    "generated",
-    "unchecked",
+    "prosaic_rule"
 ]
 ty = []
 
 [[cs.ch]]
 be = ["a(ː)"]
 af = ["ɑ(ː)"]
-en = "if ɑ(ː) is elsewhere in the word"
-no = []
+en = ""
+no = ["near emphatics"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
+]
+ty = []
+
+[[cs.ch]]
+be = ["a(ː)"]
+af = ["ɑ(ː)"]
+en = ""
+no = ["if ɑ(ː) is elsewhere in the word"]
+ta = [
+    "generated",
+    "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["a(ː)"]
 af = ["æ(ː)"]
-en = "else (sometimes it seems more like ɛ(ː) to me)"
-no = []
+en = ""
+no = ["else (sometimes it seems more like ɛ(ː) to me)"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["q"]
 af = ["ʔ"]
-en = "except in several words, two of which are al-[+uvular]âhira and musîqâ"
-no = []
+en = ""
+no = ["except in several words, two of which are al-[+uvular]âhira and musîqâ"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4173,11 +4201,11 @@ af = []
 en = ""
 no = [
     "Two consecutive consonants assimilate to the voicing of the second (obstruents only?)",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
@@ -4209,22 +4237,23 @@ af = []
 en = ""
 no = [
     "Final short vowel loss",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["h"]
 af = ["∅"]
-en = "in coda"
-no = []
+en = ""
+no = ["in coda"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4233,7 +4262,7 @@ fr = "Classical Arabic"
 to = "Coastal Hadhrami Arabic"
 or = "Pogostick Man"
 os = " from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s5"]
+so = ["s8"]
 no = []
 
 [[cs.ch]]
@@ -4241,17 +4270,12 @@ be = ["dʒ"]
 af = ["j,"]
 en = ""
 no = [
-    "speech",
-    "educated",
-    "in",
-    "dʒ",
-    "or",
-    "ɟ",
-    "occasionally",
+    "occasionally ɟ or dʒ in educated speech ",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule"
 ]
 ty = []
 
@@ -4288,22 +4312,24 @@ ty = []
 [[cs.ch]]
 be = ["aː"]
 af = ["eː"]
-en = "in [+fricative]orm [+vowel]I (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions"
-no = []
+en = ""
+no = ["in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions "]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["aː"]
 af = ["æː"]
-en = "when not near emphatics"
-no = []
+en = ""
+no = ["when not near emphatics"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4313,22 +4339,24 @@ af = []
 en = ""
 no = [
     "Epenthesis (it seems i is preferred) breaking up final consonant clusters",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["[+vowel -long]"]
 af = ["∅"]
-en = "#[+consonant]_[+consonant], in some words"
-no = []
+en = "#[+consonant]_[+consonant]"
+no = ["in some words"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
+    "sporadic?"
 ]
 ty = []
 
@@ -4337,7 +4365,7 @@ fr = "Classical Arabic"
 to = "Wādı̄ Hadhrami Arabic"
 or = "Pogostick Man"
 os = " from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["5"]
+so = ["s8"]
 no = []
 
 [[cs.ch]]
@@ -4345,17 +4373,12 @@ be = ["dʒ"]
 af = ["j,"]
 en = ""
 no = [
-    "speech",
-    "educated",
-    "in",
-    "dʒ",
-    "or",
-    "ɟ",
-    "occasionally",
+    "occasionally ɟ or dʒ in educated speech ",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
@@ -4398,22 +4421,24 @@ ty = []
 [[cs.ch]]
 be = ["aː"]
 af = ["eː"]
-en = "in [+fricative]orm [+vowel]I (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions"
-no = []
+en = ""
+no = ["in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions "]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["aː"]
 af = ["æː"]
-en = "when not near emphatics"
-no = []
+en = ""
+no = ["when not near emphatics"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4423,22 +4448,23 @@ af = []
 en = ""
 no = [
     "Epenthesis (it seems i is preferred) breaking up final consonant clusters",
-    "",
 ]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_rule",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["[+vowel -long]"]
 af = ["∅"]
-en = "#[+consonant]_[+consonant] (sporadic?)"
+en = "#[+consonant]_[+consonant]"
 no = []
 ta = [
     "generated",
     "unchecked",
+    "sporadic?",
 ]
 ty = []
 
@@ -4447,7 +4473,7 @@ fr = "Classical Arabic"
 to = "Hassāniyya Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s6"]
+so = ["s9"]
 no = []
 
 [[cs.ch]]
@@ -4456,7 +4482,6 @@ af = []
 en = ""
 no = [
     "NB: Words borrowed directly from CA/MSA seem to be immune to these changes. Also, unless otherwise noted, changes also apply to geminate consonants.",
-    "",
 ]
 ta = [
     "generated",
@@ -4491,33 +4516,27 @@ af = [
     "z̪",
 ]
 en = ""
-no = [
-    "is)",
-    "phone",
-    "second",
-    "this",
-    "what",
-    "on",
-    "clear",
-    "exactly",
-    "isn’t",
-    "article",
-    "(the",
-]
+no = ["(the article isn’t exactly clear on what this second phone is) "]
 ta = [
     "generated",
     "unchecked",
+    "unclear",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["ʔ"]
 af = ["{∅,j,w}"]
-en = "depending on the environment"
-no = [" again, the article is unclear"]
+en = ""
+no = [
+    "depending on the environment",
+    "again, the article is unclear",
+]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
+    "unclear",
 ]
 ty = []
 
@@ -4526,37 +4545,37 @@ be = ["x"]
 af = ["χ"]
 en = ""
 no = [
-    "article)",
-    "the",
-    "in",
-    "stated",
-    "outright",
-    "not",
-    "but",
-    "following",
-    "the",
-    "upon",
-    "based",
-    "(conjectured",
+    "(conjectured based upon the following but not outright stated in the article) ",
 ]
 ta = [
     "generated",
     "unchecked",
+    "unclear",
+    "conjectured",
 ]
 ty = []
 
 [[cs.ch]]
-be = [
-    "ɣː",
-    "→",
-    "ʁː",
+be = ["ɣː"]
+af = ["ʁː"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+    "chain_shift",
 ]
+ty = []
+
+[[cs.ch]]
+be = ["ʁː"]
 af = ["qː"]
 en = ""
 no = []
 ta = [
     "generated",
     "unchecked",
+    "chain_shift",
 ]
 ty = []
 
@@ -4574,11 +4593,12 @@ ty = []
 [[cs.ch]]
 be = ["[+vowel -long]"]
 af = ["∅"]
-en = "[+consonant]_{[+consonant],#} (except for the feminine marker)"
-no = []
+en = "[+consonant]_{[+consonant],#}"
+no = [" (except for the feminine marker)"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4593,29 +4613,12 @@ af = [
 ]
 en = ""
 no = [
-    "unclear)",
-    "is",
-    "article",
-    "the",
-    "(sometimes,",
+    "(sometimes, the article is unclear) ",
 ]
 ta = [
     "generated",
     "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "The conditioning on these next two changes is conjectured based upon the source:",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
+    "unclear",
 ]
 ty = []
 
@@ -4629,10 +4632,11 @@ af = [
     "u",
 ]
 en = "#_[+consonant][+vowel]"
-no = []
+no = ["The conditioning on these [...] changes is conjectured based upon the source"]
 ta = [
     "generated",
     "unchecked",
+    "conjectured",
 ]
 ty = []
 
@@ -4646,10 +4650,11 @@ af = [
     "uː",
 ]
 en = "#_[+consonant][+consonant]"
-no = []
+no = ["The conditioning on these [...] changes is conjectured based upon the source"]
 ta = [
     "generated",
     "unchecked",
+    "conjectured",
 ]
 ty = []
 
@@ -4658,7 +4663,7 @@ fr = "Classical Arabic"
 to = "Iraqi Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s10"]
 no = []
 
 [[cs.ch]]
@@ -4672,10 +4677,7 @@ af = [
 ]
 en = ""
 no = [
-    "common)",
-    "more",
-    "is",
-    "(ɡ",
+    "(ɡ is more common)",
 ]
 ta = [
     "generated",
@@ -4686,11 +4688,12 @@ ty = []
 [[cs.ch]]
 be = ["ɡʲ"]
 af = ["j"]
-en = "in southern regions"
-no = []
+en = ""
+no = ["in southern regions"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -4727,7 +4730,7 @@ fr = "Classical Arabic"
 to = "Eastern Libyan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s11"]
 no = []
 
 [[cs.ch]]
@@ -4782,7 +4785,7 @@ fr = "Classical Arabic"
 to = "Western Libyan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s11"]
 no = []
 
 [[cs.ch]]
@@ -4852,50 +4855,54 @@ fr = "Classical Arabic"
 to = "Moroccan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s12"]
 no = []
 
 [[cs.ch]]
 be = ["t"]
 af = ["t͜s"]
-en = "plain t only, distinguishable from the sequence ts"
-no = []
+en = ""
+no = ["plain t only, distinguishable from the sequence ts"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["{a,i}"]
 af = ["ə"]
-en = "short only"
-no = [" the change of short a blocked for some speakers before ħ ʕ"]
+en = ""
+no = [" short only; the change of short a blocked for some speakers before ħ ʕ"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["u"]
 af = ["ə"]
-en = "short only, except near “a labial or velar consonantˈ"
-no = []
+en = ""
+no = ["short only, except near “a labial or velar consonant”"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
 [[cs.ch]]
 be = ["[+consonant +labial/+velar]"]
 af = ["ʷ"]
-en = "adjacent to short u"
-no = []
+en = ""
+no = ["adjacent to short u"]
 ta = [
     "generated",
     "unchecked",
+    "prosaic_env",
 ]
 ty = []
 
@@ -5066,7 +5073,7 @@ fr = "Classical Arabic"
 to = "Sa‘idi Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s13"]
 no = []
 
 [[cs.ch]]
@@ -5075,7 +5082,6 @@ af = []
 en = ""
 no = [
     "NB: This is probably highly incomplete.",
-    "",
 ]
 ta = [
     "generated",
@@ -5107,7 +5113,7 @@ fr = "Classical Arabic"
 to = "Sudanese Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s14"]
 no = []
 
 [[cs.ch]]
@@ -5143,7 +5149,7 @@ fr = "Classical Arabic"
 to = "Tunisian Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["6"]
+so = ["s15"]
 no = []
 
 [[cs.ch]]
@@ -5248,8 +5254,8 @@ fr = "Proto-Semitic"
 to = "Biblical Hebrew"
 or = "Maknas"
 os = " from http:"
-so = ["6"]
-no = []
+so = ["s16"]
+no = ["“and other sources”"]
 
 [[cs.ch]]
 be = []
@@ -5257,7 +5263,6 @@ af = []
 en = ""
 no = [
     "NB: ə could be realized as an ultrashort [a], [e], or [o] depending on its surroundings.",
-    "",
 ]
 ta = [
     "generated",
@@ -5313,7 +5318,6 @@ af = []
 en = ""
 no = [
     "Some mergers involving j and wFrequent h-dropping",
-    "",
 ]
 ta = [
     "generated",
@@ -5327,7 +5331,6 @@ af = []
 en = ""
 no = [
     "Stressed-vowel correspondences:",
-    "",
 ]
 ta = [
     "generated",
@@ -5487,7 +5490,6 @@ af = []
 en = ""
 no = [
     "Unstressed-vowel correspondences:",
-    "",
 ]
 ta = [
     "generated",
@@ -5746,8 +5748,8 @@ fr = "Biblical Hebrew"
 to = "Modern Israeli Hebrew"
 or = "Maknas"
 os = " from http:"
-so = ["6"]
-no = []
+so = ["s16"]
+no = ["“and other sources”"]
 
 [[cs.ch]]
 be = []
@@ -5755,7 +5757,6 @@ af = []
 en = ""
 no = [
     "NB: These aren’t all true sound changes per se, since Modern Israeli Hebrew was artificially revived and is an amalgamation of dialects.",
-    "",
 ]
 ta = [
     "generated",
