@@ -1,11 +1,11 @@
-s0:
+algi1248_0:
     type: book
     title: "A historical phonology of Abenaki"
     author: "Leila Warne, Janet"
     date: 1975
     url: https://escholarship.mcgill.ca/concern/theses/fn107049h?locale=en
 
-s1:
+algi1248_1:
   type: article
   title: “An Outline of the Historical Phonology of Arapaho and Atsina”
   author: "Goddard, Ives"
@@ -16,7 +16,7 @@ s1:
   page-range: 102 – 116
 
 
-s2:
+algi1248_2:
   type: article
   title: "A Sketch of Blackfoot Historical Phonology"
   author: "Proulx, Paul"
@@ -26,7 +26,7 @@ s2:
   issue: 55
   page-range: 43 – 82
 
-s3:
+algi1248_3:
   type: article
   title: Algonquian
   author:
@@ -34,17 +34,17 @@ s3:
     - Leman
   date: 1946
 
-s4:
+algi1248_4:
   url: http://home.kpn.nl/cvkolmes/ojibwe/CorrCrOj.pdf 
     
-s5:
+algi1248_5:
   type: web
   title: "Cree language"
   author: "Wikipedia Contributors"
   date: 2015
   url: https://en.wikipedia.org/w/index.php?title=Cree_language&oldid=690521189
   
-s6: 
+algi1248_6: 
   type: article
   author: "Goddard, Ives"
   date: 1982
@@ -54,7 +54,7 @@ s6:
   issue: 48
   page-range: 16 – 48
   
-s7:
+algi1248_7:
   type: article
   title: "The Phonological History of Menominee"
   author: "Hockett, C. F."
@@ -65,7 +65,7 @@ s7:
   page-range: 51-87
 
 
-s8:
+algi1248_8:
   type: article
   title: Theoretical Implications of the Great Menominee Vowel Shift
   author: "Miner, Kenneth L."
@@ -75,7 +75,7 @@ s8:
   issue: 4(1)
   page-range: 7-25
   
-s9: 
+algi1248_9: 
   title: "The Historical Phonology of Miami-Illinois Consonants"
   author: Costa, David J. 
   date: 1991
@@ -84,31 +84,31 @@ s9:
   issue: 57
   page-range: 365 – 393
   
-s10:
+algi1248_10:
   type: article
   title: The Fundamentals of Micmac Historical Morphology
   author: Audrey Marie
   date: 1986 
 
-s11:
+algi1248_11:
   type: article
   title: Some Micmac Etymologies
   author: Hewson, John
   date: 1983
 
-s12:
+algi1248_12:
   type: article
   title: Proto-Algonkian Reflexes in Micmac
   author: Hewson, John
   date: 1973
   
-s13:
+algi1248_13:
   ype: article
   title: "Fragments of Piscataway: A Preliminary Description"
   author: Mackie, Lisa
   date: 2006
   
-s14:
+algi1248_14:
   type: article
   title: Computer Simulation of Shawnee Historical Phonology
   author: Muzaffar, Towhid

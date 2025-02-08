@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "algi1248"
 
 [[cs]]
 fr = "Proto-Algonquian"
 to = "Kennebec River Abenaki"
 or = "Pogostick Man with acknowledgment to dhok"
 os = " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:"
-so = ["s0"]
+so = ["algi1248_0"]
 no = []
 
 [[cs.ch]]
@@ -299,7 +299,7 @@ fr = "Proto-Algonquian"
 to = "St. Francis Abenaki"
 or = "Pogostick Man with acknowledgment to dhok"
 os = " from Warne, Janet Leila (1973), “A Historical Phonology of Abenaki”. <http:"
-so = ["s0"]
+so = ["algi1248_0"]
 no = []
 
 [[cs.ch]]
@@ -600,7 +600,7 @@ fr = "Proto-Algonquian"
 to = "Proto-Arapaho-Atsina"
 or = "Whimemsz"
 os = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
-so = ["s1"]
+so = ["algi1248_1"]
 no = []
 
 [[cs.ch]]
@@ -820,7 +820,7 @@ fr = "Proto-Arapaho-Atsina"
 to = "Arapaho"
 or = "Whimemsz"
 os = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
-so = ["s1"]
+so = ["algi1248_1"]
 no = []
 
 [[cs.ch]]
@@ -1038,7 +1038,7 @@ fr = "Proto-Arapaho-Atsina"
 to = "Gros Ventre"
 or = "Whimemsz"
 os = " from Goddard, Ives (1974), “An Outline of the Historical Phonology of Arapaho and Atsina”. International Journal of American Linguistics, 40:102 – 116"
-so = ["s1"]
+so = ["algi1248_1"]
 no = []
 
 [[cs.ch]]
@@ -1184,7 +1184,7 @@ fr = "Proto-Algonquian"
 to = "Blackfoot"
 or = "Whimemsz"
 os = " from Proulx, Paul (1989), “A Sketch of Blackfoot Historical Phonology”. International Journal of American Linguistics, 55:43 – 82"
-so = ["s2"]
+so = ["algi1248_2"]
 no = []
 
 [[cs.ch]]
@@ -1858,7 +1858,7 @@ fr = "Proto-Algonquian"
 to = "Cheyenne"
 or = "jburke"
 os = " from “Bloomfield and Leman”"
-so = ["s3"]
+so = ["algi1248_3"]
 no = [
     "check_source"
 ]
@@ -2033,8 +2033,8 @@ to = "Northern East Cree"
 or = "Pogostick Man"
 os = " from http:"
 so = [
-    "s4",
-    "s5",
+    "algi1248_4",
+    "algi1248_5",
 ]
 no = []
 
@@ -2254,8 +2254,8 @@ to = "Southern East Cree"
 or = "Pogostick Man"
 os = " from http:"
 so = [
-    "s4",
-    "s5",
+    "algi1248_4",
+    "algi1248_5",
 ]
 no = [
     "checksource"
@@ -2485,8 +2485,8 @@ to = "Plains Cree"
 or = "Pogostick Man"
 os = " from http:"
 so = [
-    "s4",
-    "s5",
+    "algi1248_4",
+    "algi1248_5",
 ]
 no = []
 
@@ -2708,8 +2708,8 @@ to = "Swampy Cree"
 or = "Pogostick Man"
 os = " from http:"
 so = [
-    "s4",
-    "s5",
+    "algi1248_4",
+    "algi1248_5",
 ]
 no = []
 
@@ -2926,8 +2926,8 @@ to = "Woods Cree"
 or = "Pogostick Man"
 os = " from http:"
 so = [
-    "s4",
-    "s5",
+    "algi1248_4",
+    "algi1248_5",
 ]
 no = []
 
@@ -3124,7 +3124,7 @@ fr = "Proto-Algonquian"
 to = "Munsee Delaware"
 or = "Pogostick Man"
 os = " from Goddard, Ives (1982), “The Historical Phonology of Munsee”. International Journal of American Linguistics, 48:16 – 48"
-so = ["s6"]
+so = ["algi1248_6"]
 no = []
 
 [[cs.ch]]
@@ -3552,8 +3552,8 @@ to = "Menominee"
 or = "Whimemsz"
 os = " from Hockett, C. F. (1981), “The Phonological History of Menominee”. Anthropological Linguistics 23(2): 51-87; and Miner, Kenneth L. (1979), “Theoretical Implications of the Great Menominee Vowel Shift”. Kansas Working Papers in Linguistics 4(1): 7-25."
 so = [
-    "s7",
-    "s8",
+    "algi1248_7",
+    "algi1248_8",
 ]
 no = []
 
@@ -3954,7 +3954,7 @@ fr = "Proto-Algonquian"
 to = "Miami-Illinois"
 or = "Pogostick Man"
 os = " from Costa, David J. (1991), “The Historical Phonology of Miami-Illinois Consonants”. International Journal of American Linguistics, 57:365 – 393"
-so = ["s9"]
+so = ["algi1248_9"]
 no = []
 
 [[cs.ch]]
@@ -4202,9 +4202,9 @@ to = "Mi’kmaq"
 or = "Pogostick Man with acknowledgment to dhok and Alex Fink"
 os = " the former citing Audrey Marie (1986), The Fundamentals of Micmac Historical Morphology, citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”, and Hewson, John (1983), “Some Micmac Etymologies”, and the latter citing Hewson, John (1973), “Proto-Algonkian Reflexes in Micmac”"
 so = [
-    "s10",
-    "s11",
-    "s12",
+    "algi1248_10",
+    "algi1248_11",
+    "algi1248_12",
 ]
 no = []
 
@@ -4422,7 +4422,7 @@ fr = "Proto-Algonquian"
 to = "Ojibwe"
 or = "Whimemsz"
 os = " from his own work; http:"
-so = ["s3"]
+so = ["algi1248_3"]
 no = []
 
 [[cs.ch]]
@@ -4626,7 +4626,7 @@ fr = "Proto-Algonquian"
 to = "Piscataway"
 or = "Pogostick Man"
 os = " from Mackie, Lisa (2006), “Fragments of Piscataway: A Preliminary Description”"
-so = ["s13"]
+so = ["algi1248_13"]
 no = []
 
 [[cs.ch]]
@@ -4712,7 +4712,7 @@ fr = "Proto-Algonquian"
 to = "Shawnee"
 or = "Whimemsz"
 os = " from bin Muzaffar, Towhid, Computer Simulation of Shawnee Historical Phonology, plus “other corrections based on a few other papers plus my limited knowledge of comparative Algonquian”"
-so = ["s14"]
+so = ["algi1248_14"]
 no = []
 
 [[cs.ch]]
