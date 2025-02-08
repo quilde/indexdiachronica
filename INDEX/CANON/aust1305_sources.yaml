@@ -1,5 +1,5 @@
 
-s9_0:
+aust1305_0:
   type: article
   author: Thompson, Laurence C. 
   date: 1976
@@ -9,21 +9,21 @@ s9_0:
     volume: 2 
     page-range: 1113 – 1203
   
-s9_1:
+aust1305_1:
   type: web
   author: "Wikipedia contributors"
   date: 2012
   title: "Hanoi"
   url: http://en.wikipedia.org/w/index.php?title=Hanoi&oldid=509052974
   
-s9_2:
+aust1305_2:
   type: web
   author: Wikipedia contributors
   date: 2012
   title: "Vietnamese Language"
   url: http://en.wikipedia.org/w/index.php?title=Special:Cite&page=Vietnamese_language&id=509331797
   
-s9_3: 
+aust1305_3: 
   type: article
   author: Gage, William W. 
   date: 1985
@@ -33,7 +33,7 @@ s9_3:
     issue: 20 
     page-range: 21 – 36
   
-s9_4: 
+aust1305_4: 
   type: article
   author: Thompson, Laurence C. 
   date: 1979?
