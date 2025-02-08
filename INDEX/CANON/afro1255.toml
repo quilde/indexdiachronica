@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "afro1255"
 
 [[cs]]
 fr = "Proto-Afro-Asiatic"
 to = "Proto-Omotic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -152,7 +152,7 @@ fr = "Proto-Omotic"
 to = "North Omotic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -394,7 +394,7 @@ fr = "North Omotic"
 to = "Bench"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -507,7 +507,7 @@ fr = "North Omotic"
 to = "Dizin"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -658,7 +658,7 @@ fr = "North Omotic"
 to = "Kafa"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -870,7 +870,7 @@ fr = "North Omotic"
 to = "Maale"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1027,7 +1027,7 @@ fr = "North Omotic"
 to = "Shekkacho"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1277,7 +1277,7 @@ fr = "North Omotic"
 to = "Wolaytta"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1412,7 +1412,7 @@ fr = "North Omotic"
 to = "Yemsa"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1624,7 +1624,7 @@ fr = "North Omotic"
 to = "Zayse-Zergulla"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1797,7 +1797,7 @@ fr = "South Omotic"
 to = "Aari"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1890,7 +1890,7 @@ fr = "South Omotic"
 to = "Dime"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -1981,7 +1981,7 @@ fr = "Proto-Afro-Asiatic"
 to = "Proto-Erythrean"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -2006,7 +2006,7 @@ fr = "Proto-Erythrean"
 to = "Proto-Cushitic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -2048,8 +2048,8 @@ to = "Awngi"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
 so = [
-    "s1",
-    "s2", 
+    "afro1255_1",
+    "afro1255_2", 
 ]
 no = []
 
@@ -2141,8 +2141,8 @@ to = "Blin"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
 so = [
-    "s1",
-    "s2",
+    "afro1255_1",
+    "afro1255_2",
 ]
 no = []
 
@@ -2217,8 +2217,8 @@ to = "Kemantney"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
 so = [
-    "s1",
-    "s2",
+    "afro1255_1",
+    "afro1255_2",
 ]
 no = []
 
@@ -2341,8 +2341,8 @@ to = "Xamtanga"
 or = "Pogostick Man"
 os = " from Fallon, Paul D. (2009), “The Velar Ejective in Proto-Agaw”. In Selected Proceedings of the 39th Annual Conference on African Linguistics, Ojo, Akinloye and Lioba Moshi (Eds.), 10 – 22. Sommerville, MA: Cascadilla Proceedings Project. <http:"
 so = [
-    "s1",
-    "s2",
+    "afro1255_1",
+    "afro1255_2",
 ]
 no = []
 
@@ -2460,7 +2460,7 @@ fr = "Proto-Erythrean"
 to = "Proto-North Erythrean"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -2537,7 +2537,7 @@ fr = "Proto-North Erythrean"
 to = "Proto-Chadic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -2605,7 +2605,7 @@ fr = "Proto-North Erythrean"
 to = "Proto-Boreafrasian"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -2683,7 +2683,7 @@ fr = "Proto-Boreafrasian"
 to = "Egypto-Berber"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -3083,7 +3083,7 @@ fr = "Ancient Egyptian"
 to = "Coptic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -3180,7 +3180,7 @@ fr = "Proto-Boreafrasian"
 to = "Proto-Semitic"
 or = "Mecislau"
 os = " from Ehret, Christopher (1995), Reconstructing Proto-Afroasiatic (Proto-Afrasian): Vowels, Tone, Consonants, and Vocabulary (Voices from Asia)"
-so = ["s0"]
+so = ["afro1255_0"]
 no = []
 
 [[cs.ch]]
@@ -3426,7 +3426,7 @@ fr = "Classical Arabic"
 to = "Cypriot Arabic"
 or = "Pogostick Man"
 os = " from Borg, Alexander (1985), Cypriot Arabic"
-so = ["s3"]
+so = ["afro1255_3"]
 no = ["NB: Changes may not be in chronological order."]
 
 [[cs.ch]]
@@ -3932,10 +3932,10 @@ to = "Egyptian Arabic"
 or = "Pogostick Man"
 os = " from Brustad, Kristen, Mahmoud Al-Batal, and Abbas Al-Tonsi (2010), Alif Baa: Introduction to Letters and Sounds, 3rd. Ed.; http:"
 so = [
-    "s4",
-    "s5",
-    "s6",
-    "s7",
+    "afro1255_4",
+    "afro1255_5",
+    "afro1255_6",
+    "afro1255_7",
 ]
 no = []
 
@@ -4262,7 +4262,7 @@ fr = "Classical Arabic"
 to = "Coastal Hadhrami Arabic"
 or = "Pogostick Man"
 os = " from Wikipedia Contributors (2013), “Hadhrami Arabic”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s8"]
+so = ["afro1255_8"]
 no = []
 
 [[cs.ch]]
@@ -4473,7 +4473,7 @@ fr = "Classical Arabic"
 to = "Hassāniyya Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s9"]
+so = ["afro1255_9"]
 no = []
 
 [[cs.ch]]
@@ -4663,7 +4663,7 @@ fr = "Classical Arabic"
 to = "Iraqi Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s10"]
+so = ["afro1255_10"]
 no = []
 
 [[cs.ch]]
@@ -4730,7 +4730,7 @@ fr = "Classical Arabic"
 to = "Eastern Libyan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s11"]
+so = ["afro1255_11"]
 no = []
 
 [[cs.ch]]
@@ -4785,7 +4785,7 @@ fr = "Classical Arabic"
 to = "Western Libyan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s11"]
+so = ["afro1255_11"]
 no = []
 
 [[cs.ch]]
@@ -4855,7 +4855,7 @@ fr = "Classical Arabic"
 to = "Moroccan Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s12"]
+so = ["afro1255_12"]
 no = []
 
 [[cs.ch]]
@@ -5073,7 +5073,7 @@ fr = "Classical Arabic"
 to = "Sa‘idi Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s13"]
+so = ["afro1255_13"]
 no = []
 
 [[cs.ch]]
@@ -5113,7 +5113,7 @@ fr = "Classical Arabic"
 to = "Sudanese Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s14"]
+so = ["afro1255_14"]
 no = []
 
 [[cs.ch]]
@@ -5149,7 +5149,7 @@ fr = "Classical Arabic"
 to = "Tunisian Arabic"
 or = "Pogostick Man"
 os = " from http:"
-so = ["s15"]
+so = ["afro1255_15"]
 no = []
 
 [[cs.ch]]
@@ -5254,7 +5254,7 @@ fr = "Proto-Semitic"
 to = "Biblical Hebrew"
 or = "Maknas"
 os = " from http:"
-so = ["s16"]
+so = ["afro1255_16"]
 no = ["“and other sources”"]
 
 [[cs.ch]]
@@ -5748,7 +5748,7 @@ fr = "Biblical Hebrew"
 to = "Modern Israeli Hebrew"
 or = "Maknas"
 os = " from http:"
-so = ["s16"]
+so = ["afro1255_16"]
 no = ["“and other sources”"]
 
 [[cs.ch]]
