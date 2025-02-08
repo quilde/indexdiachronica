@@ -1,0 +1,28 @@
+
+
+eski1264_0:
+  type: article
+  author: 
+  - Marsh, Gordon
+  - Morris Swadesh
+  date: 1951
+  title: "Kleinschmidt Centennial V: Eskimo Aleut Correspondences"
+  parent:
+    title: International Journal of American Linguistics
+    volume: 17
+    serial-number: 4
+    date: 1951-10
+    page-range: 209 – 216
+
+eski1264_1:
+  type: article
+  author: 
+  - Swadesh, Morris
+  date: 1952
+  title: "Unaaliq and Proto Eskimo IV: Diachronic Notes"
+  parent: 
+    title: International Journal of American Linguistics
+    volume: 18
+    serial-number: 3
+    date: 1952-07
+    page-range: 166–171 

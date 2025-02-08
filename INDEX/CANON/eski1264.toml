@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "eski1264"
 
 [[cs]]
 fr = "Proto-Eskimo-Aleut"
 to = "Proto-Aleut"
 or = "Pogostick Man"
 os = " from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216"
-so = ["s0"]
+so = ["eski1264_0"]
 no = []
 
 [[cs.ch]]
@@ -214,7 +214,7 @@ fr = "Proto-Eskimo-Aleut"
 to = "Proto-Eskimo"
 or = "Pogostick Man"
 os = " from Marsh, Gordon and Morris Swadesh (1951), “Kleinschmidt Centennial V: Eskimo Aleut Correspondences”, International Journal of American Linguistics, Vol. 17, No. 4 (Oct., 1951), pp. 209 – 216"
-so = ["0"]
+so = ["eski1264_0"]
 no = []
 
 [[cs.ch]]
@@ -267,7 +267,7 @@ fr = "Proto-Eskimo"
 to = "Barrow Iñupiaq"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["s1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -523,7 +523,7 @@ fr = "Proto-Eskimo"
 to = "Greenlandic Iñupiaq"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -829,7 +829,7 @@ fr = "Proto-Eskimo"
 to = "Mackenzie Iñupiaq"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -1022,7 +1022,7 @@ fr = "Proto-Eskimo"
 to = "Wales Iñupiaq"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -1332,7 +1332,7 @@ fr = "Proto-Eskimo"
 to = "Kuskokwim Yup’ik"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -1607,7 +1607,7 @@ fr = "Proto-Eskimo"
 to = "Nunivak Yup’ik"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -1924,7 +1924,7 @@ fr = "Proto-Eskimo"
 to = "Siberian Yup’ik"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
@@ -2195,7 +2195,7 @@ fr = "Proto-Eskimo"
 to = "Unaaliq Yup’ik"
 or = "Pogostick Man"
 os = " from Swadesh, Morris (1952), “Unaaliq and Proto Eskimo IV: Diachronic Notes”, International Journal of American Linguistics, Vol. 18, No. 3 (Jul., 1952), pp. 166–171"
-so = ["1"]
+so = ["eski1264_1"]
 no = []
 
 [[cs.ch]]
