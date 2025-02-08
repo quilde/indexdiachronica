@@ -1,0 +1,148 @@
+fa = "_Macro-Chibchan"
+
+
+
+[[cs]]
+fr = "Proto-Lenmichian"
+to = "Proto-Lencan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
+so = ["s1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "_[+vowel +nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowelsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "p",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ʔ,h}"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{s,ts}"]
+af = ["tsʼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "o",
+    "a",
+]
+af = [
+    "{u,o}",
+    "{a,e}",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Proto-Lenmichian"
+to = "Proto-Misumalpan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
+so = ["1"]
+no = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "m",
+    "n",
+]
+en = "_[+vowel +nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowelsˈ)"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "b",
+    "d",
+]
+af = [
+    "{b,p}",
+    "l",
+]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{ʔ,h}"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ts"]
+af = ["s"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

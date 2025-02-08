@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "chib1249"
 
 [[cs]]
 fr = "Proto-Chibchan"
 to = "Arhuaco"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["s0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -146,7 +146,7 @@ fr = "Proto-Chibchan"
 to = "Chibcha"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -369,7 +369,7 @@ fr = "Proto-Chibchan"
 to = "Kogi"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -505,7 +505,7 @@ fr = "Proto-Chibchan"
 to = "Marocacero"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -618,7 +618,7 @@ fr = "Proto-Chibchan"
 to = "Motilón"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -837,7 +837,7 @@ fr = "Proto-Chibchan"
 to = "Tunebo"
 or = "Pogostick Man"
 os = " from Wheeler, Alva (1972), “Proto-Chibchan”. In Matteson, Esther, ed., Comparative Studies in Amerindian Languages 93 – 108"
-so = ["0"]
+so = ["chib1249_0"]
 no = []
 
 [[cs.ch]]
@@ -1026,151 +1026,6 @@ ty = []
 be = ["e"]
 af = ["i"]
 en = "“conditioning undeterminedˈ"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Lenmichian"
-to = "Proto-Lencan"
-or = "Pogostick Man"
-os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s1"]
-no = []
-
-[[cs.ch]]
-be = [
-    "b",
-    "d",
-]
-af = [
-    "m",
-    "n",
-]
-en = "_[+vowel +nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowelsˈ)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "b",
-    "d",
-]
-af = [
-    "p",
-    "l",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["{ʔ,h}"]
-af = ["∅"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["{s,ts}"]
-af = ["tsʼ"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "o",
-    "a",
-]
-af = [
-    "{u,o}",
-    "{a,e}",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Lenmichian"
-to = "Proto-Misumalpan"
-or = "Pogostick Man"
-os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["1"]
-no = []
-
-[[cs.ch]]
-be = [
-    "b",
-    "d",
-]
-af = [
-    "m",
-    "n",
-]
-en = "_[+vowel +nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowelsˈ)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "b",
-    "d",
-]
-af = [
-    "{b,p}",
-    "l",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["{ʔ,h}"]
-af = ["∅"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ts"]
-af = ["s"]
-en = ""
 no = []
 ta = [
     "generated",
