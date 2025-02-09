@@ -11,6 +11,8 @@
 
 ## What is it?
 
+![Index Diachronica flyer](publicity/flyer.PNG)
+
 The Index Diachronica Database Project aims to convert the Index Diachronica, a collection of historical sound changes, into a text-based
 database and mantain and solidify the dataset.
 
