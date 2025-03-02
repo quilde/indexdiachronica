@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "pama1250"
 
 [[cs]]
 fr = "Proto-Paman"
 to = "AritinÅitiÉ£"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["s0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -85,7 +85,7 @@ fr = "Proto-Paman"
 to = "AwÅtim"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -195,7 +195,7 @@ fr = "Proto-Paman"
 to = "LinÅitiÉ£"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -253,7 +253,7 @@ fr = "Proto-Paman"
 to = "Mbiywom"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -333,7 +333,7 @@ fr = "Proto-Paman"
 to = "Mpalican"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -374,7 +374,7 @@ fr = "Proto-Paman"
 to = "UraÃ°i"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]
@@ -404,7 +404,7 @@ fr = "Proto-Paman"
 to = "Yinwum"
 or = "Pogostick Man"
 os = " from Hale, Kenneth (1964), “Classification of Northern Paman Languages, Cape York Peninsula, Australia: A Research Report”. Oceanic Linguistics Vol. 3, No. 2, 248 – 265"
-so = ["0"]
+so = ["pama1250_0"]
 no = []
 
 [[cs.ch]]

@@ -1,5 +1,34 @@
 fa = "_Macro-Chibchan"
 
+[[cs]]
+fr = "Proto-Lenmichian"
+to = "Proto-Chibchan"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2015), “Macro-Chibchan languages”. Wikipedia, the Free Encyclopedia. <https:"
+so = ["araw1282_0"]
+no = []
+
+[[cs.ch]]
+be = ["l"]
+af = ["ɾ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["w"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
 
 
 [[cs]]
