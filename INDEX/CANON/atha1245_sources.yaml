@@ -1,0 +1,34 @@
+
+
+atha1245_0:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2015
+  title: "Na-Dene languages"
+  url: https://en.wikipedia.org/w/index.php?title=Na-Dene_languages&oldid=666126262
+
+atha1245_1:
+  author: 
+  - Krauss, Michael
+  - Victor Golla
+  date: 1981
+  title: "Northern Athapaskan languages"
+  parent: 
+    title: Handbook of North American Indians
+    volume: 6
+    page-range: 67 – 85
+
+atha1245_2:
+  author: Sapir, Edward
+  date: 1936
+  title: Reflexes of Proto-Athabaskan in Several Languages (Hupa, Navaho, Chipewyan, Sarcee)"
+
+atha1245_3:
+  author: Hoijer, Harry
+  date: 1938
+  title: The Southern Athapaskan Languages
+  parent: 
+    title: American Anthropologist
+    volume: 40
+    page-range: 75 – 87
+
