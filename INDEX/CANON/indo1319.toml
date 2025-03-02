@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "indo1319"
 
 [[cs]]
 fr = "Proto-Indo-European"
 to = "Gheg Albanian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2013), “Albanian language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s0"]
+so = ["indo1319_0"]
 no = []
 
 [[cs.ch]]
@@ -358,13 +358,33 @@ ta = [
 ]
 ty = []
 
-[[cs]]
-fr = "and h4 seem"
-to = "have possibly fronted a following back vowel"
-or = "eː iː oː uː → o i e {y"
-os = "i}"
-so = ["s1"]
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Loss of laryngeals, with the possible exception of h4, if it existed; h3 and h4 seem to have possibly fronted a following back vowel ",
+]
+ta = []
+ty = []
+
+[[cs.ch]]
+be = [
+    "eː",
+    "iː",
+    "oː",
+    "uː",
+]
+af = [
+    "o",
+    "i",
+    "e",
+    "{y,i}",
+]
+en = ""
 no = []
+ta = []
+ty = []
 
 [[cs.ch]]
 be = [
@@ -438,7 +458,7 @@ fr = "Proto-Indo-European"
 to = "Tosk Albanian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2013), “Albanian language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["0"]
+so = ["indo1319_0"]
 no = []
 
 [[cs.ch]]
@@ -802,13 +822,33 @@ ta = [
 ]
 ty = []
 
-[[cs]]
-fr = "and h4 seem"
-to = "have possibly fronted a following back vowel"
-or = "eː iː oː uː → o i e {y"
-os = "i}"
-so = ["1"]
+[[cs.ch]]
+be = []
+af = []
+en = ""
+no = [
+    "Loss of laryngeals, with the possible exception of h4, if it existed; h3 and h4 seem to have possibly fronted a following back vowel ",
+]
+ta = []
+ty = []
+
+[[cs.ch]]
+be = [
+    "eː",
+    "iː",
+    "oː",
+    "uː",
+]
+af = [
+    "o",
+    "i",
+    "e",
+    "{y,i}",
+]
+en = ""
 no = []
+ta = []
+ty = []
 
 [[cs.ch]]
 be = [
@@ -860,7 +900,7 @@ fr = "Proto-Indo-European"
 to = "Common Anatolian"
 or = "Alces"
 os = " from http:"
-so = ["s2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -1052,7 +1092,7 @@ fr = "Common Anatolian"
 to = "Hittite"
 or = "Alces"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -1272,7 +1312,7 @@ fr = "Common Anatolian"
 to = "Luwian"
 or = "Alces"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -1580,7 +1620,7 @@ fr = "Common Anatolian"
 to = "Lycian"
 or = "Alces"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -1874,7 +1914,7 @@ fr = "Common Anatolian"
 to = "Lydian"
 or = "Alces"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -2175,7 +2215,7 @@ fr = "Common Anatolian"
 to = "Palaic"
 or = "Alces"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_1"]
 no = []
 
 [[cs.ch]]
@@ -2386,7 +2426,10 @@ fr = "Proto-Indo-European"
 to = "Artsakh Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -2870,7 +2913,10 @@ fr = "Proto-Indo-European"
 to = "Erevan Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -3344,7 +3390,10 @@ fr = "Proto-Indo-European"
 to = "Istanbul Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -3820,7 +3869,10 @@ fr = "Proto-Indo-European"
 to = "Kharpert Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -4304,7 +4356,10 @@ fr = "Proto-Indo-European"
 to = "Sebastia Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -4767,7 +4822,10 @@ fr = "Proto-Indo-European"
 to = "Southeast Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -5282,7 +5340,10 @@ fr = "Proto-Indo-European"
 to = "Southwest Armenian"
 or = "Mecislau & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2013), “Armenian Language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["3"]
+so = [
+    "indo1319_2",
+    "indo1319_3",
+]
 no = []
 
 [[cs.ch]]
@@ -5775,7 +5836,10 @@ fr = "Proto-Indo-European"
 to = "Avestan"
 or = "Pogostick Man"
 os = " Alex Fink, and Tropylium, the former two citing Wikipedia contributors (2013), “Proto-Indo-Iranian language”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s4"]
+so = [
+    "indo1319_5",
+    "indo1319_6",
+]
 no = []
 
 [[cs.ch]]
@@ -6022,7 +6086,7 @@ fr = "Proto-Indo-European"
 to = "Proto-Celtic"
 or = "dhokarena56"
 os = " from Matasović (2009), Etymological Dictionary of Proto-Celtic (ed. Lubotsky)."
-so = ["s5"]
+so = ["indo1319_7"]
 no = []
 
 [[cs.ch]]
@@ -7320,7 +7384,10 @@ fr = "Proto-Celtic"
 to = "Middle Welsh"
 or = "Dewrad & Pogostick Man"
 os = " the latter citing Willis (David), “Old and Middle Welsh”"
-so = ["s7"]
+so = [
+    "indo1319_8",
+    "indo1319_9",
+]
 no = []
 
 [[cs.ch]]
@@ -7820,7 +7887,7 @@ fr = "Proto-Indo-European"
 to = "Dacian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2013), “Dacian language”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s8"]
+so = ["indo1319_10"]
 no = []
 
 [[cs.ch]]
@@ -8003,7 +8070,7 @@ f θ s x → β ð z ɣ “(Except initially or following IE stress)”\r
 \r
 {i"""
 os = "j} {u,w} → j w "
-so = ["s9"]
+so = [""]
 no = []
 
 [[cs.ch]]
@@ -8123,7 +8190,10 @@ fr = "Common Germanic"
 to = "Gothic"
 or = "Pogostick Man"
 os = " from Wright, Joseph (1910). Grammar of the Gothic Language, 2nd Ed.; and Wikipedia contributors (2014). “Gothic language”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s10"]
+so = [
+    "indo1319_11",
+    "indo1319_12",
+]
 no = []
 
 [[cs.ch]]
@@ -8651,7 +8721,12 @@ fr = "West Germanic"
 to = "Anglo-Frisian"
 or = "Siride? & Pogostick Man"
 os = " the latter citing Wikipedia contributors (2014), “Anglo-Frisian languages”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s12"]
+so = [
+    "indo1319_13",
+    "indo1319_14",
+    "indo1319_15",
+    "indo1319_16",
+]
 no = []
 
 [[cs.ch]]
@@ -8872,7 +8947,7 @@ fr = "Anglo-Frisian"
 to = "Old English"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2011), “Phonological history of English”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s13"]
+so = ["indo1319_17"]
 no = []
 
 [[cs.ch]]
@@ -8932,7 +9007,10 @@ fr = "Old English"
 to = "Kentish Middle English"
 or = "Pogostick Man"
 os = " from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s14"]
+so = [
+    "indo1319_18",
+    "indo1319_19",
+]
 no = []
 
 [[cs.ch]]
@@ -9187,7 +9265,10 @@ fr = "Old English"
 to = "Midlands Middle English"
 or = "Pogostick Man"
 os = " from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["14"]
+so = [
+    "indo1319_18",
+    "indo1319_19",
+]
 no = []
 
 [[cs.ch]]
@@ -9443,7 +9524,7 @@ fr = "Midlands Middle English"
 to = "Early Modern English"
 or = "Pogostick Man"
 os = " from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http:"
-so = ["s15"]
+so = ["indo1319_20"]
 no = []
 
 [[cs.ch]]
@@ -9644,7 +9725,7 @@ fr = "Early Modern English"
 to = "American English"
 or = "Pogostick Man"
 os = " from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http:"
-so = ["15"]
+so = ["indo1319_20"]
 no = []
 
 [[cs.ch]]
@@ -9886,7 +9967,7 @@ fr = "Early Modern English"
 to = "Australian English"
 or = "Pogostick Man"
 os = " from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http:"
-so = ["15"]
+so = ["indo1319_20"]
 no = []
 
 [[cs.ch]]
@@ -10300,7 +10381,7 @@ fr = "Early Modern English"
 to = "British English"
 or = "Pogostick Man"
 os = " from FireSpeakerWiki contributors (2013), “English sound changes”. FireSpeakerWiki. <http:"
-so = ["15"]
+so = ["indo1319_20"]
 no = []
 
 [[cs.ch]]
@@ -10423,7 +10504,10 @@ fr = "Old English"
 to = "Northern Middle English"
 or = "Pogostick Man"
 os = " from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["14"]
+so = [
+    "indo1319_18",
+    "indo1319_19",
+]
 no = []
 
 [[cs.ch]]
@@ -10747,7 +10831,10 @@ fr = "Early Northern Middle English"
 to = "Scots"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Phonological history of Scots”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s16"]
+so = [
+    "indo1319_21",
+    "indo1319_22",
+]
 no = []
 
 [[cs.ch]]
@@ -11160,7 +11247,7 @@ fr = "Old English"
 to = "Scots"
 or = "Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill"
 os = " from personal research"
-so = ["s17"]
+so = ["indo1319_23"]
 no = []
 
 [[cs.ch]]
@@ -11775,7 +11862,7 @@ fr = "Scots"
 to = "Falkirk Scots"
 or = "Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill"
 os = " from personal research"
-so = ["17"]
+so = ["indo1319_23"]
 no = []
 
 [[cs.ch]]
@@ -11907,7 +11994,10 @@ fr = "Old English"
 to = "Southern Middle English"
 or = "Pogostick Man"
 os = " from Moore, Samuel (1919), Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English Language; and Wikipedia contributors (2011), “Middle English phonology”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["14"]
+so = [
+    "indo1319_18",
+    "indo1319_19",
+]
 no = []
 
 [[cs.ch]]
@@ -12185,7 +12275,10 @@ fr = "Middle English"
 to = "Yola"
 or = "Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill"
 os = " the former from Wikipedia contributors (2016), “Forth and Bargy dialect”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s18"]
+so = [
+    "indo1319_23",
+    "indo1319_24",
+]
 no = []
 
 [[cs.ch]]
@@ -12284,7 +12377,7 @@ fr = "Anglo-Frisian"
 to = "Old Frisian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2011), “Old Frisian”. Wikipedia, the Free Encyclopedia. <http:"
-so = ["s19"]
+so = ["indo1319_25"]
 no = []
 
 [[cs.ch]]
@@ -12345,19 +12438,13 @@ ta = [
 ]
 ty = []
 
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "TzirTzi, from Goblirsch, Kurt Gustav (2002), “The North Frisian lenition and Danish linguistic hegemony”. In Carr, Gerald F., and Irmengard Raugh (2002), New Insights in Germanic Linguistics III:46 – 65",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+[[cs]]
+fr = "Anglo-Frisian"
+to = "Old Frisian"
+or = "Pogostick Man"
+os = "TzirTzi, from Goblirsch, Kurt Gustav (2002), “The North Frisian lenition and Danish linguistic hegemony”. In Carr, Gerald F., and Irmengard Raugh (2002), New Insights in Germanic Linguistics III:46 – 65"
+so = ["indo1319_26"]
+no = []
 
 [[cs.ch]]
 be = [
@@ -12401,7 +12488,10 @@ fr = "West Germanic"
 to = "Old Low Franconian"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Old Dutch”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s20"]
+so = [
+    "indo1319_27",
+    "indo1319_28",
+]
 no = []
 
 [[cs.ch]]
@@ -12644,7 +12734,10 @@ fr = "Old Low Franconian"
 to = "Middle Dutch"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Middle Dutch”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s21"]
+so = [
+    "indo1319_29",
+    "indo1319_30",
+]
 no = []
 
 [[cs.ch]]
@@ -12912,7 +13005,10 @@ fr = "Middle Dutch"
 to = "Modern Dutch"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s22"]
+so = [
+    "indo1319_31",
+    "indo1319_32",
+]
 no = []
 
 [[cs.ch]]
@@ -13050,7 +13146,7 @@ fr = "Modern Dutch"
 to = "Polder Dutch Vowel Shift"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["22"]
+so = ["indo1319_31"]
 no = []
 
 [[cs.ch]]
@@ -13091,19 +13187,13 @@ ta = [
 ]
 ty = []
 
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "Pogostick Man, from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868>",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+[[cs]]
+fr = " from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868> "
+to = "Belgian and Netherlandish Dutch Monophthongization"
+or = "Pogostick Man"
+os = " from Wikipedia contributors (2014), “Dutch Phonology”. Wikipedia, the Free Encyclopedia. <https:"
+so = ["indo1319_31"]
+no = []
 
 [[cs.ch]]
 be = [
@@ -13129,7 +13219,11 @@ fr = "Middle High German"
 to = "Standard German"
 or = "Paweł Ciupak"
 os = " from Behr, Hans-Joahim, Ingrid Bennewitz, et al. (2004). Die Bamberg (BA)-Braunschweiger (BS) Grammatik des Alt-und Mittelhochdeutschen im Internet. <https:"
-so = ["s23"]
+so = [
+    "indo1319_33",
+    "indo1319_34",
+    "indo1319_35",
+]
 no = []
 
 [[cs.ch]]
@@ -13505,19 +13599,16 @@ ta = [
 ]
 ty = []
 
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "Pogostick Man, from <http://en.wikipedia.org/wiki/High_German_consonant_shift>; and Wikipedia contributors (2014), “Germanic umlaut”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218>",
-    "",
+[[cs]]
+fr = ""
+to = "High German Cosonant Shift and Umlaut"
+or = "Pogostick Man"
+os = "Pogostick Man, from <http://en.wikipedia.org/wiki/High_German_consonant_shift>; and Wikipedia contributors (2014), “Germanic umlaut”. Wikipedia, the Free Encyclopedia. <https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218>"
+so = [
+    "indo1319_36",
+    "indo1319_37",
 ]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+no = []
 
 [[cs.ch]]
 be = [
@@ -13723,7 +13814,11 @@ fr = "West Germanic"
 to = "Old Low German"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Old Saxon phonology”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s24"]
+so = [
+    "indo1319_38",
+    "indo1319_39",
+    "indo1319_37",
+]
 no = []
 
 [[cs.ch]]
@@ -13942,7 +14037,7 @@ fr = "Common Germanic"
 to = "Proto-Norse"
 or = "Pogostick Man"
 os = " from Theiling, Henrik, http:"
-so = ["s25"]
+so = ["indo1319_40"]
 no = []
 
 [[cs.ch]]
@@ -14197,7 +14292,7 @@ fr = "Proto-Norse"
 to = "Old Norse"
 or = "Pogostick Man"
 os = " from Theiling, Henrik, http:"
-so = ["25"]
+so = ["indo1319_40"]
 no = []
 
 [[cs.ch]]
@@ -16325,7 +16420,7 @@ fr = "Old Norse"
 to = "Early Icelandic"
 or = "Pogostick Man"
 os = " from Theiling, Henrik, http:"
-so = ["25"]
+so = ["indo1319_40"]
 no = []
 
 [[cs.ch]]
@@ -17015,7 +17110,7 @@ fr = "Old Norse"
 to = "Orkney Norn"
 or = "Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_41"]
 no = []
 
 [[cs.ch]]
@@ -17860,7 +17955,7 @@ fr = "Old Norse"
 to = "Shetland Norn"
 or = "Pogostick Man and Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_42"]
 no = []
 
 [[cs.ch]]
@@ -18634,7 +18729,7 @@ fr = "Common Germanic"
 to = "Vandalic"
 or = "Jaceb Kilpatrick & Pogostick Man"
 os = " from Wikipedia contributors (2015), “Vandalic language”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s26"]
+so = ["indo1319_43"]
 no = []
 
 [[cs.ch]]
@@ -18794,7 +18889,10 @@ fr = "Proto-Indo-European"
 to = "Aeolian Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -18996,7 +19094,10 @@ fr = "Proto-Indo-European"
 to = "Attic Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -19612,7 +19713,10 @@ fr = "Proto-Indo-European"
 to = "Boeotian Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -19846,7 +19950,10 @@ fr = "Proto-Indo-European"
 to = "Coan Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -20073,7 +20180,10 @@ fr = "Proto-Indo-European"
 to = "Cretan Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -20275,7 +20385,10 @@ fr = "Proto-Indo-European"
 to = "Doric Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -20553,7 +20666,10 @@ fr = "Proto-Indo-European"
 to = "Elian Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -20766,7 +20882,10 @@ fr = "Proto-Indo-European"
 to = "Ionic Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -21217,7 +21336,10 @@ fr = "Proto-Indo-European"
 to = "Laconian Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -21438,7 +21560,10 @@ fr = "Proto-Indo-European"
 to = "Mycenaean Greek"
 or = "Pogostick Man"
 os = " from Tucker, R. Whitney (1969), “Chronology of Greek Sound Changes”. The American Journal of Philology 90(1):36 – 47; and Wikipedia contributors (2013), “Ancient Greek dialects”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["27"]
+so = [
+    "indo1319_44",
+    "indo1319_45",
+]
 no = []
 
 [[cs.ch]]
@@ -21685,18 +21810,49 @@ ta = [
 ]
 ty = []
 
-[[cs]]
-fr = "→ ∅ / _o “(according"
-to = "Kortlandt)”"
-or = """
-h2 → x (or some sort of dorsal or laryngeal fricative?)\r
-\r
-o(ː) → a(ː)\r
-\r
-{uː"""
-os = "eu,au} → u"
-so = ["s29"]
+[[cs.ch]]
+be = ["h3"]
+af = ["∅"]
+en = "_o"
+no = ["“(according to Kortlandt)”"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["h2"]
+af = ["x"]
+en = ""
+no = ["(or some sort of dorsal or laryngeal fricative?)"]
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["o(ː)"]
+af = ["a(ː)"]
+en = ""
 no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["{uː,eu,au}"]
+af = ["u"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
 
 [[cs.ch]]
 be = [
@@ -21793,7 +21949,7 @@ fr = "Proto-Indo-European"
 to = "Proto-Indo-Iranian"
 or = "Tropylium"
 os = " from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants"
-so = ["s30"]
+so = ["indo1319_46"]
 no = []
 
 [[cs.ch]]
@@ -22035,7 +22191,7 @@ fr = "Proto-Indo-Iranian"
 to = "Proto-Indo-Aryan"
 or = "Tropylium"
 os = " from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants"
-so = ["30"]
+so = ["indo1319_47"]
 no = []
 
 [[cs.ch]]
@@ -22378,7 +22534,7 @@ fr = "Proto-Indo-Aryan"
 to = "Central Middle Indo-Aryan"
 or = "Pogostick Man"
 os = " from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401."
-so = ["s31"]
+so = ["indo1319_47"]
 no = []
 
 [[cs.ch]]
@@ -22607,7 +22763,7 @@ fr = "Proto-Indo-Aryan"
 to = "Eastern Middle Indo-Aryan"
 or = "Pogostick Man"
 os = " from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401."
-so = ["31"]
+so = ["indo1319_47"]
 no = []
 
 [[cs.ch]]
@@ -22870,7 +23026,7 @@ fr = "Proto-Indo-Aryan"
 to = "Northwestern Middle Indo-Aryan"
 or = "Pogostick Man"
 os = " from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401."
-so = ["31"]
+so = ["indo1319_47"]
 no = []
 
 [[cs.ch]]
@@ -23110,7 +23266,7 @@ fr = "Proto-Indo-Aryan"
 to = "Western Middle Indo-Aryan"
 or = "Pogostick Man"
 os = " from Shukla, Shaligram (1974), “Phonological change and dialect variation in Middle-Indo-Aryan”. In Anderson, J., and C. Jones (Eds.), Historical Linguistics II:391-401."
-so = ["31"]
+so = ["indo1319_47"]
 no = []
 
 [[cs.ch]]
@@ -23345,7 +23501,7 @@ fr = "Proto-Indo-Aryan"
 to = "Vedic Sanskrit"
 or = "Tropylium"
 os = " from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants"
-so = ["30"]
+so = ["indo1319_46"]
 no = []
 
 [[cs.ch]]
@@ -23483,7 +23639,7 @@ fr = "Vedic Sanskrit"
 to = "Classical Sanskrit"
 or = "Tropylium"
 os = " from Kobayashi, Masato (2004), Historical Phonology of Old Indo-Aryan Consonants"
-so = ["30"]
+so = ["indo1319_46"]
 no = []
 
 [[cs.ch]]
@@ -23543,15 +23699,31 @@ ty = []
 [[cs]]
 fr = "Proto-Indo-European"
 to = "Proto-Slavic"
-or = """
-Hwhatting\r
-\r
-NB: “Not in chronological order”\r
-\r
-bʱ dʱ {ɡʱ"""
-os = "ɡ́ʱ} ɡʷʱ → b d ɡ ɡʷ"
+or = "Hwhatting"
+os = ""
 so = ["s32"]
+no = ["NB: “Not in chronological order"]
+
+[[cs.ch]]
+be = [
+    "bʱ",
+    "dʱ",
+    "{ɡʱ,ɡ́ʱ}",
+    "ɡʷʱ",
+]
+af = [
+    "b",
+    "d",
+    "g",
+    "gʷ",
+]
+en = ""
 no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
 
 [[cs.ch]]
 be = [
@@ -25974,15 +26146,24 @@ ty = []
 [[cs]]
 fr = "Proto-Slavic"
 to = "Old Russian"
-or = """
-Hwhatting\r
-\r
-NB: “Not in chronological order”\r
-\r
-{t"""
-os = "d} → ∅ "
+or = "Hwhatting"
+os = ""
 so = ["s34"]
 no = []
+
+[[cs.ch]]
+be = [
+    "{t,d}",
+]
+af = [
+    "∅",
+]
+en = "[+vowel]_l[+vowel]"
+no = []
+ta = [
+    "unchecked",
+]
+ty = []
 
 [[cs.ch]]
 be = [
@@ -26427,8 +26608,8 @@ fr = "Proto-Indo-European"
 to = "Latin"
 or = "Mecislau"
 os = " from Ramat, Anna Giacrole and Paolo Ramat, The Indo-European Languages, and other sources"
-so = ["s35"]
-no = []
+so = ["indo1319_48"]
+no = ["and other sources"]
 
 [[cs.ch]]
 be = [
@@ -27663,19 +27844,13 @@ ta = [
 ]
 ty = []
 
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "“The following relate to the changes of vowels as found in the evolution to the written medieval languages of Iberia, Gallia and Italia (Anglo-Norman, Old Spanish, etc.). The Latin of Africa, Sardinia and the easternmost parts of the Empire exhibited different mergers.”",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+[[cs]]
+fr = "Classical Latin"
+to = "Vulgar Latin"
+or = ""
+os = ""
+so = [""]
+no = ["“The following relate to the changes of vowels as found in the evolution to the written medieval languages of Iberia, Gallia and Italia (Anglo-Norman, Old Spanish, etc.). The Latin of Africa, Sardinia and the easternmost parts of the Empire exhibited different mergers.” "]
 
 [[cs.ch]]
 be = ["{e,i}"]
@@ -27908,13 +28083,10 @@ ty = []
 [[cs]]
 fr = "Latin"
 to = "Catalan"
-or = """
-Mecislau\r
-\r
-NB: Due to problems when the board migrated to a different system"""
-os = " a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk."
+or = "Mecislau"
+os = ""
 so = ["s36"]
-no = []
+no = ["NB: Due to problems when the board migrated to a different system, a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk."]
 
 [[cs.ch]]
 be = ["h"]
@@ -29271,21 +29443,41 @@ ty = []
 [[cs]]
 fr = "Latin"
 to = "French"
-or = """
-pharazon\r
-\r
-NB: The vowels here marked 〈ó〉 and 〈ò〉 seem to have had some sort of open-close distinction similar to /o ɔ/.\r
-\r
-Vulgar Latin:\r
-\r
-h → ∅\r
-\r
-V0V0 → V0ː\r
-\r
-n → ∅ / _{f"""
-os = "v,s}"
-so = ["s37"]
+or = "pharazon"
+os = ""
+so = [""]
+no = ["NB: The vowels here marked 〈ó〉 and 〈ò〉 seem to have had some sort of open-close distinction similar to /o ɔ/."]
+
+[[cs.ch]]
+be = ["h"]
+af = ["∅"]
+en = ""
 no = []
+ta = [
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["[+vowel]0[+vowel]0"]
+af = ["[+vowel]0ː"]
+en = "_s"
+no = []
+ta = [
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["n"]
+af = ["∅"]
+en = "_{f,v,s}"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
 
 [[cs.ch]]
 be = ["r"]
@@ -30854,7 +31046,7 @@ fr = "Vulgar Latin"
 to = "Italian"
 or = "Dewrad"
 os = " from Boyd-Bownam, P. From Latin to Romance in Sound Charts"
-so = ["s38"]
+so = ["indo1319_49"]
 no = []
 
 [[cs.ch]]
@@ -31164,13 +31356,10 @@ ty = []
 [[cs]]
 fr = "Latin"
 to = "Portuguese"
-or = """
-Mecislau\r
-\r
-NB: Due to problems when the board migrated to a different system"""
-os = " a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk. Further, Mecislau gives some dual-output changes, which distinguish between vulgar and “semi-learned” outcomes."
-so = ["s39"]
-no = []
+or = "Mecislau"
+os = ""
+so = [""]
+no = ["NB: Due to problems when the board migrated to a different system, a lot of the special characters were replaced with 〈?〉. In many cases these have been replaced with 〈∅〉 because it was likely that this was what was meant, but conditional 〈?〉 has either been left alone or attempted to have been filled in from context. In some cases, conditional 〈?〉 may have been used to mark stress or syllable boundaries. Take such changes with a grain of salt and use at your own risk. Further, Mecislau gives some dual-output changes, which distinguish between vulgar and “semi-learned” outcomes."]
 
 [[cs.ch]]
 be = ["h"]
@@ -32609,28 +32798,14 @@ fr = "Vulgar Latin"
 to = "Old Provençal"
 or = "Pogostick Man"
 os = " from Grandgent, Charles Hall (1905), An outline of the phonology and morphology of old Provençal, Revised Edition"
-so = ["s40"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "NB: Use at your own peril. Trying to put a chronology to this is sort of like what I imagine undergoing a root canal would be like, as is figuring out the conditioning on a lot of these things because of the convention Grandgent uses. Nevertheless, I have triedâand probably largely failed. In any case the sections regarding the development of the vowels are placed first, because the source does that and other Romance changes posted here do similarly, and the grouping of the consonants is in large part informed by the surce. Also, I use % here to denote a syllable boundary because I didn’t want to have to open yet another window so I could throw a sigma into my document.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+so = ["indo1319_50"]
+no = ["NB: Use at your own peril. Trying to put a chronology to this is sort of like what I imagine undergoing a root canal would be like, as is figuring out the conditioning on a lot of these things because of the convention Grandgent uses. Nevertheless, I have triedâand probably largely failed. In any case the sections regarding the development of the vowels are placed first, because the source does that and other Romance changes posted here do similarly, and the grouping of the consonants is in large part informed by the surce. Also, I use % here to denote a syllable boundary because I didn’t want to have to open yet another window so I could throw a sigma into my document."]
 
 [[cs.ch]]
 be = ["[+vowel][+nasal]"]
 af = ["[+vowel]ː"]
-en = "_[+plosive] (except for the prefixes con-, in-)"
-no = [" I’m assuming this change happened in Vulgar Latin and then vowel length went to quality"]
+en = "_[+plosive]"
+no = ["  (except for the prefixes con-, in-) I’m assuming this change happened in Vulgar Latin and then vowel length went to quality"]
 ta = [
     "generated",
     "unchecked",
@@ -36053,7 +36228,7 @@ fr = "Vulgar Latin"
 to = "Rhaeto-Romance"
 or = "Pogostick Man"
 os = " from Wikipedia contributors (2014), “Rhaeto-Romance languages”. Wikipedia, the Free Encyclopedia. <https:"
-so = ["s41"]
+so = ["indo1319_51"]
 no = []
 
 [[cs.ch]]
@@ -36209,8 +36384,8 @@ fr = "Latin"
 to = "Romanian"
 or = "pharazon"
 os = " from Jensen, A Comparative Study of Romance, as well as other sources"
-so = ["s42"]
-no = []
+so = ["indo1319_52"]
+no = ["as well as other sources"]
 
 [[cs.ch]]
 be = ["h"]
@@ -37184,7 +37359,7 @@ fr = "Latin"
 to = "Sardinian"
 or = "qwed117"
 os = " “mainly” from http:"
-so = ["s43"]
+so = [""]
 no = []
 
 [[cs.ch]]
@@ -37616,7 +37791,10 @@ fr = "Vulgar Latin"
 to = "Spanish"
 or = "? and Serafı́n"
 os = " the former citing Penny, Ralph (2002), A History of the Spanish Language, 2nd Ed. Cambridge University Press; and Lipski, John (1994), Latin American Spanish. Longman Pub Group."
-so = ["s44"]
+so = [
+    "indo1319_53",
+    "indo1319_54",
+]
 no = []
 
 [[cs.ch]]
@@ -38907,22 +39085,8 @@ fr = "Proto-Italic"
 to = "Proto-Sibellian"
 or = "Pogostick Man"
 os = " from http:"
-so = ["2"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "NB: This is likely incomplete.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+so = [""]
+no = ["NB: This is likely incomplete."]
 
 [[cs.ch]]
 be = ["t"]
@@ -39000,22 +39164,8 @@ fr = "Proto-Sibellian"
 to = "Oscan"
 or = "Pogostick Man"
 os = " from http:"
-so = ["2"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "NB: This is likely incomplete.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+so = [""]
+no = ["NB: This is likely incomplete."]
 
 [[cs.ch]]
 be = ["z"]
@@ -39033,22 +39183,8 @@ fr = "Proto-Sibellian"
 to = "Umbrian"
 or = "Pogostick Man"
 os = " from http:"
-so = ["2"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "NB: This is likely incomplete.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+so = [""]
+no = ["NB: This is likely incomplete."]
 
 [[cs.ch]]
 be = ["d"]
@@ -39066,7 +39202,7 @@ fr = "Proto-Indo-European"
 to = "Proto-Tocharian"
 or = "Nortaneous"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_55"]
 no = []
 
 [[cs.ch]]
@@ -39631,7 +39767,7 @@ fr = "Proto-Tocharian"
 to = "Tocharian A"
 or = "Nortaneous"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_55"]
 no = []
 
 [[cs.ch]]
@@ -39808,7 +39944,7 @@ fr = "Proto-Tocharian"
 to = "Tocharian B"
 or = "Nortaneous"
 os = " from http:"
-so = ["2"]
+so = ["indo1319_55"]
 no = []
 
 [[cs.ch]]

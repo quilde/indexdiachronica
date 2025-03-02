@@ -1,0 +1,383 @@
+
+
+indo1319_0:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Albanian language"
+  url: http://en.wikipedia.org/w/index.php?title=Albanian_language&oldid=582390175
+
+indo1319_1:
+  type: web
+  url: http://www.unc.edu/~melchert/anathistphon.pdf
+  note: "link dead"
+
+indo1319_2:
+  type: misc
+  author: 
+    - Mecislau
+    - Pogostick Man
+  note: "original research"
+
+indo1319_3:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Armenian language"
+  url: http://en.wikipedia.org/w/index.php?title=Armenian_language&oldid=582063933
+
+indo1319_4:
+  type: misc
+  author: 
+    - Pogostick Man
+    - Alex Fink
+    - Tropylium
+  note: "original research"
+
+indo1319_5:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Proto-Indo-Iranian language"
+  url: https://en.wikipedia.org/w/index.php?title=Proto-Indo-Iranian_language&oldid=543625693
+
+indo1319_6:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Avestan Phonology"
+  url:  https://en.wikipedia.org/wiki/Avestan_phonology
+
+indo1319_7:
+  type: reference
+  author: Matasović
+  date: 2009
+  title: Etymological Dictionary of Proto-Celtic 
+  editor: Lubotsky
+
+indo1319_8:
+  type: misc
+  author: 
+    - Dewrad
+    - Pogostick Man
+  note: "original research"
+
+indo1319_9:
+  type: book
+  author: Willis (David)
+  title: "Old and Middle Welsh"
+
+indo1319_10:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Dacian language"
+  url: https://en.wikipedia.org/w/index.php?title=Dacian_language&oldid=582406161
+
+indo1319_11:
+  type: book
+  author: Wright, Joseph
+  date: 1910
+  title: "Grammar of the Gothic Language"
+  edition: two
+
+indo1319_12:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Gothic language"
+  url: http://en.wikipedia.org/w/index.php?title=Gothic_language&oldid=635946920
+
+indo1319_13:
+  type: misc
+  author: 
+    - Siride
+    - Pogostick Man
+  note: "original research"
+
+indo1319_14:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Anglo-Frisian languages"
+  url: https://en.wikipedia.org/w/index.php?title=Anglo-Frisian_languages&oldid=602286013
+
+indo1319_15:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Old Frisian"
+  url: https://en.wikipedia.org/w/index.php?title=Old_Frisian&oldid=559739599
+
+indo1319_16:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Anglo-Frisian languages"
+  url: https://en.wikipedia.org/w/index.php?title=Old_English_phonology&oldid=602537992
+
+indo1319_17:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2011
+  title: "Phonological history of English"
+  url: http://en.wikipedia.org/w/index.php?title=Phonological_history_of_English&oldid=453796112
+
+indo1319_18:
+    type: book
+    author: Moore, Samuel
+    date: 1919
+    title: "Historical Outlines of English Phonology and Midd le English Grammar for Courses in Chaucer, Middle English, and the History of the English language"
+
+indo1319_19:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2011
+  title: "Middle English phonology"
+  url: http://en.wikipedia.org/w/index.php?title=Middle_English_phonology&oldid=456896605
+
+indo1319_20:
+  type: web
+  author: "FireSpeakerWiki contributors"
+  date: 2013
+  title: "English sound changes"
+  url: http://wiki.firespeaker.org/English_sound_changes
+
+indo1319_21:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Phonological history of Scots"
+  url: https://en.wikipedia.org/w/index.php?title=Phonological_history_of_Scots&oldid=582962563
+
+indo1319_22:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Scottish Vowel Length Rule"
+  url: https://en.wikipedia.org/w/index.php?title=Scottish_vowel_length_rule&oldid=589349104
+
+indo1319_23:
+  type: misc
+  author: Marcas Brian MacStiofáin Ó Mhaitiú Ó Domhnaill
+  note: "personal research"
+
+indo1319_24:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2016
+  title: "Forth and Bargy dialect"
+  url: https://en.wikipedia.org/w/index.php?title=Forth_and_Bargy_dialect&oldid=703468711
+
+indo1319_25:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2011
+  title: "Old Frisian"
+  url: http://en.wikipedia.org/w/index.php?title=Old_Frisian&oldid=461768402
+
+indo1319_26:
+  author: Goblirsch, Kurt Gustav 
+  date: 2002
+  title: "The North Frisian lenition and Danish linguistic hegemony"
+  parent:
+    author:
+      - Carr, Gerald F.
+      - Irmengard Raugh
+    title: New Insights in Germanic Linguistics
+    date: 2002
+    volume: 3
+    page-range: 46 – 65 
+
+indo1319_27:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Old Dutch"
+  url: https://en.wikipedia.org/w/index.php?title=Old_Dutch&oldid=588537679
+
+indo1319_28:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Germanic umlaut"
+  url: https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218
+
+indo1319_29:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Middle Dutch"
+  url: https://en.wikipedia.org/w/index.php?title=Middle_Dutch&oldid=602536434
+
+indo1319_30:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Hieronymous Bosch"
+  url: https://en.wikipedia.org/w/index.php?title=Hieronymus_Bosch&oldid=601403790
+
+indo1319_31:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Dutch Phonology"
+  url: https://en.wikipedia.org/w/index.php?title=Dutch_phonology&oldid=602553868
+
+indo1319_32:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Hard and soft G in Dutch"
+  url: https://en.wikipedia.org/w/index.php?title=Hard_and_soft_G_in_Dutch&oldid=594028971
+
+indo1319_33:
+  type: article 
+  author: Behr, Hans-Joahim, Ingrid Bennewitz, et al.
+  date: 2004
+  title: "Die Bamberg (BA)-Braunschweiger (BS) Grammatik des Alt- und Mittelhochdeutschen im Internet."
+  url: https://www.tu-braunschweig.de/Medien-DB/germanistik/babs260304.pdf
+
+indo1319_34:
+  type: article
+  author: Kundert, Ursula
+  date: 2009
+  title: "Einführung in das Mittelhochdeutsche."
+  url: http://www.germsem.uni-kiel.de/mediaevistik/materialien/Kundert_Mhdreader_090330.pdf
+  
+indo1319_35:
+  type: article
+  author: Anonymous
+  date: 2009
+  title: "Mittelhochdeutsche Kurzgrammatik."
+  url: https://www.uni-frankfurt.de/47053276/Kurzgrammatik-HA_09_2009.pdf
+
+indo1319_36:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "High German consonant shift"
+  url: http://en.wikipedia.org/wiki/High_German_consonant_shift
+
+indo1319_37:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Germanic umlaut"
+  url: https://en.wikipedia.org/w/index.php?title=Germanic_umlaut&oldid=602634218
+
+indo1319_38:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Old Saxon phonology"
+  url: https://en.wikipedia.org/w/index.php?title=Old_Saxon_phonology&oldid=598609310
+
+indo1319_39:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Old Saxon"
+  url: https://en.wikipedia.org/w/index.php?title=Old_Saxon&oldid=598557577
+
+indo1319_40:
+  type: web
+  author: Theiling, Henrik
+  url: http://www.kunstsprachen.de/s17/rules.sch
+
+indo1319_41:
+  type: web
+  url: http://nornlanguage.x10.mx/index.php?ork_phon
+
+indo1319_42:
+  type: web
+  url: http://nornlanguage.x10.mx/index.php?shet_phon
+
+indo1319_43:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2015
+  title: "Vandalic language"
+  url: https://en.wikipedia.org/w/index.php?title=Vandalic_language&oldid=686359598
+
+indo1319_44:
+  author: Tucker, R. Whitney
+  date: 1969
+  title: "Chronology of Greek Sound Changes"
+  parent:
+    title: The American Journal of Philology 
+    volume: 90
+    serial-number: 1
+    page-range: 36 – 47
+
+indo1319_45:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2013
+  title: "Ancient Greek dialects"
+  url: https://en.wikipedia.org/w/index.php?title=Ancient_Greek_dialects&oldid=575325271
+
+indo1319_46:
+  type: article
+  author: Kobayashi, Masato
+  date: 2004
+  title: "Historical Phonology of Old Indo-Aryan Consonants"
+
+indo1319_47:
+  author: Shukla, Shaligram
+  date: 1974
+  title: "Phonological change and dialect variation in Middle-Indo-Aryan"
+  parent: 
+    editor:
+      - Anderson, J., 
+      - C. Jones
+    title: Historical Linguistics
+    volume: 2
+    page-range: 391-401
+
+indo1319_48:
+  type: article
+  author: 
+    - Ramat, Anna Giacrole
+    - Paolo Ramat, 
+  date: 2004
+  title: "The Indo-European Languages"
+
+indo1319_49:
+  type: article
+  author: Boyd-Bownam, P.
+  title: "From Latin to Romance in Sound Charts"
+  
+indo1319_50:
+  author: Grandgent, Charles Hall
+  date: 1905
+  title: "An outline of the phonology and morphology of old Provençal"
+  edition: Revised Edition
+  
+indo1319_51:
+  type: web
+  author: "Wikipedia contributors"
+  date: 2014
+  title: "Rhaeto-Romance languages"
+  url: https://en.wikipedia.org/w/index.php?title=Rhaeto-Romance_languages&oldid=607581179
+
+indo1319_52:
+  author: Jensen
+  title: "A Comparative Study of Romance"
+
+indo1319_53:
+  author: Penny, Ralph 
+  title: "A History of the Spanish Language"
+  edition: two
+  publisher: Cambridge University Press
+
+indo1319_54:
+  author: Lipski, John
+  date: 1994
+  title: Latin American Spanish
+  publisher: Longman Pub Group
+
+indo1319_55:
+  type: article
+  url:  https://azargoshnasp.net/history/Tocharian/positionoftocharian.pdf
+

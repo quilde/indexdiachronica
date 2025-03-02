@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "sent1261"
 
 [[cs]]
 fr = "Proto-Tabla-Sentani"
 to = "Nafri"
 or = "Pogostick Man"
 os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
-so = ["s0"]
+so = ["sent1261_0"]
 no = []
 
 [[cs.ch]]
@@ -172,7 +172,7 @@ fr = "Proto-Tabla-Sentani"
 to = "Central Sentani"
 or = "Pogostick Man"
 os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
-so = ["0"]
+so = ["sent1261_0"]
 no = []
 
 [[cs.ch]]
@@ -352,7 +352,7 @@ fr = "Proto-Tabla-Sentani"
 to = "Eastern Sentani"
 or = "Pogostick Man"
 os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
-so = ["0"]
+so = ["sent1261_0"]
 no = []
 
 [[cs.ch]]
@@ -530,7 +530,7 @@ fr = "Proto-Tabla-Sentani"
 to = "Western Sentani"
 or = "Pogostick Man"
 os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
-so = ["0"]
+so = ["sent1261_0"]
 no = []
 
 [[cs.ch]]
@@ -691,7 +691,7 @@ fr = "Proto-Tabla-Sentani"
 to = "Tabla"
 or = "Pogostick Man"
 os = " from Gregerson, Kenneth, and Margaret Hartzler (1987), “Towards a Reconstruction of Proto-Tabla-Sentani Phonology”. Oceanic Linguistics, Vol. 26, No. 1"
-so = ["0"]
+so = ["sent1261_0"]
 no = []
 
 [[cs.ch]]
