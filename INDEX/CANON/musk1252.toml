@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "musk1252"
 
 [[cs]]
 fr = "Proto-Muskogean"
 to = "Proto-Eastern Muskogean"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["s0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -46,7 +46,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Alabama"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -104,7 +104,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Creek"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -283,7 +283,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Hitchiti"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -335,7 +335,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Korasati"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -409,7 +409,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Mikasuri"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -467,7 +467,7 @@ fr = "Proto-Eastern Muskogean"
 to = "Seminole"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -503,7 +503,7 @@ fr = "Proto-Muskogean"
 to = "Proto-Western Muskogean"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -656,7 +656,7 @@ fr = "Proto-Western Muskogean"
 to = "Chickasaw"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
@@ -697,7 +697,7 @@ fr = "Proto-Western Muskogean"
 to = "Choctaw"
 or = "Pogostick Man"
 os = " from Booker, Karen (2005), “Muskogean Historical Phonology”. In Hardy, Heather Kay, and Janine Scancarelli, eds., Native Languages of the Southeastern United States 246 – 298"
-so = ["0"]
+so = ["musk1252_0"]
 no = []
 
 [[cs.ch]]
