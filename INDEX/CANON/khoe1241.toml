@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "khoe1241"
 
 [[cs]]
 fr = "Proto-Khoe"
 to = "Ç̬Ana"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["s0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -90,7 +90,7 @@ fr = "Proto-Khoe"
 to = "ÇAni"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -172,7 +172,7 @@ fr = "Proto-Khoe"
 to = "Buga"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -256,7 +256,7 @@ fr = "Proto-Khoe"
 to = "Kxoe"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -352,7 +352,7 @@ fr = "Proto-Khoe"
 to = "Nama"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -459,7 +459,7 @@ fr = "Proto-Khoe"
 to = "Naro"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -506,7 +506,7 @@ fr = "Proto-Khoe"
 to = "!Ora"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -575,7 +575,7 @@ fr = "Proto-Khoe"
 to = "Teti"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -694,7 +694,7 @@ fr = "Proto-Khoe"
 to = "TsÊixa"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -811,7 +811,7 @@ fr = "Proto-Khoe"
 to = "Ç̬Ui"
 or = "Pogostick Man"
 os = " from Rainer (1984), “Studying the linguistic and ethno-history of the Khoe-speaking (central Khoisan) peoples of Botswana, research in progress”. In Botswana Notes and Records 16:19 – 35."
-so = ["0"]
+so = ["khoe1241_0"]
 no = []
 
 [[cs.ch]]
@@ -867,537 +867,6 @@ ty = []
 [[cs.ch]]
 be = ["h"]
 af = ["ɦ"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Kx’a"
-to = "ÇHoan"
-or = "Pogostick Man"
-os = " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”"
-so = ["s1"]
-no = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "“Something about word-initial glottal stops”",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["∅"]
-af = ["a"]
-en = "o_m"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "_e (sporadic)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["∅"]
-en = "u_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["u"]
-af = ["∅"]
-en = "o_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["iaɔ"]
-af = ["iu"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["∅"]
-en = "a([+consonant])_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "[+vowel]n",
-    "ŋ",
-]
-af = [
-    "[+vowel +nas]",
-    "∅",
-]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "t",
-    "d",
-    "s",
-]
-af = [
-    "{c,tʃ}",
-    "ɟ",
-    "ʃ",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["!!"]
-af = ["ǁ"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ⁿ[+uvular]ʰ",
-    "[+uvular]͡ɢ",
-]
-af = [
-    "[+uvular]ʰ",
-    "[+uvular]",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Kx’a"
-to = "Northwestern !Xun"
-or = "Pogostick Man"
-os = " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”"
-so = ["1"]
-no = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "#_m"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ui"]
-af = ["o"]
-en = ""
-no = ["(?)"]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["i"]
-af = ["∅"]
-en = "[+vowel]_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "_e (sporadic)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["u"]
-af = ["∅"]
-en = "_o"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["∅"]
-en = "_u"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["a"]
-en = "_[+consonant]a"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "_([+consonant])o"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ʕ"]
-af = ["ʔ"]
-en = "_m"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["n"]
-af = ["∅"]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ts(ʼ)",
-    "s",
-]
-af = [
-    "tʃ(ʼ)",
-    "ʃ",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "!!",
-    "ʘ",
-]
-af = [
-    "ǁ",
-    "ǀ",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ǂ"]
-af = ["!!"]
-en = ""
-no = ["(dialectal)"]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Kx’a"
-to = "Southeastern !Xun"
-or = "Pogostick Man"
-os = " from Heine, Bernd and Henry Honken (2010), “The Kx’a family: A New Khoisan Genealogy”"
-so = ["1"]
-no = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "#_m"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ui"]
-af = ["o"]
-en = ""
-no = ["(?)"]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["i"]
-af = ["∅"]
-en = "[+vowel]_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ɛ",
-    "ɔ",
-]
-af = [
-    "i",
-    "u",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["u"]
-af = ["∅"]
-en = "_o"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["∅"]
-en = "_u"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["o"]
-af = ["a"]
-en = "_[+consonant]a"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["a"]
-af = ["∅"]
-en = "_([+consonant])o"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "“Some weird stuff with vowel pharyngealization/glottalization; some of the pharyngealized proto-vowels stayed that way, others glottalized”",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ʕm"]
-af = ["{b,ɓ}"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["n"]
-af = ["∅"]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ts(ʼ)",
-    "s",
-]
-af = [
-    "tʃ(ʼ)",
-    "ʃ",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "!!",
-    "ʘ",
-]
-af = [
-    "ǁ",
-    "ǀ",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ʔ"]
-af = ["∅"]
-en = "_n[+uvular]"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ⁿ[+uvular]ʰ",
-    "{ǀʰ͜q,ǀʰ͜ɢ}",
-    "[+uvular]͡q",
-]
-af = [
-    "ⁿ[+uvular](ʰ)",
-    "ⁿǀʰ",
-    "[+uvular +voiced]",
-]
 en = ""
 no = []
 ta = [
