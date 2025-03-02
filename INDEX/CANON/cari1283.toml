@@ -1,0 +1,141 @@
+fa = "cari1283"
+
+[[cs]]
+fr = "Pre-Bakairi"
+to = "Eastern Bakairi"
+or = "Pogostick Man"
+os = " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291"
+so = ["s0"]
+no = []
+
+[[cs.ch]]
+be = ["[+vowel][+nasal][+vowel]"]
+af = ["ṼṼ"]
+en = "! _([+consonant])#"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʔ"]
+af = ["∅"]
+en = "_[+consonant +fricative -voiced]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "[+vowel]_[+vowel], when neither vowel is stressed"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs]]
+fr = "Pre-Bakairi"
+to = "Western Bakairi"
+or = "Pogostick Man"
+os = " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291"
+so = ["0"]
+no = []
+
+[[cs.ch]]
+be = ["[+vowel -stress][+nasal][+vowel]"]
+af = ["ṼṼ"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["h"]
+en = "[+vowel]_a"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["z"]
+af = ["∅"]
+en = "[+vowel]_[+vowel]"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = [
+    "[+consonant +fricative",
+    "-voiced]",
+]
+af = ["∅"]
+en = "ʔ_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["ə"]
+en = "[+labial,bilabial]_"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɨ"]
+af = ["i"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ʒ"]
+af = ["∅"]
+en = ""
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []
+
+[[cs.ch]]
+be = ["ɾ"]
+af = ["∅"]
+en = "[+vowel]_[+vowel], where at least one of the vowels is nasalized"
+no = []
+ta = [
+    "generated",
+    "unchecked",
+]
+ty = []

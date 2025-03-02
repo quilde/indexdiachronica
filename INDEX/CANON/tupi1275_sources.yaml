@@ -1,0 +1,40 @@
+
+
+tupi1275_0:
+  type: article
+  author: 
+    - Moore, Denny
+    - Ana Vilacy Galucio 
+  date: 1994
+  title: "Reconstruction of Proto-Tupari Consonants and Vowels"
+  parent:
+    - title: "Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas"
+      date: 1993
+      volume: July 2 – 4
+      page-range: 46 – 65 
+    - title: Hokan-Penutian Workshop
+      volume: July 3
+      date: 1993
+      page-range: 119 – 137
+
+tupi1275_1:
+  author: Lemle, Miriam
+  date: 1971
+  title: "Internal Classification of the Tupi-Guarani Linguistic Family"
+  parent:
+    title: In Tupi Studies I
+    parent: 
+      title: Summer Institute of Linguistics Publications in Linguistics and Related Fields
+      volume: 29
+
+tupi1275_2:
+  author: 
+  - Anonby, Stan
+  - David J. Holbrook
+  date: 2013
+  title: "A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages"
+  parent:
+    title: Working Papers of the Linguistics Circle of the University of Victoria
+    volume: 23
+    page-range: 14 – 31
+

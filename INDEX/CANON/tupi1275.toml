@@ -1,364 +1,11 @@
-fa = "TODO"
-
-[[cs]]
-fr = "Pre-Bakairi"
-to = "Eastern Bakairi"
-or = "Pogostick Man"
-os = " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291"
-so = ["s0"]
-no = []
-
-[[cs.ch]]
-be = ["[+vowel][+nasal][+vowel]"]
-af = ["ṼṼ"]
-en = "! _([+consonant])#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ʔ"]
-af = ["∅"]
-en = "_[+consonant +fricative -voiced]"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ɾ"]
-af = ["∅"]
-en = "[+vowel]_[+vowel], when neither vowel is stressed"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Pre-Bakairi"
-to = "Western Bakairi"
-or = "Pogostick Man"
-os = " from Meira, Sérgio (2005), “Reconstructing Pre-Bakairi Segmental Phonology”. Anthropological Linguistics 47(3):261 – 291"
-so = ["0"]
-no = []
-
-[[cs.ch]]
-be = ["[+vowel -stress][+nasal][+vowel]"]
-af = ["ṼṼ"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["z"]
-af = ["h"]
-en = "[+vowel]_a"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["z"]
-af = ["∅"]
-en = "[+vowel]_[+vowel]"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "[+consonant +fricative",
-    "-voiced]",
-]
-af = ["∅"]
-en = "ʔ_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ɨ"]
-af = ["ə"]
-en = "[+labial,bilabial]_"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ɨ"]
-af = ["i"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ʒ"]
-af = ["∅"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ɾ"]
-af = ["∅"]
-en = "[+vowel]_[+vowel], where at least one of the vowels is nasalized"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Ofaié-Jê"
-to = "Proto-Jê"
-or = "Pogostick Man"
-os = " from Gudschinsky, Sarah C. (1971), “Ofai?-Xavante, a J? Language”"
-so = ["s1"]
-no = []
-
-[[cs.ch]]
-be = ["[+vowel]m"]
-af = ["Ṽ"]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["[+vowel][+plosive]"]
-af = ["r"]
-en = "[+consonant]_[+vowel]"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["c"]
-af = ["{c,z}"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ŋʷ",
-    "{kʷ,hʷ}",
-]
-af = [
-    "m",
-    "p",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ə"]
-af = ["∅"]
-en = "[+consonant]_[+consonant][+vowel] (not sure if this happened all the time or not)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs]]
-fr = "Proto-Ofaié-Jê"
-to = "Ofaié-Xavante"
-or = "Pogostick Man"
-os = " from Gudschinsky, Sarah C. (1971), “OfaiÃ©-Xavante, a JÃª Language”"
-so = ["s2"]
-no = []
-
-[[cs.ch]]
-be = ["m"]
-af = ["w"]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["m"]
-af = ["{w,p}"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ɲ[+vowel]"]
-af = ["jṼ"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["k(ʷ)"]
-af = ["ʔ"]
-en = "_#"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["kʷ"]
-af = ["k"]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ŋ"]
-af = ["n"]
-en = "[+vowel]_[+vowel]"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = ["ŋ"]
-af = ["j̃"]
-en = "#_ (not sure if this nasalizes the following vowel or not)"
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = [
-    "ŋʷ",
-    "hʷ",
-]
-af = [
-    "j̃",
-    "h",
-]
-en = ""
-no = []
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "As pertains to this section, the vowels given in the form 〈{V1/V2}〉 herein may have apparently been some sort of alternation in vowel grade or quality. Also, the names of these languages were researched on the Wikipedia; they are in many cases different from the names cited within the source papers proper.",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "*u *ũ may have actually been *o *õ, respectively. Additionally, the following ablaut pairs have been reconstructed:",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
-
-[[cs.ch]]
-be = []
-af = []
-en = ""
-no = [
-    "(From Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137)",
-    "",
-]
-ta = [
-    "generated",
-    "unchecked",
-]
-ty = []
+fa = "tupi1275"
 
 [[cs]]
 fr = "Proto-Tuparí"
 to = "Makuráp"
 or = "Pogostick Man"
 os = " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137."
-so = ["s3"]
+so = ["tupi1275_0"]
 no = []
 
 [[cs.ch]]
@@ -611,7 +258,7 @@ fr = "Proto-Tuparí"
 to = "Mekens"
 or = "Pogostick Man"
 os = " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137."
-so = ["3"]
+so = ["tupi1275_0"]
 no = []
 
 [[cs.ch]]
@@ -841,7 +488,7 @@ fr = "Proto-Tuparí"
 to = "Tuparí"
 or = "Pogostick Man"
 os = " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137."
-so = ["3"]
+so = ["tupi1275_0"]
 no = []
 
 [[cs.ch]]
@@ -1027,7 +674,7 @@ fr = "Proto-Tuparí"
 to = "Wayoró"
 or = "Pogostick Man"
 os = " from Moore, Denny and Ana Vilacy Galucio (1994), “Reconstruction of Proto-Tupari Consonants and Vowels”. Report 8: Survey of California and Other Indian Languages: Proceeds of the Meeting of the Society for the Study of the Indigenous Languages of the Americas, July 2 – 4, 1993, and the Hokan-Penutian Workshop, July 3, 1993, 119 – 137."
-so = ["3"]
+so = ["tupi1275_0"]
 no = []
 
 [[cs.ch]]
@@ -1226,7 +873,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Akwára"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["s4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -1382,7 +1029,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Cocama"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -1603,7 +1250,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Guajajara"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -1722,7 +1369,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Guaraní"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -1824,7 +1471,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Guarayo"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -1945,7 +1592,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Kamayurá"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -2054,7 +1701,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Parintintín"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -2164,7 +1811,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Sirionó"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -2389,7 +2036,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Classical Tupi"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
@@ -2430,7 +2077,7 @@ fr = "Proto-Monde"
 to = "Gavião"
 or = "Pogostick Man"
 os = " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31"
-so = ["s5"]
+so = ["tupi1275_2"]
 no = []
 
 [[cs.ch]]
@@ -2460,7 +2107,7 @@ fr = "Proto-Monde"
 to = "Proto-Cinta Larga-Suruí-Zoró"
 or = "Pogostick Man"
 os = " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31"
-so = ["5"]
+so = ["tupi1275_2"]
 no = []
 
 [[cs.ch]]
@@ -2512,7 +2159,7 @@ fr = "Proto-Cinta Larga-Suruí-Zoró"
 to = "Cinta Larga"
 or = "Pogostick Man"
 os = " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31"
-so = ["5"]
+so = ["tupi1275_2"]
 no = []
 
 [[cs.ch]]
@@ -2553,7 +2200,7 @@ fr = "Proto-Cinta Larga-Suruí-Zoró"
 to = "Suruí"
 or = "Pogostick Man"
 os = " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31"
-so = ["5"]
+so = ["tupi1275_2"]
 no = []
 
 [[cs.ch]]
@@ -2594,7 +2241,7 @@ fr = "Proto-Cinta Larga-Suruí-Zoró"
 to = "Zoró"
 or = "Pogostick Man"
 os = " from Anonby, Stan, and David J. Holbrook (2013), “A report and comparative-historical look at the Cinta Larga, Suruí, Gavião and Zoró languages”. Working Papers of the Linguistics Circle of the University of Victoria 23:14 – 31"
-so = ["5"]
+so = ["tupi1275_2"]
 no = []
 
 [[cs.ch]]
@@ -2653,7 +2300,7 @@ fr = "Proto-Tupí-Guaraní"
 to = "Urubu"
 or = "Pogostick Man"
 os = " from Lemle, Miriam (1971), âInternal Classification of the Tupi-Guarani Linguistic Family”. In Tupi Studies I, from Summer Institute of Linguistics Publications in Linguistics and Related Fields Publication Number 29."
-so = ["4"]
+so = ["tupi1275_1"]
 no = []
 
 [[cs.ch]]
