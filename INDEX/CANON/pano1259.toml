@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "pano1259"
 
 [[cs]]
 fr = "Proto-Tacanan"
 to = "Cavineña"
 or = "Pogostick Man"
 os = " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship"
-so = ["s0"]
+so = ["pano1259_0"]
 no = []
 
 [[cs.ch]]
@@ -57,7 +57,7 @@ fr = "Proto-Tacanan"
 to = "Chama"
 or = "Pogostick Man"
 os = " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship"
-so = ["0"]
+so = ["pano1259_0"]
 no = []
 
 [[cs.ch]]
@@ -171,7 +171,7 @@ fr = "Proto-Tacanan"
 to = "Reyesano"
 or = "Pogostick Man"
 os = " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship"
-so = ["0"]
+so = ["pano1259_0"]
 no = []
 
 [[cs.ch]]
@@ -285,7 +285,7 @@ fr = "Proto-Tacanan"
 to = "Tacana"
 or = "Pogostick Man"
 os = " from Key, Mary Ritchie (1968), Comparative Tacanan Phonology with Cavineña Phonology and Notes on Pano-Tacanan Relationship"
-so = ["0"]
+so = ["pano1259_0"]
 no = []
 
 [[cs.ch]]
