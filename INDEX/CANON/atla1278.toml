@@ -1,11 +1,11 @@
-fa = "TODO"
+fa = "atla1278"
 
 [[cs]]
 fr = "position; *ŋ,"
 to = "C2 position."
 or = "Hedinger also considers the Manenguba languages (and possibly the Mbo languages in general) as sharing a common ancestor with Proto-Bantu instead of being descended from it"
 os = " although the author seems to use the abbreviation “PM” to refer to Proto-Manenguba."
-so = ["s0"]
+so = ["atla1278_0"]
 no = []
 
 [[cs.ch]]
@@ -27,7 +27,7 @@ fr = "Proto-Potou-Akanic-Bantu"
 to = "Proto-Bantu"
 or = "Pogostick Man"
 os = " from Stewart, John M. (2002), “The potential of proto-Potou-Akanic-Bantu as a pilot Proto-Niger-Congo, and the reconstructions updated”. JALL 23:197 – 224"
-so = ["s1"]
+so = ["atla1278_0"]
 no = []
 ch = []
 
@@ -66,7 +66,7 @@ O[+nas -voiced] → O[-nas] / #(C)VC_\r
 \r
 Pogostick Man"""
 os = " from Hedinger, Robert (1987), The Manenguba Languages (Bantu A.15, Mbo Cluster) of Cameroon"
-so = ["s2"]
+so = ["atla1278_1"]
 no = []
 
 [[cs.ch]]

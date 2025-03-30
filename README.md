@@ -184,6 +184,16 @@ help coding:
 discuss philosophical stuff regarding the index: 
 -->
 
+## Citing
+
+```yaml
+idd:
+    type: repository
+    title: Index Diachronica Database Project
+    author: IDDP contributors
+    edition: 1d60698271bcaaca1eddf988cecae53cd5eaf7ec
+```
+
 ## Logo and Mascot
 
 ![barn owl](logo/Barn_Owl,_Lancashire.jpg)

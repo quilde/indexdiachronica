@@ -12,7 +12,7 @@ algi1248_1:
   date: 1974
   parent: 
     title: International Journal of American Linguistics
-  issue: 40
+    issue: 40
   page-range: 102 – 116
 
 
@@ -23,7 +23,7 @@ algi1248_2:
   date: 1989
   parent: 
     title: International Journal of American Linguistics
-  issue: 55
+    issue: 55
   page-range: 43 – 82
 
 algi1248_3:
@@ -51,7 +51,7 @@ algi1248_6:
   title: "The Historical Phonology of Munsee"
   parent: 
     title: International Journal of American Linguistics
-  issue: 48
+    issue: 48
   page-range: 16 – 48
   
 algi1248_7:
